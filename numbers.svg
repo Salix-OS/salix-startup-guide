@@ -2,239 +2,146 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.47 r22583"
+   version="1.2"
    width="512"
    height="512"
-   sodipodi:docname="salix-live-2.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/mnt/Salix64/home/main/SalixDoc/New/salix-live-4.png"
-   inkscape:export-xdpi="17.578125"
-   inkscape:export-ydpi="17.578125">
-  <metadata
-     id="metadata8">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   id="svg2">
   <defs
      id="defs6">
     <linearGradient
        id="linearGradient3757">
       <stop
          id="stop3759"
-         offset="0"
-         style="stop-color:#0e8116;stop-opacity:1;" />
+         style="stop-color:#0e8116;stop-opacity:1"
+         offset="0" />
       <stop
          id="stop3761"
-         offset="1"
-         style="stop-color:#fff111;stop-opacity:0.96575344;" />
+         style="stop-color:#fff111;stop-opacity:0.96575344"
+         offset="1" />
     </linearGradient>
     <linearGradient
        id="linearGradient3745">
       <stop
-         style="stop-color:#ffc7cf;stop-opacity:1;"
-         offset="0"
-         id="stop3747" />
+         id="stop3747"
+         style="stop-color:#ffc7cf;stop-opacity:1"
+         offset="0" />
       <stop
-         style="stop-color:#ffc7cf;stop-opacity:0;"
-         offset="1"
-         id="stop3749" />
+         id="stop3749"
+         style="stop-color:#ffc7cf;stop-opacity:0"
+         offset="1" />
     </linearGradient>
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       id="perspective10" />
-    <inkscape:perspective
-       id="perspective3755"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
     <linearGradient
-       id="aigrd1"
-       gradientUnits="userSpaceOnUse"
        x1="14.9966"
        y1="11.1885"
        x2="32.511002"
-       y2="34.307499">
+       y2="34.307499"
+       id="aigrd1"
+       gradientUnits="userSpaceOnUse">
       <stop
-         offset="0"
-         style="stop-color:#EBEBEB"
-         id="stop3034" />
+         id="stop3034"
+         style="stop-color:#ebebeb;stop-opacity:1"
+         offset="0" />
       <stop
-         offset="0.5"
-         style="stop-color:#FFFFFF"
-         id="stop3036" />
+         id="stop3036"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.5" />
       <stop
-         offset="1"
-         style="stop-color:#EBEBEB"
-         id="stop3038" />
+         id="stop3038"
+         style="stop-color:#ebebeb;stop-opacity:1"
+         offset="1" />
     </linearGradient>
     <linearGradient
-       id="aigrd2"
-       gradientUnits="userSpaceOnUse"
        x1="12.2744"
        y1="32.4165"
        x2="35.391201"
-       y2="14.2033">
+       y2="14.2033"
+       id="aigrd2"
+       gradientUnits="userSpaceOnUse">
       <stop
-         offset="0"
-         style="stop-color:#FBFBFB"
-         id="stop3043" />
+         id="stop3043"
+         style="stop-color:#fbfbfb;stop-opacity:1"
+         offset="0" />
       <stop
-         offset="0.5"
-         style="stop-color:#B6B6B6"
-         id="stop3045" />
+         id="stop3045"
+         style="stop-color:#b6b6b6;stop-opacity:1"
+         offset="0.5" />
       <stop
-         offset="1"
-         style="stop-color:#E4E4E4"
-         id="stop3047" />
+         id="stop3047"
+         style="stop-color:#e4e4e4;stop-opacity:1"
+         offset="1" />
     </linearGradient>
     <linearGradient
-       y2="18.366575"
-       x2="17.742729"
-       y1="31.494707"
        x1="28.702885"
-       gradientUnits="userSpaceOnUse"
+       y1="31.494707"
+       x2="17.742729"
+       y2="18.366575"
        id="linearGradient2920"
        xlink:href="#linearGradient6028"
-       inkscape:collect="always" />
+       gradientUnits="userSpaceOnUse" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient6028">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop6030" />
+         id="stop6030"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop6032" />
+         id="stop6032"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
     </linearGradient>
-    <inkscape:perspective
-       id="perspective3821"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
     <filter
        color-interpolation-filters="sRGB"
-       inkscape:collect="always"
        id="filter3845">
       <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.44945123"
-         id="feGaussianBlur3847" />
+         id="feGaussianBlur3847"
+         stdDeviation="0.44945123" />
     </filter>
-    <inkscape:perspective
-       id="perspective3852"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective3904"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
   </defs>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="671"
-     id="namedview4"
-     showgrid="false"
-     inkscape:zoom="0.58807451"
-     inkscape:cx="391.4271"
-     inkscape:cy="207.44752"
-     inkscape:window-x="0"
-     inkscape:window-y="29"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
-     width="512px" />
   <flowRoot
-     xml:space="preserve"
+     transform="matrix(1.0601,0,0,1.2462812,-409.31972,-43.067856)"
      id="flowRoot3017"
-     style="font-size:503.48751831px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#e60839;fill-opacity:1;stroke:none;filter:url(#filter3845);font-family:Linux Biolinum;-inkscape-font-specification:Linux Biolinum Bold"
-     transform="matrix(1.0601,0,0,1.2462812,-409.31972,-43.067856)"><flowRegion
+     xml:space="preserve"
+     style="font-size:503.48751831px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#e60839;fill-opacity:1;stroke:none;filter:url(#filter3845);font-family:Linux Biolinum;-inkscape-font-specification:Linux Biolinum Bold"><flowRegion
        id="flowRegion3019"><rect
-         id="rect3021"
          width="1064.2858"
          height="1062.8572"
          x="0"
          y="0.13492201"
+         id="rect3021"
          style="font-size:503.48751831px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#e60839;fill-opacity:1;stroke:none;font-family:Linux Biolinum;-inkscape-font-specification:Linux Biolinum Bold" /></flowRegion><flowPara
        id="flowPara3023">1</flowPara></flowRoot>  <path
-     sodipodi:type="arc"
-     style="fill:#f29118;fill-opacity:1;stroke:none"
+     d="m 642.7757,239.07539 a 269.52368,254.21948 0 1 1 -539.04737,0 269.52368,254.21948 0 1 1 539.04737,0 z"
+     transform="matrix(0.92756228,0,0,0.98340221,-90.486141,22.187606)"
      id="path3886"
-     sodipodi:cx="373.25201"
-     sodipodi:cy="239.07539"
-     sodipodi:rx="269.52368"
-     sodipodi:ry="254.21948"
-     d="m 642.7757,239.07539 a 269.52368,254.21948 0 1 1 -539.04737,0 269.52368,254.21948 0 1 1 539.04737,0 z"
-     transform="matrix(0.92756228,0,0,0.98340221,-90.486141,22.187606)" />
+     style="fill:#f29118;fill-opacity:1;stroke:none" />
   <path
-     sodipodi:type="arc"
-     style="fill:#ffffff;fill-opacity:1;stroke:none"
-     id="path3886-8"
-     sodipodi:cx="373.25201"
-     sodipodi:cy="239.07539"
-     sodipodi:rx="269.52368"
-     sodipodi:ry="254.21948"
      d="m 642.7757,239.07539 a 269.52368,254.21948 0 1 1 -539.04737,0 269.52368,254.21948 0 1 1 539.04737,0 z"
-     transform="matrix(0.68639609,0,0,0.72771763,0.81608881,80.3286)" />
+     transform="matrix(0.68639609,0,0,0.72771763,0.81608881,80.3286)"
+     id="path3886-8"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
   <flowRoot
-     xml:space="preserve"
+     transform="matrix(6.7672556,0,0,4.9848356,-4625.1704,-678.71263)"
      id="flowRoot3920"
-     style="font-size:68.8697143px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#5f14aa;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Semi-Condensed"
-     transform="matrix(6.7672556,0,0,4.9848356,-4625.1704,-678.71263)"><flowRegion
+     xml:space="preserve"
+     style="font-size:68.86971283px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#5f14aa;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Semi-Condensed"><flowRegion
        id="flowRegion3922"><rect
-         id="rect3924"
          width="326.48923"
          height="132.63626"
          x="700.59149"
          y="156.60286"
-         style="font-size:68.8697143px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#5f14aa;fill-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Semi-Condensed" /></flowRegion><flowPara
+         id="rect3924"
+         style="font-size:68.86971283px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#5f14aa;fill-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold Semi-Condensed" /></flowRegion><flowPara
        id="flowPara2853">4</flowPara></flowRoot>  <flowRoot
-     xml:space="preserve"
      id="flowRoot2850"
-     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:40px"><flowRegion
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><flowRegion
        id="flowRegion2852"><rect
-         id="rect2854"
          width="146.23997"
          height="695.49011"
          x="1210.731"
-         y="-710.63422" /></flowRegion><flowPara
+         y="-710.63422"
+         id="rect2854" /></flowRegion><flowPara
        id="flowPara2856" /></flowRoot></svg>
