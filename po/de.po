@@ -89,12 +89,12 @@ msgstr "Ein Modul erstellen"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Customizing Salix Live"
-msgstr ""
+msgstr "Salix Live anpassen"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Customizing a module"
-msgstr ""
+msgstr "Ein Modul anpassen"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -119,92 +119,92 @@ msgstr "Full Modus"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Galculator"
-msgstr ""
+msgstr "Galculator"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Geany"
-msgstr ""
+msgstr "Geany"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Gimp"
-msgstr ""
+msgstr "Gimp"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Gparted"
-msgstr ""
+msgstr "Gparted"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Gslapt"
-msgstr ""
+msgstr "Gslapt"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "How to boot from Salix Live CD/DVD?"
-msgstr ""
+msgstr "Wie man von einer Salix Live CD/DVD bootet?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "How to boot from a SalixLive USB key?"
-msgstr ""
+msgstr "Wie man von einem Salix Live USB-Stick bootet?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "How to install SalixLive on an USB key?"
-msgstr ""
+msgstr "Wie man Salix Live auf einem USB-Stick installiert?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Installing Salix OS"
-msgstr ""
+msgstr "Salix OS installieren"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Introduct"
-msgstr ""
+msgstr "Einleitung"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Iso Master"
-msgstr ""
+msgstr "Iso Master"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Keyboard Layout"
-msgstr ""
+msgstr "Tastaturlayout"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Lilo Setup"
-msgstr ""
+msgstr "Lilo Setup"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "LiloSetup"
-msgstr ""
+msgstr "LiloSetup"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Linux Live Scripts"
-msgstr ""
+msgstr "Linux Live Skripte"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Linux Live Scripts:"
-msgstr ""
+msgstr "Linux Live Skripte:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Live Tools"
-msgstr ""
+msgstr "Live Tools"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Live USB Flash Drive"
-msgstr ""
+msgstr "Live USB Flash-Laufwerk"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -499,102 +499,103 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "/usr/bin/tgz2lzm"
-msgstr ""
+msgstr "/usr/bin/tgz2lzm"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "/usr/bin/txz2lzm"
-msgstr ""
+msgstr "/usr/bin/txz2lzm"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a work directory"
-msgstr ""
+msgstr "1- Ein Arbeitsverzeichnis anlegen"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a working directory"
-msgstr ""
+msgstr "1- Ein Arbeitsverzeichnis anlegen"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a working directory."
-msgstr ""
+msgstr "1- Ein Arbeitsverzeichnis anlegen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Open the .iso file using an archiver software (file-roller, xarchiver, 7-zip, iso-master ...)."
-msgstr ""
+msgstr "1- Die .iso Datei mit einer Archivsoftware öffnen (file-roller, xarchiver, 7-zip, iso-master, ...)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Copy Salix Live's CD content to your working directory."
-msgstr ""
+msgstr "2- Den Inhalt der Salix Live CD in das Arbeitsverzeichnis kopieren."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Explode the module you want to customize under the working directory."
-msgstr ""
+msgstr "2- Das Modul, das Sie anpassen wollen, im Arbeitsverzeichnis entpacken."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Extract all files and folders (boot, packages and salixlive) to your USB root directory."
-msgstr ""
+msgstr "2- Alle Dateien und Ordner(boot, packages und salixlive) auf Ihr USB-Wurzelverzeichnis extrahieren."
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "paragraph"
 msgid "2- Install all software packages using this directory as root:"
-msgstr ""
+msgstr "2- Installieren Sie alle Softwarepakete als root, indem Sie dieses Verzeichnis benutzen:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Add or remove modules or files as needed."
-msgstr ""
+msgstr "3- Module nach Bedarf hinzufügen oder entfernen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Go to the \"boot\" directory on the USB key."
-msgstr ""
+msgstr "3- Gehen Sie in das \"boot\"-Verzeichnis auf dem USB-Stick."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Remove all unneeded files:"
-msgstr ""
+msgstr "3- Entfernen Sie alle unnötigen Dateien:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Remove the packages from the working directory:"
-msgstr ""
+msgstr "3- Entfernen Sie die Pakete aus dem Arbeitsverzeichnis:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Install new packages to the working directory"
-msgstr ""
+msgstr "4- Installieren Sie die neuen Pakete in das Arbeitsverzeichnis"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Make any modifications you want:"
-msgstr ""
+msgstr "4- Machen Sie alle Veränderungen, die Sie wollen:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Run \"bootinst.sh\" if you are on Linux or Unix, \"bootinst.bat\" if you're on Windows."
-msgstr ""
+msgstr "4- Führen Sie \"bootinst.sh\" aus, falls Sie in Linux/Unix sind oder \"bootinst.bat\" falls Sie in Windows sind."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4. Rebuild the CD image."
-msgstr ""
+msgstr "4- Bauen Sie das CD-Abbild neu."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "5- Build the module:"
-msgstr ""
+msgstr "5- Bauen Sie das Modul:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
