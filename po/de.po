@@ -209,7 +209,7 @@ msgstr "Live USB Flash-Laufwerk"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Main Index"
-msgstr ""
+msgstr "Inhaltsverzeichnis"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -409,12 +409,12 @@ msgstr "Salix Live"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "ePDFView"
-msgstr ""
+msgstr "ePDFView"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "gFTP"
-msgstr ""
+msgstr "gFTP"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -424,27 +424,27 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "oot Parameters"
-msgstr ""
+msgstr "Bootparamter"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "procedure"
-msgstr ""
+msgstr "Prozedur"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "sunder"
-msgstr ""
+msgstr "Asunder"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(Starts bash several times during boot."
-msgstr ""
+msgstr "(Startet bash mehrmals während des Bootens."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(TIP:"
-msgstr ""
+msgstr "(TIP:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
