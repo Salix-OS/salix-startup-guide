@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -32,10 +32,9 @@ msgstr "Administrator (root) Passwort"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Advanced Boot Options"
-msgstr "Fortgeschrittene Boot-Optionen"
+msgstr "Fortgeschrittene Bootoptionen"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Asunder"
 msgstr "Asunder"
@@ -51,7 +50,6 @@ msgid "Boot"
 msgstr "Booten"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Boot Parameters"
 msgstr "Bootparamter"
@@ -147,13 +145,11 @@ msgid "How to boot from Salix Live CD/DVD?"
 msgstr "Wie man von einer Salix Live CD/DVD bootet?"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "How to boot from a Salix Live USB key?"
 msgstr "Wie man von einem Salix Live USB-Stick bootet?"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "How to install Salix Live on a USB key?"
 msgstr "Wie man Salix Live auf einem USB-Stick installiert?"
@@ -164,7 +160,6 @@ msgid "Installing Salix OS"
 msgstr "Salix OS installieren"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Introduction"
 msgstr "Einleitung"
@@ -275,7 +270,6 @@ msgid "Salix Codec Installer"
 msgstr "Salix Codec Installer"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Salix Live"
 msgstr "Salix Live"
@@ -338,7 +332,7 @@ msgstr "System-Sprache"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "The Persistence Wizard"
-msgstr ""
+msgstr "Beständigkeits-Assistent"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -361,7 +355,6 @@ msgid "Users Profile"
 msgstr "Benutzerprofile"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "What are the Live Tools?"
 msgstr "Was sind die Live Tools?"
@@ -387,7 +380,6 @@ msgid "Wicd"
 msgstr "Wicd"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "XSane"
 msgstr "Xsane"
@@ -455,22 +447,22 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "/usr/bin/activate"
-msgstr ""
+msgstr "/usr/bin/activate"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "/usr/bin/deactivate"
-msgstr ""
+msgstr "/usr/bin/deactivate"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "/usr/bin/dir2lzm"
-msgstr ""
+msgstr "/usr/bin/dir2lzm"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "/usr/bin/lzm2dir"
-msgstr ""
+msgstr "/usr/bin/lzm2dir"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -483,7 +475,6 @@ msgid "/usr/bin/txz2lzm"
 msgstr "/usr/bin/txz2lzm"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "1- Create a work directory:"
 msgstr "1- Ein Arbeitsverzeichnis anlegen"
@@ -494,19 +485,16 @@ msgid "1- Create a working directory"
 msgstr "1- Ein Arbeitsverzeichnis anlegen"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "1- Create a working directory:"
 msgstr "1- Ein Arbeitsverzeichnis anlegen"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "1- Open the .iso file using a software archiver (file-roller, xarchiver, 7-zip, iso-master, …)."
 msgstr "1- Die .iso Datei mit einer Archivsoftware öffnen (file-roller, xarchiver, 7-zip, iso-master, ...)."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "2- Copy Salix Live's CD content to your working directory:"
 msgstr "2- Den Inhalt der Salix Live CD in das Arbeitsverzeichnis kopieren."
@@ -517,13 +505,11 @@ msgid "2- Extract all files and folders (boot, packages and salixlive) to your U
 msgstr "2- Alle Dateien und Ordner(boot, packages und salixlive) auf Ihr USB-Wurzelverzeichnis extrahieren."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "2- Install all software packages using this directory as root:"
 msgstr "2- Installieren Sie alle Softwarepakete als root, indem Sie dieses Verzeichnis benutzen:"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "2- Open up the module you want to customize under the working directory:"
 msgstr "2- Das Modul, das Sie anpassen wollen, im Arbeitsverzeichnis entpacken."
@@ -534,7 +520,6 @@ msgid "3"
 msgstr "3"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "3- Add or remove modules or files as needed:"
 msgstr "3- Module nach Bedarf hinzufügen oder entfernen."
@@ -555,7 +540,6 @@ msgid "3- Remove the packages from the working directory:"
 msgstr "3- Entfernen Sie die Pakete aus dem Arbeitsverzeichnis:"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "4- Install new packages to the working directory:"
 msgstr "4- Installieren Sie die neuen Pakete in das Arbeitsverzeichnis"
@@ -571,7 +555,6 @@ msgid "4- Run \"bootinst.sh\" if you are on Linux or Unix, \"bootinst.bat\" if y
 msgstr "4- Führen Sie \"bootinst.sh\" aus, falls Sie in Linux/Unix sind oder \"bootinst.bat\" falls Sie in Windows sind."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "4. Rebuild the CD image:"
 msgstr "4- Bauen Sie das CD-Abbild neu."
@@ -582,7 +565,6 @@ msgid "5- Build the module:"
 msgstr "5- Bauen Sie das Modul:"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "5- Rebuild the module:"
 msgstr "5- Bauen Sie das Modul:"
@@ -590,7 +572,7 @@ msgstr "5- Bauen Sie das Modul:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "6- Replace the original module with your new module, rebuild the ISO image and reburn the CD."
-msgstr ""
+msgstr "6- Ersetzen Sie das Originalmodul mit Ihrem neuen Modul, bauen Sie das IDO-Abbild neu und brennen Sie eine neue CD."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -690,7 +672,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='48'>gFTP</g>."
-msgstr ""
+msgstr "<g id='48'>gFTP</g>."
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
@@ -841,7 +823,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Asunder is an Audio CD ripper and encoder for Linux."
-msgstr ""
+msgstr "Asunder ist ein Audio-CD Ripper und Encoder für Linux."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -881,7 +863,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Brasero is an application to burn CD/DVD."
-msgstr ""
+msgstr "Brasero ist eine Anwendung zum CD/DVD brennen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -901,7 +883,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Claws Mail is an open source email and news client."
-msgstr ""
+msgstr "Claws Mail ist ein Open Source E-Mail und News Client."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -921,7 +903,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Copyright © SalixOS.org 2010"
-msgstr ""
+msgstr "Copyright © SalixOS.org 2010"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -956,7 +938,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "File Roller is an archive manager."
-msgstr ""
+msgstr "File Roller ist ein Archivmanager."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -981,7 +963,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Galculator is a calculator featuring two user modes:"
-msgstr ""
+msgstr "Galculator ist ein Taschenrechner mit 2 Benutzermodi:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -996,7 +978,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Gslapt is the GUI version of <g id='89'>Slapt-get</g>."
-msgstr ""
+msgstr "Gslapt ist die GUI Version von <g id='89'>Slapt-get</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1172,7 +1154,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "LiloSetup is also very easy to use."
-msgstr ""
+msgstr "LiloSetup ist sehr einfach zu benutzen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1187,7 +1169,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Live USB Key"
-msgstr ""
+msgstr "Live USB-Stick"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1212,7 +1194,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Mousepad is a simple text editor with printing support."
-msgstr ""
+msgstr "Mousepad ist ein einfacher Texteditor mit Druckunterstützung."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1357,7 +1339,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live 13.0"
-msgstr ""
+msgstr "Salix Live 13.0"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1385,15 +1367,14 @@ msgid "Salix Live CD holds a /salixlive/rootcopy/ directory."
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix Live Installer is very easy to use."
-msgstr "Salix Live Installer"
+msgstr "Der Salix Live Installer ist sehr einfach zu benutzen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live root password is:"
-msgstr ""
+msgstr "Das Salix Live root Passwort ist:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1433,7 +1414,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Software."
-msgstr ""
+msgstr "Software."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1453,7 +1434,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Startup Guide"
-msgstr ""
+msgstr "Schnellanleitung"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1473,7 +1454,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "System Management"
-msgstr ""
+msgstr "Systemverwaltung"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1653,7 +1634,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "We recommend you format your partions with the ext4 file system."
-msgstr ""
+msgstr "Wir empfehlen, dass Sie Ihre Partitionen mit dem ext4 Dateisystem formatieren."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1809,7 +1790,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "etc."
-msgstr ""
+msgstr "etc."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1869,32 +1850,32 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg --root=/mnt/hdxx/directory1 packagea-x.x.x.txz"
-msgstr ""
+msgstr "installpkg --root=/mnt/hdxx/directory1 packagea-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directory1 packageb-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directory1 packageb-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directory1 packagec-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directory1 packagec-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directoryx package1-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directoryx package1-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directoryx package2-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directoryx package2-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directoryx package3-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directoryx package3-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1914,22 +1895,22 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "lzm2dir /mnt/hdc/salixlive/base/modulex.lzm /mnt/hdxx/directoryx"
-msgstr ""
+msgstr "lzm2dir /mnt/hdc/salixlive/base/modulex.lzm /mnt/hdxx/directoryx"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mkdir -p /mnt/hdxx/directory1"
-msgstr ""
+msgstr "mkdir -p /mnt/hdxx/directory1"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mkdir -p /mnt/hdxx/directoryx"
-msgstr ""
+msgstr "mkdir -p /mnt/hdxx/directoryx"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mkdir /mnt/hdxx/custom_live"
-msgstr ""
+msgstr "mkdir /mnt/hdxx/custom_live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2003,26 +1984,25 @@ msgid "Salix Live Startup Guide"
 msgstr "Salix Live Scripts"
 
 #~ msgctxt "heading"
-
 #~ msgid "A"
 #~ msgstr "A"
-#~ msgctxt "heading"
 
+#~ msgctxt "heading"
 #~ msgid "B"
 #~ msgstr "B"
-#~ msgctxt "heading"
 
+#~ msgctxt "heading"
 #~ msgid "LiloSetup"
 #~ msgstr "LiloSetup"
-#~ msgctxt "heading"
 
+#~ msgctxt "heading"
 #~ msgid "Linux Live Scripts:"
 #~ msgstr "Linux Live Skripte:"
-#~ msgctxt "heading"
 
+#~ msgctxt "heading"
 #~ msgid "S"
 #~ msgstr "S"
-#~ msgctxt "paragraph"
 
+#~ msgctxt "paragraph"
 #~ msgid "1- Create a working directory."
 #~ msgstr "1- Ein Arbeitsverzeichnis anlegen."
