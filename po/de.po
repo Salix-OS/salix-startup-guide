@@ -675,10 +675,9 @@ msgid "<g id='48'>gFTP</g>."
 msgstr "<g id='48'>gFTP</g>."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='55'>Salix Codec Installer</g>."
-msgstr "Salix Codec Installer"
+msgstr "<g id='55'>Salix Codec Installer</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1978,10 +1977,9 @@ msgid "will not necessitate a reboot."
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "title"
 msgid "Salix Live Startup Guide"
-msgstr "Salix Live Scripts"
+msgstr "Salix Live Schnellanleitung"
 
 #~ msgctxt "heading"
 #~ msgid "A"
