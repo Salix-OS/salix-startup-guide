@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: salix-live-startup-guide\n"
@@ -13,108 +13,108 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: French\n"
 "X-Poedit-Country: FRANCE\n"
+"X-Poedit-Language: French\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "About this manual..."
-msgstr ""
+msgstr "À propos de ce manuel"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Adding files to Salix Live"
-msgstr ""
+msgstr "Ajouter des fichiers à Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Administrator (root) password"
-msgstr ""
+msgstr "Mot de passe administrateur (root)"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Advanced Boot Options"
-msgstr ""
+msgstr "Options avancées de démarrage"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Asunder"
-msgstr ""
+msgstr "Asunder"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Basic Mode"
-msgstr ""
+msgstr "Mode de Base"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Boot"
-msgstr ""
+msgstr "Démarrage"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Boot Parameters"
-msgstr ""
+msgstr "Paramètres de démarrage"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Boot menu"
-msgstr ""
+msgstr "Menu de démarrage"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Brasero"
-msgstr ""
+msgstr "Brasero"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Catfish"
-msgstr ""
+msgstr "Catfish"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Claws-mail"
-msgstr ""
+msgstr "Claws-mail"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Core Mode"
-msgstr ""
+msgstr "Mode Essentiel"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Creating a module"
-msgstr ""
+msgstr "Création d'un module"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Customizing Salix Live"
-msgstr ""
+msgstr "Personnalisation de Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Customizing a module"
-msgstr ""
+msgstr "Personnalisation d'un module"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Dotnew"
-msgstr ""
+msgstr "Dotnew"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Exaile"
-msgstr ""
+msgstr "Exaile"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "File Roller"
-msgstr ""
+msgstr "File Roller"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Full Mode"
-msgstr ""
+msgstr "Mode Complet"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -219,147 +219,147 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "OpenOffice"
-msgstr ""
+msgstr "OpenOffice"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Orage"
-msgstr ""
+msgstr "Orage"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Other System Utilities"
-msgstr ""
+msgstr "Autres Utilitaires Système"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Package Management"
-msgstr ""
+msgstr "Gestion des paquets"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Partition Management"
-msgstr ""
+msgstr "Gestion des partitions"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Personalizing Modules"
-msgstr ""
+msgstr "Personnalisation des modules"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Pidgin"
-msgstr ""
+msgstr "Pidgin"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Presentation"
-msgstr ""
+msgstr "Présentation"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Ristretto"
-msgstr ""
+msgstr "Ristretto"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "SCIM"
-msgstr ""
+msgstr "SCIM"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Codec Installer"
-msgstr ""
+msgstr "Salix Codecs Installer"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live"
-msgstr ""
+msgstr "Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live Installer"
-msgstr ""
+msgstr "Salix Live Installer"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live Scripts"
-msgstr ""
+msgstr "Salix Live Scripts"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix OS"
-msgstr ""
+msgstr "Salix OS"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Tools"
-msgstr ""
+msgstr "Salix Tools"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Slapt-get"
-msgstr ""
+msgstr "Slapt-get"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Software"
-msgstr ""
+msgstr "Logiciel"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Startup Services"
-msgstr ""
+msgstr "Démarrage des services"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Support"
-msgstr ""
+msgstr "Support"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "System"
-msgstr ""
+msgstr "Système"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "System Clock"
-msgstr ""
+msgstr "Horloge du système"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "System Language"
-msgstr ""
+msgstr "Langue du système"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "The Persistence Wizard"
-msgstr ""
+msgstr "Assistant de Persistance"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Totem"
-msgstr ""
+msgstr "Totem"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Transmission"
-msgstr ""
+msgstr "Transmission"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Useful boot parameters"
-msgstr ""
+msgstr "Paramètres de démarrage utiles"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Users Profile"
-msgstr ""
+msgstr "Profil utilisateurs"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "What are the Live Tools?"
-msgstr ""
+msgstr "Quels sont les outils Live ?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -1980,4 +1980,3 @@ msgstr ""
 msgctxt "title"
 msgid "Salix Live Startup Guide"
 msgstr ""
-
