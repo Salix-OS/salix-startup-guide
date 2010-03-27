@@ -479,107 +479,107 @@ msgstr "/usr/bin/txz2lzm"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a work directory:"
-msgstr ""
+msgstr "1 - Créez un répertoire de travail :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a working directory"
-msgstr ""
+msgstr "1 - Créez un répertoire de travail"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a working directory:"
-msgstr ""
+msgstr "1 - Créez un répertoire de travail :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Open the .iso file using a software archiver (file-roller, xarchiver, 7-zip, iso-master, …)."
-msgstr ""
+msgstr "1 - Ouvrez l'image ISO en utilisant un logiciel d'archivage (file-roller, xarchiver, 7-zip, iso-master, …)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Copy Salix Live's CD content to your working directory:"
-msgstr ""
+msgstr "2 - Copiez le contenu du CD de Salix Live dans votre répertoire de travail :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Extract all files and folders (boot, packages and salixlive) to your USB root directory."
-msgstr ""
+msgstr "2 - Extrayez tous les fichiers et dossiers (boot, docs, packages et salixlive) dans votre répertoire racine USB."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Install all software packages using this directory as root:"
-msgstr ""
+msgstr "2 - Installez les paquets en utilisant tous les logiciels de ce répertoire comme racine :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Open up the module you want to customize under the working directory:"
-msgstr ""
+msgstr "2 - Extrayez le module que vous souhaitez personnaliser dans le répertoire de travail :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Add or remove modules or files as needed:"
-msgstr ""
+msgstr "3 - Ajoutez ou supprimez des modules ou des fichiers selon les besoins :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Go to the \"boot\" directory on the USB key."
-msgstr ""
+msgstr "3 - Allez dans le répertoire \"boot\" sur la clé USB."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Remove all unneeded files:"
-msgstr ""
+msgstr "3 - Supprimez tous les fichiers inutiles :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Remove the packages from the working directory:"
-msgstr ""
+msgstr "3 - Enlevez des paquets du répertoire de travail :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Install new packages to the working directory:"
-msgstr ""
+msgstr "4 - Installez de nouveaux paquets dans le répertoire de travail :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Make any modifications you want:"
-msgstr ""
+msgstr "4 - Faites les modifications que vous voulez :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Run \"bootinst.sh\" if you are on Linux or Unix, \"bootinst.bat\" if you're on Windows."
-msgstr ""
+msgstr "4 - Exécutez \"bootinst.sh\" si vous êtes sous Linux ou Unix, \"bootinst.bat\" si vous êtes sur Windows."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4. Rebuild the CD image:"
-msgstr ""
+msgstr "4. Reconstruisez l'image du CD :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "5- Build the module:"
-msgstr ""
+msgstr "5 - Construisez le module :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "5- Rebuild the module:"
-msgstr ""
+msgstr "5 - Régénérez le module :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "6- Replace the original module with your new module, rebuild the ISO image and reburn the CD."
-msgstr ""
+msgstr "6 - Remplacez le module d'origine avec votre nouveau module, reconstruisez l'image ISO et gravez le CD."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='102'>If that is not the case, which is very rare, you will need to first enter the </g><g id='103'><g id='104'>BIOS</g></g><g id='105'> setup, usually by pressing the Del‑key or the F2‑key (or some other key combinations depending on your machine…). Once in the BIOS, find the \"boot menu\" and set the order of the boot devices properly, with your optical drive in first position. Save your changes &amp; reboot your computer.</g>"
-msgstr ""
+msgstr "<g id='102'>Si ce n'est pas le cas, ce qui est très rare, vous devez d'abord entrer dans le </g><g id='103'><g id='104'>BIOS</g></g><g id='105'>, normalement en appuyant sur la touche Suppr ou la touche F2 (ou des combinaisons d'autres touches en fonction de votre machine…). Une fois dans le BIOS, trouvez le \"menu de démarrage\" et définir l'ordre des périphériques de démarrage correctement, avec votre lecteur optique en première position. Enregistrez vos modifications et redémarrez votre ordinateur.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
