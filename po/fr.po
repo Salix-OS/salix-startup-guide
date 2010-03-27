@@ -584,37 +584,37 @@ msgstr "<g id='102'>Si ce n'est pas le cas, ce qui est très rare, vous devez d'
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='106'>You also have the possibility to </g><g id='107'><g id='108'>modify most default boot settings</g></g><g id='109'>.</g>"
-msgstr ""
+msgstr "<g id='106'>Vous avez également la possibilité de</g><g id='107'><g id='108'>modifier la plupart des paramètres de démarrage par défaut </g></g><g id='109'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='110'>Simply press Enter on the default menu entry: Start Salix Live &amp; a moment later you will enter </g><g id='111'><g id='112'>Xfce desktop</g></g><g id='113'>.</g>"
-msgstr ""
+msgstr "<g id='110'>Il suffit d'appuyer sur Entrée sur le choix du menu par défaut : Démarrer Salix Live &amp; un moment plus tard, vous aurez </g><g id='111'><g id='112'>le bureau Xfce</g></g><g id='113'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='114'>All Live Tools require </g><g id='115'><g id='116'>administrator's right</g></g><g id='117'> &amp; will ask you for the (root) password. </g>"
-msgstr ""
+msgstr "<g id='114'>Tous les Outils Live exigent </g><g id='115'><g id='116'>les droits administrateur</g></g><g id='117'> &amp; vont donc vous demander le mot de passe root.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='119'>Salix Live comes with all the default </g><g id='120'><g id='121'>softwares</g></g><g id='122'> included in Salix OS.</g>"
-msgstr ""
+msgstr "<g id='119'>Salix Live est livrée par défaut avec tous les</g><g id='120'><g id='121'>logiciels</g></g><g id='122'> inclus dans Salix OS.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='124'>Important!</g><g id='125'> Once this file has been created, it is necessary to reboot the Live CD. From then on, Salix Live will begin to monitor any changes you perform &amp; will record them in the new persistent file.</g>"
-msgstr ""
+msgstr "<g id='124'>Important !</g><g id='125'> Une fois ce fichier créé, il est nécessaire de redémarrer le Live CD. Dès lors, Salix Live va commencer à surveiller les modifications que vous effectuez et les enregistrera dans le nouveau fichier de persistance.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='126'>To remove any changes and come back to the default settings, simply delete the persistent file (slxsave.xfs) from the </g><g id='127'><g id='128'>mount point</g></g><g id='129'> it was initially created on.</g>"
-msgstr ""
+msgstr "<g id='126'>Pour supprimer les modifications et revenir à la configuration par défaut, supprimez simplement le fichier de persistance (slxsave.xfs) du </g><g id='127'><g id='128'>point de montage</g></g><g id='129'> sur lequel il a été initialement créé.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='130'>Gparted is included in Salix Live to assist you in </g><g id='131'><g id='132'>managing your partitions</g></g><g id='133'> if it is necessary for you to do so before performing the installation of Salix OS.</g>"
-msgstr ""
+msgstr "<g id='130'>Gparted est inclus dans Salix Live pour vous aider à </g><g id='131'><g id='132'> gérer vos partitions</g></g><g id='133'> si c'est nécessaire pour vous de le faire avant d'effectuer l'installation de Salix OS.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -899,7 +899,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Copyright © SalixOS.org 2010"
-msgstr ""
+msgstr "Copyright © SalixOS.org 2010"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
