@@ -32,6 +32,7 @@ msgid "Administrator (root) password"
 msgstr "Mot de passe administrateur (root)"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Advanced Boot Options"
 msgstr "Options de démarrage avancées"
@@ -311,7 +312,7 @@ msgstr "Slapt-get"
 #, fuzzy
 msgctxt "heading"
 msgid "Software"
-msgstr "Logiciels"
+msgstr "Software"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -1616,9 +1617,10 @@ msgid "The first screen to greet you will enable you to select your language."
 msgstr "Le premier écran vous saluer vous permettra de choisir votre langue."
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "paragraph"
 msgid "The latest Salix OS or Salix Live releases are freely &amp;"
-msgstr ""
+msgstr "Le dernier système d'exploitation ou Salix Salix sont librement communiqués Live &amp;"
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
@@ -2076,67 +2078,73 @@ msgstr "lzm2dir /mnt/hdc/salixlive/base/modulex.lzm /mnt/hdxx/directoryx"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mkdir -p /mnt/hdxx/directory1"
-msgstr ""
+msgstr "mkdir -p /mnt/hdxx/directory1"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mkdir -p /mnt/hdxx/directoryx"
-msgstr ""
+msgstr "mkdir -p /mnt/hdxx/directoryx"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mkdir /mnt/hdxx/custom_live"
-msgstr ""
+msgstr "mkdir /mnt/hdxx/custom_live"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "paragraph"
 msgid "non-graphical environments."
-msgstr ""
+msgstr "environnements non-graphiques."
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "paragraph"
 msgid "none of the settings will be applied until you click on the 'Launch Salix Install' button."
-msgstr ""
+msgstr "Aucun des paramètres seront appliqués que lorsque vous cliquerez sur le bouton 'Lancer Salix Installer »."
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "paragraph"
 msgid "numerous plugins."
-msgstr ""
+msgstr "nombreux plugins."
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "paragraph"
 msgid "offers a full range of useful software applications one could need on a daily basis while following the \"one application per task\" rationale."
-msgstr ""
+msgstr "offre une gamme complète d'applications de logiciels utiles que l'on pourrait avoir besoin sur une base quotidienne tout en suivant le \\ \"une application par tâche \" raison d'être."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "passwd=ask"
-msgstr ""
+msgstr "passwd=ask"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "passwd=somepass"
-msgstr ""
+msgstr "passwd=somepass"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "paragraph"
 msgid "properties of all the system users &amp;"
-msgstr ""
+msgstr "propriétés de tous les utilisateurs du système et"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "rm -rf /mnt/hdxx/directory1/usr/doc/*"
-msgstr ""
+msgstr "rm -rf /mnt/hdxx/directory1/usr/doc/*"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "rm /mnt/hdxx/custom_live/base/unwanted_module"
-msgstr ""
+msgstr "rm /mnt/hdxx/custom_live/base/unwanted_module"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "paragraph"
 msgid "the Persistence Wizard can assist you in creating a persistent file that will be automatically managed by Salix Live.)"
-msgstr ""
+msgstr "Persistance de l'Assistant peut vous aider à créer un fichier persistant qui sera géré automatiquement par Salix Live.)"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
