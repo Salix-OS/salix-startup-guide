@@ -2,12 +2,12 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: salix-live-startup-guide\n"
 "POT-Creation-Date: 2010-03-27 00:03+CET\n"
-"PO-Revision-Date: 2010-03-27 11:22+0100\n"
+"PO-Revision-Date: 2010-03-27 17:26+0100\n"
 "Last-Translator: Cyrille Pontvieux <jrd@enialis.net>\n"
 "Language-Team: Transifex\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,6 @@ msgid "Administrator (root) password"
 msgstr "Mot de passe administrateur (root)"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Advanced Boot Options"
 msgstr "Options de démarrage avancées"
@@ -88,10 +87,9 @@ msgid "Creating a module"
 msgstr "Création d'un module"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Customizing Salix Live"
-msgstr "Personnalisation Salix Live"
+msgstr "Personnalisation Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -159,13 +157,11 @@ msgid "How to install Salix Live on a USB key?"
 msgstr "Comment faire pour installer Salix Live sur une clé USB ?"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Installing Salix OS"
-msgstr "Installation de Salix OS"
+msgstr "Installation de Salix OS"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Introduction"
 msgstr "Introduction"
@@ -236,19 +232,16 @@ msgid "Other System Utilities"
 msgstr "Autres Utilitaires Système"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Package Management"
-msgstr "Gestion des paquetages"
+msgstr "Gestion des paquets"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Partition Management"
 msgstr "Gestion des partitions"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Personalizing Modules"
 msgstr "Personnalisation des modules"
@@ -309,10 +302,9 @@ msgid "Slapt-get"
 msgstr "Slapt-get"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Software"
-msgstr "Software"
+msgstr "Logiciel"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -782,7 +774,7 @@ msgstr "Ajout/Suppression de modules à la volée :"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Advanced Boot Options"
-msgstr ""
+msgstr "Options de démarrage avancées"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -825,100 +817,84 @@ msgid "As we have seen, this can be done simply with the help of <g id='157'>Gpa
 msgstr "Comme nous l'avons vu, cela peut être fait simplement avec l'aide de <g id='157'>Gparted</g>, qui est inclus dans Salix Live &amp;"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "As you progress through the configuration process, a check will be displayed beside each completed section."
-msgstr "Que vous progresserez dans le processus de configuration, une vérification sera affiché à côté de chaque section dûment complétée."
+msgstr "À mesure que vous progresserez dans le processus de configuration, une vérification sera affichée à côté de chaque section dûment complétée."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Asunder is an Audio CD ripper and encoder for Linux."
-msgstr "Asunder est un ripper les CD audio et encodeur pour Linux."
+msgstr "Asunder est un ripper et encodeur de CDs audio pour Linux."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Basic mode is intended for simple computations while Scientific Mode is Galculator's state‑of‑the‑art."
-msgstr "Mode de base est destinée à des calculs simples, tout en mode scientifique est l'état de Galculator-of-the-art."
+msgstr "Le mode de base est destiné à des calculs simples, tandis que le mode scientifique est ce qui a de plus complet pour Galculator."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Before executing Salix Live Installer, you should already have the necessary partitions available on your system."
 msgstr "Avant d'exécuter Salix Live Installer, vous devez déjà disposer des partitions nécessaires disponibles sur votre système."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Before use you should first click on the Update button to ensure that the latest updates from the software repositories are known to Gslapt."
-msgstr "Avant que vous utilisez doivent d'abord cliquer sur le bouton Update pour s'assurer que les dernières mises à jour depuis les dépôts de logiciels sont connus pour Gslapt."
+msgstr "Avant utilisation, vous devriez d'abord cliquer sur le bouton Actualiser pour vous assurer que les dernières mises à jour depuis les dépôts de logiciels sont connus pour Gslapt."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Before you can use any of the multimedia applications, you might have to first install some missing codecs from the multimedia menu."
-msgstr "Avant de pouvoir utiliser toutes les applications multimédia, vous pourriez avoir au préalable installer certains codecs manquants à partir du menu multimédia."
+msgstr "Avant de pouvoir utiliser toutes les applications multimédia, vous pourriez avoir besoin d'installer au préalable certains codecs manquants à partir du menu multimédia."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Besides Firefox, Network applications include <g id='45'>Claws‑mail</g>, <g id='46'>Pidgin</g>  <g id='47'>Transmission</g> &amp;"
-msgstr "En plus de Firefox, les applications réseau, notamment le <g id='45'> Claws-mail </g> , <g id='46'> Pidgin </g><g id='47'> Transmission </g> &amp;"
+msgstr "En plus de Firefox, les applications réseau présentes sont <g id='45'>Claws-mail</g>, <g id='46'>Pidgin</g><g id='47'>Transmission</g> &amp;"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Boot procedure"
-msgstr "Boot procédure"
+msgstr "Procédure de démarrage"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Booting parameters or cheatcodes, are used to manipulate the booting process of Linux."
-msgstr "Amorcer paramètres ou cheatcodes, sont utilisés pour manipuler le processus de démarrage de Linux."
+msgstr "Les paramètres de démarrages ou cheatcodes, sont utilisés pour manipuler le processus de démarrage de Linux."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Brasero is an application to burn CD/DVD."
-msgstr "Brasero est une application pour graver des CD / DVD."
+msgstr "Brasero est une application pour graver des CD/DVD."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "By selecting 'Change boot options' on the Salix Live Boot menu, you will be offered a choice of supplementary boot options"
-msgstr "En sélectionnant \"Modifier les options de démarrage\" dans le menu Boot Salix Live, il vous sera proposé un choix d'options de démarrage supplémentaires"
+msgstr "En sélectionnant \"Modifier les options de démarrage\" dans le menu de démarrage de Salix Live, il vous sera proposé un choix d'options de démarrage supplémentaires"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Catfish is a handy file searching tool which provides a unified, lightweight and simple interface for different search engines such as find, (s)locate, doodle, tracker and beagle."
-msgstr "Catfish est un fichier très pratique outil de recherche qui fournit une interface unifiée, léger et simple pour les différents moteurs de recherche tels que trouver, (s) de localiser, doodle, Tracker et Beagle."
+msgstr "Catfish est un outil pratique de recherche de fichiers qui fournit une interface unifiée, légère et simple pour les différents moteurs de recherche tels que find, (s)locale, doodle, tracker et beagle."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Claws Mail is an open source email and news client."
-msgstr "Claws Mail est un e-mail open source et le client de nouvelles."
+msgstr "Claws Mail est un client open source de courriel et de news."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Clicking on one of these sections will display the corresponding options that need to be set."
-msgstr "En cliquant sur un de ces articles permet de trouver les options correspondantes qui doivent être fixées."
+msgstr "En cliquant sur une de ces sections vous verrez options correspondantes qui doivent être configurées."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Contextual help triggered by the position of the mouse will also be <x id='159'/>displayed above the application &amp;"
-msgstr "Aide contextuelle déclenchée par la position de la souris seront également <x id='159'/> s'affiche au-dessus de l'application et"
+msgstr "Une aide contextuelle, déclenchée par la position de la souris, sera également <x id='159'/>affichée au-dessus de l'application et"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Contextual help triggered by the position of the mouse will be <x id='156'/>displayed above the application &amp;"
-msgstr "Aide contextuelle déclenchée par la position de la souris sera <x id='156'/> s'affiche au-dessus de l'application et"
+msgstr "Une aide contextuelle, déclenchée par la position de la souris, sera <x id='156'/>affichée au-dessus de l'application et"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -928,308 +904,262 @@ msgstr "Copyright © SalixOS.org 2010"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Customizing Salix Live"
-msgstr ""
+msgstr "Personnalisation de Salix Live"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Designed for productivity, it loads and executes applications fast, while conserving system resources"
 msgstr "Conçu pour la productivité, il charge et exécute les applications rapidement, tout en conservant les ressources du système"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Dotnew manages the system configuration upgrades used by Slackware."
-msgstr "Dotnew gère les modifications de configuration système utilisé par Slackware."
+msgstr "Dotnew gère les mises à jour des configurations système utilisées par Slackware."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Even if run from a CD/DVD, Salix Live gives you the possibility to save any of your work or modification performed while in a Live session."
-msgstr "Même s'il est lancé depuis un CD / DVD, Salix Live vous donne la possibilité de sauvegarder n'importe lequel de vos travaux ou de modification effectuée pendant que dans une session Live."
+msgstr "Même s'il est lancé depuis un CD/DVD, Salix Live vous donne la possibilité de sauvegarder vos travaux ou modifications effectuées pendant votre session Live."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Exaile is a music manager which incorporates automatic fetching of album art, lyrics fetching, Last.fm scrobbling, support for many portable media players, Internet radio such as Shoutcast, tabbed playlists, etc."
-msgstr "Exaile est un gestionnaire de musique qui intègre la récupération automatique des pochettes d'album, paroles de récupération, Last.fm scrobbling, le soutien de beaucoup de joueurs de médias portatif, Internet radio, tels que Shoutcast, onglets listes de lecture, etc"
+msgstr "Exaile est un gestionnaire de musique qui intègre la récupération automatique des pochettes d'album et paroles, le support de Last.fm, et gère beaucoup de lecteurs médias portatifs, les radios Internet telles que Shoutcast, les liste de lecture par onglet, etc"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Explode a module to a directory"
-msgstr "Exploser un module dans un répertoire"
+msgstr "Extraire un module dans un répertoire"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "File Roller is an archive manager."
 msgstr "File Roller est un gestionnaire d'archives."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Finally, Accessories applications include a variety of small, useful utilities among which are <g id='60'>Galculator</g>, <g id='61'>Mousepad</g>, <g id='62'>Catfish</g>, <g id='63'>File Roller</g>, <g id='64'>SCIM</g>, etc."
-msgstr "Enfin, les applications accessoires comprennent une variété de petits utilitaires qui sont parmi les <g id='60'> Galculator </g> , <g id='61'> Tapis de souris </g> , <g id='62'> Catfish </g> , <g id='63'> File Roller </g> , <g id='64'> SCIM </g> , Etc"
+msgstr "Enfin, les accessoires comprennent une variété de petits utilitaires, parmi lesquels on trouve <g id='60'>Galculator</g>, <g id='61'>Mousepad</g>, <g id='62'>Catfish</g>, <g id='63'>File Roller</g>, <g id='64'>SCIM</g>, etc."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Finally, Salix OS strives to provide a localized system which is usable around the globe and can easily be used by non‑English speakers."
-msgstr "Enfin, Salix OS s'efforce d'offrir un système localisé qui est utilisable partout dans le monde et peut être facilement utilisé par des non-anglophones."
+msgstr "Enfin, Salix OS s'efforce d'offrir un système localisé qui est utilisable partout dans le monde et peut être facilement utilisé par des non-anglophones."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Functionalities:"
-msgstr "Fonctionnalités:"
+msgstr "Fonctionnalités :"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "GIMP (GNU Image Manipulation Program) is an image retouching and editing tool."
 msgstr "GIMP (GNU Image Manipulation Program) est un outil de retouche d'image et de montage."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Galculator is a calculator featuring two user modes:"
-msgstr "Galculator est une calculatrice avec deux modes d'utilisation:"
+msgstr "Galculator est une calculatrice avec deux modes d'utilisation :"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Geany is a small and lightweight Integrated Development Environment which only has a few dependencies &amp;"
-msgstr "Geany est un petit et léger environnement de développement intégré qui a seulement un peu de dépendances et"
+msgstr "Geany est un petit et léger environnement de développement intégré qui a peu de dépendances et"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Graphical applications include the <g id='56'>Gimp</g>, <g id='57'>Ristretto</g> &amp;"
-msgstr "Les applications graphiques comprennent les <g id='56'> Gimp </g> , <g id='57'> Ristretto </g> &amp;"
+msgstr "Les applications graphiques comprennent <g id='56'>Gimp</g>, <g id='57'>Ristretto</g> et"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Gslapt is the GUI version of <g id='84'>Slapt-get</g>."
-msgstr "Gslapt est la version GUI de <g id='84'> Slapt-get </g> ."
+msgstr "Gslapt est la version graphique de <g id='84'>Slapt-get</g>."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Here you will be able to select the services that should or shouldn't be activated in the background when your system starts."
-msgstr "Ici, vous pourrez choisir les services qui devraient ou ne devraient pas être activé en arrière-plan au démarrage de votre système."
+msgstr "Ici, vous pourrez choisir les services qui devraient ou ne devraient pas être activés en arrière-plan au démarrage de votre système."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Here, only the minimum software essential for a console system to start is included."
-msgstr "Ici, seul le logiciel minimum indispensable pour une console système à démarrer est incluse."
+msgstr "Ici, seulement les logiciels indispensables au démarrage d'une console système sont inclus."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "However due to its Live nature it also includes some extra utilities which are either needed or simply very useful in a Live session."
-msgstr "Cependant, en raison de son caractère Live Elle contient aussi quelques utilitaires supplémentaires qui sont soit nécessaire ou tout simplement très utile dans une session Live."
+msgstr "Cependant, en raison de son caractère Live, elle contient aussi quelques utilitaires supplémentaires nécessaires ou très utiles dans une session Live."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "However, while in the <g id='35'>KISS</g> principle that Slackware adheres to, \"Simple\" refers to the viewpoint of system design, Salix OS also applies it to the viewpoint of the end user."
-msgstr "Toutefois, alors que dans le <g id='35'> KISS </g> principe que la Slackware adhère, \\ \"Simple \" se réfère à l'angle de la conception du système, Salix OS s'applique également à l'angle de l'utilisateur final."
+msgstr "Toutefois, tout en suivant le principe <g id='35'>KISS</g> auquel adhère Slackware, \"Simple\" ne se réfère pas simplement au point de vue de la conception du système, mais Salix OS applique également ce principe du point de vue de l'utilisateur final."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "ISO Master is an application for creating and modifying ISO9660 files (ISO images)."
 msgstr "ISO Master est une application de création et modification de fichiers ISO9660 (images ISO)."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "If necessary, you can verify the integrity of your downloaded file by comparing its <g id='97'>md5sum</g> file with the original one uploaded besides the corresponding ISO image file by Salix OS."
-msgstr "Si nécessaire, vous pouvez vérifier l'intégrité de votre fichier téléchargé en comparant ses <g id='97'> md5sum </g> fichier avec l'originale, d'ailleurs envoyé le fichier correspondant image ISO en Salix OS."
+msgstr "Si nécessaire, vous pouvez vérifier l'intégrité de votre fichier téléchargé en comparant son <g id='97'>md5sum</g> avec l'original se trouvant à côté de l'image ISO de Salix OS."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "If possible, it is recommended to also have at least one other Linux partition to hold your /home directory."
-msgstr "Si possible, il est recommandé d'avoir aussi au moins une autre partition Linux afin de tenir votre répertoire / home."
+msgstr "Si possible, il est recommandé d'avoir aussi au moins une autre partition Linux pour mettre votre répertoire /home."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "If that is the case, you simply need to feed Salix Live CD/DVD in the optical drive and start your computer."
-msgstr "Si tel est le cas, il vous suffit de nourrir Salix Live CD / DVD dans le lecteur optique et démarrez votre ordinateur."
+msgstr "Si tel est le cas, il vous suffit de mettre le CD/DVD de Salix Live dans le lecteur optique et de démarrez votre ordinateur."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "If you are fully satisfied with your Live experience of Salix OS, you can then proceed to install it with the help of Salix Live Installer."
-msgstr "Si vous êtes pleinement satisfait de votre expérience en direct de Salix OS, vous pouvez alors procéder à l'installer avec l'aide de Salix Live Installer."
+msgstr "Si vous êtes pleinement satisfait de votre expérience Live de Salix OS, vous pouvez alors procéder à son installation à l'aide de Salix Live Installer."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "If you are still quite new to either Salix, Slackware or even Linux in general, then you should first of all take some time to study Salix Startup Guide as it is specifically aimed to be accessible to newcomers."
-msgstr "Si vous êtes encore tout à fait nouveau soit à Salix, Slackware ou encore sur Linux en général, alors vous devriez d'abord prendre le temps d'étudier Salix Guide de démarrage car il est spécifiquement destiné à être accessible aux nouveaux arrivants."
+msgstr "Si vous êtes tout nouveau soit à Salix, Slackware ou encore à Linux en général, alors vous devriez d'abord prendre le temps d'étudier le Salix Startup Guide car il est spécifiquement destiné pour être accessible aux nouveaux arrivants."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "If you do however, you might want to modify the default qwebircxxx login to something more personal &amp;"
-msgstr "Si vous n'êtes cependant, vous voudrez peut-être modifier le login qwebircxxx par défaut à quelque chose de plus personnel et"
+msgstr "Si vous voulez, vous pourrez modifier le login par défaut qwebircxxx par quelque chose de plus personnel et"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "In addition to offering free‑form drawing, it can accomplish essential image workflow steps such as resizing, editing, and cropping photos, combining multiple images, converting between different image formats as well as create basic animated images in GIF."
-msgstr "En plus d'offrir gratuitement sous forme de dessin, il peut accomplir des étapes essentielles pour l'image de workflow, tels que le redimensionnement, l'édition, et le recadrage des photos, combinant plusieurs images, convertir entre différents formats d'images ainsi créer autant de base des images animées au format GIF."
+msgstr "En plus d'offrir une forme de dessin à main levé, il peut accomplir des tâches essentielles de traitement d'image, tels que le redimensionnement, l'édition, et le recadrage des photos, la combinaison de plusieurs images, la conversion entre différents formats d'images, et même créer une animation GIF sommaire."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "In order to do this, Salix OS has chosen the <g id='36'>Xfce</g> desktop, which offers a comprehensive full‑featured environment while managing to remain simple, unobstructive &amp;"
-msgstr "Pour ce faire, Salix OS a choisi le <g id='36'> Xfce </g> bureau, qui offre un environnement complet de toutes les fonctionnalités tout en parvenant à rester simple, sans encombre et"
+msgstr "Pour ce faire, Salix OS a choisi le bureau <g id='36'>Xfce</g>, qui offre un environnement complet tout en parvenant à rester simple, sans encombre et"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "In that case it is not necessary to create or modify a module."
-msgstr "Dans ce cas, il n'est pas nécessaire pour créer ou modifier un module."
+msgstr "Dans ce cas, il n'est pas nécessaire de créer ou modifier un module."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "In the same manner that you boot from the optical drive, you must ensure that the BIOS is set to boot from a USB device before other devices."
-msgstr "De la même manière que vous démarrez à partir du lecteur optique, vous devez vous assurer que le BIOS est configuré pour démarrer à partir d'un périphérique USB avant d'autres dispositifs."
+msgstr "De la même manière que vous démarrez à partir du lecteur optique, vous devez vous assurer que le BIOS est configuré pour démarrer d'abord à partir d'un périphérique USB."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Installing Salix OS"
-msgstr ""
+msgstr "Installation de Salix OS"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Introduction"
-msgstr ""
+msgstr "Introduction"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It <x id='76'/>will display a possible course of action for each new configuration file found in the system."
-msgstr "Il <x id='76'/> affichera un plan d'action possible pour chaque nouveau fichier de configuration dans le système."
+msgstr "<x id='76'/>Il affichera un plan d'action possible pour chaque nouveau fichier de configuration dans le système."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It allows one to search Slackware/Salix mirrors and third party sources for packages, compare them with installed packages, install new packages, or upgrade all installed packages."
-msgstr "Il permet de chercher Slackware / Salix miroirs et de tierces parties pour les colis, de les comparer avec les paquets installés, installer de nouveaux paquets, ou mettre à jour tous les paquets installés."
+msgstr "Il permet de chercher des paquets dans les miroirs de Slackware/Salix ou de tierces parties, de les comparer avec les paquets installés, installer de nouveaux paquets, ou mettre à jour tous les paquets installés."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It can be easily rendered or burned to a DVD or CD by using media authoring or disc burning software."
-msgstr "Il peut être facilement rendu ou gravé sur un DVD ou un CD en utilisant un support de création ou d'un logiciel de gravure de disque."
+msgstr "Il peut être facilement généré ou gravé sur un DVD ou un CD en utilisant un logiciel d'édition multimédia ou un logiciel de gravure."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It is available in many languages and works on all common computers."
 msgstr "Il est disponible en plusieurs langues et fonctionne sur tous les ordinateurs courants."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It is designed to be as simple as possible and has some unique features to enable users to create their discs easily and quickly."
 msgstr "Il est conçu pour être aussi simple que possible et a des caractéristiques uniques permettant aux utilisateurs de créer leurs disques facilement et rapidement."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It is highly configurable and supports alerts based on dates."
 msgstr "Il est hautement configurable et supporte des alertes basées sur des dates."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It is necessary to (re)configure the bootloader each time you install a new operating system on your computer."
-msgstr "Il est nécessaire de (re) configurer le chargeur de démarrage à chaque fois que vous installez un nouveau système d'exploitation sur votre ordinateur."
+msgstr "Il est nécessaire de configurer le chargeur de démarrage à chaque fois que vous installez un nouveau système d'exploitation sur votre ordinateur."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It loads into memory using only data provided on the CD."
-msgstr "Le charge en mémoire en utilisant uniquement des données fournies sur le CD."
+msgstr "Il se charge en mémoire en utilisant uniquement les données fournies sur le CD."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It offers easy configuration and an abundance of features."
 msgstr "Il offre une configuration aisée et une abondance de fonctions."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It stores all your data in an international open standard format and can also read and write files from other common office software packages."
-msgstr "Il stocke toutes vos données dans un format ouvert standard international et peuvent également lire et écrire des fichiers provenant d'autres suites bureautiques communs logiciel."
+msgstr "Il stocke toutes vos données dans un format ouvert standard international et peut également lire et écrire des fichiers provenant d'autres suites bureautiques."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It stores mail in the MH mailbox format as well as the Mbox mailbox format via a plugin."
-msgstr "Il stocke de messagerie dans le format de boîte aux lettres MH, ainsi que le format de boîte aux lettres Mbox via un plugin."
+msgstr "Il stocke vos courriels dans le format de boîte aux lettres MH, ainsi que le format de boîte aux lettres Mbox via un greffon."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It warns you with pop‑up or audible alarms."
-msgstr "Il vous avertit avec des pop-up ou des alarmes sonores."
+msgstr "Il vous avertit avec des popups ou des alarmes sonores."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It will connect to wired (Ethernet only, no PPPoE/DSL support yet) and wireless networks."
-msgstr "Il se connecte au réseau (Ethernet, pas de PPPoE / DSL encore une prise) et les réseaux sans fil."
+msgstr "Il se connecte au réseau (Ethernet, pas de PPPoE/DSL encore) et les réseaux sans fil."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It will not modify any operating system or data present on its host computer and will leave no trace after shutdown."
-msgstr "Il ne modifiera pas tout système d'exploitation ou de données présents sur son ordinateur hôte et ne laissera aucune trace après l'arrêt."
+msgstr "Il ne modifiera aucun système d'exploitation ou données présentes sur l'ordinateur hôte et ne laissera aucune trace après l'arrêt."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Lilo Setup"
-msgstr ""
+msgstr "Lilo Setup"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Lilo Setup will install a new LILO bootloader on your computer."
-msgstr "Lilo le programme d'installation va installer un nouveau programme d'amorçage LILO sur votre ordinateur."
+msgstr "Lilo Setup va installer un nouveau programme d'amorçage LILO sur votre ordinateur."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "LiloSetup can also be useful in the process of a disaster recovery in which case you may have to launch it from a Live CD if you have lost all other means to boot into your system."
-msgstr "LiloSetup peut également être utile dans le processus d'une reprise après sinistre dans ce cas, vous mai le lancer à partir d'un CD Live si vous avez perdu tous les autres moyens de démarrer dans votre système."
+msgstr "Lilo Setup peut également être utile lors d'une reprise après sinistre, dans ce cas, vous pouvez le lancer à partir d'un Live CD si vous aucun autres moyen de démarrer votre système ne fonctionne."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "LiloSetup is also very easy to use."
-msgstr "LiloSetup est aussi très facile à utiliser."
+msgstr "Lilo Setup est aussi très facile à utiliser."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Linux Live Scripts"
-msgstr ""
+msgstr "Linux Live Scripts"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Live Tools"
-msgstr ""
+msgstr "Outils Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1237,204 +1167,174 @@ msgid "Live USB Key"
 msgstr "Clé USB Live"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Make a module out of a directory:"
-msgstr "Faire un module d'un répertoire:"
+msgstr "Faire un module d'un répertoire :"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Make a module out of a package:"
-msgstr "Faire un module sur un package:"
+msgstr "Faire un module d'un paquet :"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Modifications are applied instantly."
 msgstr "Les modifications sont appliquées immédiatement."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Most Salix tools (except LiloSetup) have an ncurse counterpart which can be used in a non-graphical environment (<g id='75'>runlevel 3</g>)."
-msgstr "La plupart des outils de Salix (sauf LiloSetup) ont un homologue ncurse qui peut être utilisé dans un environnement non graphique ( <g id='75'> niveau 3 </g> )."
+msgstr "La plupart des outils de Salix (sauf Lilo Setup) ont un homologue \"ncurse\" qui peut être utilisé dans un environnement non graphique (<g id='75'>runlevel 3</g>)."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Most of the time this is what you will want to do although occasionally, it might be preferable not to, for example if you want to use Grub instead or if you want to simply incorporate Salix in an existing bootloader configured from another distribution in a multiple boot setup."
-msgstr "La plupart du temps c'est ce que vous voulez faire bien que parfois, il peut être préférable de ne pas, par exemple si vous souhaitez utiliser grub au lieu ou si vous voulez simplement incorporer Salix dans un existant bootloader configuré d'une autre distribution à un multiple démarrage de l'installation."
+msgstr "La plupart du temps c'est ce que vous voudrez faire bien que parfois ce ne soit pas le cas, par exemple si vous souhaitez utiliser grub à la place ou si vous voulez simplement incorporer Salix dans un chargeur de démarrage existant d'une autre distribution."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Mousepad is a simple text editor with printing support."
-msgstr "Mousepad est un éditeur de texte simple avec le support d'impression."
+msgstr "Mousepad est un éditeur de texte simple avec le support de l'impression."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Mozilla Firefox is a free and open source web browser with tabbed browsing, spell checking, incremental find, private browsing &amp;"
-msgstr "Mozilla Firefox est un navigateur gratuit et open source web grâce à la navigation par onglets, la vérification orthographique, progressive trouver, de navigation privée &amp;"
+msgstr "Mozilla Firefox est un navigateur gratuit et open source avec une navigation par onglets, la vérification orthographique, recherche progressive, navigation privée et"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Multimedia applications include <g id='49'>Asunder</g>, <g id='50'>Brasero</g>, <g id='51'>Exaile</g>, <g id='52'>Iso Master</g>, <x id='53'/><g id='54'>Totem</g> &amp;"
-msgstr "Les applications multimédias comprennent <g id='49'> Asunder </g> , <g id='50'> Brasero </g> , <g id='51'> Exaile </g> , <g id='52'> ISO Master </g> , <x id='53'/><g id='54'> Totem </g> &amp;"
+msgstr "Les applications multimédias comprennent <g id='49'>Asunder</g>, <g id='50'>Brasero</g>, <g id='51'>Exaile</g>, <g id='52'>ISO Master</g>, <x id='53'/><g id='54'>Totem </g> et"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Note that you need to recreate the full directory hierarchy for the patches to work as desired."
-msgstr "Notez que vous devez recréer l'arborescence complète pour les correctifs de travailler comme vous le souhaitez."
+msgstr "Notez que vous devez recréer l'arborescence complète pour que les correctifs fonctionnent comme voulu."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "On the first boot from a USB key, an advanced bootloader will be installed (grub2) and the system will reboot once, this process is normal and only happens once."
-msgstr "Lors du premier démarrage depuis une clé USB, un chargeur de démarrage avancées seront installés (grub2) et le système va redémarrer une fois, ce processus est normal et se produit qu'une seule fois."
+msgstr "Lors du premier démarrage depuis une clé USB, un chargeur de démarrage avancé (grub2) sera installé et le système va redémarrer une fois, ce processus est normal et ne se produit qu'une seule fois."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "On the following menu, you will be given the possibility to change your keyboard map if the default one for your language does not suit you."
-msgstr "Dans le menu suivant, vous aurez la possibilité de changer votre carte clavier si celui par défaut de votre langue ne vous convient pas."
+msgstr "Dans le menu suivant, vous aurez la possibilité de changer votre disposition de clavier si celui par défaut de votre langue ne vous convient pas."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "On the left side of the application, you will notice the different sections that must be configured before launching the installation process:"
-msgstr "Sur le côté gauche de l'application, vous verrez les différentes sections qui doivent être configurés avant de lancer le processus d'installation:"
+msgstr "Sur le côté gauche de l'application, vous verrez les différentes sections qui doivent être configurées avant de lancer le processus d'installation :"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Once the installation process is completed, You will be given the choice to launch <g id='158'>Lilo Setup</g> to configure your LILO bootloader."
-msgstr "Une fois l'installation terminée, vous aurez le choix de lancer <g id='158'> Lilo </g> pour configurer votre chargeur de démarrage LILO."
+msgstr "Une fois l'installation terminée, vous aurez le choix de lancer <g id='158'>Lilo Setup</g> pour configurer votre chargeur de démarrage LILO."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Once you are done, save the modified ISO to your hard drive and use Brasero to burn it on a CD-ROM."
-msgstr "Une fois que vous avez terminé, enregistrez la modification de l'ISO sur votre disque dur et utiliser Brasero la graver sur un CD-ROM."
+msgstr "Une fois que vous avez terminé, enregistrez votre ISO modifié sur votre disque dur et utiliser Brasero le graver sur un CD-ROM."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Once you have selected your language, simply press on the Enter key to activate your choice."
 msgstr "Une fois que vous avez sélectionné votre langue, appuyez simplement sur la touche Entrée pour activer votre choix."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Only when all the sections have been completed will the 'Launch Salix Install' button be activated."
-msgstr "Ce n'est que lorsque toutes les sections ont été terminés seront sur le bouton «Launch Salix Install 'être activé."
+msgstr "Ce n'est que lorsque toutes les sections ont été terminées que le bouton « Lancer l'installation de Salix » sera activé."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "OpenOffice.org 3 is the leading open-source office software suite <x id='65'/>for word processing, spreadsheets, presentations, graphics, databases and more."
-msgstr "OpenOffice.org 3 est la principale suite bureautique open-source software <x id='65'/> traitement de texte, tableurs, présentations, graphiques, bases de données et plus encore."
+msgstr "OpenOffice.org 3 est la principale suite bureautique open-source qui comprend <x id='65'/> un traitement de texte, un tableur, un outil de présentation, un outil pour les graphiques, une base de données et plus encore."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Or alternatively in CLI:"
-msgstr "Ou encore dans CLI:"
+msgstr "Ou encore en ligne de commandes :"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Orage provides a calendar which integrates nicely into the Xfce Desktop Environment."
-msgstr "Orage prévoit un calendrier qui s'intègre bien dans l'environnement de bureau Xfce."
+msgstr "Orage contient un calendrier qui s'intègre bien dans l'environnement de bureau Xfce."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Our <g id='86'>Wiki</g> &amp;"
-msgstr "Notre <g id='86'> Wiki </g> &amp;"
+msgstr "Notre <g id='86'>Wiki</g> &amp;"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Package Management"
-msgstr ""
+msgstr "Gestion des paquets"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Partition Management"
-msgstr ""
+msgstr "Gestion des partitions"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Personalizing Modules"
-msgstr ""
+msgstr "Personnalisation des modules"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Pidgin is an easy to use and free chat client which lets you log in to accounts on multiple chat networks simultaneously."
-msgstr "Pidgin est un outil facile à utiliser et gratuit client de messagerie instantanée qui vous permet de vous connecter à des comptes sur de multiples réseaux de chat simultanément."
+msgstr "Pidgin est un client facile à utiliser et gratuit de messagerie instantanée qui vous permet de vous connecter à des comptes sur de multiples réseaux simultanément."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Pidgin is compatible with numerous chat networks out of the box:"
-msgstr "Pidgin est compatible avec de nombreux réseaux de dialogue de la boîte:"
+msgstr "Pidgin est compatible avec de nombreux réseaux :"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Press Ctrl+D to resume booting)"
-msgstr "Appuyez sur Ctrl + D pour reprendre le démarrage)"
+msgstr "Appuyez sur Ctrl+D pour reprendre le démarrage)"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Pressing 'c' gives you access to the Grub shell."
 msgstr "En appuyant sur 'C' vous donne accès au shell Grub."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Pressing 'e' while 'Start Salix Live' is selected opens up the following display, enabling you to modify some of the booting options <x id='160'/>for example in order to enter a boot parameter."
-msgstr "E Presser '' while 'Start Salix Live' est sélectionné ouvre l'écran suivant, vous permettant de modifier certaines des options de démarrage <x id='160'/> par exemple afin d'entrer un paramètre de démarrage."
+msgstr "Appuyez sur 'E' quand 'Démarrer Salix Live' est sélectionné ouvre l'écran suivant, vous permettant de modifier certaines des options de démarrage <x id='160'/>par exemple afin d'entrer un paramètre de démarrage."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "ROOT=/mnt/hdxx/directoryx removepkg packagex"
-msgstr "Root = / mnt / hdXX / packagex removepkg directoryx"
+msgstr "ROOT=/mnt/hdxx/directoryx removepkg packagex"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "ROOT=/mnt/hdxx/directoryx removepkg packagey"
-msgstr "RACINE = / mnt / hdXX / packagey removepkg directoryx"
+msgstr "ROOT=/mnt/hdxx/directoryx removepkg packagey"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "ROOT=/mnt/hdxx/directoryx removepkg packagez"
-msgstr "Root = / mnt / hdXX / packagez removepkg directoryx"
+msgstr "ROOT=/mnt/hdxx/directoryx removepkg packagez"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Remember that the existing swap partition will be automatically used by the Live installer without any prompting on your part."
-msgstr "Rappelez-vous que la partition de swap existante sera automatiquement utilisé par l'installateur en direct sans aucune contrainte de votre part."
+msgstr "Rappelez-vous que la partition de swap existante sera automatiquement utilisée par l'installateur Live sans aucun confirmation de votre part."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Ristretto is a fast and lightweight picture viewer."
-msgstr "Ristretto est une visionneuse rapide et léger image."
+msgstr "Ristretto est une visionneuse rapide et léger d'images."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live"
-msgstr ""
+msgstr "Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1444,107 +1344,92 @@ msgstr "Salix Live 13.0"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live Installer"
-msgstr ""
+msgstr "Salix Live Installer"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix OS"
-msgstr ""
+msgstr "Salix OS"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix is usually installed with one of the following sets of software:"
-msgstr "Salix est généralement installé avec l'un des ensembles de logiciels suivants:"
+msgstr "Salix est généralement installé avec l'un des ensembles de logiciels suivants :"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix needs, at the very minimum, one swap partition (which will be automatically used by the Live Installer without any user intervention) and one Linux partition to hold its main directory tree."
-msgstr "Salix besoins, à tout le moins, une partition de swap (qui sera automatiquement utilisé par l'installateur en direct sans aucune intervention de l'utilisateur) et une partition Linux d'organiser son arbre répertoire principal."
+msgstr "Salix a besoin d'au moins une partition de swap (qui sera automatiquement utilisée par l'installateur Live sans intervention) et une partition Linux pour contenir l'arbre des répertoires principal."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix Live CD holds a <g id='208'>/salixlive/rootcopy/</g> directory."
-msgstr "Salix Live CD est titulaire d'un <g id='208'> / salixlive / rootcopy / </g> répertoire."
+msgstr "Le CD Salix Live contient une répertoire <g id='208'>/salixlive/rootcopy/</g>."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix Live Installer is very easy to use."
 msgstr "Salix Live Installer est très facile à utiliser."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix Live root password is:"
-msgstr "Salix Live mot de passe root est le suivant:"
+msgstr "Le mot de passe root de Salix Live est le suivant :"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix OS also provides all the necessary <g id='37'>GUI</g> utilities to assist <g id='38'>system management</g>."
-msgstr "Salix OS fournit également tout le nécessaire <g id='37'> GUI </g> services d'utilité publique pour aider les <g id='38'> système de gestion </g> ."
+msgstr "Salix OS fournit également toutes les <g id='37'>interfaces graphiques</g> nécessaires pour <g id='38'>administrer le système</g>."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix OS is a <g id='33'>Linux Distribution</g> based on <g id='34'>Slackware</g> that retains full backwards compatibility with its illustrious parent."
-msgstr "Salix OS est une <g id='33'> Distribution Linux </g> fondée sur <g id='34'> Slackware </g> qui conserve la compatibilité ascendante totale avec ses parents illustres."
+msgstr "Salix OS est une <g id='33'>Distribution Linux</g> basée sur <g id='34'>Slackware</g> qui conserve une compatibilité ascendante totale avec son parent illustre."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix OS package management uses the proven <g id='39'>slapt‑get/gslapt</g> combination includes dependency from both the original Slackware repositories and the complementary and ever-increasing Salix OS <g id='40'>repository</g>."
-msgstr "Salix OS de gestion de paquet utilise les preuves <g id='39'> slapt-get/gslapt </g> combinaison comprend la dépendance à la fois les dépôts d'origine Slackware et de la complémentarité et sans cesse croissant Salix OS <g id='40'> garde </g> ."
+msgstr "Le système de gestion de paquets de Salix OS utilise la combinaison éprouvée <g id='39'>slapt-get/gslapt</g> qui gère les dépendances à la fois les <g id='40'>dépôts</g> d'origine Slackware et de ceux complémentaires et sans cesse croissants de Salix OS garde."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Simply click on a date to display or set the agenda for the day."
-msgstr "Il suffit de cliquer sur une date pour afficher ou de définir l'agenda pour la journée."
+msgstr "Il suffit de cliquer sur une date pour afficher ou définir l'agenda pour la journée."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "So do take the time to familiarize yourself fully with Salix Live Installer."
-msgstr "Ne prenez donc le temps de vous familiariser pleinement avec Salix Live Installer."
+msgstr "Prenez donc le temps de vous familiariser pleinement avec Salix Live Installer."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "So, for example, if you wish to just use your own xorg.conf file, create etc/X11/ directories inside of /salixlive/rootcopy and store your xorg.conf in it."
-msgstr "Ainsi, par exemple, si vous souhaitez simplement utiliser votre propre fichier de configuration xorg.conf, créer etc/X11 / répertoires à l'intérieur de / salixlive / rootcopy et de stocker votre fichier xorg.conf en elle."
+msgstr "Ainsi, par exemple, si vous souhaitez simplement utiliser votre propre fichier de configuration xorg.conf, créez les répertoires etc/X11 à l'intérieur de /salixlive/rootcopy et stocker votre fichier xorg.conf dedans."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Software"
-msgstr ""
+msgstr "Logiciel"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Software."
-msgstr "Software."
+msgstr "Logiciel."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Some of the Live Tools are graphical utilities that can be accessed directly on the desktop while some Live Tools, reserved for advanced users can only be executed in a Terminal, from the command line (<g id='123'>CLI</g>)."
-msgstr "Certains des outils en direct sont des utilitaires graphiques qui peuvent être accessibles directement sur le bureau alors que certains outils Live, réservée aux utilisateurs avancés ne peuvent être exécutées dans un terminal, à partir de la ligne de commande ( <g id='123'> CLI </g> )."
+msgstr "Certains des Outils Live sont des utilitaires graphiques qui peuvent être accessibles directement sur le bureau alors que certains Outils Live, réservés aux utilisateurs avancés ne peuvent être exécutés que dans un terminal, à partir de <g id='123'>la ligne de commande</g>."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Some of them are specific to Linux Live Scripts while some are common for all Linux versions."
-msgstr "Certains d'entre eux sont spécifiques à Linux Live Scripts alors que certains sont communs pour toutes les versions Linux."
+msgstr "Certains d'entre eux sont spécifiques aux Linux Live Scripts alors que certains sont communs à toutes les versions Linux."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Sometimes all you want to do is add a couple files to Salix Live, for example specific configuration files."
-msgstr "Parfois, tout ce que vous voulez faire est d'ajouter un couple de fichiers Salix Live, par exemple les fichiers de configuration spécifiques."
+msgstr "Parfois, tout ce que vous voulez faire c'est d'ajouter quelques fichiers dans Salix Live, par exemple des fichiers de configuration spécifiques."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1554,324 +1439,272 @@ msgstr "Startup Guide"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Support"
-msgstr ""
+msgstr "Support"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Support is available straight from the Salix desktop:"
-msgstr "Le soutien est disponible directement depuis le bureau Salix:"
+msgstr "Le support est disponible directement depuis le bureau Salix :"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Supported archive types include gzip, bzip, bzip2, compress, lzop, zip, jar, lha, rar, zoo, arj, 7-zip, etc."
-msgstr "Types d'archive pris en charge incluent gzip, bzip, bzip2, compress, lzop, ZIP, JAR, LHA, RAR, zoo, ARJ, 7-zip, etc"
+msgstr "Les types d'archive pris en charge incluent gzip, bzip, bzip2, compress, lzop, zip, jar, lha, rar, zoo, arj, 7-zip, etc."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "System Management"
 msgstr "Système de gestion"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The Basic Mode is built on the Core Mode with the addition of Xfce desktop environment, Firefox web browser and <g id='41'>Gslapt package manager</g>."
-msgstr "Le mode de base est construit sur le mode de base avec l'ajout de l'environnement de bureau Xfce, navigateur web Firefox et <g id='41'> Gslapt le gestionnaire de paquets </g> ."
+msgstr "Le Mode de Base est construit sur le Mode Essentiel avec l'ajout de l'environnement de bureau Xfce, le navigateur Firefox et <g id='41'>Gslapt, le gestionnaire de paquets</g>."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The Linux Live Scripts come with the following useful commands:"
-msgstr "The Scripts Live Linux viennent avec les commandes utiles:"
+msgstr "Les Linux Live Scripts sont fournis avec ces commandes :"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The Office applications are composed of the full <g id='42'>OpenOffice productivity suite</g>, <g id='43'>ePDFView</g> &amp;"
-msgstr "Les applications Office sont composées de la totalité <g id='42'> OpenOffice Productivity Suite </g> , <g id='43'> ePDFView </g> &amp;"
+msgstr "Les applications bureautiques sont composées de <g id='42'>la suite complète OpenOffice</g>, <g id='43'>ePDFView</g> et"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The Smart Common Input Method platform (SCIM) is an X input method (XIM) platform containing support for more than thirty languages (Chinese, Japanese, Korean and many European languages)."
-msgstr "Le Smart Common Input Method platform (SCIM) est une méthode d'entrée X (XIM) plate-forme contenant le support de plus de trente langues (chinois, japonais, coréen et de nombreuses langues européennes)."
+msgstr "Smart Common Input Method platform (SCIM) est une méthode d'entrée X (XIM) contenant le support de plus de trente langues (chinois, japonais, coréen et de nombreuses langues européennes)."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The content of this directory is copied to the root filesystem each time you boot, preserving all directories."
-msgstr "Le contenu de ce répertoire est copié sur le système de fichiers racine à chaque démarrage, la préservation de tous les répertoires."
+msgstr "Le contenu de ce répertoire est copié sur le système de fichiers racine à chaque démarrage, en conservant toutes l'arborescence."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The desktop link, Salix Online, will bring you to the Salix <g id='85'>Homepage</g>."
-msgstr "Le lien Desktop, Salix en ligne, allez-vous apporter à l'Salix <g id='85'> Page d'accueil </g> ."
+msgstr "Le lien sur le bureau, Salix Online, vous amènera sur la <g id='85'>Page d'accueil</g> de Salix."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The first screen to greet you will enable you to select your language."
-msgstr "Le premier écran vous saluer vous permettra de choisir votre langue."
+msgstr "Le premier écran vous permettra de choisir votre langue."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The latest Salix OS or Salix Live releases are freely &amp;"
-msgstr "Le dernier système d'exploitation ou Salix Salix sont librement communiqués Live &amp;"
+msgstr "La dernière version de Salix OS ou de Salix Live sont gratuitement et"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The purpose of this manual is to enable you to take full advantage of the many functionalities of Salix Live."
 msgstr "Le but de ce manuel est de vous permettre de profiter pleinement des nombreuses fonctionnalités de Salix Live."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The resulting CD must not contain the .iso file, or you have made a mistake in the process."
-msgstr "L'album ne doit pas contenir le fichier. Iso, ou que vous avez fait une erreur dans le processus."
+msgstr "Le CD résultant ne doit pas contenir le fichier .iso, ou vous avez fait une erreur dans le processus."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The search option of the forum will quickly show you if the question you have in mind has already been posted by a member of the community and if it has been answered."
-msgstr "L'option de recherche du forum, vous gagnerez rapidement montrer si la question que vous avez à l'esprit a déjà été envoyé par un membre de la communauté et si elle a été répondu."
+msgstr "L'option de recherche du forum vous montrera rapidement si la question que vous avez à l'esprit a déjà été envoyé par un membre de la communauté et si elle a été répondue."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "This is ideal for advanced users who would like to install a lightweight Xfce and add their own choice of applications."
 msgstr "Cette fonction est idéale pour les utilisateurs avancés qui souhaitent installer un Xfce léger et ajouter leur propre choix d'applications."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "This is ideal if you are an experienced user and want to customize your installation for any specific purpose, such as a web server, file server etc."
 msgstr "C'est idéal si vous êtes un utilisateur expérimenté et que vous souhaitez personnaliser votre installation à des fins particulières, par exemple un serveur web, serveur de fichiers, etc"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "This last mode is build on the Basic Mode &amp;"
-msgstr "Ce dernier mode est s'appuyer sur le mode de base et"
+msgstr "Ce dernier mode s'appuie sur le Mode de Base et"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "This utility manages the creation, deletion &amp;"
 msgstr "Cet utilitaire gère la création, suppression et"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "This utility will configure the keyboard disposition being used both in the graphical &amp;"
-msgstr "Ce petit utilitaire vous configurez la disposition du clavier utilisé aussi bien dans la structure graphique &amp;"
+msgstr "Cet utilitaire configurera la disposition du clavier utilisée aussi bien en mode graphique et"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "This utility will configure the language of your system."
 msgstr "Cet utilitaire va configurer la langue de votre système."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "This utility will configure your computer clock."
-msgstr "Ce petit utilitaire vous configurez votre ordinateur horloge."
+msgstr "Cet utilitaire configurera l'heure de votre ordinateur."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Time, Keyboard, Locale, Partitions, Users &amp;"
-msgstr "Temps, Claviers, Locale, partitions, des utilisateurs et des"
+msgstr "Heure, Clavier, Locale, Partitions, Utilisateurs et"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "To do this however, you must first create a special \"persistent file\" on your hard drive, which will have a pre-decided fixed-size and will be formatted as a Linux file system."
-msgstr "Pour ce faire cependant, vous devez d'abord créer une ligne spéciale \\ \"file persistants \" sur votre disque dur, ce qui aura une pré-décidé de taille fixe et sera mis en forme comme un système de fichiers Linux."
+msgstr "Pour ce faire cependant, vous devez d'abord créer un fichier spécial \"persistant\" sur votre disque dur, ce qui aura une taille fixe pré-décidée et sera formaté avec un système de fichiers Linux."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "To enable debug mode:"
-msgstr "Pour activer le mode debug:"
+msgstr "Pour activer le mode debug :"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "To enter a cheatcode, you simply have to add it to the 'linux' line above (after changes=slxsave.xfs), ensuring a blank space separates it from the previous boot parameter."
-msgstr "Pour entrer un cheatcode, il vous suffit de l'ajouter à la «linux» ligne ci-dessus (après changes = slxsave.xfs), assurant un espace vide le sépare du paramètre d'amorçage précédent."
+msgstr "Pour entrer un cheatcode, il vous suffit de l'ajouter à la à la ligne 'linux' ci-dessus (après changes=slxsave.xfs), en vous assurant qu'un espace vide le sépare du paramètre précédent."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "To execute it in runlevel 3, simply type usersetup."
-msgstr "Pour l'exécuter en niveau 3, il suffit de usersetup type."
+msgstr "Pour l'exécuter en runlevel 3, il suffit de taper usersetup."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "To execute this utility in runlevel 3, simply type dotnew."
-msgstr "Pour exécuter cet utilitaire en niveau 3, tapez simplement dotnew."
+msgstr "Pour exécuter cet utilitaire en runlevel 3, tapez simplement dotnew."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "To execute this utility in runlevel 3, simply type keyboardsetup."
-msgstr "Pour exécuter cet utilitaire en niveau 3, il suffit de keyboardsetup type."
+msgstr "Pour exécuter cet utilitaire en runlevel 3, il suffit de taper keyboardsetup."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "To execute this utility in runlevel 3, simply type servicesetup."
-msgstr "Pour exécuter cet utilitaire en niveau 3, il suffit de ServiceSetup type."
+msgstr "Pour exécuter cet utilitaire en runlevel 3, il suffit de taper ServiceSetup."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "To load Salix Live from a different location than the boot device:"
-msgstr "Pour charger Salix en direct à partir d'un emplacement différent de celui du périphérique de démarrage:"
+msgstr "Pour charger Salix Live à partir d'un emplacement différent de celui du périphérique de démarrage :"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "To load in console only without executing Xorg (runlevel 3)"
-msgstr "Pour charger en mode console et sans exécuter Xorg (niveau 3)"
+msgstr "Pour démarrer en mode console sans exécuter Xorg (runlevel 3)"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "To load optional modules from /optional/ directory on the CD:"
-msgstr "Pour charger les modules optionnels de / en option / répertoire sur le CD:"
+msgstr "Pour charger les modules optionnels du répertoire /optional/ du CD :"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "To remaster Salix Live, you could simply use the program Isomaster."
-msgstr "Pour remasteriser Salix Live, vous pouvez simplement utiliser le isomaster programme."
+msgstr "Pour remasteriser Salix Live, vous pouvez simplement utiliser le logiciel Isomaster."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "To safeguard all changes made in a Salix Live session:"
-msgstr "Pour sauvegarder tous les changements faits dans une session Live Salix:"
+msgstr "Pour sauvegarder tous les changements faits dans une session Salix Live :"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "To set root's password to \"somepass\", or ask for a new password:"
-msgstr "Pour définir mot de passe root à \\ \"somepass \", ou demander un nouveau mot de passe:"
+msgstr "Pour définir mot de passe root à \"somepass\", ou demander un nouveau mot de passe :"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Totem is a media player (audio and video) which utilizes the GStreamer framework for playback."
-msgstr "Totem est un lecteur multimédia (audio et vidéo) qui utilise le cadre de GStreamer pour la lecture."
+msgstr "Totem est un lecteur multimédia (audio et vidéo) qui utilise GStreamer pour la lecture."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Type help to view all available commands."
 msgstr "Tapez help pour afficher toutes les commandes disponibles."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Undo options are available &amp;"
-msgstr "Undo options sont disponibles &amp;"
+msgstr "L'annulation est disponible et"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "We recommend you format your partions with the ext4 file system."
-msgstr "Nous vous conseillons de formater votre Cloisons avec le système de fichier ext4."
+msgstr "Nous vous conseillons de formater vos partitions avec le système de fichier ext4."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "While instructions below the Salix Live Boot menu will give you access to Salix Live 'manual' advanced Boot options."
-msgstr "Bien que les instructions ci-dessous dans le menu Boot Salix Live vous donnera accès à Salix Live 'manuel' options de démarrage avancées."
+msgstr "Les instructions en dessous du menu de démarrage de Salix Live vous donneront accès aux options de démarrage avancées."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Wicd is an open source wired and wireless network manager for Linux which aims to provide a simple interface to connect to networks with a wide variety of settings."
-msgstr "Wicd est un logiciel libre gestionnaire de réseau filaire et sans fil pour Linux qui a pour but de fournir une interface simple pour se connecter à des réseaux avec une grande variété de paramètres."
+msgstr "Wicd est un logiciel libre de gestion réseau filaire et sans fil pour Linux qui a pour but de fournir une interface simple pour se connecter à des réseaux avec une grande variété de paramètres."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "XSane"
-msgstr ""
+msgstr "XSane"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "XSane is a GUI scanning utility which uses the SANE library to communicate with scanners."
-msgstr "XSane est une interface graphique de balayage qui utilise la bibliothèque SANE pour communiquer avec les scanners."
+msgstr "XSane est une interface graphique pour scanner qui utilise la bibliothèque SANE pour communiquer avec les scanners."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Xfce is a lightweight desktop environment for various Unix/Linux systems."
-msgstr "Xfce est un environnement de bureau léger pour divers systèmes Unix / Linux."
+msgstr "Xfce est un environnement de bureau léger pour divers systèmes Unix/Linux."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You can check that the module contains the unwanted packages b<g id='195'>y listing the /</g><g id='196'>mnt/hdxx/directoryx/</g><g id='197'>var/log/packages/ directory.)</g>"
-msgstr "Vous pouvez vérifier que le module contient les paquets indésirables b <g id='195'> annonce y est la / </g><g id='196'> mnt / hdXX / directoryx / </g><g id='197'> var / log / packages / répertoire). </g>"
+msgstr "Vous pouvez vérifier que le module contient les paquets indésirables <g id='195'> en listant </g><g id='196'>/mnt/hdXX/directoryx/</g><g id='197'>var/log/packages/directory).</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You can fully customize the content of a module by removing or adding applications and by deleting, editing or adding new files inside it."
-msgstr "Vous pouvez personnaliser complètement le contenu d'un module en supprimant ou en ajoutant des applications et en supprimant, l'édition ou l'ajout de nouveaux fichiers à l'intérieur."
+msgstr "Vous pouvez personnaliser complètement le contenu d'un module en supprimant ou en ajoutant des applications et en supprimant, éditant ou ajoutant de nouveaux fichiers à l'intérieur."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You could also use the <g id='88'>IRC link</g> above to be in live communication with some member of the community &amp;"
-msgstr "Vous pouvez également utiliser les <g id='88'> IRC lien </g> ci-dessus pour être dans une communication en direct avec certains membres de la Communauté et"
+msgstr "Vous pouvez également utiliser le <g id='88'>lien IRC</g> ci-dessus pour être en communication directe avec certains membres de la Communauté et"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You must open an ISO file of Salix Live (for example the one you downloaded) and then add to and/or remove from the modules situated in <g id='209'>/salixlive/base</g>, <g id='210'>/salixlive/modules</g> or <g id='211'>/salixlive/optional</g>."
-msgstr "Vous devez ouvrir un fichier ISO de Salix Live (par exemple celui que vous avez téléchargé), puis ajouter et / ou enlever des modules situés dans <g id='209'> / salixlive / base </g> , <g id='210'> / salixlive / modules </g> ou <g id='211'> / salixlive / facultatif </g> ."
+msgstr "Vous devez ouvrir un fichier ISO de Salix Live (par exemple celui que vous avez téléchargé), puis ajouter et/ou enlever des modules situés dans <g id='209'>/salixlive/base</g> , <g id='210'>/salixlive/modules</g> ou <g id='211'>/salixlive/facultatif</g>."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You simply need to burn it on a CD-ROM with Brasero."
 msgstr "Il vous suffit de le graver sur un CD-ROM avec Brasero."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You will be greeted by a reminder that all the necessary partitions have to be created first."
-msgstr "Vous serez accueillis par un rappel que toutes les partitions nécessaires doivent d'abord être créé."
+msgstr "Vous serez accueillis par un rappel que toutes les partitions nécessaires doivent d'abord être créées."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Your computer must be set to boot on the optical drive first before defaulting on the internal hard disk drive."
-msgstr "Votre ordinateur doit être configuré pour démarrer sur le premier disque optique avant défaillant sur le disque dur interne."
+msgstr "Votre ordinateur doit être configuré pour démarrer sur le premier disque optique avant de démarrer sur le disque dur interne."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "a GUI interface."
-msgstr "une interface GUI."
+msgstr "une interface graphique."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "basic and scientific mode."
-msgstr "de base et le mode scientifique."
+msgstr "mode de base et mode scientifique."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1939,16 +1772,14 @@ msgid "dir2lzm directoryx modulex.lzm"
 msgstr "dir2lzm directoryx modulex.lzm"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "ePDFView is a a very lightweight, simple PDF document viewer."
-msgstr "ePDFView aa est très léger, simple afficheur de documents PDF."
+msgstr "ePDFView est un afficheur léger et simple de documentes PDF."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "easily available as ISO image files from Salix OS <g id='96'>download page</g>."
-msgstr "facilement disponible sous forme de fichiers image ISO à partir de Salix OS <g id='96'> Page de téléchargement </g> ."
+msgstr "facilement disponible sous forme de fichiers image ISO depuis <g id='96'>la page de téléchargement</g> de Salix OS."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1976,52 +1807,44 @@ msgid "from=path/to/salixlive-version.iso"
 msgstr "from=path/to/salixlive-version.iso"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "fully functional operating system."
 msgstr "système d'exploitation entièrement fonctionnel."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "gFTP aims to be simple to use yet powerful."
 msgstr "gFTP se veut simple à utiliser mais puissant."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "gFTP is an FTP client with both a text &amp;"
-msgstr "gFTP est un client FTP à la fois un texte &amp;"
+msgstr "gFTP est un client FTP avec à la fois un texte et"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "get instant help if necessary."
 msgstr "demander de l'aide si nécessaire."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "groups of users."
 msgstr "groupes d'utilisateurs."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "highly responsive."
 msgstr "très réactif."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "human readable."
-msgstr "lisibles."
+msgstr "lisible."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "if it suits your personal tastes.</g>"
-msgstr "s'il correspond à vos goûts personnels. </g>"
+msgstr "s'il correspond à vos goûts personnels.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2054,16 +1877,14 @@ msgid "installpkg –-root=/mnt/hdxx/directoryx package3-x.x.x.txz"
 msgstr "installpkg –-root=/mnt/hdxx/directoryx package3-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "is available directly on the desktop."
 msgstr "est disponible directement sur le bureau."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "is independent of any particular Desktop Environment."
-msgstr "est indépendante de tout environnement particulier Desktop."
+msgstr "est indépendant de tout environnement de bureau particulier."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2091,28 +1912,24 @@ msgid "mkdir /mnt/hdxx/custom_live"
 msgstr "mkdir /mnt/hdxx/custom_live"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "non-graphical environments."
 msgstr "environnements non-graphiques."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "none of the settings will be applied until you click on the 'Launch Salix Install' button."
-msgstr "Aucun des paramètres seront appliqués que lorsque vous cliquerez sur le bouton 'Lancer Salix Installer »."
+msgstr "aucun des paramètres ne seront appliqués jusqu'à ce que vous cliquiez sur le bouton « Lancer l'installation de Salix »."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "numerous plugins."
-msgstr "nombreux plugins."
+msgstr "nombreux greffons."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "offers a full range of useful software applications one could need on a daily basis while following the \"one application per task\" rationale."
-msgstr "offre une gamme complète d'applications de logiciels utiles que l'on pourrait avoir besoin sur une base quotidienne tout en suivant le \\ \"une application par tâche \" raison d'être."
+msgstr "offre une gamme complète d'applications utiles que l'on pourrait avoir besoin quotidiennement tout en suivant le principe \"une application par tâche\"."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2125,7 +1942,6 @@ msgid "passwd=somepass"
 msgstr "passwd=somepass"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "properties of all the system users &amp;"
 msgstr "propriétés de tous les utilisateurs du système et"
@@ -2141,27 +1957,27 @@ msgid "rm /mnt/hdxx/custom_live/base/unwanted_module"
 msgstr "rm /mnt/hdxx/custom_live/base/unwanted_module"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "the Persistence Wizard can assist you in creating a persistent file that will be automatically managed by Salix Live.)"
-msgstr "Persistance de l'Assistant peut vous aider à créer un fichier persistant qui sera géré automatiquement par Salix Live.)"
+msgstr "L'Assistant de Persistance peut vous aider à créer un fichier de persistance qui sera géré automatiquement par Salix Live.)"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "this will prevent the first \"reboot on first boot\" operation."
-msgstr ""
+msgstr "cela supprimera la nécessité de \"redémarrage au premier démarrage\"."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "will guide you every step of the way."
-msgstr ""
+msgstr "vous guidera étape par étape."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "will not necessitate a reboot."
-msgstr ""
+msgstr "ne nécessitera pas un redémarrage."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "title"
 msgid "Salix Live Startup Guide"
-msgstr ""
+msgstr "Salix Live Startup Guide"
+
