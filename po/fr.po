@@ -619,102 +619,102 @@ msgstr "<g id='130'>Gparted est inclus dans Salix Live pour vous aider à </g><
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='134'>Salix Live Installer will enable you to </g><g id='135'><g id='136'>install Salix OS</g></g><g id='137'> from the comfort of Salix Live graphical environment.</g>"
-msgstr ""
+msgstr "<g id='134'>Salix Live Installer vous permettra d'</g><g id='135'><g id='136'>installer Salix OS</g></g><g id='137'> avec le confort de l'environnement graphique Salix Live.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='138'>Like most Live CDs based on Slackware, Salix Live is relying on the </g><g id='139'><g id='140'>Linux Live Scripts</g></g><g id='141'> technology. Some of the shell scripts it includes will enable an advanced user to fully </g><g id='142'><g id='143'>customize &amp; re-master</g></g><g id='144'>  <x id='145'/>Salix Live to better suit his or her own needs.</g>"
-msgstr ""
+msgstr "<g id='138'>Comme la plupart des Live CD basé sur Slackware, Salix Live s'appuie sur la technologie </g><g id='139'><g id='140'>Linux Live Scripts</g></g><g id='141'>. Certains des scripts shell qu'il comprend permettra à un utilisateur avancé de une complète </g><g id='142'><g id='143'>personnalisation et re-masterisation</g></g><g id='144'><x id='145'/> de Salix Live afin de mieux répondre à ses besoins propres.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='146'>In order to bypass certain limitations or to complement some of the third-party technology it uses, Salix developed its own set of patches &amp; scripts which for the most part need no user interaction while some can be executed, for instance to facilitate the creation of a </g><g id='147'><g id='148'>Salix Live USB Flash Disk</g></g><g id='149'>. <x id='150'/></g>"
-msgstr ""
+msgstr "<g id='146'>Afin de contourner certaines limitations ou de compléter certaines choses, Salix a développé son propre ensemble de correctifs et de scripts qui, pour la plupart, n'ont pas besoin d'interaction avec l'utilisateur tandis que certains peuvent être exécutés, par exemple, pour faciliter la création d'une </g><g id='147'><g id='148'>clé USB Salix Live</g></g><g id='149'>.<x id='150'/></g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='151'>A disk device can be subdivided into one or more partitions</g>."
-msgstr ""
+msgstr "<g id='151'>Un disque peut être subdivisé en une ou plusieurs partitions.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='152'>If you do not already have the necessary partitions ready, you may want to use Gparted to create them first. </g><g id='153'><g id='154'>Gparted</g></g><g id='155'> will enable you to change the partition organization on a disk device while preserving the contents of the partitions.</g>"
-msgstr ""
+msgstr "<g id='152'>Si vous n'avez pas déjà les partitions nécessaires, vous pouvez utiliser Gparted pour les créer d'abord. </g><g id='153'><g id='154'>Gparted</g></g><g id='155'> vous permettra de changer l'organisation des partitions sur un disque tout en préservant le contenu ces partitions.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='169'><x id='170'/>l</g><g id='171'>oad=module</g>"
-msgstr ""
+msgstr "<g id='169'><x id='170'/>l</g><g id='171'>oad = module</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='206'>By browsing </g>/mnt/live/memory/images/xxx.lzm/<g id='207'>, you can view the contents of each module, therefore you'll find which module holds a given package in </g>/mnt/live/memory/images/xxx.lzm/var/log/packages/"
-msgstr ""
+msgstr "<g id='206'>En parcourant </g>/mnt/live/memory/images/xxx.lzm/<g id='207'>, vous pouvez afficher le contenu de chaque module, par conséquent, vous trouverez le module qui est titulaire d'un paquet donné dans </g>/mnt/live/memory/images/xxx.lzm/var/log/packages/"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='25'>The latest version of this document can be found </g><g id='26'><g id='27'>here</g></g><g id='28'>.</g>"
-msgstr ""
+msgstr "<g id='25'>La dernière version de ce document peut être trouvée </g><g id='26'><g id='27'>ici</g></g><g id='28'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='29'>Salix Live Startup Guide is released under </g><g id='30'><g id='31'>CC-BY-SA 3.0</g></g><g id='32'> license.</g>"
-msgstr ""
+msgstr "<g id='29'>Le Salix Live Startup Guide est publié sous la licence </g><g id='30'><g id='31'>CC-BY-SA 3.0</g></g><g id='32'></g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='44'>Orage agenda</g>."
-msgstr ""
+msgstr "<g id='44'>Agenda Orage</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='48'>gFTP</g>."
-msgstr ""
+msgstr "<g id='48'>gFTP</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='55'>Salix Codec Installer</g>."
-msgstr ""
+msgstr "<g id='55'>Salix Codec Installer</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='59'>Geany</g> is provided in the Development applications."
-msgstr ""
+msgstr "<g id='59'>Geany</g> est disponible dans les applications de développement."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='66'>Transmission is a </g><g id='67'><g id='68'>BitTorrent</g></g><g id='69'> client that is simple, lean, &amp; powerful.</g>"
-msgstr ""
+msgstr "<g id='66'>Transmission est un client </g><g id='67'><g id='68'>BitTorrent</g></g><g id='69'> qui est simple, léger, et puissant.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='70'>You can use Asunder to save tracks from an Audio CD as any of WAV, MP3, OGG, FLAC, WavPack, Musepack, AAC, and Monkey's Audio fil</g>es."
-msgstr ""
+msgstr "<g id='70'>Vous pouvez utiliser Asunder pour enregistrer des pistes d'un CD audio vers des fichiers WAV, MP3, OGG, FLAC, WavPack, Musepack, AAC et Monkey's Audio.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='71'>All system management in Salix OS can be done the usual (</g><g id='72'><g id='73'>manual</g></g><g id='74'>) Slackware way.</g>"
-msgstr ""
+msgstr "<g id='71'>Toute la gestion du système dans Salix OS peut être réalisée à la façon (</g><g id='72'><g id='73'>manuelle</g></g><g id='74'>) de Slackware.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='77'>To execute it in runlevel 3, simply type localesetup</g>."
-msgstr ""
+msgstr "<g id='77'>Pour l'exécuter en runlevel 3, tapez simplement localesetup</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='78'>To execute it in runlevel 3, simply type clocksetup</g>."
-msgstr ""
+msgstr "<g id='78'>Pour l'exécuter en runlevel 3, tapez simplement clocksetup</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='79'>In Unix/Linux, all users and groups of users are given certain </g><g id='80'><g id='81'>permissions &amp; access rights</g></g><g id='82'> to some part of the system in order to control their ability to access &amp; change it.</g>"
-msgstr ""
+msgstr "<g id='79'>Sous Unix/Linux, à tous les utilisateurs et groupes d'utilisateurs sont donnés certains </g><g id='80'><g id='81'>autorisations et droits d'accès</g></g><g id='82'> pour une certaine partie du système afin de contrôler leur capacité d'y accéder et de le modifier.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='83'>Slapt-get</g> is a CLI tool providing an APT‑like system for Slackware package management."
-msgstr ""
+msgstr "<g id='83'>Slapt-get</g> est un outil en ligne de commande fournissant un système de gestion des paquets type APT pour Slackware."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
