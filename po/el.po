@@ -729,8 +729,7 @@ msgstr "<g id='87'>Το Forum</g> θα είναι δυο άλλες σπουδα
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='89'>Salix Live is the Live CD version of </g><g id='90'>Salix OS</g><g id='91'>. You can therefore safely use it to 'test drive' Salix OS without having to install anything on your computer. <x id='92'/>You will thus be able to</g><g id='93'> determine whether and to what extent <x id='94'/>Salix OS is compatible with your particular hardware configuration &amp;"
-msgstr ""
-"<g id='89'>Το Salix Live είναι η έκδοση Live CD του </g><g id='90'>Salix OS</g><g id='91'>. Μπορείτε επομένως να το χρησιμοποιήσετε με ασφάλεια να κάνετε ένα 'test drive' στο λειτουργικό σύστημα Salix OS χωρίς να εγκαταστήσετε τίποτε στον υπολογιστή σας.<x id='92'/>Συνεπώς μπορείτε να</g><g id='93'>καθορίσετε εάν και σε πιο βαθμό <x id='94'/>το Salix OS είναι συμβατό με τη συγκεκριμένη διαμόρφωση υλικού &amp;"
+msgstr "<g id='89'>Το Salix Live είναι η έκδοση Live CD του </g><g id='90'>Salix OS</g><g id='91'>. Μπορείτε επομένως να το χρησιμοποιήσετε με ασφάλεια να κάνετε ένα 'test drive' στο λειτουργικό σύστημα Salix OS χωρίς να εγκαταστήσετε τίποτε στον υπολογιστή σας.<x id='92'/>Συνεπώς μπορείτε να</g><g id='93'>καθορίσετε εάν και σε πιο βαθμό <x id='94'/>το Salix OS είναι συμβατό με τη συγκεκριμένη διαμόρφωση υλικού &amp;"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -795,7 +794,7 @@ msgstr "Εναλλακτικά, μπορείτε να you can run \"install-on-U
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Alternatively, you can use any one of the Salix System Tools which you will find under the System section of the Menu."
-msgstr "Εναλλακτικά, μπορείτε να χησιμοποιήσετε οποιοδήποτε από τα Εργαλεία Συστήματος του  Salix που θα βρείτε κάτω από την επιλογή Σύστημα του Μενού"
+msgstr "Εναλλακτικά, μπορείτε να χρησιμοποιήσετε οποιοδήποτε από τα Εργαλεία Συστήματος του  Salix που θα βρείτε κάτω από την επιλογή Σύστημα του Μενού"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -928,102 +927,102 @@ msgstr "Το Dotnew διαχειρίζεται τις αναβαθμίσεις �
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Even if run from a CD/DVD, Salix Live gives you the possibility to save any of your work or modification performed while in a Live session."
-msgstr ""
+msgstr "Ακόμη και αν τρέχει από ένα CD/DVD, το Salix Live σας δίνει τη δυνατότητα να σώσετε τη δουλειά σας ή τροποποιήσεις που έγιναν ενω είστε στη Ζωντανή σύνοδο."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Exaile is a music manager which incorporates automatic fetching of album art, lyrics fetching, Last.fm scrobbling, support for many portable media players, Internet radio such as Shoutcast, tabbed playlists, etc."
-msgstr ""
+msgstr "Το Exaile είναι ένας διαχειριστής μουσικής ο οποίος ενσωματώνει αυτόματη εξαγωγή της τεχνικής σχεδίασης του album , εξαγωγή στοίχων, Last.fm scrobbling, υποστήριξη για πολλούς μεταφερτούς αναπαραγωγείς ήχου, Ιντερνετικό ραδιόφωνο όπως Shoutcast, tabbed playlists, κλπ."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Explode a module to a directory"
-msgstr ""
+msgstr "Αποσυμπίεση ενός αρθρώματος σε ένα κατάλογο."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "File Roller is an archive manager."
-msgstr ""
+msgstr "Το File Roller είναι ένας διαχειριστής συμπιεσμένων αρχείων."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Finally, Accessories applications include a variety of small, useful utilities among which are <g id='60'>Galculator</g>, <g id='61'>Mousepad</g>, <g id='62'>Catfish</g>, <g id='63'>File Roller</g>, <g id='64'>SCIM</g>, etc."
-msgstr ""
+msgstr "Και τελικά οι εφαρμογές Εργαλείων περιλαμβάνουν μια ποικιλία από μικρές εφαρμογές μεταξύ των οποίων είναι τα <g id='60'>Galculator</g>, <g id='61'>Mousepad</g>, <g id='62'>Catfish</g>, <g id='63'>File Roller</g>, <g id='64'>SCIM</g>, κλπ."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Finally, Salix OS strives to provide a localized system which is usable around the globe and can easily be used by non‑English speakers."
-msgstr ""
+msgstr "Τελικά το λειτουργικό σύστημα Salix προσπαθεί να παρέχει ένα επιτόπιο σύστημα που είναι χρήσιμο παγκόσμια και μπορεί εύκολα να χρησιμοποιηθεί από χρήστες που δεν μιλούν την Αγγλική γλώσσα."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Functionalities:"
-msgstr ""
+msgstr "Λειτουργικότητες:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "GIMP (GNU Image Manipulation Program) is an image retouching and editing tool."
-msgstr ""
+msgstr "Το GIMP (GNU Image Manipulation Program) είναι ένα εργαλείο επεξεργασίας και διόρθωσης γραφικών."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Galculator is a calculator featuring two user modes:"
-msgstr ""
+msgstr "Το Galculator είναι μια αριθμομηχανή με δυο χαρακτηριστικές καταστάσεις λειτουργίας:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Geany is a small and lightweight Integrated Development Environment which only has a few dependencies &amp;"
-msgstr ""
+msgstr "Το Geany είναι ένα μικρό και ελαφρύ ολοκληρωμένο περιβάλλον ανάπτυξης εφαρμογών που έχει μόνον λίγες εξαρτήσεις &amp;"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Graphical applications include the <g id='56'>Gimp</g>, <g id='57'>Ristretto</g> &amp;"
-msgstr ""
+msgstr "Οι Γραφικές εφαρμογές περιλαμβάνουν τα <g id='56'>Gimp</g>, <g id='57'>Ristretto</g> &amp;"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Gslapt is the GUI version of <g id='84'>Slapt-get</g>."
-msgstr ""
+msgstr "Το Gslapt είναι η γραφική έκδοση του<g id='84'>Slapt-get</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Here you will be able to select the services that should or shouldn't be activated in the background when your system starts."
-msgstr ""
+msgstr "Εδώ μπορείτε να επιλέξετε τις υπηρεσίες που θα ή δεν θα ενεργοποιηθούν στο παρασκήνιο όταν το σύστημά σας ξεκινά."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Here, only the minimum software essential for a console system to start is included."
-msgstr ""
+msgstr "Εδώ, περιλαμβάνεται μόνο το ελάχιστο λογισμικό, που είναι αναγκαίο για τη λειτουργία ενός συστήματος μόνο γραμμής εντολών (κονσόλας)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "However due to its Live nature it also includes some extra utilities which are either needed or simply very useful in a Live session."
-msgstr ""
+msgstr "Ωστόσο εξαιτίας της Ζωντανής φύσης του περιλαμβάνει επίσης μερικές επιπρόσθετες εφαρμογές που είτε χρειάζονται είτε είναι πολύ χρήσιμες στη Ζωντανή σύνοδο."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "However, while in the <g id='35'>KISS</g> principle that Slackware adheres to, \"Simple\" refers to the viewpoint of system design, Salix OS also applies it to the viewpoint of the end user."
-msgstr ""
+msgstr "Ωστόσο, ενώ η<g id='35'>KISS </g>αρχή του Slackware στην \"Απλότητα\" αναφέρεται στην άποψη του σχεδιασμού του συστήματος, το Salix OS προσπαθεί να το κάνει να αναφερθεί και στον τελικό χρήστη επίσης."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "ISO Master is an application for creating and modifying ISO9660 files (ISO images)."
-msgstr ""
+msgstr "Το ISO Master είναι μια εφαρμογή δημιουργίας και τροποποίησης αρχείων ISO9660 (ISO images)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "If necessary, you can verify the integrity of your downloaded file by comparing its <g id='97'>md5sum</g> file with the original one uploaded besides the corresponding ISO image file by Salix OS."
-msgstr ""
+msgstr "εάν έιναι αναγκαίο, μπορείτε να επαληθεύσετε την ακεραιότητα του μεταφορτωμένου αρχείου συγκρίνοντας το αντίστοιχο<g id='97'>md5sum</g> αρχείο με το αυθεντικό που είναι ανεβασμένο και αντιστοιχεί στο αρχείο εικόνας ISO του Salix OS."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "If possible, it is recommended to also have at least one other Linux partition to hold your /home directory."
-msgstr ""
+msgstr "Εάν είναι δυνατόν, προτείνεται επίσης να έχετε τουλάχιστον ένα άλλο διαμέρισμα Linux που θα περιέχει το /home κατάλογό σας."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "If that is the case, you simply need to feed Salix Live CD/DVD in the optical drive and start your computer."
-msgstr ""
+msgstr "Εάν είναι αυτή η περίπτωση, απλά χρειάζεται να τοποθετήσετε το Salix Live CD/DVD στον οπτικό δίσκο και να ξεκινήστε τον υπολογιστή σας."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
