@@ -1430,22 +1430,22 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Some of the Live Tools are graphical utilities that can be accessed directly on the desktop while some Live Tools, reserved for advanced users can only be executed in a Terminal, from the command line (<g id='123'>CLI</g>)."
-msgstr ""
+msgstr "Μερικά από τα Live Tools είναι γραφικές εφαρμογές που μπορεί να προσπελαστούν άμεσα στο γραφικό περιβάλλον ενώ μερικά Live Tools, δεσμευμένα για προχωρημένους χρήστες μπορούν να εκτελεστούν μόνο σε ένα Τερματικό, από τη γραμμή εντολών (<g id='123'>CLI</g>)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Some of them are specific to Linux Live Scripts while some are common for all Linux versions."
-msgstr ""
+msgstr "Κάποια από αυτά είναι ειδικά για τα Linux Live Scripts ενώ άλλα είναι κοινά  για όλες τις εκδόσεις του Linux."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Sometimes all you want to do is add a couple files to Salix Live, for example specific configuration files."
-msgstr ""
+msgstr "Κάποιες φορές αυτό που θέλετε να κάνετε είναι να προσθέσετε κανα δυο αρχεία στο Salix Live, για παράδειγμα ειδικά αρχεία διαμόρφωσης."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Startup Guide"
-msgstr ""
+msgstr "Οδηγός Εκκίνησης"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1455,77 +1455,77 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Support is available straight from the Salix desktop:"
-msgstr ""
+msgstr "Η υποστήριξη είναι άμεσα διαθέσιμη από το περιβάλλον εργασίας του Salix:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Supported archive types include gzip, bzip, bzip2, compress, lzop, zip, jar, lha, rar, zoo, arj, 7-zip, etc."
-msgstr ""
+msgstr "Υποστηριζόμενοι τύποι συμπιεσμένων αρχείων είναι gzip, bzip, bzip2, compress, lzop, zip, jar, lha, rar, zoo, arj, 7-zip, κλπ."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "System Management"
-msgstr ""
+msgstr "Διαχείριση Συστήματος"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Basic Mode is built on the Core Mode with the addition of Xfce desktop environment, Firefox web browser and <g id='41'>Gslapt package manager</g>."
-msgstr ""
+msgstr "Ο βασικός τρόπος βασίζεται στον συμπαγή τρόπο (Core Mode) με τη προσθήκη του περιβάλλοντος εργασίας Xfce, του φυλομετρητή ιστοσελίδων Firefox και <g id='41'>του διαχειριστή πακέτων Gslapt</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Linux Live Scripts come with the following useful commands:"
-msgstr ""
+msgstr "Τα Linux Live Scripts έρχονται με τα ακόλουθες χρήσιμες εντολές:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Office applications are composed of the full <g id='42'>OpenOffice productivity suite</g>, <g id='43'>ePDFView</g> &amp;"
-msgstr ""
+msgstr "Οι εφαρμογές γραφείου αποτελούνται από τη πλήρη <g id='42'>παραγωγική σουίτα γραφείου OpenOffice</g>, <g id='43'>ePDFView</g> &amp;"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Smart Common Input Method platform (SCIM) is an X input method (XIM) platform containing support for more than thirty languages (Chinese, Japanese, Korean and many European languages)."
-msgstr ""
+msgstr "Το Smart Common Input Method platform (SCIM) είναι πλατφόρμα X input method (XIM) που περιλαμβάνει υποστήριξη για περισσότερες από 30 γλώσσες (Κινέζικα, Γιαπωνέζικα, Κορεάτικα και πολλές Ευρωπαϊκές γλώσσες)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The content of this directory is copied to the root filesystem each time you boot, preserving all directories."
-msgstr ""
+msgstr "Τα περιεχόμενα αυτού του καταλόγου αντιγράφονται στο σύστημα αρχείων του διαχειριστή κάθε φορά που κάνετε εκκίνηση, διατηρώντας όλους τους καταλόγους."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The desktop link, Salix Online, will bring you to the Salix <g id='85'>Homepage</g>."
-msgstr ""
+msgstr "Ο σύνδεσμος του γραφικού περιβάλλοντος, Salix Online, θα σας οδηγήσει στην <g id='85'>αρχική ιστοσελίδα </g>του Salix."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The first screen to greet you will enable you to select your language."
-msgstr ""
+msgstr "Η πρώτη οθόνη καλοσωρίσματος θα σας επιτρέψει να επιλέξετε την γλώσσας σας."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The latest Salix OS or Salix Live releases are freely &amp;"
-msgstr ""
+msgstr "Οι τελευταίες εκδόσεις του λειτουργικού συστήματος Salix ή του Zωντανού (Live) Salix είναι ελεύθερα &amp;"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The purpose of this manual is to enable you to take full advantage of the many functionalities of Salix Live."
-msgstr ""
+msgstr "Ο σκοπός αυτού του οδηγού είναι να σας δώσει το πλεονέκτημα της  πολλαπλής λειτουργικότητας του Salix Live."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The resulting CD must not contain the .iso file, or you have made a mistake in the process."
-msgstr ""
+msgstr "Το παραγόμενο CD δεν πρέπει να περιέχει το αρχείο .iso, διαφορετικά έχετε κάνει λάθος στη διαδικασία."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The search option of the forum will quickly show you if the question you have in mind has already been posted by a member of the community and if it has been answered."
-msgstr ""
+msgstr "Η επιλογή αναζήτησης του forum θα σας δείξει γρήγορα αν η ερώτηση που έχετε υπ' όψη έχει ήδη καταχωρηθεί από ένα μέλος της κοινότητας και εάν έχει απαντηθεί."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This is ideal for advanced users who would like to install a lightweight Xfce and add their own choice of applications."
-msgstr ""
+msgstr "Είναι ιδανικό για προχωρημένους χρήστες που θα ήθελαν να εγκαταστήσουν ένα ελαφρύ Xfce και να προσθέσουν τις δικές τους επιλεγμένες εφαρμογές."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
