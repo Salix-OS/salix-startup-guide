@@ -1330,7 +1330,7 @@ msgstr "ROOT=/mnt/hdxx/directoryx removepkg packagey"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "ROOT=/mnt/hdxx/directoryx removepkg packagez"
-msgstr ""
+msgstr "ROOT=/mnt/hdxx/directoryx removepkg packagez"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1630,22 +1630,22 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Totem is a media player (audio and video) which utilizes the GStreamer framework for playback."
-msgstr ""
+msgstr "Το Totem είναι ένας αναπαραγωγέας ήχου και video ο οποίος χρησιμοποιεί το GStreamer framework για αναπαραγωγή."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Type help to view all available commands."
-msgstr ""
+msgstr "Πληκτρολογείστε help να δείτε όλες τις διαθέσιμες εντολές."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Undo options are available &amp;"
-msgstr ""
+msgstr "επιλογές αναίρεσης είναι διαθέσιμες &amp;"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "We recommend you format your partions with the ext4 file system."
-msgstr ""
+msgstr "Προτείνουμε να διαμορφώσετε τα διαμερίσματά σας σε ext4 τύπο συστήματος αρχείων."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1655,7 +1655,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Wicd is an open source wired and wireless network manager for Linux which aims to provide a simple interface to connect to networks with a wide variety of settings."
-msgstr ""
+msgstr "Το Wicd είναι ένας διαχειριστής ενσύρματου και ασύρματου δικτύου ανοικτού λογισμικού για το Linux που επιδιώκει να παρέχει ένα απλό σύστημα διεπαφής για τη σύνδεση στα δίκτυα με μια πλατιά ποικιλία ρυθμίσεων."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1665,12 +1665,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "XSane is a GUI scanning utility which uses the SANE library to communicate with scanners."
-msgstr ""
+msgstr "Το XSane είναι μια εφαρμογή σκαναρίσματος για το γραφικό περιβάλλον που χρησιμοποιεί την βιβλιοθήκη SANE-library για να επικοινωνεί με τους scanners."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Xfce is a lightweight desktop environment for various Unix/Linux systems."
-msgstr ""
+msgstr "Το Xfce είναι ένα ελαφρύ περιβάλλον εργασίας για ποικίλα Unix/Linux συστήματα."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1695,7 +1695,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You simply need to burn it on a CD-ROM with Brasero."
-msgstr ""
+msgstr "Απλά χρειάζεται να το κάψετε σε ένα CD-ROM με το Brasero."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1710,77 +1710,77 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "a GUI interface."
-msgstr ""
+msgstr "ένα (GUI) Γραφικό σύστημα διεπαφής χρήστη"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "basic and scientific mode."
-msgstr ""
+msgstr "βασικός και επιστημονικός τρόπος"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "cd /mnt/hdxx/"
-msgstr ""
+msgstr "cd /mnt/hdxx/"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "cd /mnt/hdxx/custom_live"
-msgstr ""
+msgstr "cd /mnt/hdxx/custom_live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/dev/device"
-msgstr ""
+msgstr "changes=/dev/device"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/dev/device/file"
-msgstr ""
+msgstr "changes=/dev/device/file"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/dev/device/path/"
-msgstr ""
+msgstr "changes=/dev/device/path/"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/path/"
-msgstr ""
+msgstr "changes=/path/"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/path/file"
-msgstr ""
+msgstr "changes=/path/file"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=file"
-msgstr ""
+msgstr "changes=file"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "cp -ra /mnt/live/mnt/hdc/* /mnt/hdxx/custom_live"
-msgstr ""
+msgstr "cp -ra /mnt/live/mnt/hdc/* /mnt/hdxx/custom_live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "cp new_module /mnt/hdxx/custom_live/base"
-msgstr ""
+msgstr "cp new_module /mnt/hdxx/custom_live/base"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "debug"
-msgstr ""
+msgstr "debug"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "dir2lzm directory1 module1.lzm"
-msgstr ""
+msgstr "dir2lzm directory1 module1.lzm"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "dir2lzm directoryx modulex.lzm"
-msgstr ""
+msgstr "dir2lzm directoryx modulex.lzm"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1795,7 +1795,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "echo \"whatever\" > /mnt/hdxx/directory1/foo/bar"
-msgstr ""
+msgstr "echo \"whatever\" > /mnt/hdxx/directory1/foo/bar"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1805,22 +1805,22 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "from=/dev/device/salixlive-version.iso"
-msgstr ""
+msgstr "from=/dev/device/salixlive-version.iso"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "from=path/to/exploded/salixlive-version.iso"
-msgstr ""
+msgstr "from=path/to/exploded/salixlive-version.iso"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "from=path/to/salixlive-version.iso"
-msgstr ""
+msgstr "from=path/to/salixlive-version.iso"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "fully functional operating system."
-msgstr ""
+msgstr "πλήρως λειτουργικό σύστημα"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1860,32 +1860,32 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg --root=/mnt/hdxx/directory1 packagea-x.x.x.txz"
-msgstr ""
+msgstr "installpkg --root=/mnt/hdxx/directory1 packagea-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directory1 packageb-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directory1 packageb-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directory1 packagec-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directory1 packagec-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directoryx package1-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directoryx package1-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directoryx package2-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directoryx package2-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directoryx package3-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directoryx package3-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1905,22 +1905,22 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "lzm2dir /mnt/hdc/salixlive/base/modulex.lzm /mnt/hdxx/directoryx"
-msgstr ""
+msgstr "lzm2dir /mnt/hdc/salixlive/base/modulex.lzm /mnt/hdxx/directoryx"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mkdir -p /mnt/hdxx/directory1"
-msgstr ""
+msgstr "mkdir -p /mnt/hdxx/directory1"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mkdir -p /mnt/hdxx/directoryx"
-msgstr ""
+msgstr "mkdir -p /mnt/hdxx/directoryx"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mkdir /mnt/hdxx/custom_live"
-msgstr ""
+msgstr "mkdir /mnt/hdxx/custom_live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1945,12 +1945,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "passwd=ask"
-msgstr ""
+msgstr "passwd=ask"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "passwd=somepass"
-msgstr ""
+msgstr "passwd=somepass"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1960,12 +1960,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "rm -rf /mnt/hdxx/directory1/usr/doc/*"
-msgstr ""
+msgstr "rm -rf /mnt/hdxx/directory1/usr/doc/*"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "rm /mnt/hdxx/custom_live/base/unwanted_module"
-msgstr ""
+msgstr "rm /mnt/hdxx/custom_live/base/unwanted_module"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
