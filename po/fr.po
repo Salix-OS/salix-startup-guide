@@ -724,7 +724,7 @@ msgstr "Le <g id='87'>forum</g> aura deux autres sources importantes d'informati
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='89'>Salix Live is the Live CD version of </g><g id='90'>Salix OS</g><g id='91'>. You can therefore safely use it to 'test drive' Salix OS without having to install anything on your computer. <x id='92'/>You will thus be able to</g><g id='93'> determine whether and to what extent <x id='94'/>Salix OS is compatible with your particular hardware configuration &amp;"
-msgstr "<g id='89'>Salix Live est la version Live CD de </g><g id='90'>Salix OS</g><g id='91'>. Vous pouvez donc l'utiliser en toute sécurité pour « tester » Salix OS sans avoir à installer quoi que ce soit sur votre ordinateur. <x id='92'/>Vous serez ainsi en mesure de </g><g id='93'>déterminer si et dans quelle mesure<x id='94'/> Salix OS est compatible avec votre configuration matérielle spécifique."
+msgstr "<g id='89'>Salix Live est la version Live CD de </g><g id='90'>Salix OS</g><g id='91'>. Vous pouvez donc l'utiliser en toute sécurité pour « tester » Salix OS sans avoir à installer quoi que ce soit sur votre ordinateur. <x id='92'/>Vous serez ainsi en mesure de </g>déterminer si et dans quelle mesure<x id='94'/> Salix OS est compatible avec votre configuration matérielle spécifique."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1844,7 +1844,7 @@ msgstr "lisible."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "if it suits your personal tastes.</g>"
-msgstr "s'il correspond à vos goûts personnels.</g>"
+msgstr "s'il correspond à vos goûts personnels."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
