@@ -13,9 +13,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: GREECE\n"
 "X-Poedit-Language: Greek\n"
 "X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Country: GREECE\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -230,97 +230,97 @@ msgstr "Orage"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Other System Utilities"
-msgstr ""
+msgstr "Άλλα Εργαλεία Συστήματος"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Package Management"
-msgstr ""
+msgstr "Διαχειριστής πακέτων  "
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Partition Management"
-msgstr ""
+msgstr "Διαχειριστής Διαμερισμάτων"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Personalizing Modules"
-msgstr ""
+msgstr "Παραμετροποιώντας Αρθρώματα"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Pidgin"
-msgstr ""
+msgstr "Pidgin"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Presentation"
-msgstr ""
+msgstr "Παρουσίαση"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Ristretto"
-msgstr ""
+msgstr "Ristretto"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "SCIM"
-msgstr ""
+msgstr "SCIM"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Codec Installer"
-msgstr ""
+msgstr "Εγκαταστάτης Κώδικα του Salix"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live"
-msgstr ""
+msgstr "Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live Installer"
-msgstr ""
+msgstr "Εγκαταστάτης του Salix Live "
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live Scripts"
-msgstr ""
+msgstr "Salix Live Scripts"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix OS"
-msgstr ""
+msgstr "Λειτουργικό Σύστημα Salix OS"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Tools"
-msgstr ""
+msgstr "Εργαλεία του Salix"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Slapt-get"
-msgstr ""
+msgstr " Slapt-get"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Software"
-msgstr ""
+msgstr "Λογισμικό"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Startup Services"
-msgstr ""
+msgstr "Υπηρεσίες εκκίνησης "
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Support"
-msgstr ""
+msgstr "Υποστήριξη"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "System"
-msgstr ""
+msgstr "Σύστημα"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -335,7 +335,7 @@ msgstr "Γλώσσα Συστήματος"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "The Persistence Wizard"
-msgstr "Ο Επίμονος Μάγος"
+msgstr "Οδηγός μόνιμων αλλαγών"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -415,107 +415,107 @@ msgstr "(Ξεκινά το φλοιό μερικές φορές κατά τη δ
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(TIP:"
-msgstr "(TIP:"
+msgstr "(Συμβουλή:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(This cheatcode is already included in Salix Live boot menu &amp;"
-msgstr "("
+msgstr "(Αυτή η ευκολία cheatcode περιλαμβάνεται ήδη στο μενού εκκίνησης του Salix Live& amp,"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(You can use full module name (module.lzm) or you can skip the extension.)"
-msgstr ""
+msgstr "(Μπορείτε να χρησιμοποιήσετε το πλήρες όνομα του αρθρώματος (module.lzm) ή μπορείτε να παρακάμψετε τη προέκταση.)"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Add or remove files and directories to/from a CD image."
-msgstr ""
+msgstr "* Προσθέτει ή αφαιρεί αρχεία και καταλόγους σε/από ένα αρχείο εικόνας CD."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Create an ISO image from scratch."
-msgstr ""
+msgstr "* Δημιουργία ενός αρχείου εικόνας ISO από την αρχή."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Create bootable CDs using various boot record types."
-msgstr ""
+msgstr "* Δημιουργία εκκινήσιμων CDs χρησιμοποιώντας διάφορους τύπους εγγραφών εκκίνησης"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "./make_iso.sh /mnt/hdxx/live-x.x.x-custom.iso"
-msgstr ""
+msgstr "./make_iso.sh /mnt/hdxx/live-x.x.x-custom.iso"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "/usr/bin/activate"
-msgstr ""
+msgstr " /usr/bin/activate"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "/usr/bin/deactivate"
-msgstr ""
+msgstr "/usr/bin/deactivate"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "/usr/bin/dir2lzm"
-msgstr ""
+msgstr " /usr/bin/dir2lzm"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "/usr/bin/lzm2dir"
-msgstr ""
+msgstr "/usr/bin/lzm2dir"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "/usr/bin/tgz2lzm"
-msgstr ""
+msgstr " /usr/bin/tgz2lzm"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "/usr/bin/txz2lzm"
-msgstr ""
+msgstr "/usr/bin/txz2lzm"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a work directory:"
-msgstr ""
+msgstr " 1- Δημιουργία καταλόγου εργασίας:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a working directory"
-msgstr ""
+msgstr " 1- Δημιουργία καταλόγου εργασίας"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a working directory:"
-msgstr ""
+msgstr " 1- Δημιουργία καταλόγου εργασίας:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Open the .iso file using a software archiver (file-roller, xarchiver, 7-zip, iso-master, …)."
-msgstr ""
+msgstr " 1- Ανοίξτε το αρχείο .iso χρησιμοποιώντας ένα διαχειριστή συμπιεσμένων αρχείων (file-roller, xarchiver, 7-zip, iso-master, …)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Copy Salix Live's CD content to your working directory:"
-msgstr ""
+msgstr "2- Αντιγράφει τα περιεχόμενα του Salix Live's CD στο κατάλογο εργασίας σας:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Extract all files and folders (boot, packages and salixlive) to your USB root directory."
-msgstr ""
+msgstr "2- Εξάγει όλα τα αρχεία και φακέλλους (boot, packages και salixlive) στο ριζικό κατάλογο του USB σας."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Install all software packages using this directory as root:"
-msgstr ""
+msgstr "2- Εγκαθιστά όλα τα πακέτα λογισμικού χρησιμοποιώντας το τρέχον κατάλογο σαν διαχειριστής (root):"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Open up the module you want to customize under the working directory:"
-msgstr ""
+msgstr "2- Ανοίγει το άρθρωμα που θέλετε να τροποποιήσετε κάτω από κατάλογο εργασίας:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
