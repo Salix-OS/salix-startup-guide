@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: salix-startup-guide\n"
@@ -13,8 +13,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: Greek\n"
 "X-Poedit-Country: GREECE\n"
+"X-Poedit-Language: Greek\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
 #: SalixStartupGuide-en.odt:2
@@ -25,207 +25,207 @@ msgstr "Σχετικά με αυτό τον οδηγό..."
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Adding files to Salix Live"
-msgstr ""
+msgstr "Προσθέτοντας αρχεία στο Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Administrator (root) password"
-msgstr ""
+msgstr "Συνθηματικό Διαχειριστή (root)"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Advanced Boot Options"
-msgstr ""
+msgstr "Ειδικές επιλογές εκκίνησης"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Asunder"
-msgstr ""
+msgstr "Asunder"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Basic Mode"
-msgstr ""
+msgstr "Βασικός Τρόπος"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Boot"
-msgstr ""
+msgstr "Εκκίνηση"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Boot Parameters"
-msgstr ""
+msgstr "Παράμετροι Εκκίνησης"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Boot menu"
-msgstr ""
+msgstr "Μενού Εκκίνησης"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Brasero"
-msgstr ""
+msgstr "Brasero"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Catfish"
-msgstr ""
+msgstr "Catfish"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Claws-mail"
-msgstr ""
+msgstr "Claws-mail"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Core Mode"
-msgstr ""
+msgstr "Συμπαγής Τρόπος"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Creating a module"
-msgstr ""
+msgstr "Δημιουργώντας ένα άρθρωμα"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Customizing Salix Live"
-msgstr ""
+msgstr "Προσαρμόζοντας το Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Customizing a module"
-msgstr ""
+msgstr "Παραμετροποιώντας  ένα άρθρωμα"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Dotnew"
-msgstr ""
+msgstr "Dotnew"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Exaile"
-msgstr ""
+msgstr "Exaile"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "File Roller"
-msgstr ""
+msgstr "File Roller"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Full Mode"
-msgstr ""
+msgstr "Πλήρης Τρόπος"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Galculator"
-msgstr ""
+msgstr "Αριθμομηχανή"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Geany"
-msgstr ""
+msgstr "Geany"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Gimp"
-msgstr ""
+msgstr "Gimp"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Gparted"
-msgstr ""
+msgstr "Gparted"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Gslapt"
-msgstr ""
+msgstr "Gslapt"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "How to boot from Salix Live CD/DVD?"
-msgstr ""
+msgstr "Πως να εκκινήσω από το Salix Live CD/DVD; "
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "How to boot from a Salix Live USB key?"
-msgstr ""
+msgstr "Πως να εκκινήσω από ένα Salix Live USB key"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "How to install Salix Live on a USB key?"
-msgstr ""
+msgstr "Πως να εγκαταστήσω το Salix Live σε ένα USB key;"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Installing Salix OS"
-msgstr ""
+msgstr "Εγκαθιστώντας το λειτουργικό Σύστημα Salix"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Introduction"
-msgstr ""
+msgstr "Εισαγωγή"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Iso Master"
-msgstr ""
+msgstr "Διαχειριστής αρχείων εικόνας ISO"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Keyboard Layout"
-msgstr ""
+msgstr "Διάταξη Πληκτρολογίου"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Lilo Setup"
-msgstr ""
+msgstr "Ρύθμιση Lilo"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Linux Live Scripts"
-msgstr ""
+msgstr "Linux Live Scripts"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Live Tools"
-msgstr ""
+msgstr "Ζωντανά Εργαλεία (Live Tools)"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Live USB Flash Drive"
-msgstr ""
+msgstr "Συσκευή ζωντανού USB Flash"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Main Index"
-msgstr ""
+msgstr "Κύριο ευρετήριο"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Management"
-msgstr ""
+msgstr "Διαχείριση"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Modify Salix Live ISO"
-msgstr ""
+msgstr "Τροποποίηση του Salix Live ISO"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Mousepad"
-msgstr ""
+msgstr "Συσκευή κατάδειξης ποντικιού"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "OpenOffice"
-msgstr ""
+msgstr "OpenOffice"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Orage"
-msgstr ""
+msgstr "Orage"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -325,102 +325,102 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "System Clock"
-msgstr ""
+msgstr "Ρολόι Συστήματος"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "System Language"
-msgstr ""
+msgstr "Γλώσσα Συστήματος"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "The Persistence Wizard"
-msgstr ""
+msgstr "Ο Επίμονος Μάγος"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Totem"
-msgstr ""
+msgstr "Totem"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Transmission"
-msgstr ""
+msgstr "Transmission"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Useful boot parameters"
-msgstr ""
+msgstr "Χρήσιμες παράμετροι εκκίνησης"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Users Profile"
-msgstr ""
+msgstr "Προφίλ χρηστών"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "What are the Live Tools?"
-msgstr ""
+msgstr "Τι είναι τα Ζωντανά Εργαλεία (Live Tools);"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "What is a Live CD?"
-msgstr ""
+msgstr "Τι είναι ένα ζωντανό CD;"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "What is an ISO image?"
-msgstr ""
+msgstr "Τι είναι ένα αρχείο εικόνας ISO;"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Which module contains application XXX?"
-msgstr ""
+msgstr "Ποιο άρθρωμα περιέχει την εφαρμογή XXX;"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Wicd"
-msgstr ""
+msgstr "Wicd"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "XSane"
-msgstr ""
+msgstr "XSane"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Xfce and Firefox"
-msgstr ""
+msgstr "Xfce and Firefox"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "ePDFView"
-msgstr ""
+msgstr "ePDFView"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "gFTP"
-msgstr ""
+msgstr "gFTP"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "procedure"
-msgstr ""
+msgstr "Διαδικασία"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(Starts bash several times during boot."
-msgstr ""
+msgstr "(Ξεκινά το φλοιό μερικές φορές κατά τη διάρκεια εκκίνησης."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(TIP:"
-msgstr ""
+msgstr "(TIP:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(This cheatcode is already included in Salix Live boot menu &amp;"
-msgstr ""
+msgstr "("
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1981,4 +1981,3 @@ msgstr ""
 msgctxt "title"
 msgid "Salix Live Startup Guide"
 msgstr ""
-
