@@ -525,7 +525,7 @@ msgstr "3"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Add or remove modules or files as needed:"
-msgstr "3- Προσθήκη ή αφαίρεση αρθρώμάτων ή αρχείων όπως χρειάζεται:"
+msgstr "3- Προσθήκη ή αφαίρεση αρθρωμάτων ή αρχείων όπως χρειάζεται:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -724,7 +724,7 @@ msgstr " <g id='83'>Το Slapt-get</g>είναι ένα γραφικό εργα�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='87'>Forum</g> will be two other important sources of information."
-msgstr ""
+msgstr "<g id='87'>Το Forum</g> θα είναι άλλες δυο σημαντικές πηγές πληροφορίας."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
