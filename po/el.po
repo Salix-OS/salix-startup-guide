@@ -270,7 +270,7 @@ msgstr "SCIM"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Codec Installer"
-msgstr "Εγκαταστάτης Κώδικα του Salix"
+msgstr "Εγκατάσταση κωδικοποιητών πολυμέσων του Salix"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
