@@ -1921,17 +1921,17 @@ msgstr "mkdir /mnt/hdxx/custom_live"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "non-graphical environments."
-msgstr ""
+msgstr "μη γραφικά περιβάλλοντα."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "none of the settings will be applied until you click on the 'Launch Salix Install' button."
-msgstr ""
+msgstr "καμιά από τις ρυθμίσεις θα εφαρμοστεί μέχρι να κάνετε κλικ στο κουμπί 'Launch Salix Install'."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "numerous plugins."
-msgstr ""
+msgstr "πολυάριθμα πρόσθετα."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
