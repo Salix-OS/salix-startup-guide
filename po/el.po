@@ -13,9 +13,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: GREECE\n"
 "X-Poedit-Language: Greek\n"
 "X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Country: GREECE\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -35,7 +35,7 @@ msgstr "Συνθηματικό Διαχειριστή (root)"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Advanced Boot Options"
-msgstr "Ειδικές Επιλογές Εκκίνησης"
+msgstr "Σύνθετες Επιλογές Εκκίνησης"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -90,7 +90,7 @@ msgstr "Δημιουργώντας ένα άρθρωμα"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Customizing Salix Live"
-msgstr "Εξατομικεύοντας το Salix Live"
+msgstr "Προσαρμογή Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -160,7 +160,7 @@ msgstr "Πως να εγκαταστήσω το Salix Live σε ένα USB key;"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Installing Salix OS"
-msgstr "Εγατάσταση του Salix OS"
+msgstr "Εγκατάσταση Salix OS"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -180,17 +180,17 @@ msgstr "Διάταξη Πληκτρολογίου"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Lilo Setup"
-msgstr "Ρύθμιση του Lilo"
+msgstr "Λίλο Setup"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Linux Live Scripts"
-msgstr "Τα Linux Live Scripts"
+msgstr "Linux Live Scripts"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Live Tools"
-msgstr "Ζωντανά Εργαλεία"
+msgstr "Live Εργαλεία"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -240,12 +240,12 @@ msgstr "Διαχείριση Πακέτων"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Partition Management"
-msgstr "Διαχείριση Διαμερισμάτων"
+msgstr " Διαχείριση Partition"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Personalizing Modules"
-msgstr "Εξατομικεύοντας Αρθρώματα"
+msgstr "Εξατομίκευση Modules"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -275,12 +275,12 @@ msgstr "Εγκαταστάτης Κώδικα του Salix"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live"
-msgstr "Το Ζωντανό Salix"
+msgstr "Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live Installer"
-msgstr "Ο εγκαταστάτης του Salix Live"
+msgstr "Salix Live Installer"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -290,7 +290,7 @@ msgstr "Salix Live Scripts"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix OS"
-msgstr "Salix OS "
+msgstr "Salix OS"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
