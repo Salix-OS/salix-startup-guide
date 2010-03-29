@@ -215,7 +215,7 @@ msgstr "Τροποποίηση του Salix Live ISO"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Mousepad"
-msgstr "Συσκευή κατάδειξης ποντικιού"
+msgstr "Mousepad"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
