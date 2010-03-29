@@ -390,7 +390,7 @@ msgstr "Xsane"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Xfce and Firefox"
-msgstr "Xfce and Firefox"
+msgstr "Xfce και Firefox"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -405,7 +405,7 @@ msgstr "gFTP"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "procedure"
-msgstr "Διαδικασία"
+msgstr "διαδικασία"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
