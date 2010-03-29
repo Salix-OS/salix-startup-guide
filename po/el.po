@@ -13,9 +13,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: GREECE\n"
 "X-Poedit-Language: Greek\n"
 "X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Country: GREECE\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -35,7 +35,7 @@ msgstr "Συνθηματικό Διαχειριστή (root)"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Advanced Boot Options"
-msgstr "Προχωρημένες Επιλογές Εκκίνησης"
+msgstr "Ειδικές Επιλογές Εκκίνησης"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -90,7 +90,7 @@ msgstr "Δημιουργώντας ένα άρθρωμα"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Customizing Salix Live"
-msgstr "Τροποποιώντας το Salix Live"
+msgstr "Τροποποίηση του Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -160,7 +160,7 @@ msgstr "Πως να εγκαταστήσω το Salix Live σε ένα USB key;"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Installing Salix OS"
-msgstr "Εγκαθιστώντας το Salix OS"
+msgstr "Εγκατάσταση του Salix OS"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -180,7 +180,7 @@ msgstr "Διάταξη Πληκτρολογίου"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Lilo Setup"
-msgstr "Ρύθμιση Lilo"
+msgstr "Lilo Setup"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -190,10 +190,7 @@ msgstr "Linux Live Scripts"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Live Tools"
-msgstr ""
-" \t\r\n"
-"\r\n"
-"Live Tools"
+msgstr "Live Tools"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -238,17 +235,17 @@ msgstr "Άλλα Εργαλεία Συστήματος"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Package Management"
-msgstr "Διαχείριση Πακέτων"
+msgstr "Διαχείριση πακέτων"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Partition Management"
-msgstr "Διαχείριση Διαμερισμάτων"
+msgstr "Διαχείριση Διαμερισμάτων δίσκου"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Personalizing Modules"
-msgstr "Εξατομικεύοντας Αρθρώματα"
+msgstr "Εξατομικεύοντας τα αρθρώματα"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -278,12 +275,12 @@ msgstr "Εγκαταστάτης Κώδικα του Salix"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live"
-msgstr "Salix Live"
+msgstr "Ζωντανό (Live) Salix"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live Installer"
-msgstr "Εγκαταστάτης του Salix Live "
+msgstr "Εγαταστάτης του Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -907,7 +904,6 @@ msgid "Contextual help triggered by the position of the mouse will be <x id='156
 msgstr " Η συναφής βοήθεια που ενεργοποιείται από τη θέση του δείκτη του ποντικιού θα<x id='156'/>εμφανιστεί επίσης πάνω από την εφαρμογή &amp;"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Copyright © SalixOS.org 2010"
 msgstr "Copyright © SalixOS.org 2010"
@@ -1335,12 +1331,12 @@ msgstr "ROOT=/mnt/hdxx/directoryx removepkg packagez"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Remember that the existing swap partition will be automatically used by the Live installer without any prompting on your part."
-msgstr ""
+msgstr "Θυμηθείτε ότι υπάρχον διαμέρισμα αντιμετάθεσης (swap) θα χρησιμοποιηθεί αυτόματα από τον εγκαταστάτη του Livecd χωρίς προτροπή σε σας."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Ristretto is a fast and lightweight picture viewer."
-msgstr ""
+msgstr "Το Ristretto είναι ένας ταχύς και ελαφρύς προβολέας εικόνων."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1350,7 +1346,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live 13.0"
-msgstr ""
+msgstr "Salix Live 13.0"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1365,17 +1361,17 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix is usually installed with one of the following sets of software:"
-msgstr ""
+msgstr "Το Salix συνήθως εγκαθίσταται με ένα από τα ακόλουθα μέρη λογισμικού:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix needs, at the very minimum, one swap partition (which will be automatically used by the Live Installer without any user intervention) and one Linux partition to hold its main directory tree."
-msgstr ""
+msgstr "Το Salix χρειάζεται, το ελάχιστον, ένα διαμέρισμα swap (το οποίο θα χρησιμοποιηθεί αυτόματα από τον εγκαταστάτη του Livecd χωρίς μεσολάβηση του χρήστη) και ένα διαμέρισμα Linux για να κρατήσει τη κύρια ιεραρχική δομή των καταλόγων του."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live CD holds a <g id='208'>/salixlive/rootcopy/</g> directory."
-msgstr ""
+msgstr "Το Salix Live CD έχει ένα <g id='208'>/salixlive/rootcopy/</g> κατάλογο."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
