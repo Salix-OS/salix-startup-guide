@@ -1796,7 +1796,7 @@ msgstr "echo \"whatever\" > /mnt/hdxx/directory1/foo/bar"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "etc."
-msgstr ""
+msgstr "κλπ."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1821,17 +1821,17 @@ msgstr "πλήρως λειτουργικό σύστημα"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "gFTP aims to be simple to use yet powerful."
-msgstr ""
+msgstr "Το gFTP αποσκοπεί να είναι απλό στη χρήση αλλά με πολλές δυνατότητες."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "gFTP is an FTP client with both a text &amp;"
-msgstr ""
+msgstr "Το gFTP είναι ένας πελάτης FTP και κειμένου και &amp;"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "get instant help if necessary."
-msgstr ""
+msgstr "έχετε άμεση βοήθεια εάν χρειάζεται."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
