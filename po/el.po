@@ -13,9 +13,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Country: GREECE\n"
 "X-Poedit-Language: Greek\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-Poedit-Country: GREECE\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -385,7 +385,7 @@ msgstr "Wicd"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "XSane"
-msgstr "XSane "
+msgstr "Xsane"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -1846,7 +1846,7 @@ msgstr "πολύ αποκριτικό."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "human readable."
-msgstr ""
+msgstr "ανθρώπινα διαβασμένο."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1886,17 +1886,17 @@ msgstr "installpkg –-root=/mnt/hdxx/directoryx package3-x.x.x.txz"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "is available directly on the desktop."
-msgstr ""
+msgstr "είναι διαθέσιμο άμεσα στοπεριβάλλον εργασίας."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "is independent of any particular Desktop Environment."
-msgstr ""
+msgstr "είναι ανεξάρτητο από οποιοδήποτε Περιβάλλον Εργασίας."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "live"
-msgstr ""
+msgstr "live "
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1936,7 +1936,7 @@ msgstr "πολυάριθμα πρόσθετα."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "offers a full range of useful software applications one could need on a daily basis while following the \"one application per task\" rationale."
-msgstr ""
+msgstr "προσφέρει μια μεγάλη γκάμα χρήσιμων εφαρμογών λογισμικού που χρειάζεται κάποιος σε καθημερινή βάση ενώ ακολουθεί την σχέση \"one application per task\"."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
