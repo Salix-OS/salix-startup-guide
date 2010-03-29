@@ -13,9 +13,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Country: GREECE\n"
 "X-Poedit-Language: Greek\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-Poedit-Country: GREECE\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -275,12 +275,12 @@ msgstr "Εγκαταστάτης Κώδικα του Salix"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live"
-msgstr "Ζωντανό (Live) Salix"
+msgstr "Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live Installer"
-msgstr "Εγαταστάτης του Salix Live"
+msgstr "Salix Live Installer"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -290,7 +290,7 @@ msgstr "Salix Live Scripts"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix OS"
-msgstr "Λειτουργικό Σύστημα Salix OS"
+msgstr "Salix OS"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -1376,12 +1376,12 @@ msgstr "Το Salix Live CD έχει ένα <g id='208'>/salixlive/rootcopy/</g>
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live Installer is very easy to use."
-msgstr ""
+msgstr "O εγκαταστάτης του Salix Live είναι εύκολος στη χρήση"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live root password is:"
-msgstr ""
+msgstr "Το συνθηματικό του διαχειριστή (root) στο Salix Live είναι:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1421,7 +1421,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Software."
-msgstr ""
+msgstr "Λογισμικό."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
