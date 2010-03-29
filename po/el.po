@@ -13,9 +13,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Country: GREECE\n"
 "X-Poedit-Language: Greek\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-Poedit-Country: GREECE\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -90,7 +90,7 @@ msgstr "Δημιουργώντας ένα άρθρωμα"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Customizing Salix Live"
-msgstr "Τροποποίηση του Salix Live"
+msgstr "Βελτιστοποιώντας το Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -160,7 +160,7 @@ msgstr "Πως να εγκαταστήσω το Salix Live σε ένα USB key;"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Installing Salix OS"
-msgstr "Εγκατάσταση του Salix OS"
+msgstr "Εγκατάσταση του Salix"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -180,12 +180,12 @@ msgstr "Διάταξη Πληκτρολογίου"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Lilo Setup"
-msgstr "Lilo Setup"
+msgstr "Ρύθμιση του Lilo"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Linux Live Scripts"
-msgstr "Linux Live Scripts"
+msgstr "Τα Linux Live Scripts"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -235,17 +235,17 @@ msgstr "Άλλα Εργαλεία Συστήματος"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Package Management"
-msgstr "Διαχείριση πακέτων"
+msgstr "Διαχείριση Πακέτων"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Partition Management"
-msgstr "Διαχείριση Διαμερισμάτων δίσκου"
+msgstr "Διαχείριση Διαμερισμάτων"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Personalizing Modules"
-msgstr "Εξατομικεύοντας τα αρθρώματα"
+msgstr "Εξατομικεύοντας αρθρώματα"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -280,7 +280,7 @@ msgstr "Το Salix Live"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live Installer"
-msgstr "Ο εγκαταστάτης του Salix Live "
+msgstr "Ο εγκαταστάτης του Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -290,7 +290,7 @@ msgstr "Salix Live Scripts"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix OS"
-msgstr "Το λειτουργικό Σύστημα Salix"
+msgstr "Λειτουργικό Σύστημα Salix"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -315,7 +315,7 @@ msgstr "Υπηρεσίες εκκίνησης "
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Support"
-msgstr "Υποστήριξη"
+msgstr "Λογισμικό."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -1526,27 +1526,27 @@ msgstr "Είναι ιδανικό για προχωρημένους χρήστε
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This is ideal if you are an experienced user and want to customize your installation for any specific purpose, such as a web server, file server etc."
-msgstr ""
+msgstr "Αυτό είναι ιδανικό εάν είστε έμπειρος χρήστης και θέλετε να προσαρμόσετε την εγκατάσταση σας για οποιοδήποτε ειδικό σκοπό, όπως web server, file server κλπ."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This last mode is build on the Basic Mode &amp;"
-msgstr ""
+msgstr "Αυτός ο τελευταίος τρόπος βασίζεται στον βασικό τρόπο (Basic Mode) &amp;"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This utility manages the creation, deletion &amp;"
-msgstr ""
+msgstr "Αυτή το εργαλείο διαχειρίζεται τη δημιουργία, διαγραφή &amp;"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This utility will configure the keyboard disposition being used both in the graphical &amp;"
-msgstr ""
+msgstr "Αυτή το εργαλείο θα ρυθμίσει τη διάταξη του πληκτρολογίου που χρησιμοποιείται και στο γραφικό &amp;"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This utility will configure the language of your system."
-msgstr ""
+msgstr "Αυτή το εργαλείο θα ρυθμίσει τη γλώσσα του συστήματός σας."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1951,7 +1951,7 @@ msgstr "passwd=somepass"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "properties of all the system users &amp;"
-msgstr ""
+msgstr "ιδιότητες όλων των χρηστών του συστήματος &amp;"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1966,24 +1966,24 @@ msgstr "rm /mnt/hdxx/custom_live/base/unwanted_module"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "the Persistence Wizard can assist you in creating a persistent file that will be automatically managed by Salix Live.)"
-msgstr ""
+msgstr "Ο οδηγός μόνιμων αλλαγών θα σας βοηθήσει στη δημιουργία ενός αρχείου μόνιμων αλλαγών that will be που αυτόματα διαχειρίζεται από το Salix Live.)"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "this will prevent the first \"reboot on first boot\" operation."
-msgstr ""
+msgstr "Αυτό θα εμποδίσει τη πρώτη \"reboot on first boot\" λειτουργία."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "will guide you every step of the way."
-msgstr ""
+msgstr "θα σας καθοδηγήσει σε κάθε βήμα του τρόπου"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "will not necessitate a reboot."
-msgstr ""
+msgstr "δεν θα απαιτήσει μια επανεκκίνηση"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "title"
 msgid "Salix Live Startup Guide"
-msgstr ""
+msgstr "Οδηγός χρήσης του Salix Live"
