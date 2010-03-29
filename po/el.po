@@ -290,7 +290,7 @@ msgstr "Salix Live Scripts"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix OS"
-msgstr "to Salix OS"
+msgstr "Salix OS "
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -385,7 +385,7 @@ msgstr "Wicd"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "XSane"
-msgstr "Το XSane"
+msgstr "XSane "
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -1836,12 +1836,12 @@ msgstr "έχετε άμεση βοήθεια εάν χρειάζεται."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "groups of users."
-msgstr ""
+msgstr "ομάδες χρηστών"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "highly responsive."
-msgstr ""
+msgstr "πολύ αποκριτικό."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1851,7 +1851,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "if it suits your personal tastes.</g>"
-msgstr ""
+msgstr "εάν ταιριάζει στα προσωπικά σας γούστα</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
