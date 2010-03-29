@@ -88,6 +88,7 @@ msgid "Creating a module"
 msgstr "Δημιουργώντας ένα άρθρωμα"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Customizing Salix Live"
 msgstr "Προσαρμογή Salix Live"
@@ -158,11 +159,13 @@ msgid "How to install Salix Live on a USB key?"
 msgstr "Πως να εγκαταστήσω το Salix Live σε ένα USB key;"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Installing Salix OS"
 msgstr "Εγκατάσταση Salix OS"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Introduction"
 msgstr "Εισαγωγή"
@@ -178,16 +181,19 @@ msgid "Keyboard Layout"
 msgstr "Διάταξη Πληκτρολογίου"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Lilo Setup"
 msgstr "Λίλο Setup"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Linux Live Scripts"
 msgstr "Linux Live Scripts"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Live Tools"
 msgstr "Live Εργαλεία"
@@ -240,9 +246,10 @@ msgstr "Διαχείριση Πακέτων"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Partition Management"
-msgstr " Διαχείριση Partition"
+msgstr "Διαχείριση διαμερισμάτων Δίσκου"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Personalizing Modules"
 msgstr "Εξατομίκευση Modules"
@@ -273,6 +280,7 @@ msgid "Salix Codec Installer"
 msgstr "Εγκαταστάτης Κώδικα του Salix"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Salix Live"
 msgstr "Salix Live"
@@ -280,7 +288,7 @@ msgstr "Salix Live"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live Installer"
-msgstr "Salix Live Installer"
+msgstr "Εγκαταστάτης του Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -288,6 +296,7 @@ msgid "Salix Live Scripts"
 msgstr "Salix Live Scripts"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Salix OS"
 msgstr "Salix OS"
@@ -303,6 +312,7 @@ msgid "Slapt-get"
 msgstr " Slapt-get"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Software"
 msgstr "Λογισμικό"
@@ -313,6 +323,7 @@ msgid "Startup Services"
 msgstr "Υπηρεσίες εκκίνησης "
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Support"
 msgstr "Υποστήριξη"
@@ -383,6 +394,7 @@ msgid "Wicd"
 msgstr "Wicd"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "XSane"
 msgstr "Xsane"
