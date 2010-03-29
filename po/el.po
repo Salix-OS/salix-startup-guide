@@ -13,9 +13,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: GREECE\n"
 "X-Poedit-Language: Greek\n"
 "X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Country: GREECE\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -275,12 +275,12 @@ msgstr "Εγκαταστάτης Κώδικα του Salix"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live"
-msgstr "Salix Live"
+msgstr "Το Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live Installer"
-msgstr "Salix Live Installer"
+msgstr "Ο εγκαταστάτης του Salix Live "
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -290,7 +290,7 @@ msgstr "Salix Live Scripts"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix OS"
-msgstr "Salix OS"
+msgstr "Το λειτουργικό Σύστημα Salix"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -1386,32 +1386,32 @@ msgstr "Το συνθηματικό του διαχειριστή (root) στο 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix OS also provides all the necessary <g id='37'>GUI</g> utilities to assist <g id='38'>system management</g>."
-msgstr ""
+msgstr "Το λειτουργικό σύστημα Salix OS επίσης παρέχει όλα τα αναγκαία <g id='37'>GUI</g> εργαλεία που βοηθούν στη <g id='38'>διαχείριση του συστήματος.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix OS is a <g id='33'>Linux Distribution</g> based on <g id='34'>Slackware</g> that retains full backwards compatibility with its illustrious parent."
-msgstr ""
+msgstr "Το λειτουργικό σύστημα Salix είναι μια <g id='33'>Διανομή Linux</g> που βασίζεται στο <g id='34'>Slackware</g> και έχει πλήρη προς τα πίσω συμβατότητα με το διάσημο γονέα του."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix OS package management uses the proven <g id='39'>slapt‑get/gslapt</g> combination includes dependency from both the original Slackware repositories and the complementary and ever-increasing Salix OS <g id='40'>repository</g>."
-msgstr ""
+msgstr "Η διαχείριση πακέτων του Salix OS χρησιμοποιεί το δοκιμασμένο <g id='39'>slapt‑get/gslapt</g> και περιλαμβάνει επίλυση εξαρτήσεων και από τα αυθεντικά αποθετήρια Slackware και από το συμπληρωματικό και πάντα αυξανόμενο Salix OS <g id='40'>αποθετήριο</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Simply click on a date to display or set the agenda for the day."
-msgstr ""
+msgstr "Απλά κάντε κλικ σε μια ημερομηνία για να εμφανίσετε ή να θέσετε τις επαφές σας (agenda) για μια μέρα."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "So do take the time to familiarize yourself fully with Salix Live Installer."
-msgstr ""
+msgstr "Ετσι αφιερώστε χρόνο να εξοικειωθείτε πλήρως με τον εγκαταστάτη του Salix Live."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "So, for example, if you wish to just use your own xorg.conf file, create etc/X11/ directories inside of /salixlive/rootcopy and store your xorg.conf in it."
-msgstr ""
+msgstr "Ετσι, για παράδειγμα, εάν επιθυμείτε να χρησιμοποιήσετε το δικό σας xorg.conf αρχείο, δημιουργείστε etc/X11/ καταλόγους μέσα στο /salixlive/rootcopy και αποθηκεύστε το δικό σας xorg.conf εκεί."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
