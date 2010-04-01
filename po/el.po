@@ -180,7 +180,7 @@ msgstr "Διάταξη Πληκτρολογίου"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Lilo Setup"
-msgstr "Ρύθμιση του Lilo"
+msgstr "Ρύθμιση Lilo"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -638,10 +638,9 @@ msgid "<g id='149'>A disk device can be subdivided into one or more partitions</
 msgstr " <g id='151'>Μια συσκευή δίσκου μπορεί να υποδιαιρεθεί σε ένα ή περισσότερα διαμερίσματα</g>."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='150'>If you do not already have the necessary partitions ready, you may want to use Gparted to create them first. </g><g id='151'><g id='152'>Gparted</g></g><g id='153'> will enable you to change the partition organization on a disk device while preserving the contents of the partitions.</g>"
-msgstr "<g id='152'>Εάν δεν έχετε ήδη έτοιμα τα αναγκαία διαμερίσματα, ισως θέλετε να χρησιμοποιήσετε το Gparted για να τα δημιουργείσετε πρώτα. </g><g id='153'><g id='154'>Το Gparted</g></g><g id='155'> θα σας βοηθήσει να αλλάξετετην οργάνωση των διαμερισμάτων ενός δίσκου ενώ διασώζει τα περιεχόμενα των διαμερισματων.</g>"
+msgstr "<g id='152'>Εάν δεν έχετε ήδη έτοιμα τα αναγκαία διαμερίσματα, ισως θέλετε να χρησιμοποιήσετε το Gparted για να τα δημιουργήσετε πρώτα. </g><g id='153'><g id='154'>Το Gparted</g></g><g id='155'> θα σας βοηθήσει να αλλάξετετην οργάνωση των διαμερισμάτων ενός δίσκου ενώ διασώζει τα περιεχόμενα των διαμερισματων.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -977,10 +976,9 @@ msgid "ISO Master is an application for creating and modifying ISO9660 files (IS
 msgstr "Το ISO Master είναι μια εφαρμογή δημιουργίας και τροποποίησης αρχείων ISO9660 (ISO images)."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "If necessary, you can verify the integrity of your downloaded file by comparing its <g id='95'>md5sum</g> file with the original one uploaded besides the corresponding ISO image file by Salix OS."
-msgstr "εάν έιναι αναγκαίο, μπορείτε να επαληθεύσετε την ακεραιότητα του μεταφορτωμένου αρχείου συγκρίνοντας το αντίστοιχο<g id='97'>md5sum</g> αρχείο με το αυθεντικό που είναι ανεβασμένο και αντιστοιχεί στο αρχείο εικόνας ISO του Salix OS."
+msgstr "Εάν έιναι αναγκαίο, μπορείτε να επαληθεύσετε την ακεραιότητα του μεταφορτωμένου αρχείου συγκρίνοντας το αντίστοιχο<g id='97'>md5sum</g> αρχείο με το αυθεντικό που είναι ανεβασμένο και αντιστοιχεί στο αρχείο εικόνας ISO του Salix OS."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1003,10 +1001,9 @@ msgid "If you are still quite new to either Salix, Slackware or even Linux in ge
 msgstr "Αν είστε εντελώς νέος είτε στο Salix, Slackware ή ακόμη και στο Linux γενικά, τότε θα πρέπει πρώτα να αφιερώσετε κάποιο χρόνο να μελετήσετε τον Οδηγό Χρηστών του Salix αφού αποβλέπει ειδικά να είναι προσιτό στους νεοεισερχόμενους."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "If you do however, you might want to modify the default qwebircxxx login to something more personal and human readable."
-msgstr "Μπορείτε ωστόσο, εάν θέλετε να τροποποιήσετε το εξ' ορισμού qwebircxxx login σε κάτι πιο προσωπικό & αναγνώσιμο από ανθρώπους."
+msgstr "Μπορείτε ωστόσο, εάν θέλετε να τροποποιήσετε το εξ' ορισμού όνομα χρήστη qwebircxxx σε κάτι πιο προσωπικό και αναγνώσιμο."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1014,10 +1011,9 @@ msgid "In addition to offering free‑form drawing, it can accomplish essential 
 msgstr "Εξάλλου για να προσφέρει ζωγραφική ελεύθερου τύπου, διεκπεραιώνει ουσιώδη βήματα εργασίας σε μια εικόνα όπως αλλαγή διαστάσεων, επεξεργασία, και κόψιμο τμημάτων φωτογραφιών, συνδυασμό πολλαπλών εικόνων, μετατροπή μεταξύ διαφορετικών τύπων εικόνων όπως επίσης και τη δημιουργία βασικών κινούμενων γραφικών σε GIF."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "In order to do this, Salix OS has chosen the <g id='36'>Xfce</g> desktop, which offers a comprehensive full‑featured environment while managing to remain simple, unobstructive and highly responsive."
-msgstr "Για το σκοπό αυτό,το λειτουργικό σύστημα Salix έχει επιλέξει το γραφικό περιβάλλον <g id='36'>Xfce</g>, το οποίο προσφέρει ένα περιεκτικό περιβάλλον πλήρη χαρακτηριστικών ενω καταφέρνει να παραμένει απλό, απρόσκοπτο & πλήρως αποκριτικό&amp;"
+msgstr "Για το σκοπό αυτό,το λειτουργικό σύστημα Salix έχει επιλέξει το γραφικό περιβάλλον <g id='36'>Xfce</g>, το οποίο προσφέρει ένα περιεκτικό περιβάλλον, πλήρες χαρακτηριστικών ενω καταφέρνει να παραμένει απλό, απρόσκοπτο και με πλήρη απόκριση."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1117,22 +1113,19 @@ msgid "Lilo Setup"
 msgstr "Ρύθμιση Λίλο"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Lilo Setup can also be useful in the process of a disaster recovery in which case you may have to launch it from a Live CD if you have lost all other means to boot into your system."
-msgstr "Το LiloSetup μπορεί επίσης να είναι χρήσιμο για να μπουτάρετε τον υπολογιστή σας μετά από καταστροφή του MBR και σε αυτή τη περίπτωση θα πρέπει να το τρέξετε από ένα LiveCD εάν έχετε εξαντλήσει όλους τους τρόπους για να εκκινήσετε το σύστημά σας."
+msgstr "Το LiloSetup μπορεί επίσης να είναι χρήσιμο για να εκκινήσετε τον υπολογιστή σας μετά από καταστροφή του MBR και σε αυτή τη περίπτωση θα πρέπει να το τρέξετε από ένα LiveCD εάν έχετε εξαντλήσει όλους τους τρόπους για να εκκινήσετε το σύστημά σας."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Lilo Setup is also very easy to use."
 msgstr "Το LiloSetup είναι επίσης πολύ εύκολο στη χρήση."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Lilo Setup will install a new LILO bootloader on your computer."
-msgstr "Το LiloSetup θα εγκαταστήσει ένα νέο LILO εκκινητή στον υπολογιστή σας."
+msgstr "Το LiloSetup θα εγκαταστήσει ένα νέο εκκινητή LILO στον υπολογιστή σας."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1165,10 +1158,9 @@ msgid "Modifications are applied instantly."
 msgstr "Οι τροποποιήσεις εφαρμόζονται αμέσως."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Most Salix tools (except Lilo Setup) have an ncurse counterpart which can be used in a non-graphical environment (<g id='75'>runlevel 3</g>)."
-msgstr "Τα περισσότερα εργαλεία του Salix (εκτός του LiloSetup) έχουν ένα ncurse ισοδύναμο ου μπορεί να χρησιμοποιηθεί σε ένα μη γραφικό περιβάλλον (<g id='75'>runlevel 3</g>)."
+msgstr "Τα περισσότερα εργαλεία του Salix (εκτός του LiloSetup) έχουν ένα ncurses ισοδύναμο τους που μπορεί να χρησιμοποιηθεί σε ένα μη γραφικό περιβάλλον (<g id='75'>runlevel 3</g>)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1181,16 +1173,14 @@ msgid "Mousepad is a simple text editor with printing support."
 msgstr "Το Mousepad είναι ένας απλός επεξεργαστής κειμένου με δυνατότητα εκτυπώσεων."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Mozilla Firefox is a free and open source web browser with tabbed browsing, spell checking, incremental find, private browsing and numerous plugins."
-msgstr "Ο Mozilla Firefox είναι ένας φυλομετρητής ιστοσελίδων ελεύθερου και ανοικτού λογισμικού με καρτέλλες, ορθογραφικό έλεγχο, αυξητική αναζήτηση, ιδιωτικής πλοήγησης & πολλαπλών πρόσθετων."
+msgstr "Ο Mozilla Firefox είναι ένας φυλομετρητής ιστοσελίδων ελεύθερου και ανοικτού λογισμικού με καρτέλλες, ορθογραφικό έλεγχο, αυξητική αναζήτηση, ιδιωτικής πλοήγησης και πολλαπλών πρόσθετων."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Multimedia applications include <g id='49'>Asunder</g>, <g id='50'>Brasero</g>, <g id='51'>Exaile</g>, <g id='52'>Iso Master</g>, <x id='53'/><g id='54'>Totem</g> and <g id='55'>Salix Codec Installer</g>."
-msgstr "Οι εφαρμογές πολυμέσωνπεριλαμβάνουν τα <g id='49'>Asunder</g>, <g id='50'>Brasero</g>, <g id='51'>Exaile</g>, <g id='52'>Iso Master</g>, <x id='53'/><g id='54'>Totem</g> &amp;"
+msgstr "Οι εφαρμογές πολυμέσωνπεριλαμβάνουν τα <g id='49'>Asunder</g>, <g id='50'>Brasero</g>, <g id='51'>Exaile</g>, <g id='52'>Iso Master</g>, <x id='53'/><g id='54'>Totem</g> και <g id='55'>Salix Codec Installer</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1213,10 +1203,9 @@ msgid "On the left side of the application, you will notice the different sectio
 msgstr "Στην αριστερή πλευρά της εφαρμογής, θα παρατηρήσετε τις διαφορετικές ενότητες που πρέπει να ρυθμιστούν πριν ξεκινήσετε την διαδικασία εγκατάστασης: "
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Once the installation process is completed, You will be given the choice to launch <g id='155'>Lilo Setup</g> to configure your LILO bootloader."
-msgstr "Μόλις η διαδικασία εγκατάστασης ολοκληρωθεί, θα σας δοθεί η επιλογή να τρέξετε το <g id='158'>Lilo Setup</g> για να διαμορφώσετε τον LILO εκκινητή σας."
+msgstr "Μόλις η διαδικασία εγκατάστασης ολοκληρωθεί, θα σας δοθεί η επιλογή να τρέξετε το <g id='158'>Lilo Setup</g> για να διαμορφώσετε τον εκκινητή LILO."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1249,10 +1238,9 @@ msgid "Orage provides a calendar which integrates nicely into the Xfce Desktop E
 msgstr "Το Orage παρέχει ένα ημερολόγιο που ενσωματώνεται τέλεια στο γραφικό περιβάλλον Xfce."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Our <g id='86'>Wiki</g> and <g id='87'>Forum</g> will be two other important sources of information."
-msgstr "<g id='87'>Το Forum</g> θα είναι δυο άλλες σπουδαίες πηγές πληροφοριών."
+msgstr " Το <g id='86'>Wiki</g> και <g id='87'>το Forum</g> θα είναι δυο άλλες σπουδαίες πηγές πληροφοριών."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1290,7 +1278,6 @@ msgid "Pressing 'c' gives you access to the Grub shell."
 msgstr "Πατώντας 'c' σας δίνει πρόσβαση στο φλοιό του Grub."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Pressing 'e' while 'Start Salix Live' is selected opens up the following display, enabling you to modify some of the booting options for example in order to enter a boot parameter."
 msgstr "Πατώντας 'e' ενώ έχει επιλεγεί το 'Start Salix Live' ανοίγει η ακόλουθη άποψη, που σας επιτρέπει να τροποποιήσετε μερικές από τις επιλογές εκκίινησης <x id='160'/>για παράδειγμα για να εισάγετε μια παράμετρο εκκίνησης."
@@ -1347,7 +1334,6 @@ msgid "Salix Live"
 msgstr "Salix Live"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix Live CD holds a <g id='200'>/salixlive/rootcopy/</g> directory."
 msgstr "Το Salix Live CD έχει ένα <g id='208'>/salixlive/rootcopy/</g> κατάλογο."
