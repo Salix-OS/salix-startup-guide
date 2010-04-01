@@ -1818,7 +1818,7 @@ msgstr "live "
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "load=module"
-msgstr ""
+msgstr "load=module"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
