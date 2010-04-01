@@ -2,13 +2,13 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: salix-startup-guide\n"
 "POT-Creation-Date: 2010-03-31 21:03+CET\n"
-"PO-Revision-Date: 2010-03-29 10:49+0200\n"
-"Last-Translator: Dimitris Tzemos <djemos@slackel.gr>\n"
+"PO-Revision-Date: 2010-04-01 13:38+0200\n"
+"Last-Translator: George Vlahavas <vlahavas~at~gmail~dot~com>\n"
 "Language-Team: Greek\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -873,7 +873,6 @@ msgid "Copyright © SalixOS.org 2010"
 msgstr "Copyright © SalixOS.org 2010"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Customizing Salix Live"
 msgstr "Προσαρμογή Salix Live"
@@ -1026,7 +1025,6 @@ msgid "In the same manner that you boot from the optical drive, you must ensure 
 msgstr "Κατά τον ίδιο τρόπο που εκκινείτε από το οπτική συσκευή, πρέπει να σιγουρευτείτε ότι το BIOS έχει ρυθμιστεί να εκκινεί από μια USB συσκευή πριν από τις άλλες συσκευές."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Installing Salix OS"
 msgstr "Εγκατάσταση Salix OS"
@@ -1107,7 +1105,6 @@ msgid "It will not modify any operating system or data present on its host compu
 msgstr "Δεν θα τροποποιήσει κανένα λειτουργικό σύστημα ή δεδομένα που βρίσκονται στον υπολογιστή που τρέχει και δεν θα αφήσει ίχνη μετά το τερματισμό."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Lilo Setup"
 msgstr "Ρύθμιση Λίλο"
@@ -1328,7 +1325,6 @@ msgid "Salix needs, at the very minimum, one swap partition (which will be autom
 msgstr "Το Salix χρειάζεται, το ελάχιστον, ένα διαμέρισμα swap (το οποίο θα χρησιμοποιηθεί αυτόματα από τον εγκαταστάτη του Livecd χωρίς μεσολάβηση του χρήστη) και ένα διαμέρισμα Linux για να κρατήσει τη κύρια ιεραρχική δομή των καταλόγων του."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix Live"
 msgstr "Salix Live"
@@ -1349,7 +1345,6 @@ msgid "Salix Live root password is:"
 msgstr "Το συνθηματικό του διαχειριστή (root) στο Salix Live είναι:"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix OS"
 msgstr "Salix OS"
@@ -1385,7 +1380,6 @@ msgid "So, for example, if you wish to just use your own xorg.conf file, create 
 msgstr "Ετσι, για παράδειγμα, εάν επιθυμείτε να χρησιμοποιήσετε το δικό σας xorg.conf αρχείο, δημιουργείστε etc/X11/ καταλόγους μέσα στο /salixlive/rootcopy και αποθηκεύστε το δικό σας xorg.conf εκεί."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Softwares"
 msgstr "Λογισμικό"
@@ -1873,99 +1867,76 @@ msgstr "Οδηγός χρήσης του Salix Live"
 #~ msgctxt "paragraph"
 #~ msgid "(This cheatcode is already included in Salix Live boot menu &amp;"
 #~ msgstr "(Αυτή η ευκολία cheatcode περιλαμβάνεται ήδη στο μενού εκκίνησης του Salix Live& amp,"
-
 #~ msgctxt "paragraph"
 #~ msgid "<g id='169'><x id='170'/>l</g><g id='171'>oad=module</g>"
 #~ msgstr "<g id='169'><x id='170'/>l</g><g id='171'>oad=module</g>"
-
 #~ msgctxt "paragraph"
 #~ msgid "<g id='44'>Orage agenda</g>."
 #~ msgstr "<g id='44'>Ημερολόγιο Orage </g>."
-
 #~ msgctxt "paragraph"
 #~ msgid "<g id='48'>gFTP</g>."
 #~ msgstr " <g id='48'>gFTP</g>."
-
 #~ msgctxt "paragraph"
 #~ msgid "<g id='55'>Salix Codec Installer</g>."
 #~ msgstr "<g id='55'>Εγκαταστάτης κώδικα του Salix </g>."
-
 #~ msgctxt "paragraph"
 #~ msgid "Our <g id='86'>Wiki</g> &amp;"
 #~ msgstr "Το <g id='86'>Wiki</g>μας &amp;"
-
 #~ msgctxt "paragraph"
 #~ msgid "Software."
 #~ msgstr "Λογισμικό."
-
 #~ msgctxt "paragraph"
 #~ msgid "The latest Salix OS or Salix Live releases are freely &amp;"
 #~ msgstr "Οι τελευταίες εκδόσεις του λειτουργικού συστήματος Salix ή του Zωντανού (Live) Salix είναι ελεύθερα &amp;"
-
 #~ msgctxt "paragraph"
 #~ msgid "This last mode is build on the Basic Mode &amp;"
 #~ msgstr "Αυτός ο τελευταίος τρόπος βασίζεται στον βασικό τρόπο (Basic Mode) &amp;"
-
 #~ msgctxt "paragraph"
 #~ msgid "Undo options are available &amp;"
 #~ msgstr "επιλογές αναίρεσης είναι διαθέσιμες &amp;"
-
 #~ msgctxt "paragraph"
 #~ msgid "XSane"
 #~ msgstr "XSane"
-
 #~ msgctxt "paragraph"
 #~ msgid "a GUI interface."
 #~ msgstr "ένα (GUI) Γραφικό σύστημα διεπαφής χρήστη"
-
 #~ msgctxt "paragraph"
 #~ msgid "fully functional operating system."
 #~ msgstr "πλήρως λειτουργικό σύστημα"
-
 #~ msgctxt "paragraph"
 #~ msgid "get instant help if necessary."
 #~ msgstr "έχετε άμεση βοήθεια εάν χρειάζεται."
-
 #~ msgctxt "paragraph"
 #~ msgid "groups of users."
 #~ msgstr "ομάδες χρηστών"
-
 #~ msgctxt "paragraph"
 #~ msgid "highly responsive."
 #~ msgstr "πολύ αποκριτικό."
-
 #~ msgctxt "paragraph"
 #~ msgid "human readable."
 #~ msgstr "ανθρώπινα διαβασμένο."
-
 #~ msgctxt "paragraph"
 #~ msgid "if it suits your personal tastes.</g>"
 #~ msgstr "εάν ταιριάζει στα προσωπικά σας γούστα</g>."
-
 #~ msgctxt "paragraph"
 #~ msgid "is available directly on the desktop."
 #~ msgstr "είναι διαθέσιμο άμεσα στοπεριβάλλον εργασίας."
-
 #~ msgctxt "paragraph"
 #~ msgid "is independent of any particular Desktop Environment."
 #~ msgstr "είναι ανεξάρτητο από οποιοδήποτε Περιβάλλον Εργασίας."
-
 #~ msgctxt "paragraph"
 #~ msgid "non-graphical environments."
 #~ msgstr "μη γραφικά περιβάλλοντα."
-
 #~ msgctxt "paragraph"
 #~ msgid "numerous plugins."
 #~ msgstr "πολυάριθμα πρόσθετα."
-
 #~ msgctxt "paragraph"
 #~ msgid "properties of all the system users &amp;"
 #~ msgstr "ιδιότητες όλων των χρηστών του συστήματος &amp;"
-
 #~ msgctxt "paragraph"
 #~ msgid "will guide you every step of the way."
 #~ msgstr "θα σας καθοδηγήσει σε κάθε βήμα του τρόπου"
-
 #~ msgctxt "paragraph"
 #~ msgid "will not necessitate a reboot."
 #~ msgstr "δεν θα απαιτήσει μια επανεκκίνηση"
+
