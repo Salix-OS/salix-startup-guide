@@ -90,7 +90,7 @@ msgstr "Δημιουργώντας ένα άρθρωμα"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Customizing Salix Live"
-msgstr "Προσαρμογή του Salix Live"
+msgstr "Προσαρμογή Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -628,13 +628,11 @@ msgid "<g id='136'>Like most Live CDs based on Slackware, Salix Live is relying
 msgstr "<g id='138'>Όπως τα περισσότερα Live CDs βασισμένα στο Slackware, το Salix Live βασίζεται στη χρήση των </g><g id='139'><g id='140'>Linux Live Scripts</g></g><g id='141'>. Μερικά από τα προγράμματα που περιέχει θα δώσουν τη δυνατότητα σε ένα προχωρημένο χρήστη να </g><g id='142'><g id='143'>τροποποιήσει και να επαναδημιουργήσει</g></g><g id='144'> <x id='145'/>το Salix Live για να ταιριάζει στις προσωπικές του ανάγκες.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='144'>In order to bypass certain limitations or to complement some of the third-party technology it uses, Salix developed its own set of patches and scripts which for the most part need no user interaction while some can be executed, for instance to facilitate the creation of a </g><g id='145'><g id='146'>Salix Live USB Flash Disk</g></g><g id='147'>. <x id='148'/></g>"
-msgstr "<g id='146'>Για να παρακάμψετε κάποιους περιορισμούς ή να συμπληρώσετε κάποια από τη τεχνολογία τρίτων που χρησιμοποιεί, το Salix ανέπτυξε τα δικά του μέρη από patches &amp; scripts τα οποία στο μεγαλύτερο μέρος δεν χρειάζονται την αλληλεπίδραση του χρήστη ενώ κάποια μπορούν να εκτελεστούν, για παράδειγμα να διευκολύνουν τη δημιουργία ενός</g><g id='147'><g id='148'>Salix Live USB Flash δίσκου</g></g><g id='149'>. <x id='150'/></g>"
+msgstr "<g id='146'>Για να παρακάμψετε κάποιους περιορισμούς ή να συμπληρώσετε κάποια από τη τεχνολογία τρίτων που χρησιμοποιεί, το Salix ανέπτυξε τα δικά του μέρη από patches και scripts τα οποία στο μεγαλύτερο μέρος δεν χρειάζονται την αλληλεπίδραση του χρήστη ενώ κάποια μπορούν να εκτελεστούν, για παράδειγμα να διευκολύνουν τη δημιουργία ενός</g><g id='147'><g id='148'>Salix Live USB Flash δίσκου</g></g><g id='149'>. <x id='150'/></g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='149'>A disk device can be subdivided into one or more partitions</g>."
 msgstr " <g id='151'>Μια συσκευή δίσκου μπορεί να υποδιαιρεθεί σε ένα ή περισσότερα διαμερίσματα</g>."
@@ -646,7 +644,6 @@ msgid "<g id='150'>If you do not already have the necessary partitions ready, yo
 msgstr "<g id='152'>Εάν δεν έχετε ήδη έτοιμα τα αναγκαία διαμερίσματα, ισως θέλετε να χρησιμοποιήσετε το Gparted για να τα δημιουργείσετε πρώτα. </g><g id='153'><g id='154'>Το Gparted</g></g><g id='155'> θα σας βοηθήσει να αλλάξετετην οργάνωση των διαμερισμάτων ενός δίσκου ενώ διασώζει τα περιεχόμενα των διαμερισματων.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='198'>By browsing </g>/mnt/live/memory/images/xxx.lzm/<g id='199'>, you can view the contents of each module, therefore you'll find which module holds a given package in </g>/mnt/live/memory/images/xxx.lzm/var/log/packages/"
 msgstr " <g id='206'>Διαβάζοντας το </g>/mnt/live/memory/images/xxx.lzm/<g id='207'>, μπορείτε να δείτε τα περιεχόμενα κάθε αρθρώματος, επομένως θα βρείτε ποιο άρθρωμα περιέχει ένα δοσμένο πακέτο στο  </g>/mnt/live/memory/images/xxx.lzm/var/log/packages/"
@@ -667,13 +664,11 @@ msgid "<g id='59'>Geany</g> is provided in the Development applications."
 msgstr " <g id='59'>Το Geany</g> βρίσκεται στις εφαρμογές Ανάπτυξης."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='66'>Transmission is a </g><g id='67'><g id='68'>BitTorrent</g></g><g id='69'> client that is simple, lean and powerful.</g>"
-msgstr " <g id='66'>Το Transmission είναι ένας </g><g id='67'><g id='68'>BitTorrent</g></g><g id='69'> πελάτης που είναι απλός, λιτός, &amp; με πολλές δυνατότητες.</g>"
+msgstr " <g id='66'>Το Transmission είναι ένας </g><g id='67'><g id='68'>BitTorrent</g></g><g id='69'> πελάτης που είναι απλός, λιτός και με πολλές δυνατότητες.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='71'>All system management in Salix OS can be done the usual (</g><g id='72'><g id='73'>manual</g></g><g id='74'>) Slackware way.</g>"
 msgstr " <g id='71'>Ολόκληρη η διαχείριση του συστήματος στο λειτουργικό σύστημα Salix μπορεί να γίνει με τον συνήθη (</g><g id='72'><g id='73'>χειροκίνητο</g></g><g id='74'>) τρόπο του Slackware.</g>"
@@ -689,10 +684,9 @@ msgid "<g id='78'>To execute it in runlevel 3, simply type clocksetup</g>."
 msgstr "<g id='78'>Για να εκτελέσετε αυτή τη εφαρμογή στο επίπεδο init 3, απλά πληκτρολογείστε  clocksetup</g>."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='79'>In Unix/Linux, all users and groups of users are given certain </g><g id='80'><g id='81'>permissions and access rights</g></g><g id='82'> to some part of the system in order to control their ability to access and change it.</g>"
-msgstr " <g id='79'>Στο Unix/Linux, σε όλους τους χρήστες και τις ομάδες χρηστών δίδονται καθορισμένες</g><g id='80'><g id='81'>άδειες &amp; δικαιώματα προσπέλασης</g></g><g id='82'>σε κάποια μέρη του συστήματος ώστε να ελέγχουν την δυνατότητα πρόσβασης &amp; και αλλαγών σε αυτό.</g>"
+msgstr " <g id='79'>Στο Unix/Linux, σε όλους τους χρήστες και τις ομάδες χρηστών δίδονται καθορισμένες</g><g id='80'><g id='81'>άδειες και δικαιώματα προσπέλασης</g></g><g id='82'>σε κάποια μέρη του συστήματος ώστε να ελέγχουν την δυνατότητα πρόσβασης &amp; και αλλαγών σε αυτό.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -700,28 +694,24 @@ msgid "<g id='83'>Slapt-get</g> is a CLI tool providing an APT‑like system for
 msgstr " <g id='83'>Το Slapt-get</g>είναι ένα γραφικό εργαλείο που προσφέρει ένα σύστημα σαν το APT για τη διαχείριση πακέτων  του Slackware.  "
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='89'>Salix Live is the Live CD version of </g><g id='90'>Salix OS</g><g id='91'>. You can therefore safely use it to 'test drive' Salix OS without having to install anything on your computer. You will thus be able to determine wheter and to what extent S</g><g id='92'>alix OS is compatible with your particular hardware configuration and if it suits your personal tastes.</g>"
 msgstr "<g id='89'>Το Salix Live είναι η έκδοση Live CD του </g><g id='90'>Salix OS</g><g id='91'>. Μπορείτε επομένως να το χρησιμοποιήσετε με ασφάλεια να κάνετε ένα 'test drive' στο λειτουργικό σύστημα Salix OS χωρίς να εγκαταστήσετε τίποτε στον υπολογιστή σας.<x id='92'/>Συνεπώς μπορείτε να</g><g id='93'>καθορίσετε εάν και σε πιο βαθμό <x id='94'/>το Salix OS είναι συμβατό με τη συγκεκριμένη διαμόρφωση υλικού &amp;"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='93'>Salix Live will also come in handy as a mobile solution if you wish to carry Salix OS everywhere you go or if you need to perform some basic rescue operation such as fixing an ailing LILO bootloader with Lilo Setup, c</g>onfiguring some partitions with Gparted, etc."
 msgstr "<g id='95'>Το Salix Live θα είναι επίσης χρήσιμο σαν μια κινητή λύση εάν επιθυμείτε να μεταφέρετε το Salix OS οπουδήποτε πηγαίνετε ή εάν χρειάζεστε να εκτελέσετε κάποια βασική λειτουργία διάσωσης όπως διορθώνοντας ένα προβληματικό εκκινητή LILO με το LiloSetup, </g>διαμορφώνοντας κάποια διαμερίσματα με το Gparted, κλπ."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='96'>You can also explode the Salix Live ISO image onto a </g><g id='97'><g id='98'>USB key</g></g><g id='99'>.</g>"
-msgstr "<g id='98'>Μπορείτε επίσης να αποσυμπιέσετε την εικόνα του Ζωντανού Salix ISO σε ένα </g><g id='99'><g id='100'>USB key</g></g><g id='101'>.</g>"
+msgstr "<g id='98'>Μπορείτε επίσης να αποσυμπιέσετε την εικόνα ISO του Salix Live σε μια </g><g id='99'><g id='100'>συσκευή αποθήκευσης USB</g></g><g id='101'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "A Live CD is a CD-ROM holding a self-contained bootable and fully functional operating system."
-msgstr "Ένα ζωντανό CD είναι ένα CD-ROM που περιέχει ένα αυτο-περιεχόμενο εκκινήσιμο &amp; πλήρως λειτουργικό λειτουργικό σύστημα."
+msgstr "Ένα Live CD είναι ένα CD-ROM που περιέχει ένα αυτο-περιεχόμενο εκκινήσιμο και πλήρως λειτουργικό λειτουργικό σύστημα."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -759,10 +749,9 @@ msgid "Advanced Boot Options"
 msgstr "Ειδικές Επιλογές Εκκίνησης"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "All your modifications will be applied instantly if you press on the OK button and will not necessitate a reboot."
-msgstr "Όλες οι τροποποιήσεις σας θα εφαρομοστούν άμεσα εάν πατήστε το πλήκτρο OK &amp;"
+msgstr "Όλες οι τροποποιήσεις σας θα εφαρομοστούν άμεσα εάν πατήστε το πλήκτρο OK χωρίς να χρειάζεται επανεκκίνηση."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -795,10 +784,9 @@ msgid "As previously stated Salix relies on the excellent slapt-get/Gslapt combi
 msgstr "Όπως δηλώθηκε ξεκάθαρα προηγουμένως το Salix συνεργάζεται στενά με το εξαιρετικό slapt-get/Gslapt για την διαχείριση των πακέτων λογισμικού του."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "As we have seen, this can be done simply with the help of <g id='154'>Gparted</g>, which is included in Salix Live and is available directly on the desktop."
-msgstr "Όπως ήδη είδαμε, αυτό μπορεί να γίνει απλά με τη βοήθεια του <g id='157'>Gparted</g>, που περιλαμβάνεται στο Salix Live &amp;"
+msgstr "Όπως ήδη είδαμε, αυτό μπορεί να γίνει απλά με τη βοήθεια του <g id='157'>Gparted</g>, που περιλαμβάνεται στο Salix Live και είναι άμεσα διαθέσιμο στην επιφάνεια εργασίας."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -831,10 +819,9 @@ msgid "Before you can use any of the multimedia applications, you might have to 
 msgstr "Πριν χρησιμοποιήσετε οποιαδήποτε εφαρμογή πολυμέσων, ίσως θέλετε να εγκαταστήσετε πρώτα μερικούς οδηγούς που λείπουν."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Besides Firefox, Network applications include <g id='45'>Claws‑mail</g>, <g id='46'>Pidgin</g>  <g id='47'>Transmission</g> and <g id='48'>gFTP</g>."
-msgstr "Εκτός του Firefox, οι εφαρμογές δικτύου περιλαμβάνουν τα <g id='45'>Claws‑mail</g>, <g id='46'>Pidgin</g>  <g id='47'>Transmission</g> &amp;"
+msgstr "Εκτός του Firefox, οι εφαρμογές δικτύου περιλαμβάνουν τα <g id='45'>Claws‑mail</g>, <g id='46'>Pidgin</g>  <g id='47'>Transmission</g> και <g id='48'>gFTP</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -872,16 +859,14 @@ msgid "Clicking on one of these sections will display the corresponding options 
 msgstr "Κάνοντας κλικ σε μια από αυτές τις ενότητες θα εμφανιστεί η αντίστοιχη επιλογή που χρειάζεται ρύθμιση."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Contextual help triggered by the position of the mouse will also be displayed above the application and will guide you every step of the way."
-msgstr "Η συναφής βοήθεια που ενεργοποιείται από τη θέση του δείκτη του ποντικιού θα <x id='159'/>εμφανιστεί επίσης πάνω από την εφαρμογή &amp;"
+msgstr "Η συναφής βοήθεια που ενεργοποιείται από τη θέση του δείκτη του ποντικιού θα <x id='159'/>εμφανιστεί επίσης στο πάνω μέρος της εφαρμογής και θα σας καθοδηγεί καθ'όλη τη διάρκεια."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Contextual help triggered by the position of the mouse will be displayed above the application and will guide you every step of the way."
-msgstr " Η συναφής βοήθεια που ενεργοποιείται από τη θέση του δείκτη του ποντικιού θα<x id='156'/>εμφανιστεί επίσης πάνω από την εφαρμογή &amp;"
+msgstr " Η συναφής βοήθεια που ενεργοποιείται από τη θέση του δείκτη του ποντικιού θα<x id='156'/>εμφανιστεί στο πάνω μέρος της εφαρμογής και θα σας καθοδηγεί καθ'όλη τη διάρκεια."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -905,10 +890,9 @@ msgid "Dotnew manages the system configuration upgrades used by Slackware."
 msgstr "Το Dotnew διαχειρίζεται τις αναβαθμίσεις των αρχείων διαμόρφωσης του συστήματος που χρησιμοποιείται απο το Slackware. "
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Even if run from a CD/DVD, Salix Live gives you the possibility to save any of your work or modification performed while in a Live session."
-msgstr "Ακόμη και αν τρέχει από ένα CD/DVD, το Salix Live σας δίνει τη δυνατότητα να σώσετε τη δουλειά σας ή τροποποιήσεις που έγιναν ενω είστε στη Ζωντανή σύνοδο."
+msgstr "Ακόμη και αν τρέχει από ένα CD/DVD, το Salix Live σας δίνει τη δυνατότητα να σώσετε τη δουλειά σας ή τροποποιήσεις που έγιναν ενω είστε στη συνεδρία Live."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -951,16 +935,16 @@ msgid "Galculator is a calculator featuring two user modes:"
 msgstr "Το Galculator είναι μια αριθμομηχανή με δυο χαρακτηριστικές καταστάσεις λειτουργίας:"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Geany is a small and lightweight Integrated Development Environment which only has a few dependencies and is independent of any particular Desktop Environment."
-msgstr "Το Geany είναι ένα μικρό και ελαφρύ ολοκληρωμένο περιβάλλον ανάπτυξης εφαρμογών που έχει μόνον λίγες εξαρτήσεις &amp;"
+msgstr "Το Geany είναι ένα μικρό και ελαφρύ ολοκληρωμένο περιβάλλον ανάπτυξης εφαρμογών που έχει μόνον λίγες εξαρτήσεις και είναι ανεξάρτητο περιβάλλοντος εργασίας."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Graphical applications include the <g id='56'>Gimp</g>, <g id='57'>Ristretto</g> and <g id='58'>XSane</g>"
-msgstr "Οι Γραφικές εφαρμογές περιλαμβάνουν τα <g id='56'>Gimp</g>, <g id='57'>Ristretto</g> &amp;"
+msgstr ""
+"Οι Γραφικές εφαρμογές περιλαμβάνουν τα <g id='56'>Gimp</g>, <g id='57'>Ristretto</g> και <g id='58'>XSane</g>\r\n"
+"\t"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
