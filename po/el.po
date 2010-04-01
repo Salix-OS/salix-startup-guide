@@ -1391,7 +1391,6 @@ msgid "Softwares"
 msgstr "Λογισμικό"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Some of the Live Tools are graphical utilities that can be accessed directly on the desktop while some Live Tools, reserved for advanced users can only be executed in a Terminal, from the command line (<g id='121'>CLI</g>)."
 msgstr "Μερικά από τα Live Tools είναι γραφικές εφαρμογές που μπορεί να προσπελαστούν άμεσα στο γραφικό περιβάλλον ενώ μερικά Live Tools, δεσμευμένα για προχωρημένους χρήστες μπορούν να εκτελεστούν μόνο σε ένα Τερματικό, από τη γραμμή εντολών (<g id='123'>CLI</g>)."
@@ -1442,10 +1441,9 @@ msgid "The Linux Live Scripts come with the following useful commands:"
 msgstr "Τα Linux Live Scripts έρχονται με τα ακόλουθες χρήσιμες εντολές:"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The Office applications are composed of the full <g id='42'>OpenOffice productivity suite</g>, <g id='43'>ePDFView</g> and <g id='44'>Orage agenda</g>."
-msgstr "Οι εφαρμογές γραφείου αποτελούνται από τη πλήρη <g id='42'>παραγωγική σουίτα γραφείου OpenOffice</g>, <g id='43'>ePDFView</g> &amp;"
+msgstr "Οι εφαρμογές γραφείου αποτελούνται από την πλήρη <g id='42'>παραγωγική σουίτα γραφείου OpenOffice</g>, <g id='43'>ePDFView</g> και την ατζέντα <g id='44'>Orage</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1468,13 +1466,11 @@ msgid "The first screen to greet you will enable you to select your language."
 msgstr "Η πρώτη οθόνη καλοσωρίσματος θα σας επιτρέψει να επιλέξετε την γλώσσας σας."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The latest Salix OS or Salix Live releases are freely and easily available as ISO image files from Salix OS <g id='94'>download page</g>."
-msgstr "εύκολα διαθέσιμα αρχεία σαν αρχείο εικόνας ISO από τη <g id='96'>σελίδα μεταφόρτωσης</g> του Salix OS."
+msgstr "Οι τελευταίες εκδόσεις του Salix και του Salix Live είναι εύκολα διαθέσιμες ως αρχείο εικόνας ISO από τη <g id='96'>σελίδα download</g> του Salix OS."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The purpose of this manual is to enable you to take full advantage of the many functionalities of Salix Live."
 msgstr "Ο σκοπός αυτού του οδηγού είναι να σας δώσει το πλεονέκτημα της  πολλαπλής λειτουργικότητας του Salix Live."
@@ -1500,22 +1496,19 @@ msgid "This is ideal if you are an experienced user and want to customize your i
 msgstr "Αυτό είναι ιδανικό εάν είστε έμπειρος χρήστης και θέλετε να προσαρμόσετε την εγκατάσταση σας για οποιοδήποτε ειδικό σκοπό, όπως web server, file server κλπ."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "This last mode is build on the Basic Mode and offers a full range of useful software applications one could need on a daily basis while following the \"one application per task\" rationale."
-msgstr "προσφέρει μια μεγάλη γκάμα χρήσιμων εφαρμογών λογισμικού που χρειάζεται κάποιος σε καθημερινή βάση ενώ ακολουθεί την σχέση \"one application per task\"."
+msgstr "O τελευταίος τρόπος εγκατάστασης βασίζεται στον Βασικό τρόπο εγκατάστασης και προσφέρει μια μεγάλη γκάμα χρήσιμων εφαρμογών λογισμικού που χρειάζεται κάποιος σε καθημερινή βάση ενώ ακολουθεί την φιλοσοφία \"one application per task\"."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "This utility manages the creation, deletion and properties of all the system users and groups of users."
-msgstr "Αυτή το εργαλείο διαχειρίζεται τη δημιουργία, διαγραφή &amp;"
+msgstr "Αυτή το εργαλείο διαχειρίζεται τη δημιουργία, διαγραφή και τη διαχείρηση των ιδιοτήτων των λογαριασμών χρηστών και των ομάδων χρηστών του συστήματος."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "This utility will configure the keyboard disposition being used both in the graphical and non-graphical environments."
-msgstr "Αυτή το εργαλείο θα ρυθμίσει τη διάταξη του πληκτρολογίου που χρησιμοποιείται και στο γραφικό &amp;"
+msgstr "Αυτή το εργαλείο θα ρυθμίσει τη διάταξη του πληκτρολογίου που χρησιμοποιείται στο γραφικό περιβάλλον αλλά και στην κονσόλα του Linux."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1528,10 +1521,9 @@ msgid "This utility will configure your computer clock."
 msgstr "Αυτή το εργαλείο θα ρυθμίσει το ρολόι του υπολογιστή"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Time, Keyboard, Locale, Partitions, Users and Software."
-msgstr "Ώρα, Πληκτρολόγιο, Εθνικότητα, Διαμερίσματα, Χρήστες &amp;"
+msgstr "Ώρα, Πληκτρολόγιο, Εθνικότητα, Διαμερίσματα, Χρήστες και Λογισμικό"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1609,10 +1601,9 @@ msgid "Type help to view all available commands."
 msgstr "Πληκτρολογείστε help να δείτε όλες τις διαθέσιμες εντολές."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Undo options are available and none of the settings will be applied until you click on the 'Launch Salix Install' button."
-msgstr "καμιά από τις ρυθμίσεις θα εφαρμοστεί μέχρι να κάνετε κλικ στο κουμπί 'Launch Salix Install'."
+msgstr "Υπάρχει η δυνατότητα αναίρεσης οποιασήποτε επιλογής και καμιά από τις ρυθμίσεις θα εφαρμοστεί μέχρι να κάνετε επιλέξετε το κουμπί της έναρξης της εγκατάστασης."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1640,7 +1631,6 @@ msgid "Xfce is a lightweight desktop environment for various Unix/Linux systems.
 msgstr "Το Xfce είναι ένα ελαφρύ περιβάλλον εργασίας για ποικίλα Unix/Linux συστήματα."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You can check that the module contains the unwanted packages by listing the <g id='189'>/mnt/hdxx/directoryx/var/log/packages/ directory.)</g>"
 msgstr "Μπορείτε να ελέγξετε ότι το άρθρωμα που περιέχει τα ανεπιθύμητα πακέτα b<g id='195'>y έχει σε λίστα το  /</g><g id='196'>mnt/hdxx/directoryx/</g><g id='197'>var/log/packages/ κατάλογο.)</g>"
@@ -1651,22 +1641,19 @@ msgid "You can fully customize the content of a module by removing or adding app
 msgstr "Μπορείτε πλήρως να τροποποιήσετε τα περιεχόμενα ενός αρθρώματος αφαιρώντας ή προσθέτοντας εφαρμογές και διαγράφοντας, διορθώνοντας ή προσθέτοντας νέα αρχεία μέσα σε αυτό. "
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You can use Asunder to save tracks from an Audio CD as any of WAV, MP3, OGG, FLAC, WavPack, Musepack, AAC, and Monkey's Audio files."
-msgstr "<g id='70'>Μπορείτε να χρησιμοποιήσετε το Asunder για να αποθηκεύσετε tracks από ένα CD ήχου ως οποιοδήποτε τύπο  WAV, MP3, OGG, FLAC, WavPack, Musepack, AAC, και Monkey's αρχείων ήχου</g>."
+msgstr "Μπορείτε να χρησιμοποιήσετε το Asunder για να αποθηκεύσετε tracks από ένα CD ήχου ως οποιοδήποτε τύπο  WAV, MP3, OGG, FLAC, WavPack, Musepack, AAC, και Monkey's Audio αρχείων ήχου."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You could also use the <g id='88'>IRC link</g> above to be in live communication with some member of the community and get instant help if necessary."
-msgstr "Μπορείτε επίσης να χρησιμοποιήσετε τον <g id='88'>IRC σύνδεσμο</g> IRC σύνδεσμο παραπάνω για να είστε σε απευθείας επικοινωνία με μερικά μέλη της κοινότητας &amp;"
+msgstr "Μπορείτε επίσης να χρησιμοποιήσετε τον <g id='88'>σύνδεσμο IRC</g> παραπάνω για να είστε σε απευθείας επικοινωνία με μερικά μέλη της κοινότητας &amp;"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You must open an ISO file of Salix Live (for example the one you downloaded) and then add to and/or remove from the modules situated in <g id='201'>/salixlive/base</g>, <g id='202'>/salixlive/modules</g> or <g id='203'>/salixlive/optional</g>."
-msgstr "Πρέπει να ανοίξτε ένα αρχείο ISO του Salix Live (για παράδειγμα αυτό κατεβάσατε) και στη συνέχεια να προσθέσετε ή και να αφαιρέστε σε αυτό αρθρώματα που βρίσκονται στα <g id='209'>/salixlive/base</g>, <g id='210'>/salixlive/modules</g> ή <g id='211'>/salixlive/optional</g>."
+msgstr "Πρέπει να ανοίξτε ένα αρχείο ISO του Salix Live (για παράδειγμα αυτό που κατεβάσατε) και στη συνέχεια να προσθέσετε ή και να αφαιρέστε σε αυτό αρθρώματα που βρίσκονται στα <g id='209'>/salixlive/base</g>, <g id='210'>/salixlive/modules</g> ή <g id='211'>/salixlive/optional</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1789,10 +1776,9 @@ msgid "gFTP aims to be simple to use yet powerful."
 msgstr "Το gFTP αποσκοπεί να είναι απλό στη χρήση αλλά με πολλές δυνατότητες."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "gFTP is an FTP client with both a text and a GUI interface."
-msgstr "Το gFTP είναι ένας πελάτης FTP και κειμένου και &amp;"
+msgstr "Το gFTP είναι ένας πελάτης FTP που περιλαμβάνει γραφικό και μη γραφικό περιβάλλον χρήσης."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
