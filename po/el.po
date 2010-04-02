@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: salix-startup-guide\n"
@@ -13,9 +13,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Country: GREECE\n"
 "X-Poedit-Language: Greek\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-Poedit-Country: GREECE\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -580,72 +580,72 @@ msgstr "6- Αντικαταστείστε το αυθεντικό άρθρωμα
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='100'>If that is not the case, which is very rare, you will need to first enter the </g><g id='101'><g id='102'>BIOS</g></g><g id='103'> setup, usually by pressing the Del‑key or the F2‑key (or some other key combinations depending on your machine…). Once in the BIOS, find the \"boot menu\" and set the order of the boot devices properly, with your optical drive in first position. Save your changes and reboot your computer.</g>"
-msgstr "<g id='102'>Εάν δεν είναι αυτή η περίπτωση, πράγμα πολύ σπάνιο, πρέπει πρώτα να πάτε στη ρύθμιση του </g><g id='103'><g id='104'>BIOS</g></g><g id='105'> >, συνήθως πατώντας το πλήκτρο Del ή το F2 (ή κάποιο άλλο συνδυασμό πλήκτρων που εξαρτάται από το μηχάνημά σας...). Ενώ είστε στο BIOS, βρείτε το \"\\boot menu\" και θέστε τη σειρά εκκίνησης συσκευών σωστά, με τον οπτικό δίσκο στη πρώτη θέση.Αποθηκεύστε τις αλλαγές &amp; επανεκκινήστε τον υπολογιστή σας. Save your changes &amp.</g>"
+msgstr "<g id='100'>Εάν δεν είναι αυτή η περίπτωση, πράγμα πολύ σπάνιο, πρέπει πρώτα να πάτε στη ρύθμιση του </g><g id='101'><g id='102'>BIOS</g></g><g id='103'> >, συνήθως πατώντας το πλήκτρο Del ή το F2 (ή κάποιο άλλο συνδυασμό πλήκτρων που εξαρτάται από το μηχάνημά σας...). Ενώ είστε στο BIOS, βρείτε το \"\\boot menu\" και θέστε τη σειρά εκκίνησης συσκευών σωστά, με τον οπτικό δίσκο στη πρώτη θέση.Αποθηκεύστε τις αλλαγές &amp; επανεκκινήστε τον υπολογιστή σας. Save your changes &amp.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='104'>You also have the possibility to </g><g id='105'><g id='106'>modify most default boot settings</g></g><g id='107'>.</g>"
-msgstr "<g id='106'>Έχετε επίσης τη δυνατότητα να </g><g id='107'><g id='108'>τροποποιήσετε τις περισσότερες προκαθορισμένες ρυθμίσεις εκκίνησης</g></g><g id='109'>.</g>"
+msgstr "<g id='104'>Έχετε επίσης τη δυνατότητα να </g><g id='105'><g id='106'>τροποποιήσετε τις περισσότερες προκαθορισμένες ρυθμίσεις εκκίνησης</g></g><g id='107'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='108'>Simply press Enter on the default menu entry: Start Salix Live and a moment later you will enter </g><g id='109'><g id='110'>Xfce desktop</g></g><g id='111'>.</g>"
-msgstr " <g id='110'>Απλά πατήστε Enter στην προκαθορισμένη καταχώρηση του μενού: Ξεκινείστε το Salix Live &amp; και σε λίγο θα εισέλθετε στο περιβάλλον εργασίας </g><g id='111'><g id='112'>Xfce </g></g><g id='113'>.</g>"
+msgstr " <g id='108'>Απλά πατήστε Enter στην προκαθορισμένη καταχώρηση του μενού: Ξεκινείστε το Salix Live &amp; και σε λίγο θα εισέλθετε στο περιβάλλον εργασίας </g><g id='109'><g id='110'>Xfce </g></g><g id='111'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='112'>All Live Tools require </g><g id='113'><g id='114'>administrator's right</g></g><g id='115'> and will ask you for the (root) password. </g>"
-msgstr "<g id='114'>Όλα τα Εργαλεία της Live εκδοσης απαιτούν </g><g id='115'><g id='116'>δικαιώματα διαχειριστή</g></g><g id='117'> και θα ερωτηθείτε για το συνθηματικό του διαχειριστή (root). </g>"
+msgstr "<g id='112'>Όλα τα Εργαλεία της Live εκδοσης απαιτούν </g><g id='113'><g id='114'>δικαιώματα διαχειριστή</g></g><g id='115'> και θα ερωτηθείτε για το συνθηματικό του διαχειριστή (root). </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='117'>Salix Live comes with all the default </g><g id='118'><g id='119'>softwares</g></g><g id='120'> included in Salix OS.</g>"
-msgstr "<g id='119'>Το Salix Live έρχεται με όλα τα εξ' ορισμού </g><g id='120'><g id='121'>προγράμματα</g></g><g id='122'>που περιέχονται στο Salix OS.</g>"
+msgstr "<g id='117'>Το Salix Live έρχεται με όλα τα εξ' ορισμού </g><g id='118'><g id='119'>προγράμματα</g></g><g id='120'>που περιέχονται στο Salix OS.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='122'>Important!</g><g id='123'> Once this file has been created, it is necessary to reboot the Live CD. From then on, Salix Live will begin to monitor any changes you perform and will record them in the new persistent file.</g>"
-msgstr "<g id='124'>Σημαντικό!</g><g id='125'> Μόλις δημιουργηθεί αυτό το αρχείο, είναι αναγκαία η επανεκκίνηση του Live CD. Από κει και πέρα, το Salix Live θα ξεκινήσει να παρακολουθεί κάθε αλλαγή που κάνετε και θα τις καταγράφει στο νέο αρχείο μόνινων αλλαγών.</g>"
+msgstr "<g id='122'>Σημαντικό!</g><g id='123'> Μόλις δημιουργηθεί αυτό το αρχείο, είναι αναγκαία η επανεκκίνηση του Live CD. Από κει και πέρα, το Salix Live θα ξεκινήσει να παρακολουθεί κάθε αλλαγή που κάνετε και θα τις καταγράφει στο νέο αρχείο μόνινων αλλαγών.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='124'>To remove any changes and come back to the default settings, simply delete the persistent file (slxsave.xfs) from the </g><g id='125'><g id='126'>mount point</g></g><g id='127'> it was initially created on.</g>"
-msgstr "<g id='126'>Για να απομακρύνετε οποιεσδήποτε αλλαγές και να επανέλθετε στις εξ' ορισμού ρυθμίσεις, απλά διαγράψτε το αρχείο μόνιμων αλλαγών (slxsave.xfs) από το  </g><g id='127'><g id='128'>σημείο προσάρτησης</g></g><g id='129'>στο οποίο αρχικά δημιουργήθηκε.</g>\t"
+msgstr "<g id='124'>Για να απομακρύνετε οποιεσδήποτε αλλαγές και να επανέλθετε στις εξ' ορισμού ρυθμίσεις, απλά διαγράψτε το αρχείο μόνιμων αλλαγών (slxsave.xfs) από το  </g><g id='125'><g id='126'>σημείο προσάρτησης</g></g><g id='127'>στο οποίο αρχικά δημιουργήθηκε.</g>\t"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='128'>Gparted is included in Salix Live to assist you in </g><g id='129'><g id='130'>managing your partitions</g></g><g id='131'> if it is necessary for you to do so before performing the installation of Salix OS.</g>"
-msgstr " <g id='130'>Το Gparted περιλαμβάνεται στο Salix Live για να σας βοηθήσει στη </g><g id='131'><g id='132'>διαχείριση των διαμερισμάτων σας,</g></g><g id='133'> εάν τη χρειαστείτε, πριν εκτελέσετε την εγκατάσταση του Salix OS. </g>"
+msgstr " <g id='128'>Το Gparted περιλαμβάνεται στο Salix Live για να σας βοηθήσει στη </g><g id='129'><g id='130'>διαχείριση των διαμερισμάτων σας,</g></g><g id='131'> εάν τη χρειαστείτε, πριν εκτελέσετε την εγκατάσταση του Salix OS. </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='132'>Salix Live Installer will enable you to </g><g id='133'><g id='134'>install Salix OS</g></g><g id='135'> from the comfort of Salix Live graphical environment.</g>"
-msgstr "<g id='134'>Ο εγκαταστάτης του Salix Live σας δίνει τη δυνατότητα της </g><g id='135'><g id='136'>εγκατάστασης του Salix OS</g></g><g id='137'> από το άνετο γραφικό περιβάλλον του Salix Live.</g>"
+msgstr "<g id='132'>Ο εγκαταστάτης του Salix Live σας δίνει τη δυνατότητα της </g><g id='133'><g id='134'>εγκατάστασης του Salix OS</g></g><g id='135'> από το άνετο γραφικό περιβάλλον του Salix Live.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='136'>Like most Live CDs based on Slackware, Salix Live is relying on the </g><g id='137'><g id='138'>Linux Live Scripts</g></g><g id='139'> technology. Some of the shell scripts it includes will enable an advanced user to fully </g><g id='140'><g id='141'>customize and re-master</g></g><g id='142'>  <x id='143'/>Salix Live to better suit his or her own needs.</g>"
-msgstr "<g id='138'>Όπως τα περισσότερα Live CDs βασισμένα στο Slackware, το Salix Live βασίζεται στη χρήση των </g><g id='139'><g id='140'>Linux Live Scripts</g></g><g id='141'>. Μερικά από τα προγράμματα που περιέχει θα δώσουν τη δυνατότητα σε ένα προχωρημένο χρήστη να </g><g id='142'><g id='143'>τροποποιήσει και να επαναδημιουργήσει</g></g><g id='144'> <x id='145'/>το Salix Live για να ταιριάζει στις προσωπικές του ανάγκες.</g>"
+msgstr "<g id='136'>Όπως τα περισσότερα Live CDs βασισμένα στο Slackware, το Salix Live βασίζεται στη χρήση των </g><g id='137'><g id='138'>Linux Live Scripts</g></g><g id='139'>. Μερικά από τα προγράμματα που περιέχει θα δώσουν τη δυνατότητα σε ένα προχωρημένο χρήστη να </g><g id='140'><g id='141'>τροποποιήσει και να επαναδημιουργήσει</g></g><g id='142'> <x id='143'/>το Salix Live για να ταιριάζει στις προσωπικές του ανάγκες.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='144'>In order to bypass certain limitations or to complement some of the third-party technology it uses, Salix developed its own set of patches and scripts which for the most part need no user interaction while some can be executed, for instance to facilitate the creation of a </g><g id='145'><g id='146'>Salix Live USB Flash Disk</g></g><g id='147'>. <x id='148'/></g>"
-msgstr "<g id='146'>Για να παρακάμψετε κάποιους περιορισμούς ή να συμπληρώσετε κάποια από τη τεχνολογία τρίτων που χρησιμοποιεί, το Salix ανέπτυξε τα δικά του μέρη από patches και scripts τα οποία στο μεγαλύτερο μέρος δεν χρειάζονται την αλληλεπίδραση του χρήστη ενώ κάποια μπορούν να εκτελεστούν, για παράδειγμα να διευκολύνουν τη δημιουργία ενός</g><g id='147'><g id='148'>Salix Live USB Flash δίσκου</g></g><g id='149'>. <x id='150'/></g>"
+msgstr "<g id='144'>Για να παρακάμψετε κάποιους περιορισμούς ή να συμπληρώσετε κάποια από τη τεχνολογία τρίτων που χρησιμοποιεί, το Salix ανέπτυξε τα δικά του μέρη από patches και scripts τα οποία στο μεγαλύτερο μέρος δεν χρειάζονται την αλληλεπίδραση του χρήστη ενώ κάποια μπορούν να εκτελεστούν, για παράδειγμα να διευκολύνουν τη δημιουργία ενός</g><g id='145'><g id='146'>Salix Live USB Flash δίσκου</g></g><g id='147'>. <x id='148'/></g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='149'>A disk device can be subdivided into one or more partitions</g>."
-msgstr " <g id='151'>Μια συσκευή δίσκου μπορεί να υποδιαιρεθεί σε ένα ή περισσότερα διαμερίσματα</g>."
+msgstr " <g id='149'>Μια συσκευή δίσκου μπορεί να υποδιαιρεθεί σε ένα ή περισσότερα διαμερίσματα</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='150'>If you do not already have the necessary partitions ready, you may want to use Gparted to create them first. </g><g id='151'><g id='152'>Gparted</g></g><g id='153'> will enable you to change the partition organization on a disk device while preserving the contents of the partitions.</g>"
-msgstr "<g id='152'>Εάν δεν έχετε ήδη έτοιμα τα αναγκαία διαμερίσματα, ισως θέλετε να χρησιμοποιήσετε το Gparted για να τα δημιουργήσετε πρώτα. </g><g id='153'><g id='154'>Το Gparted</g></g><g id='155'> θα σας βοηθήσει να αλλάξετετην οργάνωση των διαμερισμάτων ενός δίσκου ενώ διασώζει τα περιεχόμενα των διαμερισματων.</g>"
+msgstr "<g id='150'>Εάν δεν έχετε ήδη έτοιμα τα αναγκαία διαμερίσματα, ισως θέλετε να χρησιμοποιήσετε το Gparted για να τα δημιουργήσετε πρώτα. </g><g id='151'><g id='152'>Το Gparted</g></g><g id='153'> θα σας βοηθήσει να αλλάξετετην οργάνωση των διαμερισμάτων ενός δίσκου ενώ διασώζει τα περιεχόμενα των διαμερισματων.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='198'>By browsing </g>/mnt/live/memory/images/xxx.lzm/<g id='199'>, you can view the contents of each module, therefore you'll find which module holds a given package in </g>/mnt/live/memory/images/xxx.lzm/var/log/packages/"
-msgstr " <g id='206'>Διαβάζοντας το </g>/mnt/live/memory/images/xxx.lzm/<g id='207'>, μπορείτε να δείτε τα περιεχόμενα κάθε αρθρώματος, επομένως θα βρείτε ποιο άρθρωμα περιέχει ένα δοσμένο πακέτο στο  </g>/mnt/live/memory/images/xxx.lzm/var/log/packages/"
+msgstr " <g id='198'>Διαβάζοντας το </g>/mnt/live/memory/images/xxx.lzm/<g id='199'>, μπορείτε να δείτε τα περιεχόμενα κάθε αρθρώματος, επομένως θα βρείτε ποιο άρθρωμα περιέχει ένα δοσμένο πακέτο στο  </g>/mnt/live/memory/images/xxx.lzm/var/log/packages/"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -695,17 +695,17 @@ msgstr " <g id='83'>Το Slapt-get</g>είναι ένα γραφικό εργα�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='89'>Salix Live is the Live CD version of </g><g id='90'>Salix OS</g><g id='91'>. You can therefore safely use it to 'test drive' Salix OS without having to install anything on your computer. You will thus be able to determine wheter and to what extent S</g><g id='92'>alix OS is compatible with your particular hardware configuration and if it suits your personal tastes.</g>"
-msgstr "<g id='89'>Το Salix Live είναι η έκδοση Live CD του </g><g id='90'>Salix OS</g><g id='91'>. Μπορείτε επομένως να το χρησιμοποιήσετε με ασφάλεια να κάνετε ένα 'test drive' στο λειτουργικό σύστημα Salix OS χωρίς να εγκαταστήσετε τίποτε στον υπολογιστή σας.<x id='92'/>Συνεπώς μπορείτε να</g><g id='93'>καθορίσετε εάν και σε πιο βαθμό <x id='94'/>το Salix OS είναι συμβατό με τη συγκεκριμένη διαμόρφωση υλικού &amp;"
+msgstr "<g id='89'>Το Salix Live είναι η έκδοση Live CD του </g><g id='90'>Salix OS</g><g id='91'>. Μπορείτε επομένως να το χρησιμοποιήσετε με ασφάλεια να κάνετε ένα 'test drive' στο λειτουργικό σύστημα Salix OS χωρίς να εγκαταστήσετε τίποτε στον υπολογιστή σας. Συνεπώς μπορείτε να καθορίσετε εάν και σε πιο βαθμό to S</g><g id='92'>alix OS είναι συμβατό με τη συγκεκριμένη διαμόρφωση υλικού και εάν ταιριάζει στα προσωπικά σας γούστα σας.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='93'>Salix Live will also come in handy as a mobile solution if you wish to carry Salix OS everywhere you go or if you need to perform some basic rescue operation such as fixing an ailing LILO bootloader with Lilo Setup, c</g>onfiguring some partitions with Gparted, etc."
-msgstr "<g id='95'>Το Salix Live θα είναι επίσης χρήσιμο σαν μια κινητή λύση εάν επιθυμείτε να μεταφέρετε το Salix OS οπουδήποτε πηγαίνετε ή εάν χρειάζεστε να εκτελέσετε κάποια βασική λειτουργία διάσωσης όπως διορθώνοντας ένα προβληματικό εκκινητή LILO με το LiloSetup, </g>διαμορφώνοντας κάποια διαμερίσματα με το Gparted, κλπ."
+msgstr "<g id='93'>Το Salix Live θα είναι επίσης χρήσιμο σαν μια κινητή λύση εάν επιθυμείτε να μεταφέρετε το Salix OS οπουδήποτε πηγαίνετε ή εάν χρειάζεστε να εκτελέσετε κάποια βασική λειτουργία διάσωσης όπως διορθώνοντας ένα προβληματικό εκκινητή LILO με το LiloSetup, </g>διαμορφώνοντας κάποια διαμερίσματα με το Gparted, κλπ."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='96'>You can also explode the Salix Live ISO image onto a </g><g id='97'><g id='98'>USB key</g></g><g id='99'>.</g>"
-msgstr "<g id='98'>Μπορείτε επίσης να αποσυμπιέσετε την εικόνα ISO του Salix Live σε μια </g><g id='99'><g id='100'>συσκευή αποθήκευσης USB</g></g><g id='101'>.</g>"
+msgstr "<g id='96'>Μπορείτε επίσης να αποσυμπιέσετε την εικόνα ISO του Salix Live σε μια </g><g id='97'><g id='98'>συσκευή αποθήκευσης USB</g></g><g id='99'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -785,7 +785,7 @@ msgstr "Όπως δηλώθηκε ξεκάθαρα προηγουμένως το
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "As we have seen, this can be done simply with the help of <g id='154'>Gparted</g>, which is included in Salix Live and is available directly on the desktop."
-msgstr "Όπως ήδη είδαμε, αυτό μπορεί να γίνει απλά με τη βοήθεια του <g id='157'>Gparted</g>, που περιλαμβάνεται στο Salix Live και είναι άμεσα διαθέσιμο στην επιφάνεια εργασίας."
+msgstr "Όπως ήδη είδαμε, αυτό μπορεί να γίνει απλά με τη βοήθεια του <g id='154'>Gparted</g>, που περιλαμβάνεται στο Salix Live και είναι άμεσα διαθέσιμο στην επιφάνεια εργασίας."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -820,7 +820,7 @@ msgstr "Πριν χρησιμοποιήσετε οποιαδήποτε εφαρ�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Besides Firefox, Network applications include <g id='45'>Claws‑mail</g>, <g id='46'>Pidgin</g>  <g id='47'>Transmission</g> and <g id='48'>gFTP</g>."
-msgstr "Εκτός του Firefox, οι εφαρμογές δικτύου περιλαμβάνουν τα <g id='45'>Claws‑mail</g>, <g id='46'>Pidgin</g>  <g id='47'>Transmission</g> και <g id='48'>gFTP</g>."
+msgstr "Εκτός του Firefox, οι εφαρμογές δικτύου περιλαμβάνουν τα <g id='45'>Claws‑mail</g>, <g id='46'>Pidgin</g> <g id='47'>Transmission</g> και <g id='48'>gFTP</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -860,7 +860,7 @@ msgstr "Κάνοντας κλικ σε μια από αυτές τις ενότ�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Contextual help triggered by the position of the mouse will also be displayed above the application and will guide you every step of the way."
-msgstr "Η συναφής βοήθεια που ενεργοποιείται από τη θέση του δείκτη του ποντικιού θα <x id='159'/>εμφανιστεί επίσης στο πάνω μέρος της εφαρμογής και θα σας καθοδηγεί καθ'όλη τη διάρκεια."
+msgstr "Η συναφής βοήθεια που ενεργοποιείται από τη θέση του δείκτη του ποντικιού θα εμφανιστεί επίσης στο πάνω μέρος της εφαρμογής και θα σας καθοδηγεί καθ' όλη τη διάρκεια."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -940,9 +940,7 @@ msgstr "Το Geany είναι ένα μικρό και ελαφρύ ολοκλη
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Graphical applications include the <g id='56'>Gimp</g>, <g id='57'>Ristretto</g> and <g id='58'>XSane</g>"
-msgstr ""
-"Οι Γραφικές εφαρμογές περιλαμβάνουν τα <g id='56'>Gimp</g>, <g id='57'>Ristretto</g> και <g id='58'>XSane</g>\r\n"
-"\t"
+msgstr "Οι Γραφικές εφαρμογές περιλαμβάνουν τα <g id='56'>Gimp</g>, <g id='57'>Ristretto</g> και <g id='58'>XSane</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -977,7 +975,7 @@ msgstr "Το ISO Master είναι μια εφαρμογή δημιουργία�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "If necessary, you can verify the integrity of your downloaded file by comparing its <g id='95'>md5sum</g> file with the original one uploaded besides the corresponding ISO image file by Salix OS."
-msgstr "Εάν έιναι αναγκαίο, μπορείτε να επαληθεύσετε την ακεραιότητα του μεταφορτωμένου αρχείου συγκρίνοντας το αντίστοιχο<g id='97'>md5sum</g> αρχείο με το αυθεντικό που είναι ανεβασμένο και αντιστοιχεί στο αρχείο εικόνας ISO του Salix OS."
+msgstr "Εάν έιναι αναγκαίο, μπορείτε να επαληθεύσετε την ακεραιότητα του μεταφορτωμένου αρχείου συγκρίνοντας το αντίστοιχο<g id='95'>md5sum</g> αρχείο με το αυθεντικό που είναι ανεβασμένο και αντιστοιχεί στο αρχείο εικόνας ISO του Salix OS."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1192,7 +1190,7 @@ msgstr "Στη πρώτη εκκίνηση από ένα USB key, ένας εξ�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "On the following menu, you will be given the possibility to change your keyboard map if the default one for your language does not suit you."
-msgstr "Στο επόμενο μενού, θα έχετ ετη δυνατότητα να αλλάξετε το χάρτη πληκτρολογίου εάν ο εξ' ορισμού για τη γλώσσα σας δεν σας κάνει."
+msgstr "Στο επόμενο μενού, θα έχετε τη δυνατότητα να αλλάξετε το χάρτη πληκτρολογίου εάν ο εξ' ορισμού για τη γλώσσα σας δεν σας κάνει."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1202,7 +1200,7 @@ msgstr "Στην αριστερή πλευρά της εφαρμογής, θα �
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Once the installation process is completed, You will be given the choice to launch <g id='155'>Lilo Setup</g> to configure your LILO bootloader."
-msgstr "Μόλις η διαδικασία εγκατάστασης ολοκληρωθεί, θα σας δοθεί η επιλογή να τρέξετε το <g id='158'>Lilo Setup</g> για να διαμορφώσετε τον εκκινητή LILO."
+msgstr "Μόλις η διαδικασία εγκατάστασης ολοκληρωθεί, θα σας δοθεί η επιλογή να τρέξετε το <g id='155'>Lilo Setup</g> για να διαμορφώσετε τον εκκινητή LILO."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1277,7 +1275,7 @@ msgstr "Πατώντας 'c' σας δίνει πρόσβαση στο φλοι�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Pressing 'e' while 'Start Salix Live' is selected opens up the following display, enabling you to modify some of the booting options for example in order to enter a boot parameter."
-msgstr "Πατώντας 'e' ενώ έχει επιλεγεί το 'Start Salix Live' ανοίγει η ακόλουθη άποψη, που σας επιτρέπει να τροποποιήσετε μερικές από τις επιλογές εκκίινησης <x id='160'/>για παράδειγμα για να εισάγετε μια παράμετρο εκκίνησης."
+msgstr "Πατώντας 'e' ενώ έχει επιλεγεί το 'Start Salix Live' ανοίγει η ακόλουθη άποψη, που σας επιτρέπει να τροποποιήσετε μερικές από τις επιλογές εκκίνησης για παράδειγμα για να εισάγετε μια παράμετρο εκκίνησης."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1332,7 +1330,7 @@ msgstr "Salix Live"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live CD holds a <g id='200'>/salixlive/rootcopy/</g> directory."
-msgstr "Το Salix Live CD έχει ένα <g id='208'>/salixlive/rootcopy/</g> κατάλογο."
+msgstr "Το Salix Live CD έχει ένα <g id='200'>/salixlive/rootcopy/</g> κατάλογο."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1387,7 +1385,7 @@ msgstr "Λογισμικό"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Some of the Live Tools are graphical utilities that can be accessed directly on the desktop while some Live Tools, reserved for advanced users can only be executed in a Terminal, from the command line (<g id='121'>CLI</g>)."
-msgstr "Μερικά από τα Live Tools είναι γραφικές εφαρμογές που μπορεί να προσπελαστούν άμεσα στο γραφικό περιβάλλον ενώ μερικά Live Tools, δεσμευμένα για προχωρημένους χρήστες μπορούν να εκτελεστούν μόνο σε ένα Τερματικό, από τη γραμμή εντολών (<g id='123'>CLI</g>)."
+msgstr "Μερικά από τα Live Tools είναι γραφικές εφαρμογές που μπορεί να προσπελαστούν άμεσα στο γραφικό περιβάλλον ενώ μερικά Live Tools, δεσμευμένα για προχωρημένους χρήστες μπορούν να εκτελεστούν μόνο σε ένα Τερματικό, από τη γραμμή εντολών (<g id='121'>CLI</g>)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1462,7 +1460,7 @@ msgstr "Η πρώτη οθόνη καλοσωρίσματος θα σας επι
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The latest Salix OS or Salix Live releases are freely and easily available as ISO image files from Salix OS <g id='94'>download page</g>."
-msgstr "Οι τελευταίες εκδόσεις του Salix και του Salix Live είναι εύκολα διαθέσιμες ως αρχείο εικόνας ISO από τη <g id='96'>σελίδα download</g> του Salix OS."
+msgstr "Οι τελευταίες εκδόσεις του Salix και του Salix Live είναι εύκολα διαθέσιμες ως αρχείο εικόνας ISO από τη <g id='94'>σελίδα download</g> του Salix OS."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1497,22 +1495,22 @@ msgstr "O τελευταίος τρόπος εγκατάστασης βασίζ�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This utility manages the creation, deletion and properties of all the system users and groups of users."
-msgstr "Αυτή το εργαλείο διαχειρίζεται τη δημιουργία, διαγραφή και τη διαχείρηση των ιδιοτήτων των λογαριασμών χρηστών και των ομάδων χρηστών του συστήματος."
+msgstr "Αυτό το εργαλείο διαχειρίζεται τη δημιουργία, διαγραφή και τη διαχείριση των ιδιοτήτων των λογαριασμών χρηστών και των ομάδων χρηστών του συστήματος."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This utility will configure the keyboard disposition being used both in the graphical and non-graphical environments."
-msgstr "Αυτή το εργαλείο θα ρυθμίσει τη διάταξη του πληκτρολογίου που χρησιμοποιείται στο γραφικό περιβάλλον αλλά και στην κονσόλα του Linux."
+msgstr "Αυτό το εργαλείο θα ρυθμίσει τη διάταξη του πληκτρολογίου που χρησιμοποιείται στο γραφικό περιβάλλον αλλά και στην κονσόλα του Linux."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This utility will configure the language of your system."
-msgstr "Αυτή το εργαλείο θα ρυθμίσει τη γλώσσα του συστήματός σας."
+msgstr "Αυτό το εργαλείο θα ρυθμίσει τη γλώσσα του συστήματός σας."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This utility will configure your computer clock."
-msgstr "Αυτή το εργαλείο θα ρυθμίσει το ρολόι του υπολογιστή"
+msgstr "Αυτό το εργαλείο θα ρυθμίσει το ρολόι του υπολογιστή"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1522,7 +1520,7 @@ msgstr "Ώρα, Πληκτρολόγιο, Εθνικότητα, Διαμερίσ
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To do this however, you must first create a special \"persistent file\" on your hard drive, which will have a pre-decided fixed-size and will be formatted as a Linux file system."
-msgstr "Ωστόσο για να γίνει αυτό, πρέπει να δημιουργήσετε ένα ειδικό \"persistent file\" το οποίο θα έχει ένα προαποφασισμένο καθορισμένου-μεγέθους και θα διαμορφωθεί σαν σύστημα αρχείων του Linux."
+msgstr "Ωστόσο για να γίνει αυτό, πρέπει να δημιουργήσετε ένα ειδικό \"persistent file\" το οποίο θα έχει ένα προαποφασισμένο καθορισμένο μεγέθος και θα διαμορφωθεί σαν σύστημα αρχείων του Linux."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1582,7 +1580,7 @@ msgstr "Για να εξασφαλίσετε όλες τις αλλαγές πο
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To set root's password to \"somepass\", or ask for a new password:"
-msgstr "Για να θέσετε το συνθηματικό του διαχειριστή \"somepass\", ή να ζητηθεί ένα νέο συνθηματικό:"
+msgstr "Για να θέσετε το συνθηματικό του διαχειριστή σε \"somepass\", ή να ζητηθεί ένα νέο συνθηματικό:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1627,7 +1625,7 @@ msgstr "Το Xfce είναι ένα ελαφρύ περιβάλλον εργασ
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You can check that the module contains the unwanted packages by listing the <g id='189'>/mnt/hdxx/directoryx/var/log/packages/ directory.)</g>"
-msgstr "Μπορείτε να ελέγξετε ότι το άρθρωμα που περιέχει τα ανεπιθύμητα πακέτα b<g id='195'>y έχει σε λίστα το  /</g><g id='196'>mnt/hdxx/directoryx/</g><g id='197'>var/log/packages/ κατάλογο.)</g>"
+msgstr "Μπορείτε να ελέγξετε ότι το άρθρωμα που περιέχει τα ανεπιθύμητα πακέτα έχει σε λίστα το  <g id='189'>/mnt/hdxx/directoryx/var/log/packages/ κατάλογο.)</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1642,12 +1640,12 @@ msgstr "Μπορείτε να χρησιμοποιήσετε το Asunder για
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You could also use the <g id='88'>IRC link</g> above to be in live communication with some member of the community and get instant help if necessary."
-msgstr "Μπορείτε επίσης να χρησιμοποιήσετε τον <g id='88'>σύνδεσμο IRC</g> παραπάνω για να είστε σε απευθείας επικοινωνία με μερικά μέλη της κοινότητας &amp;"
+msgstr "Μπορείτε επίσης να χρησιμοποιήσετε τον <g id='88'>σύνδεσμο IRC</g> παραπάνω για να είστε σε απευθείας επικοινωνία με μερικά μέλη της κοινότητας και να έχετε άμεαση βοήθεια όταν τη χρειαστείτε."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You must open an ISO file of Salix Live (for example the one you downloaded) and then add to and/or remove from the modules situated in <g id='201'>/salixlive/base</g>, <g id='202'>/salixlive/modules</g> or <g id='203'>/salixlive/optional</g>."
-msgstr "Πρέπει να ανοίξτε ένα αρχείο ISO του Salix Live (για παράδειγμα αυτό που κατεβάσατε) και στη συνέχεια να προσθέσετε ή και να αφαιρέστε σε αυτό αρθρώματα που βρίσκονται στα <g id='209'>/salixlive/base</g>, <g id='210'>/salixlive/modules</g> ή <g id='211'>/salixlive/optional</g>."
+msgstr "Πρέπει να ανοίξτε ένα αρχείο ISO του Salix Live (για παράδειγμα αυτό που κατεβάσατε) και στη συνέχεια να προσθέσετε ή και να αφαιρέστε σε αυτό αρθρώματα που βρίσκονται στα <g id='201'>/salixlive/base</g>, <g id='202'>/salixlive/modules</g> ή <g id='203'>/salixlive/optional</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1867,76 +1865,99 @@ msgstr "Οδηγός χρήσης του Salix Live"
 #~ msgctxt "paragraph"
 #~ msgid "(This cheatcode is already included in Salix Live boot menu &amp;"
 #~ msgstr "(Αυτή η ευκολία cheatcode περιλαμβάνεται ήδη στο μενού εκκίνησης του Salix Live& amp,"
+
 #~ msgctxt "paragraph"
 #~ msgid "<g id='169'><x id='170'/>l</g><g id='171'>oad=module</g>"
 #~ msgstr "<g id='169'><x id='170'/>l</g><g id='171'>oad=module</g>"
+
 #~ msgctxt "paragraph"
 #~ msgid "<g id='44'>Orage agenda</g>."
 #~ msgstr "<g id='44'>Ημερολόγιο Orage </g>."
+
 #~ msgctxt "paragraph"
 #~ msgid "<g id='48'>gFTP</g>."
 #~ msgstr " <g id='48'>gFTP</g>."
+
 #~ msgctxt "paragraph"
 #~ msgid "<g id='55'>Salix Codec Installer</g>."
 #~ msgstr "<g id='55'>Εγκαταστάτης κώδικα του Salix </g>."
+
 #~ msgctxt "paragraph"
 #~ msgid "Our <g id='86'>Wiki</g> &amp;"
 #~ msgstr "Το <g id='86'>Wiki</g>μας &amp;"
+
 #~ msgctxt "paragraph"
 #~ msgid "Software."
 #~ msgstr "Λογισμικό."
+
 #~ msgctxt "paragraph"
 #~ msgid "The latest Salix OS or Salix Live releases are freely &amp;"
 #~ msgstr "Οι τελευταίες εκδόσεις του λειτουργικού συστήματος Salix ή του Zωντανού (Live) Salix είναι ελεύθερα &amp;"
+
 #~ msgctxt "paragraph"
 #~ msgid "This last mode is build on the Basic Mode &amp;"
 #~ msgstr "Αυτός ο τελευταίος τρόπος βασίζεται στον βασικό τρόπο (Basic Mode) &amp;"
+
 #~ msgctxt "paragraph"
 #~ msgid "Undo options are available &amp;"
 #~ msgstr "επιλογές αναίρεσης είναι διαθέσιμες &amp;"
+
 #~ msgctxt "paragraph"
 #~ msgid "XSane"
 #~ msgstr "XSane"
+
 #~ msgctxt "paragraph"
 #~ msgid "a GUI interface."
 #~ msgstr "ένα (GUI) Γραφικό σύστημα διεπαφής χρήστη"
+
 #~ msgctxt "paragraph"
 #~ msgid "fully functional operating system."
 #~ msgstr "πλήρως λειτουργικό σύστημα"
+
 #~ msgctxt "paragraph"
 #~ msgid "get instant help if necessary."
 #~ msgstr "έχετε άμεση βοήθεια εάν χρειάζεται."
+
 #~ msgctxt "paragraph"
 #~ msgid "groups of users."
 #~ msgstr "ομάδες χρηστών"
+
 #~ msgctxt "paragraph"
 #~ msgid "highly responsive."
 #~ msgstr "πολύ αποκριτικό."
+
 #~ msgctxt "paragraph"
 #~ msgid "human readable."
 #~ msgstr "ανθρώπινα διαβασμένο."
+
 #~ msgctxt "paragraph"
 #~ msgid "if it suits your personal tastes.</g>"
 #~ msgstr "εάν ταιριάζει στα προσωπικά σας γούστα</g>."
+
 #~ msgctxt "paragraph"
 #~ msgid "is available directly on the desktop."
 #~ msgstr "είναι διαθέσιμο άμεσα στοπεριβάλλον εργασίας."
+
 #~ msgctxt "paragraph"
 #~ msgid "is independent of any particular Desktop Environment."
 #~ msgstr "είναι ανεξάρτητο από οποιοδήποτε Περιβάλλον Εργασίας."
+
 #~ msgctxt "paragraph"
 #~ msgid "non-graphical environments."
 #~ msgstr "μη γραφικά περιβάλλοντα."
+
 #~ msgctxt "paragraph"
 #~ msgid "numerous plugins."
 #~ msgstr "πολυάριθμα πρόσθετα."
+
 #~ msgctxt "paragraph"
 #~ msgid "properties of all the system users &amp;"
 #~ msgstr "ιδιότητες όλων των χρηστών του συστήματος &amp;"
+
 #~ msgctxt "paragraph"
 #~ msgid "will guide you every step of the way."
 #~ msgstr "θα σας καθοδηγήσει σε κάθε βήμα του τρόπου"
+
 #~ msgctxt "paragraph"
 #~ msgid "will not necessitate a reboot."
 #~ msgstr "δεν θα απαιτήσει μια επανεκκίνηση"
-
