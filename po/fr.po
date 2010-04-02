@@ -894,7 +894,7 @@ msgstr "Même si lancé depuis un CD/DVD, Salix Live vous donne la possibilité
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Exaile is a music manager which incorporates automatic fetching of album art, lyrics fetching, Last.fm scrobbling, support for many portable media players, Internet radio such as Shoutcast, tabbed playlists, etc."
-msgstr "Exaile est un gestionnaire de musique qui intègre la récupération automatique des pochettes d'album et paroles, le support de Last.fm, et gère beaucoup de lecteurs médias portatifs, les radios Internet telles que Shoutcast, les liste de lecture par onglet, etc."
+msgstr "Exaile est un gestionnaire de musique qui intègre la récupération automatique des pochettes d'album et paroles, le support de Last.fm, et gère beaucoup de lecteurs médias portatifs, les radios Internet telles que Shoutcast, les listes de lecture par onglet, etc."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
