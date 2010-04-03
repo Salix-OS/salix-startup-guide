@@ -624,7 +624,7 @@ msgstr "<g id='132'>Ο εγκαταστάτης του Salix Live σας δίν�
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
-msgid "<g id='136'>Like most Live CDs based on Slackware, Salix Live is relying on the </g><g id='137'><g id='138'>Linux Live Scripts</g></g><g id='139'> technology. Some of the shell scripts it includes will enable an advanced user to fully </g><g id='140'><g id='141'>customize and re-master</g></g><g id='142'> <x id='143'/>Salix Live to better suit his or her own needs.</g>"
+msgid "<g id='136'>Like most Live CDs based on Slackware, Salix Live is relying on the </g><g id='137'><g id='138'>Linux Live Scripts</g></g><g id='139'> technology. Some of the shell scripts it includes will enable an advanced user to fully </g><g id='140'><g id='141'>customize and re-master</g></g><g id='142'>  <x id='143'/>Salix Live to better suit his or her own needs.</g>"
 msgstr "<g id='136'>Όπως τα περισσότερα Live CDs βασισμένα στο Slackware, το Salix Live βασίζεται στη χρήση των </g><g id='137'><g id='138'>Linux Live Scripts</g></g><g id='139'>. Μερικά από τα προγράμματα που περιέχει θα δώσουν τη δυνατότητα σε ένα προχωρημένο χρήστη να </g><g id='140'><g id='141'>τροποποιήσει και να επαναδημιουργήσει</g></g><g id='142'> <x id='143'/>το Salix Live για να ταιριάζει στις προσωπικές του ανάγκες.</g>"
 
 #: SalixStartupGuide-en.odt:2
@@ -819,7 +819,7 @@ msgstr "Πριν χρησιμοποιήσετε οποιαδήποτε εφαρ�
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
-msgid "Besides Firefox, Network applications include <g id='45'>Claws‑mail</g>, <g id='46'>Pidgin</g> <g id='47'>Transmission</g> and <g id='48'>gFTP</g>."
+msgid "Besides Firefox, Network applications include <g id='45'>Claws‑mail</g>, <g id='46'>Pidgin</g>  <g id='47'>Transmission</g> and <g id='48'>gFTP</g>."
 msgstr "Εκτός του Firefox, οι εφαρμογές δικτύου περιλαμβάνουν τα <g id='45'>Claws‑mail</g>, <g id='46'>Pidgin</g> <g id='47'>Transmission</g> και <g id='48'>gFTP</g>."
 
 #: SalixStartupGuide-en.odt:2
