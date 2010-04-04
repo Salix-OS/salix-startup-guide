@@ -13,9 +13,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: GREECE\n"
 "X-Poedit-Language: Greek\n"
 "X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Country: GREECE\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -420,7 +420,7 @@ msgstr "(Συμβουλή:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(This cheatcode is already included in Salix Live boot menu and the Persistence Wizard can assist you in creating a persistent file that will be automatically managed by Salix Live.)"
-msgstr "(Η επιλογή αυτή περιλαμβάνεται ήδη στο μενού εκκίνησης του Salix Live και ο οδηγός μόνιμων αλλαγών θα σας βοηθήσει στη δημιουργία ενός αρχείου μόνιμων αλλαγών that will be που αυτόματα διαχειρίζεται από το Salix Live)"
+msgstr "(Η επιλογή αυτή περιλαμβάνεται ήδη στο μενού εκκίνησης του Salix Live και ο οδηγός μόνιμων αλλαγών θα σας βοηθήσει στη δημιουργία ενός αρχείου μόνιμων αλλαγών το οποίο αυτόματα διαχειρίζεται από το Salix Live)"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -585,7 +585,7 @@ msgstr "<g id='103'>Έχετε επίσης τη δυνατότητα να </g><
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='107'>Simply press Enter on the default menu entry: Start Salix Live and a moment later you will enter </g><g id='108'><g id='109'>Xfce desktop</g></g><g id='110'>.</g>"
-msgstr "<g id='107'>Απλά πατήστε Enter στην προκαθορισμένη καταχώρηση του μενού: Ξεκινείστε το Salix Live και σε λίγο θα εισέλθετε στο περιβάλλον εργασίας </g><g id='108'><g id='109'>Xfce </g></g><g id='110'>.</g>"
+msgstr "<g id='107'>Απλά πατήστε Enter στην προκαθορισμένη καταχώρηση του μενού: Ξεκινήστε το Salix Live και σε λίγο θα εισέλθετε στο περιβάλλον εργασίας </g><g id='108'><g id='109'>Xfce </g></g><g id='110'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -670,12 +670,12 @@ msgstr "<g id='70'>Ολόκληρη η διαχείριση του συστήμ�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='76'>To execute it in runlevel 3, simply type localesetup</g>."
-msgstr "<g id='76'>>Για να εκτελέσετε αυτή τη εφαρμογή στο επίπεδο init 3, απλά πληκτρολογείστε localesetup</g>."
+msgstr "<g id='76'>>Για να εκτελέσετε αυτή τη εφαρμογή στο επίπεδο init 3, απλά πληκτρολογήστε localesetup</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='77'>To execute it in runlevel 3, simply type clocksetup</g>."
-msgstr "<g id='77'>Για να εκτελέσετε αυτή τη εφαρμογή στο επίπεδο init 3, απλά πληκτρολογείστε clocksetup</g>."
+msgstr "<g id='77'>Για να εκτελέσετε αυτή τη εφαρμογή στο επίπεδο init 3, απλά πληκτρολογήστε clocksetup</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -725,7 +725,7 @@ msgstr "Ένας εκκινητής απαιτείται για να φορτώ�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "A graphical environment is not provided."
-msgstr "Ένα γραφικό περιβάλλον δεν παρέχεται"
+msgstr "Ένα γραφικό περιβάλλον δεν παρέχεται."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1595,7 +1595,7 @@ msgstr "Πληκτρολογήστε help να δείτε όλες τις δια
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Undo options are available and none of the settings will be applied until you click on the 'Launch Salix Install' button."
-msgstr "Υπάρχει η δυνατότητα αναίρεσης οποιασήποτε επιλογής και καμιά από τις ρυθμίσεις θα εφαρμοστεί μέχρι να κάνετε επιλέξετε το κουμπί της έναρξης της εγκατάστασης."
+msgstr "Υπάρχει η δυνατότητα αναίρεσης οποιασδήποτε επιλογής και καμιά από τις ρυθμίσεις θα εφαρμοστεί μέχρι να κάνετε επιλέξετε το κουμπί της έναρξης της εγκατάστασης."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1640,7 +1640,7 @@ msgstr "Μπορείτε να χρησιμοποιήσετε το Asunder για
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You could also use the <g id='87'>IRC link</g> above to be in live communication with some member of the community and get instant help if necessary."
-msgstr "Μπορείτε επίσης να χρησιμοποιήσετε τον <g id='87'>σύνδεσμο IRC</g> παραπάνω για να είστε σε απευθείας επικοινωνία με μερικά μέλη της κοινότητας και να έχετε άμεαση βοήθεια όταν τη χρειαστείτε."
+msgstr "Μπορείτε επίσης να χρησιμοποιήσετε τον <g id='87'>σύνδεσμο IRC</g> παραπάνω για να είστε σε απευθείας επικοινωνία με μερικά μέλη της κοινότητας και να έχετε άμαση βοήθεια όταν τη χρειαστείτε."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
