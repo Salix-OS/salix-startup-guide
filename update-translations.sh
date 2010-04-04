@@ -1,8 +1,13 @@
 #!/bin/sh
-
 cd $(dirname $0)
-igettext-extract.py SalixStartupGuide-en.odt > po/SalixStartupGuide.pot
 
+cp images/en/* odt/Pictures/
+(
+  cd odt
+  zip -r ../SalixStartupGuide-en.odt *
+)
+igettext-extract.py SalixStartupGuide-en.odt > po/SalixStartupGuide.pot
+rm SalixStartupGuide-en.odt
 cd po
 for i in `ls *.po`; do
 	msgmerge -U $i SalixStartupGuide.pot

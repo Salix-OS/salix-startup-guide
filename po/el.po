@@ -559,7 +559,7 @@ msgstr "4- Τρέξτε το \"bootinst.sh\" εάν είστε στο Linux ή U
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
-msgid "4. Rebuild the CD image:"
+msgid "4- Rebuild the CD image:"
 msgstr "4- Επαναδημιουργείστε το αρχείο εικόνας CD:"
 
 #: SalixStartupGuide-en.odt:2

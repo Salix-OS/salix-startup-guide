@@ -558,7 +558,7 @@ msgstr "4- Exécutez \"bootinst.sh\" si vous êtes sous Linux ou Unix, \"bootins
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
-msgid "4. Rebuild the CD image:"
+msgid "4- Rebuild the CD image:"
 msgstr "4- Reconstruisez l'image du CD :"
 
 #: SalixStartupGuide-en.odt:2
