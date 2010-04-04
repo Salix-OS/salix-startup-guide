@@ -2,13 +2,13 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: salix-startup-guide\n"
 "POT-Creation-Date: 2010-04-03 22:04+CET\n"
-"PO-Revision-Date: 2010-04-01 13:38+0200\n"
-"Last-Translator: George Vlahavas <vlahavas~at~gmail~dot~com>\n"
+"PO-Revision-Date: 2010-04-04 20:14+0200\n"
+"Last-Translator: Dimitris Tzemos <djemos@slackel.gr>\n"
 "Language-Team: Greek\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -580,7 +580,7 @@ msgstr "6- Αντικαταστήστε το αυθεντικό άρθρωμα �
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='103'>You also have the possibility to </g><g id='104'><g id='105'>modify most default boot settings</g></g><g id='106'>.</g>"
-msgstr "<g id='103'>Έχετε επίσης τη δυνατότητα να </g><g id='104'><g id='105'>τροποποιήσετε τις περισσότερες προκαθορισμένες ρυθμίσεις εκκίνησης</g></g><g id='107'>.</g>"
+msgstr "<g id='103'>Έχετε επίσης τη δυνατότητα να </g><g id='104'><g id='105'>τροποποιήσετε τις περισσότερες προκαθορισμένες ρυθμίσεις εκκίνησης</g></g><g id='106'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1861,3 +1861,4 @@ msgstr "Αυτό θα εμποδίσει τη πρώτη \"reboot on first boot\
 msgctxt "title"
 msgid "Salix Live Startup Guide"
 msgstr "Salix Live Startup Guide"
+
