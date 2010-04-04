@@ -10,7 +10,7 @@ for po in `ls po/*.po`;do
   find odt-$lang -name '.svn' -exec rm -f '{}' \; 2>/dev/null
   (
     cd odt-$lang
-    zip -r ../base-$lang.odt *
+    zip -r ../base-$lang.odt * >/dev/null
   )
   rm -rf odt-$lang
   echo "Merging new strings for locale “$lang”..."
@@ -24,7 +24,7 @@ cp -L images/en/* odt-en/Pictures/
 find odt-en -name '.svn' -exec rm -f '{}' \; 2>/dev/null
 (
   cd odt-en
-  zip -r ../SalixStartupGuide-en.odt *
+  zip -r ../SalixStartupGuide-en.odt * >/dev/null
 )
 rm -rf odt-en
 echo "Generating PDF locale “en”..."

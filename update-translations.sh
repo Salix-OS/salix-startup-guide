@@ -4,7 +4,7 @@ cd $(dirname $0)
 cp images/en/* odt/Pictures/
 (
   cd odt
-  zip -r ../SalixStartupGuide-en.odt *
+  zip -r ../SalixStartupGuide-en.odt * >/dev/null
 )
 igettext-extract.py SalixStartupGuide-en.odt > po/SalixStartupGuide.pot
 rm SalixStartupGuide-en.odt
