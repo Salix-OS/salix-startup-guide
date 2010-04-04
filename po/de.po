@@ -626,74 +626,77 @@ msgid "<g id='135'>Like most Live CDs based on Slackware, Salix Live is relying
 msgstr "<g id='135'>Wie die meisten Slackware-basierten Live CDs baut Salix Live auf der Technologie der </g><g id='136'><g id='137'>Linux Live Skripte</g></g><g id='138'> auf. Einige der integrierten Shell Skripte erlauben erfahrenen Nutzern das vollständige </g><g id='139'><g id='140'>Anpassen und Neuerstellen, </g></g><g id='141'>  <x id='142'/>so dass Salix Live den eigenen Anforderungen besser gerecht wird.</g>"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='143'>In order to bypass certain limitations or to complement some of the third-party technology it uses, Salix developed its own set of patches and scripts which for the most part need no user interaction while some can be executed, for instance to facilitate the creation of a </g><g id='144'><g id='145'>Salix Live USB Flash Disk</g></g><g id='146'>. <x id='147'/></g>"
-msgstr ""
+msgstr "<g id='143'>Um diverse Einschränkungen zu umgehen und einige Drittanbieter-Technologien zu ergänzen hat Salix seine Sammlung von Skripten und Patches entwickelt, welche zum größten Teil keine Interaktionen vom nutzer benötigen, während einige ausgeführt werden können, z.B.  um das Erzeugen der </g><g id='144'><g id='145'>Salix Live USB Flash Disk zu erleichtern.</g></g><g id='146'>. <x id='147'/></g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='148'>A disk device can be subdivided into one or more partitions</g>."
-msgstr ""
+msgstr "<g id='148'>Ein Laufwerk kann in eine oder mehrere Partitionen aufgeteilt werden</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='149'>If you do not already have the necessary partitions ready, you may want to use Gparted to create them first. </g><g id='150'><g id='151'>Gparted</g></g><g id='152'> will enable you to change the partition organization on a disk device while preserving the contents of the partitions.</g>"
-msgstr ""
+msgstr "<g id='149'>Wenn Sie die erforderlichen Partitionen nicht bereits vorbereitet haben, können Sie Gparted verwenden, um sie zu erzeugen. </g><g id='150'><g id='151'>Gparted</g></g><g id='152'> erlaubt Ihnen, die Partitions-Ordnung eines Laufwerkes zu ändern, während der Inhalt der Partitionen erhalten wird.</g>"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='196'>By browsing </g>/mnt/live/memory/images/xxx.lzm/<g id='197'>, you can view the contents of each module, therefore you'll find which module holds a given package in </g>/mnt/live/memory/images/xxx.lzm/var/log/packages/"
-msgstr ""
+msgstr "<g id='196'>Beim Durchsuchen von </g>/mnt/live/memory/images/xxx.lzm/<g id='197'> können Sie den Inhalt jedes Moduls betrachten, dafür erfahren Sie, welches Modul ein gegebenes Paket enthält in </g>/mnt/live/memory/images/xxx.lzm/var/log/packages/"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='25'>The latest version of this document can be found </g><g id='26'><g id='27'>here</g></g><g id='28'>.</g>"
-msgstr ""
+msgstr "<g id='25'>Die aktuellste Version dieses Dokumentes  kann </g><g id='26'><g id='27'>hier</g></g><g id='28'> gefunden werden.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='29'>Salix Live Startup Guide is released under </g><g id='30'><g id='31'>CC-BY-SA 3.0</g></g><g id='32'> license.</g>"
-msgstr ""
+msgstr "<g id='29'>Der Salix Live Startup Guide ist unter der </g><g id='30'><g id='31'>CC-BY-SA 3.0</g></g><g id='32'> Lizenz veröffentlicht.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='59'>Geany</g> is provided in the Development applications."
-msgstr ""
+msgstr "<g id='59'>Geany</g> ist in den Entwicklungs-Anwendungen enthalten."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='66'>Transmission is a </g><g id='67'><g id='68'>BitTorrent</g></g><g id='69'> client that is simple, lean and powerful.</g>"
-msgstr ""
+msgstr "<g id='66'> Transmission ist ein </g><g id='67'><g id='68'> BitTorrent </g></g><g id='69'> Client, der einfach, schlank und leistungsfähig ist. </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='70'>All system management in Salix OS can be done the usual (</g><g id='71'><g id='72'>manual</g></g><g id='73'>) Slackware way.</g>"
-msgstr ""
+msgstr "<g id='70'>Alle Systemverwaltungsaufgaben in Salix OS können (</g><g id='71'><g id='72'>manuell</g></g><g id='73'>) wie bei Slackware üblich, erledigt werden</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='76'>To execute it in runlevel 3, simply type localesetup</g>."
-msgstr ""
+msgstr "<g id='76'>Um dies im Runlevel 3 auszuführen, geben Sie einfach localesetup ein</g> ."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='77'>To execute it in runlevel 3, simply type clocksetup</g>."
-msgstr ""
+msgstr "<g id='77'>Um dies im Runlevel 3 auszuführen, geben Sie einfach clocksetup ein</g> ."
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='78'>In Unix/Linux, all users and groups of users are given certain </g><g id='79'><g id='80'>permissions and access rights</g></g><g id='81'> to some part of the system in order to control their ability to access and change it.</g>"
-msgstr ""
+msgstr "<g id='78'> In Unix / Linux haben alle Benutzer und Gruppen von Benutzern bestimmte </g><g id='79'><g id='80'> Berechtigungen und Zugriffsrechte </g></g><g id='81'> auf einen Teil des Systems um ihre Fähigkeiten des Zugriffs zu kontrollieren und zu ändern. </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='82'>Slapt-get</g> is a CLI tool providing an APT‑like system for Slackware package management."
-msgstr ""
+msgstr "<g id='82'> Slapt-get </g> ist ein CLI-Tool, es bietet ein APT-ähnliches System für die Slackware Paketverwaltung."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='88'>Salix Live is the Live CD version of </g><g id='89'>Salix OS</g><g id='90'>. You can therefore safely use it to 'test drive' Salix OS without having to install anything on your computer. You will thus be able to determine wheter and to what extent S</g><g id='91'>alix OS is compatible with your particular hardware configuration and if it suits your personal tastes.</g>"
-msgstr ""
+msgstr "<g id='88'> Salix Live ist die Live-CD-Version von </g><g id='89'> Salix OS </g><g id='90'> . Sie können es daher sicher verwenden, um Salix OS zu testen, ohne etwas auf Ihrem Computer installieren. Sie werden somit in der Lage sein festzustellen ob und in welchem Umfang S </g><g id='91'> alix OS ist kompatibel mit Ihrer speziellen Hardware-Konfiguration ist und ob es Ihrem persönlichen Geschmack entspricht. </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
