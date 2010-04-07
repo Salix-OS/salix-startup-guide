@@ -2,12 +2,12 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: salix-startup-guide\n"
 "POT-Creation-Date: 2010-04-04 19:04+CET\n"
-"PO-Revision-Date: 2010-04-04 20:14+0200\n"
+"PO-Revision-Date: 2010-04-07 20:27+0200\n"
 "Last-Translator: Dimitris Tzemos <djemos@slackel.gr>\n"
 "Language-Team: Greek\n"
 "MIME-Version: 1.0\n"
@@ -510,7 +510,7 @@ msgstr "2- Εξάγει όλα τα αρχεία και φακέλλους (boot
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Install all software packages using this directory as root:"
-msgstr "2- Εγκαθιστά όλα τα πακέτα λογισμικού χρησιμοποιώντας το τρέχον κατάλογο σαν διαχειριστής (root):"
+msgstr "2- Εγκαθιστά όλα τα πακέτα λογισμικού χρησιμοποιώντας τον τρέχοντα κατάλογο σαν διαχειριστής (root):"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -545,7 +545,7 @@ msgstr "3- Αφαίρεση των πακέτων από το κατάλογο �
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Install new packages to the working directory:"
-msgstr "4- Εγκαθιστά νέα πακέτα στο κατάλογο εργασίας:"
+msgstr "4- Εγκαθιστά νέα πακέτα στον κατάλογο εργασίας:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -595,7 +595,7 @@ msgstr "<g id='111'>Όλα τα Εργαλεία της Live εκδοσης απ
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='116'>Salix Live comes with all the default </g><g id='117'><g id='118'>softwares</g></g><g id='119'> included in Salix OS.</g>"
-msgstr "<g id='116'>Το Salix Live έρχεται με όλα τα εξ' ορισμού </g><g id='117'><g id='118'>προγράμματα</g></g><g id='119'>που περιέχονται στο Salix OS.</g>"
+msgstr "<g id='116'>Το Salix Live έρχεται με όλα τα εξ' ορισμού </g><g id='117'><g id='118'>προγράμματα</g></g><g id='119'> που περιέχονται στο Salix OS.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -645,7 +645,7 @@ msgstr "<g id='196'>Διαβάζοντας το </g>/mnt/live/memory/images/xxx.
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='25'>The latest version of this document can be found </g><g id='26'><g id='27'>here</g></g><g id='28'>.</g>"
-msgstr "<g id='25'>Η τελευταία έκδοση αυτού του εγγράφου μπορεί να βρεθεί</g><g id='26'><g id='27'>εδώ</g></g><g id='28'>.</g>"
+msgstr "<g id='25'>Η τελευταία έκδοση αυτού του εγγράφου μπορεί να βρεθεί </g><g id='26'><g id='27'>εδώ</g></g><g id='28'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -680,12 +680,12 @@ msgstr "<g id='77'>Για να εκτελέσετε αυτή τη εφαρμογ
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='78'>In Unix/Linux, all users and groups of users are given certain </g><g id='79'><g id='80'>permissions and access rights</g></g><g id='81'> to some part of the system in order to control their ability to access and change it.</g>"
-msgstr "<g id='78'>Στο Unix/Linux, σε όλους τους χρήστες και τις ομάδες χρηστών δίδονται καθορισμένες</g><g id='79'><g id='80'>άδειες και δικαιώματα προσπέλασης</g></g><g id='81'>σε κάποια μέρη του συστήματος ώστε να ελέγχουν την δυνατότητα πρόσβασης και αλλαγών σε αυτό.</g>"
+msgstr "<g id='78'>Στο Unix/Linux, σε όλους τους χρήστες και τις ομάδες χρηστών δίδονται καθορισμένες </g><g id='79'><g id='80'>άδειες και δικαιώματα προσπέλασης</g></g><g id='81'> σε κάποια μέρη του συστήματος ώστε να ελέγχουν την δυνατότητα πρόσβασης και αλλαγών σε αυτό.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='82'>Slapt-get</g> is a CLI tool providing an APT‑like system for Slackware package management."
-msgstr "<g id='82'>Το Slapt-get</g>είναι ένα γραφικό εργαλείο που προσφέρει ένα σύστημα σαν το APT για τη διαχείριση πακέτων του Slackware."
+msgstr "<g id='82'>Το Slapt-get</g> είναι ένα γραφικό εργαλείο που προσφέρει ένα σύστημα σαν το APT για τη διαχείριση πακέτων του Slackware."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -705,7 +705,7 @@ msgstr "<g id='95'>Μπορείτε επίσης να αποσυμπιέσετε
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='99'>If that is not the case, which is very rare, you will need to first enter the </g><g id='100'><g id='101'>BIOS</g></g><g id='102'> setup, usually by pressing the Del‑key or the F2‑key (or some other key combinations depending on your machine…). Once in the BIOS, find the \"boot menu\" and set the order of the boot devices properly, with your optical drive in first position. Save your changes and reboot your computer.</g>"
-msgstr "<g id='99'>Εάν δεν είναι αυτή η περίπτωση, πράγμα πολύ σπάνιο, πρέπει πρώτα να πάτε στη ρύθμιση του </g><g id='100'><g id='101'>BIOS</g></g><g id='102'> >, συνήθως πατώντας το πλήκτρο Del ή το F2 (ή κάποιο άλλο συνδυασμό πλήκτρων που εξαρτάται από το μηχάνημά σας...). Ενώ είστε στο BIOS, βρείτε το \"\\boot menu\" και θέστε τη σειρά εκκίνησης συσκευών σωστά, με τον οπτικό δίσκο στη πρώτη θέση. Αποθηκεύστε τις αλλαγές και επανεκκινήστε τον υπολογιστή σας.</g>"
+msgstr "<g id='99'>Εάν δεν είναι αυτή η περίπτωση, πράγμα πολύ σπάνιο, πρέπει πρώτα να πάτε στη ρύθμιση του </g><g id='100'><g id='101'>BIOS</g></g><g id='102'> , συνήθως πατώντας το πλήκτρο Del ή το F2 (ή κάποιο άλλο συνδυασμό πλήκτρων που εξαρτάται από το μηχάνημά σας...). Ενώ είστε στο BIOS, βρείτε το \"boot menu\" και θέστε τη σειρά εκκίνησης συσκευών σωστά, με τον οπτικό δίσκο στη πρώτη θέση. Αποθηκεύστε τις αλλαγές και επανεκκινήστε τον υπολογιστή σας.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -945,7 +945,7 @@ msgstr "Οι Γραφικές εφαρμογές περιλαμβάνουν τα
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Gslapt is the GUI version of <g id='83'>Slapt-get</g>."
-msgstr "Το Gslapt είναι η γραφική έκδοση του<g id='83'>Slapt-get</g>."
+msgstr "Το Gslapt είναι η γραφική έκδοση του <g id='83'>Slapt-get</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -965,7 +965,7 @@ msgstr "Ωστόσο εξαιτίας της Ζωντανής φύσης του 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "However, while in the <g id='35'>KISS</g> principle that Slackware adheres to, \"Simple\" refers to the viewpoint of system design, Salix OS also applies it to the viewpoint of the end user."
-msgstr "Ωστόσο, ενώ η<g id='35'>KISS </g>αρχή του Slackware στην \"Απλότητα\" αναφέρεται στην άποψη του σχεδιασμού του συστήματος, το Salix OS προσπαθεί να το κάνει να αναφερθεί και στον τελικό χρήστη επίσης."
+msgstr "Ωστόσο, ενώ η <g id='35'>KISS </g> αρχή του Slackware στην \"Απλότητα\" αναφέρεται στην άποψη του σχεδιασμού του συστήματος, το Salix OS προσπαθεί να το κάνει να αναφερθεί και στον τελικό χρήστη επίσης."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -975,7 +975,7 @@ msgstr "Το ISO Master είναι μια εφαρμογή δημιουργία�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "If necessary, you can verify the integrity of your downloaded file by comparing its <g id='94'>md5sum</g> file with the original one uploaded besides the corresponding ISO image file by Salix OS."
-msgstr "Εάν έιναι αναγκαίο, μπορείτε να επαληθεύσετε την ακεραιότητα του μεταφορτωμένου αρχείου συγκρίνοντας το αντίστοιχο<g id='94'>md5sum</g> αρχείο με το αυθεντικό που είναι ανεβασμένο και αντιστοιχεί στο αρχείο εικόνας ISO του Salix OS."
+msgstr "Εάν έιναι αναγκαίο, μπορείτε να επαληθεύσετε την ακεραιότητα του μεταφορτωμένου αρχείου συγκρίνοντας το αντίστοιχο <g id='94'>md5sum</g> αρχείο με το αυθεντικό που είναι ανεβασμένο και αντιστοιχεί στο αρχείο εικόνας ISO του Salix OS."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1215,7 +1215,7 @@ msgstr "Μόλις επιλέξτε την γλώσσα σας, απλά πατ�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Only when all the sections have been completed will the 'Launch Salix Install' button be activated."
-msgstr "Μόνο όταν όλες οι ενότητες έχουν συμπληρωθεί θα ενεργοποιηθεί το κουμπί 'Launch Salix Install'"
+msgstr "Μόνο όταν όλες οι ενότητες έχουν συμπληρωθεί θα ενεργοποιηθεί το κουμπί 'Έναρξη της εγκατάστασης του Salix'."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1861,3 +1861,4 @@ msgstr "Αυτό θα εμποδίσει τη πρώτη \"reboot on first boot\
 msgctxt "title"
 msgid "Salix Live Startup Guide"
 msgstr "Salix Live Startup Guide"
+
