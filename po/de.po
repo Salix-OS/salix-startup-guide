@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2010-04-03 22:04+CET\n"
+"POT-Creation-Date: 2010-04-04 17:04+CET\n"
 "PO-Revision-Date: 2010-03-26 15:27+0100\n"
 "Last-Translator: Thorsten Mühlfelder <thenktor@gmx.de>\n"
 "Language-Team: \n"
@@ -32,7 +32,7 @@ msgstr "Administrator (root) Passwort"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Advanced Boot Options"
-msgstr "Fortgeschrittene Bootoptionen"
+msgstr "Erweiterte Boot Einstellungen"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -718,37 +718,37 @@ msgstr "<g id='100'>Wenn dies nicht der Fall ist, was sehr selten vorkommt, müs
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "A Live CD is a CD-ROM holding a self-contained bootable and fully functional operating system."
-msgstr ""
+msgstr "Eine Live-CD ist eine CD-ROM, die ein bootfähiges und voll funktionsfähiges Betriebssystem beinhaltet."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "A Live USB flash drive is similar to a Live CD, but it can have the added functionality of automatically and transparently writing changes back to its bootable medium."
-msgstr ""
+msgstr "Ein Live USB-Stick ist das selbe wie eine Live CD mit der zusätzlichen Möglichkeit die Änderungen am System automatisch auf das Boot-Medium zurückschreiben zu lassen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "A bootloader is required to load the main operating system of a computer and will initially display a boot menu if several operating systems are available on the same computer."
-msgstr ""
+msgstr "Ein Bootloader wird benötigt um ein Betriebssystem zu laden und zeigt ein Boot-Menü an wenn sich mehrere Betriebssysteme auf dem selben Computer befinden."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "A graphical environment is not provided."
-msgstr ""
+msgstr "Eine grafische Umgebung wird nicht bereitgestellt."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "A new bootable ISO image will be created with all your modifications."
-msgstr ""
+msgstr "Es wird ein neues bootbares ISO-Image mit all Ihren Modifikationen erstellt."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "AIM, ICQ, Google Talk, Jabber/XMPP, MSN Messenger, Yahoo, etc."
-msgstr ""
+msgstr "AIM, ICQ, Google Talk, Jabber/XMPP, MSN Messenger, Yahoo, etc."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Adding/Removing modules on the fly:"
-msgstr ""
+msgstr "Module \"on the fly\" hinzufügen oder entfernen:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
