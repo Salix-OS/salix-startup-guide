@@ -2,7 +2,7 @@
 # Copyright (C) 2010
 # This file is distributed under the same license as the salix-live-startup-guide package.
 # Imar van Erven Dorens <gambit73@gmail.com>, 2010.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
@@ -579,32 +579,32 @@ msgstr "6- Vervang de originele module met uw nieuwe module, Maak de ISO image o
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='103'>You also have the possibility to </g><g id='104'><g id='105'>modify most default boot settings</g></g><g id='106'>.</g>"
-msgstr ""
+msgstr "<g id='103'>U heeft ook de mogelijkheid om </g><g id='104'><g id='105'>wijzigt de meeste standaard boot-instellingen</g></g><g id='106'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='107'>Simply press Enter on the default menu entry: Start Salix Live and a moment later you will enter </g><g id='108'><g id='109'>Xfce desktop</g></g><g id='110'>.</g>"
-msgstr ""
+msgstr "<g id='107'>Druk op het standaard menu-item: Start Salix Live en even later komt u in </g><g id='108'><g id='109'>Xfce desktop</g></g><g id='110'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='111'>All Live Tools require </g><g id='112'><g id='113'>administrator's right</g></g><g id='114'> and will ask you for the (root) password. </g>"
-msgstr ""
+msgstr "<g id='111'>Alle Live Tools vereisen </g><g id='112'><g id='113'>administrator rechten</g></g><g id='114'> en zullen u voor het (root) wachtwoord vragen. </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='116'>Salix Live comes with all the default </g><g id='117'><g id='118'>softwares</g></g><g id='119'> included in Salix OS.</g>"
-msgstr ""
+msgstr "<g id='116'>Salix Live wordt geleverd met alle standaard </g><g id='117'><g id='118'>software</g></g><g id='119'> opgenomen in Salix OS.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='121'>Important!</g><g id='122'> Once this file has been created, it is necessary to reboot the Live CD. From then on, Salix Live will begin to monitor any changes you perform and will record them in the new persistent file.</g>"
-msgstr ""
+msgstr "<g id='121'>Belangrijk!</g><g id='122'> Zodra dit bestand is aangemaakt is het noodzakelijk de Live CD te herstarten. Daarna zal Salix Live de wijzigingen die u uitvoert volgen en opslaan in het nieuwe persistente bestand.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='123'>To remove any changes and come back to the default settings, simply delete the persistent file (slxsave.xfs) from the </g><g id='124'><g id='125'>mount point</g></g><g id='126'> it was initially created on.</g>"
-msgstr ""
+msgstr "<g id='123'>Voor het verwijderen van wijzigingen en terug te keren naar de standaardinstellingen, verwijder dan eenvoudigweg het persistente bestand (slxsave.xfs) van het </g><g id='124'><g id='125'>mountpoint</g></g><g id='126'> waar het in eerste instantie op aangemaakt was.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1860,4 +1860,3 @@ msgstr "dit zal de \"herstart bij eerste boot\" actie voorkomen."
 msgctxt "title"
 msgid "Salix Live Startup Guide"
 msgstr "Salix Live Opstart Handleiding"
-
