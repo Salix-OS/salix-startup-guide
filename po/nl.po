@@ -622,70 +622,69 @@ msgid "<g id='135'>Like most Live CDs based on Slackware, Salix Live is relying
 msgstr "<g id='135'>Zoals de meeste Live CDs gebaseerd op Slackware, is Salix Live afhankelijk van de </g><g id='136'><g id='137'>Linux Live Scripts</g></g><g id='138'> technologie. Sommige van de aanwezige shell scripts zullen een gevorderde gebruiker in staat stellen Salix Live volledig</g><g id='139'><g id='140'> aan te passen en remasteren</g></g><g id='141'><x id='142'/>zodat het beter aansluit op zijn of haar eigen wensen.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='143'>In order to bypass certain limitations or to complement some of the third-party technology it uses, Salix developed its own set of patches and scripts which for the most part need no user interaction while some can be executed, for instance to facilitate the creation of a </g><g id='144'><g id='145'>Salix Live USB Flash Disk</g></g><g id='146'>. <x id='147'/></g>"
-msgstr "<g id='143'> Om bepaalde beperkingen te omzeilen of om een deel van de technologie van derden gebruikt het aanvullen, Salix ontwikkelde zijn eigen set van patches en scripts die voor het grootste deel geen gebruikersinteractie nodig, terwijl sommige kunnen worden uitgevoerd, te vergemakkelijken, bijvoorbeeld het opstellen van de een </g><g id='144'><g id='145'> Salix Live USB Flash Disk </g></g><g id='146'> . <x id='147'/></g>"
+msgstr "<g id='143'>Om bepaalde beperkingen te omzeilen of om een deel van de technologie welke van derden wordt gebruikt aan te vullen, ontwikkelde Salix zijn eigen set patches en scripts die merendeels geen gebruikersinteractie nodig hebben. Sommige scripts kunnen worden uitgevoerd om bijvoorbeeld het opstellen van een Salix Live USB Flash Disk </g><g id='144'><g id='145'>te vergemakkelijken</g></g><g id='146'>.<x id='147'/></g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='148'>A disk device can be subdivided into one or more partitions</g>."
-msgstr ""
+msgstr "<g id='148'>Een disk device kan worden onderverdeeld in een of meer partities </g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='149'>If you do not already have the necessary partitions ready, you may want to use Gparted to create them first. </g><g id='150'><g id='151'>Gparted</g></g><g id='152'> will enable you to change the partition organization on a disk device while preserving the contents of the partitions.</g>"
-msgstr ""
+msgstr "<g id='149'>Als u nog niet de nodige partities gereed hebt, kunt u GParted eerst gebruiken om ze aan te maken. </g><g id='150'><g id='151'>GParted</g></g><g id='152'> geeft de mogelijkheid om de partitie organisatie op een disk device te veranderen met behoud van de inhoud van de partities.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='196'>By browsing </g>/mnt/live/memory/images/xxx.lzm/<g id='197'>, you can view the contents of each module, therefore you'll find which module holds a given package in </g>/mnt/live/memory/images/xxx.lzm/var/log/packages/"
-msgstr ""
+msgstr "<g id='196'>Door te bladeren in</g>/mnt/live/memory/images/xxx.lzm/<g id='197'>, kunt u de inhoud van elke module inzien, zodoende vindt u welke module een bepaald pakket bevat </g>/mnt/live/memory/images/xxx.lzm/var/log/packages/"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='25'>The latest version of this document can be found </g><g id='26'><g id='27'>here</g></g><g id='28'>.</g>"
-msgstr ""
+msgstr "<g id='25'>De laatste versie van dit document kan </g><g id='26'><g id='27'>hier</g></g><g id='28'> worden gevonden.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='29'>Salix Live Startup Guide is released under </g><g id='30'><g id='31'>CC-BY-SA 3.0</g></g><g id='32'> license.</g>"
-msgstr ""
+msgstr "<g id='29'>Salix Live Startup Guide is vrijgegeven onder de </g><g id='30'><g id='31'>CC-BY-SA 3.0</g></g><g id='32'> licentie.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='59'>Geany</g> is provided in the Development applications."
-msgstr ""
+msgstr "<g id='59'>Geany</g> wordt geleverd in de ontwikkelingsapplicaties."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='66'>Transmission is a </g><g id='67'><g id='68'>BitTorrent</g></g><g id='69'> client that is simple, lean and powerful.</g>"
-msgstr ""
+msgstr "<g id='66'>Transmission is een</g><g id='67'><g id='68'> BitTorrent</g></g><g id='69'> client welke eenvoudig, slank en krachtig is.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='70'>All system management in Salix OS can be done the usual (</g><g id='71'><g id='72'>manual</g></g><g id='73'>) Slackware way.</g>"
-msgstr ""
+msgstr "<g id='70'>Al het systeem\\beheer in Salix OS kan worden gedaan op de gebruikelijke (</g><g id='71'><g id='72'>handmatige</g></g><g id='73'>) Slackware wijze.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='76'>To execute it in runlevel 3, simply type localesetup</g>."
-msgstr ""
+msgstr "<g id='76'>Voor het uitvoeren in runlevel 3, typt u localesetup</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='77'>To execute it in runlevel 3, simply type clocksetup</g>."
-msgstr ""
+msgstr "<g id='77'>Voor het uitvoeren in runlevel 3, typt u clocksetup</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='78'>In Unix/Linux, all users and groups of users are given certain </g><g id='79'><g id='80'>permissions and access rights</g></g><g id='81'> to some part of the system in order to control their ability to access and change it.</g>"
-msgstr ""
+msgstr "<g id='78'>In Unix/Linux hebben alle gebruikers en groepen gebruikers bepaalde </g><g id='79'><g id='80'>machtigingen en toegangsrechten</g></g><g id='81'> voor een deel van het systeem om hun eigen rechten en toegang te wijzigen.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='82'>Slapt-get</g> is a CLI tool providing an APT‑like system for Slackware package management."
-msgstr ""
+msgstr "<g id='82'>Slapt-get</g> is een CLI tool voor een APT-achtig systeem voor Slackware pakket management."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
