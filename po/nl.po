@@ -689,22 +689,22 @@ msgstr "<g id='82'>Slapt-get</g> is een CLI tool voor een APT-achtig systeem voo
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='88'>Salix Live is the Live CD version of </g><g id='89'>Salix OS</g><g id='90'>. You can therefore safely use it to 'test drive' Salix OS without having to install anything on your computer. You will thus be able to determine wheter and to what extent S</g><g id='91'>alix OS is compatible with your particular hardware configuration and if it suits your personal tastes.</g>"
-msgstr ""
+msgstr "<g id='88'>Salix Live is de Live CD versie van </g><g id='89'>Salix OS</g><g id='90'>. U kunt dus veilig een 'proefrit' maken met Salix OS zonder iets te hoeven installeren op uw computer. U zult in staat zijn om te bepalen in hoeverre S </g><g id='91'>Alix OS compatibel is met uw specifieke hardware configuratie en of het past bij uw persoonlijke voorkeur.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='92'>Salix Live will also come in handy as a mobile solution if you wish to carry Salix OS everywhere you go or if you need to perform some basic rescue operation such as fixing an ailing LILO bootloader with Lilo Setup, c</g>onfiguring some partitions with Gparted, etc."
-msgstr ""
+msgstr "<g id='92'>Salix Live zal ook van pas komen als een mobiele oplossing indien u Salix OS overal naar toe wilt nemen of als u een simpele reddingsoperatie wilt uitvoeren zoals het corrigeren van een slecht lopende LILO bootloader met Lilo Setup, het c</g>onfigureren van een aantal partities met gparted, enz."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='95'>You can also explode the Salix Live ISO image onto a </g><g id='96'><g id='97'>USB key</g></g><g id='98'>.</g>"
-msgstr ""
+msgstr "<g id='95'>U kunt de Salix Live ISO image ook op een </g><g id='96'><g id='97'>USB-stick</g></g><g id='98'> zetten.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='99'>If that is not the case, which is very rare, you will need to first enter the </g><g id='100'><g id='101'>BIOS</g></g><g id='102'> setup, usually by pressing the Del‑key or the F2‑key (or some other key combinations depending on your machine…). Once in the BIOS, find the \"boot menu\" and set the order of the boot devices properly, with your optical drive in first position. Save your changes and reboot your computer.</g>"
-msgstr ""
+msgstr "<g id='99'>Als dat niet het geval is, wat zeer zeldzaam is, moet u eerst de </g><g id='100'><g id='101'> BIOS </g></g><g id='102'> instellen, meestal door op de Del-toets of de F2-toets (of een andere toets-combinatie, afhankelijk van uw machine, ...). In het BIOS, vindt u het \"boot menu\" en zet de volgorde van de boot devices goed met uw optische drive als eerste positie. Sla de wijzigingen op en herstart uw computer.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -749,77 +749,77 @@ msgstr "Geavanceerde Boot Opties"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "All your modifications will be applied instantly if you press on the OK button and will not necessitate a reboot."
-msgstr ""
+msgstr "Al uw wijzigingen zullen direct worden toegepast als u op de OK knop drukt. Een reboot zal niet noodzakelijk zijn."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Alternatively, you can run \"install-on-USB\" if you're on Linux and have grub2 installed;"
-msgstr ""
+msgstr "Als alternatief kunt u \"install-on-USB\" uitvoeren als u op Linux zit en grub2 geïnstalleerd heeft;"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Alternatively, you can use any one of the Salix System Tools which you will find under the System section of the Menu."
-msgstr ""
+msgstr "Als alternatief kunt u gebruik maken van een van de Salix Systeem Tools welke u vindt onder de sectie Systeem van het menu."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "An ISO image is an archive file of an optical disc."
-msgstr ""
+msgstr "Een ISO image is een archiefbestand van een optische schijf."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Apart from this, everything is self‑explanatory."
-msgstr ""
+msgstr "Afgezien van dit is alles vanzelfsprekend."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "As it is an application for everyday use, it launches itself in the background and can be accessed using the Orage Clock plugin for the panel."
-msgstr ""
+msgstr "Aangezien het een applicatie is voor dagelijks gebruik, zal het in de achtergrond worden uitgevoerd en kan het worden benaderd via de Orage Klok plugin voor het paneel."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "As previously stated Salix relies on the excellent slapt-get/Gslapt combination for its software package management."
-msgstr ""
+msgstr "Zoals eerder vermeld is Salix gebaseerd op de uitstekende combinatie slapt-get/Gslapt voor haar software pakket beheer."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "As we have seen, this can be done simply with the help of <g id='153'>Gparted</g>, which is included in Salix Live and is available directly on the desktop."
-msgstr ""
+msgstr "Zoals we gezien hebben, kan dit eenvoudig worden gedaan met behulp van <g id='153'>GParted</g>, welke aanwezig is in Salix Live en direct beschikbaar is op het bureaublad."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "As you progress through the configuration process, a check will be displayed beside each completed section."
-msgstr ""
+msgstr "Naarmate u verder door de configuratie komt, zal een markering worden getoond naast elke afgesloten sectie."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Asunder is an Audio CD ripper and encoder for Linux."
-msgstr ""
+msgstr "Asunder is een audio CD ripper en encoder voor Linux."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Basic mode is intended for simple computations while Scientific Mode is Galculator's state‑of‑the‑art."
-msgstr ""
+msgstr "Basis modus is bedoeld voor eenvoudige berekeningen, terwijl wetenschappelijke modus voor Galculator state-of-the-art is."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Before executing Salix Live Installer, you should already have the necessary partitions available on your system."
-msgstr ""
+msgstr "Voor Salix Live Installer te starten, moet u al de benodigde partities op uw systeem beschikbaar hebben."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Before use you should first click on the Update button to ensure that the latest updates from the software repositories are known to Gslapt."
-msgstr ""
+msgstr "Voor gebruik dient u eerst klikken op de knop Update om ervoor te zorgen dat de nieuwste updates van de software repositories bekend zijn voor Gslapt."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Before you can use any of the multimedia applications, you might have to first install some missing codecs from the multimedia menu."
-msgstr ""
+msgstr "Voordat u gebruik kunt maken van de multimedia toepassingen, moet u misschien eerst sommige ontbrekende codecs installeren vanaf het multimedia menu."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Besides Firefox, Network applications include <g id='45'>Claws‑mail</g>, <g id='46'>Pidgin</g>  <g id='47'>Transmission</g> and <g id='48'>gFTP</g>."
-msgstr ""
+msgstr "Naast Firefox, heeft Netwerk toepassingen onder meer <g id='45'>Claws-mail</g>, <g id='46'>Pidgin</g>, <g id='47'>Transmission</g> en <g id='48'>gFTP</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -829,7 +829,7 @@ msgstr "Boot procedure"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Booting parameters or cheatcodes, are used to manipulate the booting process of Linux."
-msgstr ""
+msgstr "Boot parameters of cheatcodes worden toegepast om het opstartproces van Linux te manipuleren."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
