@@ -834,27 +834,29 @@ msgstr "Boot parameters of cheatcodes worden toegepast om het opstartproces van 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Brasero is an application to burn CD/DVD."
-msgstr ""
+msgstr "Brasero is een applicatie om CD/DVD's branden."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "By selecting 'Change boot options' on the Salix Live Boot menu, you will be offered a choice of supplementary boot options"
-msgstr ""
+msgstr "Door te kiezen voor 'Change boot options' in het Salix Live Boot menu, zal worden aangeboden een keuze van aanvullende opstartopties te maken"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Catfish is a handy file searching tool which provides a unified, lightweight and simple interface for different search engines such as find, (s)locate, doodle, tracker and beagle."
 msgstr ""
+"Catfish is een handige tool om bestanden te zoeken en voorziet in een uniforme, lichte en eenvoudige interface voor verschillende zoekmachines, zoals find, (s)locate, doodle, tracker en beagle.\r\n"
+"\t"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Claws Mail is an open source email and news client."
-msgstr ""
+msgstr "Claws Mail is een open source e-mail- en nieuwsclient."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Clicking on one of these sections will display the corresponding options that need to be set."
-msgstr ""
+msgstr "Klikken op een van deze secties zal de corresponderende opties weergeven die bepaald moeten worden."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
