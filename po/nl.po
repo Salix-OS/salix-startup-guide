@@ -609,22 +609,23 @@ msgstr "<g id='123'>Voor het verwijderen van wijzigingen en terug te keren naar 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='127'>Gparted is included in Salix Live to assist you in </g><g id='128'><g id='129'>managing your partitions</g></g><g id='130'> if it is necessary for you to do so before performing the installation of Salix OS.</g>"
-msgstr ""
+msgstr "<g id='127'>GParted is aanwezig in Salix Live om te helpen bij </g><g id='128'><g id='129'>het beheer van uw partities </g></g><g id='130'> indien dat nodig is voordat de installatie van OS Salix wordt uitgevoerd.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='131'>Salix Live Installer will enable you to </g><g id='132'><g id='133'>install Salix OS</g></g><g id='134'> from the comfort of Salix Live graphical environment.</g>"
-msgstr ""
+msgstr "<g id='131'>Salix Live Installer maakt het mogelijk om </g><g id='132'><g id='133'>Salix OS te installeren</g></g><g id='134'> vanuit het comfort van de Salix Live grafische omgeving.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='135'>Like most Live CDs based on Slackware, Salix Live is relying on the </g><g id='136'><g id='137'>Linux Live Scripts</g></g><g id='138'> technology. Some of the shell scripts it includes will enable an advanced user to fully </g><g id='139'><g id='140'>customize and re-master</g></g><g id='141'>  <x id='142'/>Salix Live to better suit his or her own needs.</g>"
-msgstr ""
+msgstr "<g id='135'>Zoals de meeste Live CDs gebaseerd op Slackware, is Salix Live afhankelijk van de </g><g id='136'><g id='137'>Linux Live Scripts</g></g><g id='138'> technologie. Sommige van de aanwezige shell scripts zullen een gevorderde gebruiker in staat stellen Salix Live volledig</g><g id='139'><g id='140'> aan te passen en remasteren</g></g><g id='141'><x id='142'/>zodat het beter aansluit op zijn of haar eigen wensen.</g>"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='143'>In order to bypass certain limitations or to complement some of the third-party technology it uses, Salix developed its own set of patches and scripts which for the most part need no user interaction while some can be executed, for instance to facilitate the creation of a </g><g id='144'><g id='145'>Salix Live USB Flash Disk</g></g><g id='146'>. <x id='147'/></g>"
-msgstr ""
+msgstr "<g id='143'> Om bepaalde beperkingen te omzeilen of om een deel van de technologie van derden gebruikt het aanvullen, Salix ontwikkelde zijn eigen set van patches en scripts die voor het grootste deel geen gebruikersinteractie nodig, terwijl sommige kunnen worden uitgevoerd, te vergemakkelijken, bijvoorbeeld het opstellen van de een </g><g id='144'><g id='145'> Salix Live USB Flash Disk </g></g><g id='146'> . <x id='147'/></g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
