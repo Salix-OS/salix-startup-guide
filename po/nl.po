@@ -891,12 +891,12 @@ msgstr "Dotnew beheert de systeemconfiguratie upgrades welke door Slackware gebr
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Even if run from a CD/DVD, Salix Live gives you the possibility to save any of your work or modification performed while in a Live session."
-msgstr ""
+msgstr "Zelfs vanaf een CD/DVD uitgevoerd, Salix Live geeft je de mogelijkheid om uw werk of wijzigingen uitgevoerd gedurende een live-sessie op te slaan."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Exaile is a music manager which incorporates automatic fetching of album art, lyrics fetching, Last.fm scrobbling, support for many portable media players, Internet radio such as Shoutcast, tabbed playlists, etc."
-msgstr ""
+msgstr "Exaile is een muziek manager, inclusief automatisch ophalen van album art, songteksten, Last.fm, ondersteuning voor vele draagbare mediaspelers, Internet radio zoals Shoutcast, tabbed playlists, enz."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -911,87 +911,87 @@ msgstr "File Roller is een archief bestand manager."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Finally, Accessories applications include a variety of small, useful utilities among which are <g id='60'>Galculator</g>, <g id='61'>Mousepad</g>, <g id='62'>Catfish</g>, <g id='63'>File Roller</g>, <g id='64'>SCIM</g>, etc."
-msgstr ""
+msgstr "Ten slotte, Accessoires omvatten een scala van kleine, handige programmaatjes waaronder <g id='60'>Galculator</g>, <g id='61'>Mousepad</g>, <g id='62'>Meerval</g>, <g id='63'>File Roller</g>, <g id='64'>SCIM</g>, enz."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Finally, Salix OS strives to provide a localized system which is usable around the globe and can easily be used by non‑English speakers."
-msgstr ""
+msgstr "Ten slotte, Salix OS streeft ernaar om een gelokaliseerd systeem te leveren dat geschikt is voor gebruik over de hele wereld en makkelijk kan worden gebruikt door niet-Engels sprekenden."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Functionalities:"
-msgstr ""
+msgstr "Functionaliteiten:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "GIMP (GNU Image Manipulation Program) is an image retouching and editing tool."
-msgstr ""
+msgstr "GIMP (GNU Image Manipulation Program) is een retoucheer- en bewerkingstool voor afbeeldingen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Galculator is a calculator featuring two user modes:"
-msgstr ""
+msgstr "Galculator is een rekenmachine met twee gebruikersmodi:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Geany is a small and lightweight Integrated Development Environment which only has a few dependencies and is independent of any particular Desktop Environment."
-msgstr ""
+msgstr "Geany is een klein en lichtgewicht Integrated Development Environment welke maar een paar afhankelijkheden heeft en is onafhankelijk van enig Desktop Environment."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Graphical applications include the <g id='56'>Gimp</g>, <g id='57'>Ristretto</g> and <g id='58'>XSane</g>"
-msgstr ""
+msgstr "Grafische applicaties zijn <g id='56'>Gimp</g>, <g id='57'>Ristretto</g> en <g id='58'>Xsane</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Gslapt is the GUI version of <g id='83'>Slapt-get</g>."
-msgstr ""
+msgstr "Gslapt is de GUI-versie van <g id='83'>Slapt-get</g> ."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Here you will be able to select the services that should or shouldn't be activated in the background when your system starts."
-msgstr ""
+msgstr "Hier zult u in staat zijn om de diensten in- of uit te schakelen welke in de achtergrond moeten draaien wanneer uw systeem start."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Here, only the minimum software essential for a console system to start is included."
-msgstr ""
+msgstr "Hier is uitsluitend inbegrepen de essentiële software om een console te starten."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "However due to its Live nature it also includes some extra utilities which are either needed or simply very useful in a Live session."
-msgstr ""
+msgstr "Vanwege de aard van een Live omgeving omvat het ook een aantal extra programma's die nodig zijn of gewoon erg handig zijn in een live sessie."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "However, while in the <g id='35'>KISS</g> principle that Slackware adheres to, \"Simple\" refers to the viewpoint of system design, Salix OS also applies it to the viewpoint of the end user."
-msgstr ""
+msgstr "Terwijl Slackware in principe voldoet aan <g id='35'>KISS</g>, \"Simpel\" verwijst bij hen naar het standpunt van systeemontwerp. Salix OS is echter ook van toepassing is voor het standpunt van de eindgebruiker."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "ISO Master is an application for creating and modifying ISO9660 files (ISO images)."
-msgstr ""
+msgstr "ISO Master is een toepassing voor het aanmaken en wijzigen ISO9660 bestanden (ISO images)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "If necessary, you can verify the integrity of your downloaded file by comparing its <g id='94'>md5sum</g> file with the original one uploaded besides the corresponding ISO image file by Salix OS."
-msgstr ""
+msgstr "Indien nodig, kunt u de integriteit van uw gedownloade bestand controleren door het <g id='94'>md5sum</g> bestand te vergelijken met de originele bij het overeenkomstige ISO bestand geüpload door Salix OS."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "If possible, it is recommended to also have at least one other Linux partition to hold your /home directory."
-msgstr ""
+msgstr "Indien mogelijk, wordt aanbevolen om een andere Linux-partitie te hebben welke uw /home folder bevat."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "If that is the case, you simply need to feed Salix Live CD/DVD in the optical drive and start your computer."
-msgstr ""
+msgstr "Als dat het geval is, moet u eenvoudigweg de Salix Live CD/DVD in de optische drive plaatsen en uw computer opstarten."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "If you are fully satisfied with your Live experience of Salix OS, you can then proceed to install it with the help of Salix Live Installer."
-msgstr ""
+msgstr "Als u helemaal tevreden bent met uw Live-ervaring met Salix OS, kunt u overgaan tot het installeren door middel van Salix Live Installer."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
