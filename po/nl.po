@@ -1066,27 +1066,27 @@ msgstr "Het is zeer configureerbaar en ondersteunt meldingen op basis van datums
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It is necessary to (re)configure the bootloader each time you install a new operating system on your computer."
-msgstr ""
+msgstr "Het is noodzakelijk om de bootloader te (her)configureren iedere keer dat u een nieuw besturingssysteem op uw computer installeert."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It loads into memory using only data provided on the CD."
-msgstr ""
+msgstr "Het laadt in het geheugen met alleen de gegevens die op de CD geleverd zijn."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It offers easy configuration and an abundance of features."
-msgstr ""
+msgstr "Het biedt een eenvoudige configuratie en een overvloed aan mogelijkheden."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It stores all your data in an international open standard format and can also read and write files from other common office software packages."
-msgstr ""
+msgstr "Het slaat al uw gegevens in een internationale open standaard formaat op en kan ook bestanden lezen en schrijven van andere bekende office software pakketten."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It stores mail in the MH mailbox format as well as the Mbox mailbox format via a plugin."
-msgstr ""
+msgstr "Het slaat mail op in het mailbox MH-formaat, alsmede het Mbox mailbox formaat via een plugin."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1096,12 +1096,12 @@ msgstr "Het waarschuwt met een pop-up of eenhoorbaar alarm."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It will connect to wired (Ethernet only, no PPPoE/DSL support yet) and wireless networks."
-msgstr ""
+msgstr "Het kan verbinden met bekabelde (Ethernet, nog geen PPPoE/DSL-ondersteuning) en draadloze netwerken."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It will not modify any operating system or data present on its host computer and will leave no trace after shutdown."
-msgstr ""
+msgstr "Het zal geen besturingssysteem of gegevens wijzigen welke op de host-computer aanwezig zijn en laat geen sporen na, na uitschakeling."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1111,12 +1111,12 @@ msgstr "Lilo Setup"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Lilo Setup can also be useful in the process of a disaster recovery in which case you may have to launch it from a Live CD if you have lost all other means to boot into your system."
-msgstr ""
+msgstr "Lilo Setup kan ook nuttig zijn in het proces van een herstelactie waarbij opstarten van een Live CD de enige mogelijkheid is om uw systeem op te starten."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Lilo Setup is also very easy to use."
-msgstr ""
+msgstr "Lilo Setup is ook zeer gemakkelijk in gebruik."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
