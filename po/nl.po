@@ -1011,17 +1011,17 @@ msgstr "Naast het leveren van vrij tekenen, kan het ook essentiële tekenprocess
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "In order to do this, Salix OS has chosen the <g id='36'>Xfce</g> desktop, which offers a comprehensive full‑featured environment while managing to remain simple, unobstructive and highly responsive."
-msgstr ""
+msgstr "Om dit te doen, heeft Salix OS gekozen voor de <g id='36'>Xfce</g> desktop, welke een uitgebreid full-featured omgeving heeft, terwijl het beheer eenvoudig, toegankelijk en snel blijft."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "In that case it is not necessary to create or modify a module."
-msgstr ""
+msgstr "In dat geval is het niet noodzakelijk om een module te maken of te wijzigen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "In the same manner that you boot from the optical drive, you must ensure that the BIOS is set to boot from a USB device before other devices."
-msgstr ""
+msgstr "Net als wordt opgestart vanaf de optische drive, moet u er ook voor zorgen dat het BIOS is ingesteld om te booten vanaf een USB device voor de andere devices."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1036,32 +1036,32 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It <x id='75'/>will display a possible course of action for each new configuration file found in the system."
-msgstr ""
+msgstr "Het <x id='75'/> zal een mogelijke keuze tonen voor elk nieuw gevonden configuratie bestand in het systeem."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It allows one to search Slackware/Salix mirrors and third party sources for packages, compare them with installed packages, install new packages, or upgrade all installed packages."
-msgstr ""
+msgstr "Men kan Slackware/Salix mirrors en sources van derden voor pakketten zoeken, vergelijken met geïnstalleerde pakketten, nieuwe pakketten installeren of alle geïnstalleerde pakketten upgraden."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It can be easily rendered or burned to a DVD or CD by using media authoring or disc burning software."
-msgstr ""
+msgstr "Het kan gemakkelijk gerenderd of gebrand worden op een DVD of CD met behulp van media authoring- of brandsoftware ."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It is available in many languages and works on all common computers."
-msgstr ""
+msgstr "Het is beschikbaar in vele talen en werkt op alle gangbare computers."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It is designed to be as simple as possible and has some unique features to enable users to create their discs easily and quickly."
-msgstr ""
+msgstr "Het is ontworpen om zo eenvoudig mogelijk te zijn en heeft enkele unieke kenmerken om gebruikers in staat te stellen om hun CDs gemakkelijk en snel te maken."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It is highly configurable and supports alerts based on dates."
-msgstr ""
+msgstr "Het is zeer configureerbaar en ondersteunt meldingen op basis van datums."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
