@@ -1596,57 +1596,57 @@ msgstr "Type help om alle beschikbare commando's te bekijken."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Undo options are available and none of the settings will be applied until you click on the 'Launch Salix Install' button."
-msgstr ""
+msgstr "Ongedaan maken opties zijn beschikbaar en geen van de instellingen zal worden toegepast totdat op de 'Start Salix Installatie' klikt."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "We recommend you format your partions with the ext4 file system."
-msgstr ""
+msgstr "Wij adviseren u uw partities met het ext4-bestandssysteem te formatteren."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "While instructions below the Salix Live Boot menu will give you access to Salix Live 'manual' advanced Boot options."
-msgstr ""
+msgstr "Via de instructies onder het Salix Live Boot menu krijgt u toegang tot de Salix Live 'handmatige' geavanceerde opstartopties."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Wicd is an open source wired and wireless network manager for Linux which aims to provide a simple interface to connect to networks with a wide variety of settings."
-msgstr ""
+msgstr "Wicd is een open source bedraad en draadloos netwerk beheerder voor Linux die tot doel heeft een eenvoudige interface te bieden om aan netwerken te verbinden met een breed scala aan instellingen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "XSane is a GUI scanning utility which uses the SANE library to communicate with scanners."
-msgstr ""
+msgstr "Xsane is een GUI scantool dat de SANE library gebruikt om te communiceren met scanners."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Xfce is a lightweight desktop environment for various Unix/Linux systems."
-msgstr ""
+msgstr "Xfce is een lichtgewicht desktop omgeving voor diverse Unix/Linux systemen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You can check that the module contains the unwanted packages by listing the <g id='187'>/mnt/hdxx/directoryx/var/log/packages/ directory.)</g>"
-msgstr ""
+msgstr "U kunt controleren dat de module de ongewenste pakketten bevat door de folder<g id='187'>/mnt/hdxx/directoryx/var/log/packages/ op te vragen.)</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You can fully customize the content of a module by removing or adding applications and by deleting, editing or adding new files inside it."
-msgstr ""
+msgstr "U kunt de inhoud van een module volledig aanpassen door het verwijderen of toevoegen van toepassingen en verwijderen, bewerken of toevoegen van nieuwe bestanden."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You can use Asunder to save tracks from an Audio CD as any of WAV, MP3, OGG, FLAC, WavPack, Musepack, AAC, and Monkey's Audio files."
-msgstr ""
+msgstr "U kunt gebruik maken van Asunder om tracks op te slaan van een audio CD naar een bestand als WAV, MP3, OGG, FLAC, WavPack, Musepack, AAC en Monkey's Audio."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You could also use the <g id='87'>IRC link</g> above to be in live communication with some member of the community and get instant help if necessary."
-msgstr ""
+msgstr "U kunt ook gebruik maken van de <g id='87'>IRC link</g> hierboven om live met een aantal leden van de gemeenschap te communiceren en direct hulp te krijgen indien nodig."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You must open an ISO file of Salix Live (for example the one you downloaded) and then add to and/or remove from the modules situated in <g id='199'>/salixlive/base</g>, <g id='200'>/salixlive/modules</g> or <g id='201'>/salixlive/optional</g>."
-msgstr ""
+msgstr "U moet een ISO bestand van Salix Live openen (bijvoorbeeld degene welke u heeft gedownload) en dan toevoegen en/of verwijderen van de modules in <g id='199'>/salixlive/base</g>, <g id='200'>/salixlive/modules</g> or <g id='201'>/salixlive/optional</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
