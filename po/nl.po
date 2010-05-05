@@ -87,6 +87,7 @@ msgid "Creating a module"
 msgstr "Een module creëeren"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Customizing Salix Live"
 msgstr "Aanpassen van Salix Live"
@@ -1361,22 +1362,22 @@ msgstr "Salix OS is een <g id='33'>Linux Distributie</g> gebaseerd op <g id='34'
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix OS package management uses the proven <g id='39'>slapt‑get/gslapt</g> combination includes dependency from both the original Slackware repositories and the complementary and ever-increasing Salix OS <g id='40'>repository</g>."
-msgstr ""
+msgstr "Salix OS package management maakt gebruik van de bewezen <g id='39'>slapt-get/gslapt</g> combinatie en omvat afhankelijkheid van zowel de originele Slackware repositories en de complementaire en de steeds toenemende Salix OS <g id='40'>repository</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Simply click on a date to display or set the agenda for the day."
-msgstr ""
+msgstr "Klik op een datum om de dagagenda weer te geven of aan te passen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "So do take the time to familiarize yourself fully with Salix Live Installer."
-msgstr ""
+msgstr "Neem dus de tijd om volledig vertrouwd te raken met de Salix Live Installer."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "So, for example, if you wish to just use your own xorg.conf file, create etc/X11/ directories inside of /salixlive/rootcopy and store your xorg.conf in it."
-msgstr ""
+msgstr "Dus, bijvoorbeeld, als u gebruik wilt maken van uw eigen xorg.conf bestand, creëer /etc/X11/ folders binnen de /salixlive/rootcopy en bewaar uw xorg.conf hierin."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1384,9 +1385,10 @@ msgid "Softwares"
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "paragraph"
 msgid "Some of the Live Tools are graphical utilities that can be accessed directly on the desktop while some Live Tools, reserved for advanced users can only be executed in a Terminal, from the command line (<g id='120'>CLI</g>)."
-msgstr ""
+msgstr "Sommige van de Live Tools zijn grafische hulpprogramma's die rechtstreeks kan worden geraadpleegd op de desktop, terwijl sommige Live hulpmiddelen, bestemd voor gevorderde gebruikers kunnen alleen worden uitgevoerd in een terminal, vanaf de opdrachtregel ( <g id='120'> CLI </g> )."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
