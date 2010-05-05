@@ -1211,17 +1211,17 @@ msgstr "Zodra u gereed bent, sla de gewijzigde ISO op uw harddisk en gebruik Bra
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Once you have selected your language, simply press on the Enter key to activate your choice."
-msgstr ""
+msgstr "Zodra u uw taal heeft gekozen, drukt u op de Enter-toets om uw keuze te activeren."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Only when all the sections have been completed will the 'Launch Salix Install' button be activated."
-msgstr ""
+msgstr "Pas als alle delen zijn afgerond zal de 'Start de Salix Installatie' knop worden geactiveerd."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "OpenOffice.org 3 is the leading open-source office software suite <x id='65'/>for word processing, spreadsheets, presentations, graphics, databases and more."
-msgstr ""
+msgstr "OpenOffice.org 3 is de toonaangevende open-source office software suite <x id='65'/>voor tekstverwerking, spreadsheets, presentaties, grafieken, databases en meer."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1231,12 +1231,12 @@ msgstr "of mogelijkerwijs in CLI:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Orage provides a calendar which integrates nicely into the Xfce Desktop Environment."
-msgstr ""
+msgstr "Orage biedt een kalender welke mooi integreert in de Xfce Desktop omgeving."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Our <g id='85'>Wiki</g> and <g id='86'>Forum</g> will be two other important sources of information."
-msgstr ""
+msgstr "Onze <g id='85'>Wiki</g> en <g id='86'>Forum</g> zullen twee andere belangrijke bronnen van informatie zijn."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1256,27 +1256,27 @@ msgstr "Personalisatie modules:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Pidgin is an easy to use and free chat client which lets you log in to accounts on multiple chat networks simultaneously."
-msgstr ""
+msgstr "Pidgin is een eenvoudig te gebruiken en gratis chat client waarmee u kan inloggen op vershillende accounts op meerdere netwerken tegelijk."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Pidgin is compatible with numerous chat networks out of the box:"
-msgstr ""
+msgstr "Pidgin is standaard al compatibel met vele chat netwerken:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Press Ctrl+D to resume booting)"
-msgstr ""
+msgstr "Druk op Ctrl+D om verder op te starten)"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Pressing 'c' gives you access to the Grub shell."
-msgstr ""
+msgstr "Door op 'c' te drukken krijgt u toegang to de Grub shell."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Pressing 'e' while 'Start Salix Live' is selected opens up the following display, enabling you to modify some of the booting options for example in order to enter a boot parameter."
-msgstr ""
+msgstr "Door op 'e' te drukken, terwijl 'Start Salix Live' is geselecteerd zal het volgende scherm worden geopend, waardoor u de opties voor bijvoorbeeld het opstarten kan aanpassen door een boot parameter in te voeren."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1296,12 +1296,12 @@ msgstr "ROOT=/mnt/hdxx/directoryx removepkg packagez"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Remember that the existing swap partition will be automatically used by the Live installer without any prompting on your part."
-msgstr ""
+msgstr "Vergeet niet dat de bestaande swap-partitie automatisch gebruikt zal worden door de Live Installer zonder enige tussenkomst van u."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Ristretto is a fast and lightweight picture viewer."
-msgstr ""
+msgstr "Ristretto is een snelle en lichtgewicht foto-viewer."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1316,12 +1316,12 @@ msgstr "Salix Live Installer"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix is usually installed with one of the following sets of software:"
-msgstr ""
+msgstr "Salix is standaard geïnstalleerd met een van de volgende software sets:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix needs, at the very minimum, one swap partition (which will be automatically used by the Live Installer without any user intervention) and one Linux partition to hold its main directory tree."
-msgstr ""
+msgstr "Salix heeft minimaal een swap-partitie (welke automatisch zal worden gebruikt door de Live Installer, zonder enige tussenkomst van de gebruiker) en een Linux partitie nodig om aan zijn folder hierarchie te voldoen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1331,12 +1331,12 @@ msgstr "Salix Live"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live CD holds a <g id='198'>/salixlive/rootcopy/</g> directory."
-msgstr ""
+msgstr "Salix Live CD bevat een <g id='198'>/salixlive/rootcopy/</g>  folder."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live Installer is very easy to use."
-msgstr ""
+msgstr "Salix Live Installer is zeer makkelijk te gebruiken."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1351,12 +1351,12 @@ msgstr "Salix OS"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix OS also provides all the necessary <g id='37'>GUI</g> utilities to assist <g id='38'>system management</g>."
-msgstr ""
+msgstr "Salix OS biedt ook alle nodige <g id='37'>GUI</g> om <g id='38'>systeembeheer</g> te vergemakkelijken."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix OS is a <g id='33'>Linux Distribution</g> based on <g id='34'>Slackware</g> that retains full backwards compatibility with its illustrious parent."
-msgstr ""
+msgstr "Salix OS is een <g id='33'>Linux Distributie</g> gebaseerd op <g id='34'>Slackware</g> welke volledig backwards compatibie blijft met zijn illustere ouder."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
