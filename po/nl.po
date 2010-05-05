@@ -163,9 +163,10 @@ msgid "Installing Salix OS"
 msgstr "Salix OS installeren"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Introduction"
-msgstr "Introductie"
+msgstr "Invoering"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -303,6 +304,7 @@ msgid "Slapt-get"
 msgstr "Slapt-get"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Softwares"
 msgstr "Software"
@@ -1385,20 +1387,19 @@ msgid "Softwares"
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Some of the Live Tools are graphical utilities that can be accessed directly on the desktop while some Live Tools, reserved for advanced users can only be executed in a Terminal, from the command line (<g id='120'>CLI</g>)."
-msgstr "Sommige van de Live Tools zijn grafische hulpprogramma's die rechtstreeks kan worden geraadpleegd op de desktop, terwijl sommige Live hulpmiddelen, bestemd voor gevorderde gebruikers kunnen alleen worden uitgevoerd in een terminal, vanaf de opdrachtregel ( <g id='120'> CLI </g> )."
+msgstr "Sommige van de Live Tools zijn grafische tools welke meteen toegankelijk zijn op de desktop, terwijl sommige Live Tools bestemd zijn voor gevorderde gebruikers en kunnen alleen worden uitgevoerd in een terminal, vanaf de <g id='120'>CLI </g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Some of them are specific to Linux Live Scripts while some are common for all Linux versions."
-msgstr ""
+msgstr "Enkelen zijn specifiek voor Linux Live Scripts, anderen zijn gemeenschappelijk voor alle Linux versies."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Sometimes all you want to do is add a couple files to Salix Live, for example specific configuration files."
-msgstr ""
+msgstr "Soms is alles wat u wilt doen het toevoegen van een paar bestanden aan Salix Live, bijvoorbeeld specifieke configuratiebestanden."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1413,12 +1414,12 @@ msgstr "Ondersteuning"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Support is available straight from the Salix desktop:"
-msgstr ""
+msgstr "Support is beschikbaar rechtstreeks op het Salix bureaublad:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Supported archive types include gzip, bzip, bzip2, compress, lzop, zip, jar, lha, rar, zoo, arj, 7-zip, etc."
-msgstr ""
+msgstr "Ondersteunde archieftypen zijn gzip, bzip, bzip2, compress, lzop, zip, jar, lha, rar, zoo, arj, 7-zip, etc."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1428,17 +1429,17 @@ msgstr "Systeembeheer"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Basic Mode is built on the Core Mode with the addition of Xfce desktop environment, Firefox web browser and <g id='41'>Gslapt package manager</g>."
-msgstr ""
+msgstr "De standaard modus is gebaseerd op de Core modus met toevoeging van een Xfce desktop omgeving, Firefox webbrowser en <g id='41'>Gslapt pakket manager</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Linux Live Scripts come with the following useful commands:"
-msgstr ""
+msgstr "De Linux Live Scripts worden geleverd met de volgende handige commando's:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Office applications are composed of the full <g id='42'>OpenOffice productivity suite</g>, <g id='43'>ePDFView</g> and <g id='44'>Orage agenda</g>."
-msgstr ""
+msgstr "De Office applicaties zijn samengesteld uit de volledige <g id='42'>OpenOffice productiviteitssuite</g>, <g id='43'>epdfview</g> en <g id='44'>Orage agenda</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
