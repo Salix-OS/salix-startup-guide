@@ -996,17 +996,17 @@ msgstr "Als u helemaal tevreden bent met uw Live-ervaring met Salix OS, kunt u o
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "If you are still quite new to either Salix, Slackware or even Linux in general, then you should first of all take some time to study Salix Startup Guide as it is specifically aimed to be accessible to newcomers."
-msgstr ""
+msgstr "Indien u onbekend bent met hetzij Salix, Slackware of zelfs Linux in het algemeen, dan zou u eerst enige tijd de Salix Startup Guide moeten bestuderen omdat deze specifiek gericht is op het creëren van toegankelijkheid voor nieuwelingen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "If you do however, you might want to modify the default qwebircxxx login to something more personal and human readable."
-msgstr ""
+msgstr "Als u wilt, kunt u de standaard qwebircxxx login wijzigen in iets meer persoonlijk en menselijke leesbaar."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "In addition to offering free‑form drawing, it can accomplish essential image workflow steps such as resizing, editing, and cropping photos, combining multiple images, converting between different image formats as well as create basic animated images in GIF."
-msgstr ""
+msgstr "Naast het leveren van vrij tekenen, kan het ook essentiële tekenprocessen als het vergroten of verkleinen, bewerken en bijsnijden van foto's, het combineren van meerdere images, converteren tussen verschillende bestandsformaten evenals het maken van eenvoudige geanimeerde afbeeldingen in GIF."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
