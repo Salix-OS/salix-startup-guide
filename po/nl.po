@@ -1121,7 +1121,7 @@ msgstr "Lilo Setup is ook zeer gemakkelijk in gebruik."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Lilo Setup will install a new LILO bootloader on your computer."
-msgstr ""
+msgstr "Lilo Setup installeert een nieuwe LILO bootloader op uw computer."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1141,7 +1141,7 @@ msgstr "Live USB Key"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Make a module out of a directory:"
-msgstr ""
+msgstr "Maak een module uit een folder:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1151,22 +1151,22 @@ msgstr "Maak een module vanuit een pakket:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Modifications are applied instantly."
-msgstr ""
+msgstr "Wijzigingen worden direct toegepast."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Most Salix tools (except Lilo Setup) have an ncurse counterpart which can be used in a non-graphical environment (<g id='74'>runlevel 3</g>)."
-msgstr ""
+msgstr "De meeste Salix tools (behalve Lilo Setup) hebben een ncurse tegenhanger die gebruikt kan worden in een niet-grafische omgeving (<g id='74'> runlevel 3 </g>)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Most of the time this is what you will want to do although occasionally, it might be preferable not to, for example if you want to use Grub instead or if you want to simply incorporate Salix in an existing bootloader configured from another distribution in a multiple boot setup."
-msgstr ""
+msgstr "Meestal is dit wenselijk, maar soms niet, bijvoorbeeld als u Grub wilt gebruiken of gewoon Salix wilt toevoegen in een bestaande bootloader van een andere distributie."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Mousepad is a simple text editor with printing support."
-msgstr ""
+msgstr "Mousepad is een eenvoudige tekst editor met printondersteuning."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
