@@ -1491,37 +1491,37 @@ msgstr "Dit is ideaal als u een ervaren gebruiker bent en u wilt uw installatie 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This last mode is build on the Basic Mode and offers a full range of useful software applications one could need on a daily basis while following the \"one application per task\" rationale."
-msgstr ""
+msgstr "Deze laatste modus is gebaseerd op de Basic Modus en biedt een volledig gamma van nuttige software welke dagelijks nodig kan zijn, maar nog steeds de \"een aanvraag per taak\" logica volgend."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This utility manages the creation, deletion and properties of all the system users and groups of users."
-msgstr ""
+msgstr "Deze tool beheert de creatie, verwijdering en de eigenschappen van alle gebruikers en groepen gebruikers op het systeem."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This utility will configure the keyboard disposition being used both in the graphical and non-graphical environments."
-msgstr ""
+msgstr "Deze tool zal de toetsenbord dispositie configureren voor zowel de grafische en niet-grafische omgevingen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This utility will configure the language of your system."
-msgstr ""
+msgstr "Deze tool configureert de taal van uw systeem."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This utility will configure your computer clock."
-msgstr ""
+msgstr "Deze tool zal uw computerklok configureren."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Time, Keyboard, Locale, Partitions, Users and Software."
-msgstr ""
+msgstr "Tijd, Toetsenbord, Landinstelling, Partitities, Gebruikers en Software."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To do this however, you must first create a special \"persistent file\" on your hard drive, which will have a pre-decided fixed-size and will be formatted as a Linux file system."
-msgstr ""
+msgstr "Om dit te doen, moet u een speciale \"persistent bestand\" aanmaken welke een vooraf gekozen grootte is en zal worden geformatteerd als een linux bestandssysteem."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1531,67 +1531,67 @@ msgstr "Om debug modus te activeren:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To enter a cheatcode, you simply have to add it to the 'linux' line above (after changes=slxsave.xfs), ensuring a blank space separates it from the previous boot parameter."
-msgstr ""
+msgstr "Om een cheatcode in te voeren, hoeft u deze alleen maar toe te voegen aan de 'linux' lijn hierboven (na wijzigingen = slxsave.xfs). Door voor een lege ruimte te zorgen wordt het van de vorige boot parameter gescheiden."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To execute it in runlevel 3, simply type usersetup."
-msgstr ""
+msgstr "Voor het uitvoeren in runlevel 3, typt u usersetup."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To execute this utility in runlevel 3, simply type dotnew."
-msgstr ""
+msgstr "Voor het uitvoeren van deze tool in runlevel 3, typt u dotnew."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To execute this utility in runlevel 3, simply type keyboardsetup."
-msgstr ""
+msgstr "Voor het uitvoeren van deze tool in runlevel 3, typt u keyboardsetup."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To execute this utility in runlevel 3, simply type servicesetup."
-msgstr ""
+msgstr "Voor het uitvoeren van deze tool in runlevel 3, typt u servicesetup."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To load Salix Live from a different location than the boot device:"
-msgstr ""
+msgstr "Voor het laden van Salix Live vanuit een andere locatie dan de bootdevice:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To load in console only without executing Xorg (runlevel 3)"
-msgstr ""
+msgstr "Voor het laden in de console zonder het starten van Xorg (runlevel 3)"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To load optional modules from /optional/ directory on the CD:"
-msgstr ""
+msgstr "Voor het laden van optionele modules van de /optional/ folder op de CD:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To remaster Salix Live, you could simply use the program Isomaster."
-msgstr ""
+msgstr "Om Salix Live te remasteren, kunt u gewoon gebruik maken van het programma Isomaster."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To safeguard all changes made in a Salix Live session:"
-msgstr ""
+msgstr "Ter bescherming van alle wijzigingen die zijn aangebracht in een Salix Live sessie:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To set root's password to \"somepass\", or ask for a new password:"
-msgstr ""
+msgstr "Voor het instellen van root wachtwoord \"somepass\", of vraag om een nieuw wachtwoord:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Totem is a media player (audio and video) which utilizes the GStreamer framework for playback."
-msgstr ""
+msgstr "Totem is een mediaspeler (audio en video) die het GStreamer framework voor playback gebruikt."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Type help to view all available commands."
-msgstr ""
+msgstr "Type help om alle beschikbare commando's te bekijken."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
