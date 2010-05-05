@@ -1171,42 +1171,42 @@ msgstr "Mousepad is een eenvoudige tekst editor met printondersteuning."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Mozilla Firefox is a free and open source web browser with tabbed browsing, spell checking, incremental find, private browsing and numerous plugins."
-msgstr ""
+msgstr "Mozilla Firefox is een gratis en open source web browser met tabbladen, spellingscontrole, incrementele zoekoptie, voor prive browsen, en tal van andere plugins."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Multimedia applications include <g id='49'>Asunder</g>, <g id='50'>Brasero</g>, <g id='51'>Exaile</g>, <g id='52'>Iso Master</g>, <x id='53'/><g id='54'>Totem</g> and <g id='55'>Salix Codec Installer</g>."
-msgstr ""
+msgstr "Multimedia toepassingen zijn onder meer <g id='49'>Asunder</g>, <g id='50'>Brasero</g>, <g id='51'>Exaile</g>, <g id='52'>Iso Master</g>, <x id='53'/><g id='54'>Totem</g> en <g id='55'>Salix Codec Installer</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Note that you need to recreate the full directory hierarchy for the patches to work as desired."
-msgstr ""
+msgstr "Merk op dat de volledige folder hierarchie opnieuw gemaakt moet worden om patches correct te laten werken."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "On the first boot from a USB key, an advanced bootloader will be installed (grub2) and the system will reboot once, this process is normal and only happens once."
-msgstr ""
+msgstr "Bij de eerste start van een USBkey, zal een geavanceerde bootloader worden geïnstalleerd (grub2) en het systeem zal eenmalig opnieuw opstarten. Dit proces is normaal en gebeurt eenmalig."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "On the following menu, you will be given the possibility to change your keyboard map if the default one for your language does not suit you."
-msgstr ""
+msgstr "In het volgende menu krijgt u de mogelijkheid om uw toetsenbord instellingen te veranderen als de standaard voor uw taal niet geschikt is."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "On the left side of the application, you will notice the different sections that must be configured before launching the installation process:"
-msgstr ""
+msgstr "Aan de linkerzijde van de applicatie ziet u de verschillende onderdelen welke geconfigureerd moeten worden voordat de installatie gestart kan worden:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Once the installation process is completed, You will be given the choice to launch <g id='154'>Lilo Setup</g> to configure your LILO bootloader."
-msgstr ""
+msgstr "Zodra de installatie is voltooid, krijgt u de keuze om <g id='154'>Lilo Setup</g> te starten om de LILO bootloader te configureren."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Once you are done, save the modified ISO to your hard drive and use Brasero to burn it on a CD-ROM."
-msgstr ""
+msgstr "Zodra u gereed bent, sla de gewijzigde ISO op uw harddisk en gebruik Brasero om deze  op een CDROM te branden."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
