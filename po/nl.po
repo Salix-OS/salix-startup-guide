@@ -2,7 +2,7 @@
 # Copyright (C) 2010
 # This file is distributed under the same license as the salix-live-startup-guide package.
 # Imar van Erven Dorens <gambit73@gmail.com>, 2010.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
@@ -1441,52 +1441,52 @@ msgstr "De Office applicaties zijn samengesteld uit de volledige <g id='42'>Open
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Smart Common Input Method platform (SCIM) is an X input method (XIM) platform containing support for more than thirty languages (Chinese, Japanese, Korean and many European languages)."
-msgstr ""
+msgstr "Het Smart Common Input Method platform (SCIM) is een X Input Method (XIM) platform met ondersteuning voor meer dan dertig talen (Chinees, Japans, Koreaans en vele Europese talen)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The content of this directory is copied to the root filesystem each time you boot, preserving all directories."
-msgstr ""
+msgstr "De inhoud van deze folder wordt gekopieerd naar het root bestandssysteem iedere keer dat u opstart, met behoud van alle folders."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The desktop link, Salix Online, will bring you to the Salix <g id='84'>Homepage</g>."
-msgstr ""
+msgstr "Het bureaublad link, Salix Online, brengt u naar de Salix <g id='84'>Homepage</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The first screen to greet you will enable you to select your language."
-msgstr ""
+msgstr "Het welkomstscherm geeft de mogelijkheid om uw taal te selecteren."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The latest Salix OS or Salix Live releases are freely and easily available as ISO image files from Salix OS <g id='93'>download page</g>."
-msgstr ""
+msgstr "De nieuwste Salix OS of Salix Live releases zijn gratis en gemakkelijk verkrijgbaar als ISO image bestanden van de Salix OS <g id='93'>download pagina</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The purpose of this manual is to enable you to take full advantage of the many functionalities of Salix Live."
-msgstr ""
+msgstr "Het doel van deze handleiding is om u maximaal te laten profiteren van de vele functionaliteiten van Salix Live."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The resulting CD must not contain the .iso file, or you have made a mistake in the process."
-msgstr ""
+msgstr "De resulterende CD moet niet het .iso bestand bevatten. of u heeft een fout gemaakt in het proces."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The search option of the forum will quickly show you if the question you have in mind has already been posted by a member of the community and if it has been answered."
-msgstr ""
+msgstr "De zoekfunctie van het forum zullen snel zien of uw vraag al is gepost door een forumlid en of de vraag al is beantwoord."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This is ideal for advanced users who would like to install a lightweight Xfce and add their own choice of applications."
-msgstr ""
+msgstr "Dit is ideaal voor geavanceerde gebruikers die graag een lichtgewicht Xfce willen installeren en hun eigen keuze aan applicaties willen toevoegen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This is ideal if you are an experienced user and want to customize your installation for any specific purpose, such as a web server, file server etc."
-msgstr ""
+msgstr "Dit is ideaal als u een ervaren gebruiker bent en u wilt uw installatie aanpassen voor een specifiek doel, zoals een webserver, bestandsserver, enz."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1862,4 +1862,3 @@ msgstr "dit zal de \"herstart bij eerste boot\" actie voorkomen."
 msgctxt "title"
 msgid "Salix Live Startup Guide"
 msgstr "Salix Live Opstart Handleiding"
-
