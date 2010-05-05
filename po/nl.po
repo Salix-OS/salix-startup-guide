@@ -89,7 +89,7 @@ msgstr "Een module creëeren"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Customizing Salix Live"
-msgstr "Salix Live aanpassen"
+msgstr "Aanpassen van Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -861,12 +861,12 @@ msgstr "Klikken op een van deze secties zal de corresponderende opties weergeven
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Contextual help triggered by the position of the mouse will also be displayed above the application and will guide you every step of the way."
-msgstr ""
+msgstr "Contextuele hulp geactiveerd door de positie van de muis zal ook worden weergegeven voor het programma en zal u begeleiden bij iedere stap."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Contextual help triggered by the position of the mouse will be displayed above the application and will guide you every step of the way."
-msgstr ""
+msgstr "Contextuele hulp geactiveerd door de positie van de muis zal ook worden weergegeven voor het programma en zal u begeleiden bij iedere stap."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -881,12 +881,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Designed for productivity, it loads and executes applications fast, while conserving system resources"
-msgstr ""
+msgstr "Ontworpen voor productiviteit, het laadt en voert toepassingen snel uit, met minimaal gebruik van systeembronnen"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Dotnew manages the system configuration upgrades used by Slackware."
-msgstr ""
+msgstr "Dotnew beheert de systeemconfiguratie upgrades welke door Slackware gebruikt worden."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
