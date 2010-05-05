@@ -1091,7 +1091,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It warns you with pop‑up or audible alarms."
-msgstr ""
+msgstr "Het waarschuwt met een pop-up of eenhoorbaar alarm."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
