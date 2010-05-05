@@ -87,7 +87,6 @@ msgid "Creating a module"
 msgstr "Een module creëeren"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Customizing Salix Live"
 msgstr "Aanpassen van Salix Live"
@@ -163,7 +162,6 @@ msgid "Installing Salix OS"
 msgstr "Salix OS installeren"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Introduction"
 msgstr "Invoering"
@@ -304,7 +302,6 @@ msgid "Slapt-get"
 msgstr "Slapt-get"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Softwares"
 msgstr "Software"
