@@ -14,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -149,17 +149,17 @@ msgstr "Як завантажуватися з Salix Live CD/DVD?"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "How to boot from a Salix Live USB key?"
-msgstr ""
+msgstr "Як завантажитися з Salix Live USB флешки?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "How to install Salix Live on a USB key?"
-msgstr ""
+msgstr "Як встановити Salix Live на USB флешку?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Installing Salix OS"
-msgstr ""
+msgstr "Встановлення Salix OS"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -169,7 +169,7 @@ msgstr "Вступ"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Iso Master"
-msgstr ""
+msgstr "Майстер Iso"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -184,22 +184,22 @@ msgstr "Встановлення Lilo"
 #: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Linux Live Scripts"
-msgstr ""
+msgstr "Скрипти Linux Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Live Tools"
-msgstr ""
+msgstr "Інструменти Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Live USB Flash Drive"
-msgstr ""
+msgstr "Флешка Live USB"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Main Index"
-msgstr ""
+msgstr "Основний індекс"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -214,32 +214,32 @@ msgstr "Змінити Salix Live ISO"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Mousepad"
-msgstr ""
+msgstr "Mousepad"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "OpenOffice"
-msgstr ""
+msgstr "OpenOffice"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Orage"
-msgstr ""
+msgstr "Orage"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Other System Utilities"
-msgstr ""
+msgstr "Інші системні утиліти"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Package Management"
-msgstr ""
+msgstr "Керування пакунками"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Partition Management"
-msgstr ""
+msgstr "Керування розділами"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -279,7 +279,7 @@ msgstr "Встановлювач Salix Live"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live Scripts"
-msgstr ""
+msgstr "Скрипти Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -304,12 +304,12 @@ msgstr "Slapt-get"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Softwares"
-msgstr ""
+msgstr "Програми"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Startup Services"
-msgstr ""
+msgstr "Сервіси завантаження"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -349,7 +349,7 @@ msgstr "Transmission"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Useful boot parameters"
-msgstr ""
+msgstr "Корисні параметри завантаження"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -359,7 +359,7 @@ msgstr "Профіль користувача"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "What are the Live Tools?"
-msgstr ""
+msgstr "Що таке Інструменти Live?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -414,7 +414,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(TIP:"
-msgstr ""
+msgstr "(ПІДКАЗКА:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -444,37 +444,37 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "./make_iso.sh /mnt/hdxx/live-x.x.x-custom.iso"
-msgstr ""
+msgstr "./make_iso.sh /mnt/hdxx/live-x.x.x-custom.iso"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "/usr/bin/activate"
-msgstr ""
+msgstr "/usr/bin/activate"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "/usr/bin/deactivate"
-msgstr ""
+msgstr "/usr/bin/deactivate"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "/usr/bin/dir2lzm"
-msgstr ""
+msgstr "/usr/bin/dir2lzm"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "/usr/bin/lzm2dir"
-msgstr ""
+msgstr "/usr/bin/lzm2dir"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "/usr/bin/tgz2lzm"
-msgstr ""
+msgstr "/usr/bin/tgz2lzm"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "/usr/bin/txz2lzm"
-msgstr ""
+msgstr "/usr/bin/txz2lzm"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
