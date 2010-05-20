@@ -14,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -424,22 +424,22 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(You can use full module name (module.lzm) or you can skip the extension.)"
-msgstr ""
+msgstr "(Ви можете використати повну назву модуля (module.lzm) або можете пропустити розширення)"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Add or remove files and directories to/from a CD image."
-msgstr ""
+msgstr "* Додати або вилучити файли і теки до/з образу CD."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Create an ISO image from scratch."
-msgstr ""
+msgstr "* Створити образ ISO з нуля"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Create bootable CDs using various boot record types."
-msgstr ""
+msgstr "* Створити завантажувальні CD використовуючи різні типи запису завантажувача."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -494,7 +494,7 @@ msgstr "1- Створити робочу теку:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Open the .iso file using a software archiver (file-roller, xarchiver, 7-zip, iso-master, …)."
-msgstr ""
+msgstr "1 - Відкрити файл .iso, використовуючи архіватор (file-roller, xarchiver, 7-zip, iso-master, …)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -514,7 +514,7 @@ msgstr "2 - Встановити всі пакунки програм викор
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Open up the module you want to customize under the working directory:"
-msgstr ""
+msgstr "2 - Відкрити модуль, який Ви бажаєте змінити в робочій теці:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -524,12 +524,12 @@ msgstr "3"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Add or remove modules or files as needed:"
-msgstr ""
+msgstr "3 - Додати або вилучити модулі або файли, якщо потрібно:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Go to the \"boot\" directory on the USB key."
-msgstr ""
+msgstr "3 - Перейти в теку \"boot\" на USB флешці."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -544,12 +544,12 @@ msgstr "3 - Видалити пакунки з робочої теки:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Install new packages to the working directory:"
-msgstr ""
+msgstr "4. Встановити нові пакунки до робочої директорії:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Make any modifications you want:"
-msgstr ""
+msgstr "4 - зробити будь-які зміни за Вашим бажанням:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -629,7 +629,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='148'>A disk device can be subdivided into one or more partitions</g>."
-msgstr ""
+msgstr "<g id='148'>Пристрій диску може бути поділений на один або більше розділів</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -659,7 +659,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='66'>Transmission is a </g><g id='67'><g id='68'>BitTorrent</g></g><g id='69'> client that is simple, lean and powerful.</g>"
-msgstr ""
+msgstr "<g id='66'>Transmission є </g><g id='67'><g id='68'>BitTorrent</g></g><g id='69'> клієнтом, дуже простим, швидким і потужним.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -669,12 +669,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='76'>To execute it in runlevel 3, simply type localesetup</g>."
-msgstr ""
+msgstr "<g id='76'>Для запуску на 3-му рівні, просто напишіть localesetup</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='77'>To execute it in runlevel 3, simply type clocksetup</g>."
-msgstr ""
+msgstr "<g id='77'>Для запуску на 3-му рівні, просто напишіть clocksetup</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
