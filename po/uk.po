@@ -14,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -34,12 +34,12 @@ msgstr "Пароль адміністратора (root)"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Advanced Boot Options"
-msgstr ""
+msgstr "Розширені опції завантаження"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Asunder"
-msgstr ""
+msgstr "Asunder"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -59,92 +59,92 @@ msgstr "Параметри завантаження"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Boot menu"
-msgstr ""
+msgstr "Меню завантаження"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Brasero"
-msgstr ""
+msgstr "Brasero"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Catfish"
-msgstr ""
+msgstr "Catfish"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Claws-mail"
-msgstr ""
+msgstr "Claws-mail"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Core Mode"
-msgstr ""
+msgstr "Основний режим"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Creating a module"
-msgstr ""
+msgstr "Створення модуля"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Customizing Salix Live"
-msgstr ""
+msgstr "Налаштування Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Customizing a module"
-msgstr ""
+msgstr "Налаштування модуля"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Dotnew"
-msgstr ""
+msgstr "Dotnew"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Exaile"
-msgstr ""
+msgstr "Exaile"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "File Roller"
-msgstr ""
+msgstr "File Roller"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Full Mode"
-msgstr ""
+msgstr "Повний режим"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Galculator"
-msgstr ""
+msgstr "Galculator"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Geany"
-msgstr ""
+msgstr "Geany"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Gimp"
-msgstr ""
+msgstr "Gimp"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Gparted"
-msgstr ""
+msgstr "Gparted"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Gslapt"
-msgstr ""
+msgstr "Gslapt"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "How to boot from Salix Live CD/DVD?"
-msgstr ""
+msgstr "Як завантажуватися з Salix Live CD/DVD?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -164,7 +164,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Introduction"
-msgstr ""
+msgstr "Вступ"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -174,12 +174,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Keyboard Layout"
-msgstr ""
+msgstr "Розкладка клавіатури"
 
 #: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Lilo Setup"
-msgstr ""
+msgstr "Встановлення Lilo"
 
 #: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -204,12 +204,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Management"
-msgstr ""
+msgstr "Керування"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Modify Salix Live ISO"
-msgstr ""
+msgstr "Змінити Salix Live ISO"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -249,32 +249,32 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Pidgin"
-msgstr ""
+msgstr "Pidgin"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Presentation"
-msgstr ""
+msgstr "Презентація"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Ristretto"
-msgstr ""
+msgstr "Ristretto"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "SCIM"
-msgstr ""
+msgstr "SCIM"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Codec Installer"
-msgstr ""
+msgstr "Встановлювач кодеків Salix"
 
 #: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live Installer"
-msgstr ""
+msgstr "Встановлювач Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -284,22 +284,22 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Tools"
-msgstr ""
+msgstr "Інструменти Salix"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live"
-msgstr ""
+msgstr "Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix OS"
-msgstr ""
+msgstr "Salix OS"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Slapt-get"
-msgstr ""
+msgstr "Slapt-get"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -314,22 +314,22 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Support"
-msgstr ""
+msgstr "Підтримка"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "System"
-msgstr ""
+msgstr "Система"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "System Clock"
-msgstr ""
+msgstr "Час системи"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "System Language"
-msgstr ""
+msgstr "Системна мова"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -339,12 +339,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Totem"
-msgstr ""
+msgstr "Totem"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Transmission"
-msgstr ""
+msgstr "Transmission"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -354,7 +354,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Users Profile"
-msgstr ""
+msgstr "Профіль користувача"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -364,12 +364,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "What is a Live CD?"
-msgstr ""
+msgstr "Що таке Live CD?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "What is an ISO image?"
-msgstr ""
+msgstr "Що таке образ ISO?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -379,32 +379,32 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Wicd"
-msgstr ""
+msgstr "Wicd"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "XSane"
-msgstr ""
+msgstr "XSane"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Xfce and Firefox"
-msgstr ""
+msgstr "Xfce і Firefox"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "ePDFView"
-msgstr ""
+msgstr "ePDFView"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "gFTP"
-msgstr ""
+msgstr "gFTP"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "procedure"
-msgstr ""
+msgstr "процедура"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
