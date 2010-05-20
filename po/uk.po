@@ -2,8 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#, fuzzy
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: ttt\n"
@@ -15,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -25,12 +24,12 @@ msgstr "Про цю путівник..."
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Adding files to Salix Live"
-msgstr ""
+msgstr "Додавання файлів до Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Administrator (root) password"
-msgstr ""
+msgstr "Пароль адміністратора (root)"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -45,17 +44,17 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Basic Mode"
-msgstr ""
+msgstr "Базовий режим"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Boot"
-msgstr ""
+msgstr "Завантаження"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Boot Parameters"
-msgstr ""
+msgstr "Параметри завантаження"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -177,14 +176,12 @@ msgctxt "heading"
 msgid "Keyboard Layout"
 msgstr ""
 
-#: SalixStartupGuide-en.odt:2
-#: SalixStartupGuide-en.odt:2
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Lilo Setup"
 msgstr ""
 
-#: SalixStartupGuide-en.odt:2
-#: SalixStartupGuide-en.odt:2
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Linux Live Scripts"
 msgstr ""
@@ -274,8 +271,7 @@ msgctxt "heading"
 msgid "Salix Codec Installer"
 msgstr ""
 
-#: SalixStartupGuide-en.odt:2
-#: SalixStartupGuide-en.odt:2
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live Installer"
 msgstr ""
@@ -1030,8 +1026,7 @@ msgctxt "paragraph"
 msgid "Installing Salix OS"
 msgstr ""
 
-#: SalixStartupGuide-en.odt:2
-#: SalixStartupGuide-en.odt:2
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Introduction"
 msgstr ""
@@ -1671,8 +1666,7 @@ msgctxt "paragraph"
 msgid "basic and scientific mode."
 msgstr ""
 
-#: SalixStartupGuide-en.odt:2
-#: SalixStartupGuide-en.odt:2
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "cd /mnt/hdxx/"
 msgstr ""
@@ -1747,8 +1741,7 @@ msgctxt "paragraph"
 msgid "echo \"whatever\" > /mnt/hdxx/directory1/foo/bar"
 msgstr ""
 
-#: SalixStartupGuide-en.odt:2
-#: SalixStartupGuide-en.odt:2
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "etc."
@@ -1868,4 +1861,3 @@ msgstr ""
 msgctxt "title"
 msgid "Salix Live Startup Guide"
 msgstr ""
-
