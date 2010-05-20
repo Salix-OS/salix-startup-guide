@@ -14,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -179,7 +179,7 @@ msgstr "Розкладка клавіатури"
 #: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Lilo Setup"
-msgstr "Встановлення Lilo"
+msgstr "Встановлювач Lilo"
 
 #: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -287,14 +287,16 @@ msgid "Salix Tools"
 msgstr "Інструменти Salix"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Salix Live"
-msgstr "Salix Live"
+msgstr "Salix Live"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Salix OS"
-msgstr "Salix OS"
+msgstr "Salix OS"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -479,17 +481,17 @@ msgstr "/usr/bin/txz2lzm"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a work directory:"
-msgstr ""
+msgstr "1- Створити робочу теку:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a working directory"
-msgstr ""
+msgstr "1- Створити робочу теку"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a working directory:"
-msgstr ""
+msgstr "1- Створити робочу теку:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -519,7 +521,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -554,7 +556,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Rebuild the CD image:"
-msgstr ""
+msgstr "4- Перебудувати образ CD:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -564,12 +566,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "5- Build the module:"
-msgstr ""
+msgstr "5- Збудувати модуль:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "5- Rebuild the module:"
-msgstr ""
+msgstr "5- Перебудувати модуль:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -724,7 +726,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "A graphical environment is not provided."
-msgstr ""
+msgstr "Графічне середовище не передбачене."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -734,7 +736,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "AIM, ICQ, Google Talk, Jabber/XMPP, MSN Messenger, Yahoo, etc."
-msgstr ""
+msgstr "AIM, ICQ, Google Talk, Jabber/XMPP, MSN Messenger, Yahoo, етс."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -824,7 +826,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Boot procedure"
-msgstr ""
+msgstr "Процедура завантаження"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -834,7 +836,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Brasero is an application to burn CD/DVD."
-msgstr ""
+msgstr "Brasero є програмою для запису CD/DVD."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -869,7 +871,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Copyright © SalixOS.org 2010"
-msgstr ""
+msgstr "Всі права застережено © SalixOS.org 2010"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -919,7 +921,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Functionalities:"
-msgstr ""
+msgstr "Функціональності:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1114,7 +1116,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Lilo Setup is also very easy to use."
-msgstr ""
+msgstr "Використання Встановлювача Lilo є також дуже простим."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1279,17 +1281,17 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "ROOT=/mnt/hdxx/directoryx removepkg packagex"
-msgstr ""
+msgstr "ROOT=/mnt/hdxx/directoryx removepkg packagex"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "ROOT=/mnt/hdxx/directoryx removepkg packagey"
-msgstr ""
+msgstr "ROOT=/mnt/hdxx/directoryx removepkg packagey"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "ROOT=/mnt/hdxx/directoryx removepkg packagez"
-msgstr ""
+msgstr "ROOT=/mnt/hdxx/directoryx removepkg packagez"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1304,7 +1306,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live 13.0"
-msgstr ""
+msgstr "Salix Live 13.0"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1339,7 +1341,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live root password is:"
-msgstr ""
+msgstr "Пароль root'а Salix Live:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1419,7 +1421,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "System Management"
-msgstr ""
+msgstr "Керування системою"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1664,27 +1666,27 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "basic and scientific mode."
-msgstr ""
+msgstr "базовий і науковий режим"
 
 #: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "cd /mnt/hdxx/"
-msgstr ""
+msgstr "cd /mnt/hdxx/"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "cd /mnt/hdxx/custom_live"
-msgstr ""
+msgstr "cd /mnt/hdxx/custom_live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/dev/device"
-msgstr ""
+msgstr "changes=/dev/device"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/dev/device/file"
-msgstr ""
+msgstr "changes=/dev/device/file"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1694,42 +1696,42 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/path/"
-msgstr ""
+msgstr "changes=/path/"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/path/file"
-msgstr ""
+msgstr "changes=/path/file"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=file"
-msgstr ""
+msgstr "changes=file"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "cp -ra /mnt/live/mnt/hdc/* /mnt/hdxx/custom_live"
-msgstr ""
+msgstr "cp -ra /mnt/live/mnt/hdc/* /mnt/hdxx/custom_live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "cp new_module /mnt/hdxx/custom_live/base"
-msgstr ""
+msgstr "cp new_module /mnt/hdxx/custom_live/base"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "debug"
-msgstr ""
+msgstr "debug"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "dir2lzm directory1 module1.lzm"
-msgstr ""
+msgstr "dir2lzm directory1 module1.lzm"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "dir2lzm directoryx modulex.lzm"
-msgstr ""
+msgstr "dir2lzm directoryx modulex.lzm"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1739,28 +1741,28 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "echo \"whatever\" > /mnt/hdxx/directory1/foo/bar"
-msgstr ""
+msgstr "echo \"whatever\" > /mnt/hdxx/directory1/foo/bar"
 
 #: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "etc."
-msgstr ""
+msgstr "етс."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "from=/dev/device/salixlive-version.iso"
-msgstr ""
+msgstr "from=/dev/device/salixlive-version.iso"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "from=path/to/exploded/salixlive-version.iso"
-msgstr ""
+msgstr "from=path/to/exploded/salixlive-version.iso"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "from=path/to/salixlive-version.iso"
-msgstr ""
+msgstr "from=path/to/salixlive-version.iso"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1775,82 +1777,82 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg --root=/mnt/hdxx/directory1 packagea-x.x.x.txz"
-msgstr ""
+msgstr "installpkg --root=/mnt/hdxx/directory1 packagea-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directory1 packageb-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directory1 packageb-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directory1 packagec-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directory1 packagec-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directoryx package1-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directoryx package1-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directoryx package2-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directoryx package2-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directoryx package3-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directoryx package3-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "live"
-msgstr ""
+msgstr "live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "load=module"
-msgstr ""
+msgstr "load=module"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "lzm2dir /mnt/hdc/salixlive/base/modulex.lzm /mnt/hdxx/directoryx"
-msgstr ""
+msgstr "lzm2dir /mnt/hdc/salixlive/base/modulex.lzm /mnt/hdxx/directoryx"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mkdir -p /mnt/hdxx/directory1"
-msgstr ""
+msgstr "mkdir -p /mnt/hdxx/directory1"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mkdir -p /mnt/hdxx/directoryx"
-msgstr ""
+msgstr "mkdir -p /mnt/hdxx/directoryx"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mkdir /mnt/hdxx/custom_live"
-msgstr ""
+msgstr "mkdir /mnt/hdxx/custom_live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "passwd=ask"
-msgstr ""
+msgstr "passwd=ask"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "passwd=somepass"
-msgstr ""
+msgstr "passwd=somepass"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "rm -rf /mnt/hdxx/directory1/usr/doc/*"
-msgstr ""
+msgstr "rm -rf /mnt/hdxx/directory1/usr/doc/*"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "rm /mnt/hdxx/custom_live/base/unwanted_module"
-msgstr ""
+msgstr "rm /mnt/hdxx/custom_live/base/unwanted_module"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
