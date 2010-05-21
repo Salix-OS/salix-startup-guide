@@ -744,7 +744,7 @@ msgstr "Додати/Змінити модулі 'на льоту':"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Advanced Boot Options"
-msgstr ""
+msgstr "Розширені можливості завантаження"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -874,7 +874,7 @@ msgstr "Всі права застережено © SalixOS.org 2010"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Customizing Salix Live"
-msgstr ""
+msgstr "Налаштування Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1029,7 +1029,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Introduction"
-msgstr ""
+msgstr "Вступ"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1104,7 +1104,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Lilo Setup"
-msgstr ""
+msgstr "Встановлення Lilo"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1134,22 +1134,22 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Live USB Key"
-msgstr ""
+msgstr "Флешка Live USB"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Make a module out of a directory:"
-msgstr ""
+msgstr "Створити модуль поза текою:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Make a module out of a package:"
-msgstr ""
+msgstr "Створити модуль поза пакунком:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Modifications are applied instantly."
-msgstr ""
+msgstr "Зміни будуть застосовані негайно."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1309,7 +1309,7 @@ msgstr "Salix Live 13.0"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live Installer"
-msgstr ""
+msgstr "Встановлювач Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1344,7 +1344,7 @@ msgstr "Пароль root'а Salix Live:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix OS"
-msgstr ""
+msgstr "Salix OS"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
