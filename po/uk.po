@@ -14,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -584,12 +584,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='107'>Simply press Enter on the default menu entry: Start Salix Live and a moment later you will enter </g><g id='108'><g id='109'>Xfce desktop</g></g><g id='110'>.</g>"
-msgstr ""
+msgstr "<g id='107'>Просто натисніть Enter на типовий пункт меню: Запустити Salix Live і пізніше Ви ввійдете </g><g id='108'><g id='109'>в робочий стіл Xfce</g></g><g id='110'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='111'>All Live Tools require </g><g id='112'><g id='113'>administrator's right</g></g><g id='114'> and will ask you for the (root) password. </g>"
-msgstr ""
+msgstr "<g id='111'>Всі Інструменти Live вимагають </g><g id='112'><g id='113'>привілеїв адміністратора</g></g><g id='114'> і Вас запитають про пароль root'а. </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -654,7 +654,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='59'>Geany</g> is provided in the Development applications."
-msgstr ""
+msgstr "<g id='59'>Geany</g> міститься в Програмах розробки."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
