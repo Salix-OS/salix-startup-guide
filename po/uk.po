@@ -14,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -34,7 +34,7 @@ msgstr "Пароль адміністратора (root)"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Advanced Boot Options"
-msgstr "Розширені опції завантаження"
+msgstr "Розширені можливості завантаження"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -609,12 +609,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='127'>Gparted is included in Salix Live to assist you in </g><g id='128'><g id='129'>managing your partitions</g></g><g id='130'> if it is necessary for you to do so before performing the installation of Salix OS.</g>"
-msgstr ""
+msgstr "<g id='127'>Gparted включений в Salix Live і допоможе Вам у </g><g id='128'><g id='129'>керування Вагими розділами</g></g><g id='130'> якщо Вам буде необхідно зробити це перед запуском встановлення Salix OS.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='131'>Salix Live Installer will enable you to </g><g id='132'><g id='133'>install Salix OS</g></g><g id='134'> from the comfort of Salix Live graphical environment.</g>"
-msgstr ""
+msgstr "<g id='131'>Встановлювач Salix Live дозволить Вам </g><g id='132'><g id='133'>встановити Salix OS</g></g><g id='134'> з комфортного графічного середовища Salix Live.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -709,7 +709,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "A Live CD is a CD-ROM holding a self-contained bootable and fully functional operating system."
-msgstr ""
+msgstr "Live CD є CD-ROM’ом, який містить цілком робочу завантажувальну операційну систему."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -729,7 +729,7 @@ msgstr "Графічне середовище не передбачене."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "A new bootable ISO image will be created with all your modifications."
-msgstr ""
+msgstr "Новий завантажувальний образ ISO буде створено з усіма Вашими змінами."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -739,7 +739,7 @@ msgstr "AIM, ICQ, Google Talk, Jabber/XMPP, MSN Messenger, Yahoo, етс."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Adding/Removing modules on the fly:"
-msgstr ""
+msgstr "Додати/Змінити модулі 'на льоту':"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -764,12 +764,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "An ISO image is an archive file of an optical disc."
-msgstr ""
+msgstr "ISO образ є файл архіву оптичного диску."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Apart from this, everything is self‑explanatory."
-msgstr ""
+msgstr "Крім цього, все решта інтуїтивно зрозуміле."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -794,7 +794,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Asunder is an Audio CD ripper and encoder for Linux."
-msgstr ""
+msgstr "Asunder є видирачем аудіо CD і декодером для LInux."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -819,7 +819,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Besides Firefox, Network applications include <g id='45'>Claws‑mail</g>, <g id='46'>Pidgin</g>  <g id='47'>Transmission</g> and <g id='48'>gFTP</g>."
-msgstr ""
+msgstr "Окрім Firefox, до Мережних програм входить <g id='45'>Claws‑mail</g>, <g id='46'>Pidgin</g>  <g id='47'>Transmission</g> і <g id='48'>gFTP</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -849,7 +849,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Claws Mail is an open source email and news client."
-msgstr ""
+msgstr "Claws Mail є клієнтом електронної пошти і новин з відкритим джерельним кодом."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -899,12 +899,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Explode a module to a directory"
-msgstr ""
+msgstr "Вставити модуль в теку"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "File Roller is an archive manager."
-msgstr ""
+msgstr "File Roller є менеджером архівів."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -929,7 +929,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Galculator is a calculator featuring two user modes:"
-msgstr ""
+msgstr "Galculator є калькулятором з двома режимами роботи:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -939,12 +939,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Graphical applications include the <g id='56'>Gimp</g>, <g id='57'>Ristretto</g> and <g id='58'>XSane</g>"
-msgstr ""
+msgstr "Графічні програми містять <g id='56'>Gimp</g>, <g id='57'>Ristretto</g> і <g id='58'>XSane</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Gslapt is the GUI version of <g id='83'>Slapt-get</g>."
-msgstr ""
+msgstr "Gslapt є GUI версією <g id='83'>Slapt-get</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
