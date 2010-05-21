@@ -14,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -559,7 +559,7 @@ msgstr "4- Перебудувати образ CD:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Run \"bootinst.sh\" if you are on Linux or Unix, \"bootinst.bat\" if you're on Windows."
-msgstr ""
+msgstr "4- Запустіть \"bootinst.sh\" якщо Ви знаходитися в Linux або Unix, \"bootinst.bat\" якщо Ви у Windows."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -574,12 +574,12 @@ msgstr "5- Перебудувати модуль:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "6- Replace the original module with your new module, rebuild the ISO image and reburn the CD."
-msgstr ""
+msgstr "6 - Замініть оригінальний модуль на Ваш новий модуль, перебудуйте образ ISO і перезапишіть CD."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='103'>You also have the possibility to </g><g id='104'><g id='105'>modify most default boot settings</g></g><g id='106'>.</g>"
-msgstr ""
+msgstr "<g id='103'>Ви також маєте можливість </g><g id='104'><g id='105'>змінити більшість налаштувань завантаження</g></g><g id='106'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -594,7 +594,7 @@ msgstr "<g id='111'>Всі Інструменти Live вимагають </g><g
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='116'>Salix Live comes with all the default </g><g id='117'><g id='118'>softwares</g></g><g id='119'> included in Salix OS.</g>"
-msgstr ""
+msgstr "<g id='116'>Salix Live має типове програмне </g><g id='117'><g id='118'>забезпечення, </g></g><g id='119'> включене в Salix OS.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -644,7 +644,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='25'>The latest version of this document can be found </g><g id='26'><g id='27'>here</g></g><g id='28'>.</g>"
-msgstr ""
+msgstr "<g id='25'>Останнб версію цього документа можна знайти </g><g id='26'><g id='27'>тут</g></g><g id='28'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -684,7 +684,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='82'>Slapt-get</g> is a CLI tool providing an APT‑like system for Slackware package management."
-msgstr ""
+msgstr "<g id='82'>Slapt-get</g> є інструментом CLI, який забезпечує подібну на APT систему для керуванням пакунками Slackware."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
