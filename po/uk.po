@@ -14,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -639,7 +639,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='196'>By browsing </g>/mnt/live/memory/images/xxx.lzm/<g id='197'>, you can view the contents of each module, therefore you'll find which module holds a given package in </g>/mnt/live/memory/images/xxx.lzm/var/log/packages/"
-msgstr ""
+msgstr "<g id='196'>Відкриваючи </g>/mnt/live/memory/images/xxx.lzm/<g id='197'>, Ви можете переглядати вміст кожного модуля, і таким чином Ви можете знайти, який модуль містить заданий пакунок в </g>/mnt/live/memory/images/xxx.lzm/var/log/packages/"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -714,7 +714,7 @@ msgstr "Live CD є CD-ROM’ом, який містить цілком робо�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "A Live USB flash drive is similar to a Live CD, but it can have the added functionality of automatically and transparently writing changes back to its bootable medium."
-msgstr ""
+msgstr "Флешка Live USB подібна до Live CD, але вона може мати властивість запису змін. "
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -754,12 +754,12 @@ msgstr "Всі Ваші зміни будуть застосовані нега�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Alternatively, you can run \"install-on-USB\" if you're on Linux and have grub2 installed;"
-msgstr ""
+msgstr "Альтернативно Ви можете запустити \"встановити-на-USB\", якщо Ви зараз на Linux і маєте встановлений grub2;"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Alternatively, you can use any one of the Salix System Tools which you will find under the System section of the Menu."
-msgstr ""
+msgstr "Альтернативно Ви можете використати один з Інструментів Системи Salix, які можна знайти в меню в секції Система."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
