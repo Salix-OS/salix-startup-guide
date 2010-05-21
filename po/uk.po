@@ -19,7 +19,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "About this manual..."
-msgstr "Про цю путівник..."
+msgstr "Про цей путівник..."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -1119,17 +1119,17 @@ msgstr "Використання Встановлювача Lilo є також �
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Lilo Setup will install a new LILO bootloader on your computer."
-msgstr ""
+msgstr "Встановлювач Lilo встановить новий звантажувач LILO на Ваш комп’ютер"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Linux Live Scripts"
-msgstr ""
+msgstr "Скрипти LIve Linux"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Live Tools"
-msgstr ""
+msgstr "Інструменти Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1234,22 +1234,22 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Our <g id='85'>Wiki</g> and <g id='86'>Forum</g> will be two other important sources of information."
-msgstr ""
+msgstr "Наша <g id='85'>Wiki</g> і <g id='86'>Форум</g> є двома іншими інформаційними ресурсами."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Package Management"
-msgstr ""
+msgstr "Керування пакунками"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Partition Management"
-msgstr ""
+msgstr "Керування розділами"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Personalizing Modules"
-msgstr ""
+msgstr "Налаштування модулів"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1409,7 +1409,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Support is available straight from the Salix desktop:"
-msgstr ""
+msgstr "Підтримка доступна безпосередньо з робочого столу Salix:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1429,7 +1429,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Linux Live Scripts come with the following useful commands:"
-msgstr ""
+msgstr "У скрипти Linux Live входять наступні корисні команди:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1514,7 +1514,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Time, Keyboard, Locale, Partitions, Users and Software."
-msgstr ""
+msgstr "Час, клавіатура, розділи диску, користувачі і програмне забезпечення."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1524,7 +1524,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To enable debug mode:"
-msgstr ""
+msgstr "Включити режим відладки:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
