@@ -14,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -604,7 +604,7 @@ msgstr "<g id='121'>Важливо!</g><g id='122'> Після того як ф�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='123'>To remove any changes and come back to the default settings, simply delete the persistent file (slxsave.xfs) from the </g><g id='124'><g id='125'>mount point</g></g><g id='126'> it was initially created on.</g>"
-msgstr ""
+msgstr "<g id='123'>Для видалення будь-яких змін і повернення назад до типових налаштувань просто вилучіть файл запису змін (slxsave.xfs) з </g><g id='124'><g id='125'>точки монтування</g></g><g id='126'> на якій він був створений.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -649,7 +649,7 @@ msgstr "<g id='25'>Останнб версію цього документа м�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='29'>Salix Live Startup Guide is released under </g><g id='30'><g id='31'>CC-BY-SA 3.0</g></g><g id='32'> license.</g>"
-msgstr ""
+msgstr "<g id='29'>Помічник встановлення Salix Live створено згідно ліцензії </g><g id='30'><g id='31'>CC-BY-SA 3.0</g></g><g id='32'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
