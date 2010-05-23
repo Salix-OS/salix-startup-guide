@@ -14,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -884,12 +884,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Dotnew manages the system configuration upgrades used by Slackware."
-msgstr ""
+msgstr "Dotnew керує оновленням системних налаштувань, які використовуються Slackware"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Even if run from a CD/DVD, Salix Live gives you the possibility to save any of your work or modification performed while in a Live session."
-msgstr ""
+msgstr "Навіть якщо Ви завантажили Salix Live з CD/DVD, Salix Live має можливість зберегти всі Ваші зміни і всю Вашу роботу, яку Ви виконали під час Live сесії."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -949,12 +949,12 @@ msgstr "Gslapt є GUI версією <g id='83'>Slapt-get</g>."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Here you will be able to select the services that should or shouldn't be activated in the background when your system starts."
-msgstr ""
+msgstr "Тут Ви отримаєте можливість вибрати сервіси, які повинні бути включені чи відключені в тлі, коли завантажується система."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Here, only the minimum software essential for a console system to start is included."
-msgstr ""
+msgstr "Тут входить тільки мінімум необхідних програм для завантаження консольної системи."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1039,7 +1039,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It allows one to search Slackware/Salix mirrors and third party sources for packages, compare them with installed packages, install new packages, or upgrade all installed packages."
-msgstr ""
+msgstr "Це дозволяє шукати Slackware/Salix дзеркала і треті джерела пакунків, порівнювати їх з вже встановленими пакунками, встановлювати нові пакунки або оновлювати всі встановлені пакунки."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
