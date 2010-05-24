@@ -14,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -619,7 +619,7 @@ msgstr "<g id='131'>Встановлювач Salix Live дозволить Ва
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='135'>Like most Live CDs based on Slackware, Salix Live is relying on the </g><g id='136'><g id='137'>Linux Live Scripts</g></g><g id='138'> technology. Some of the shell scripts it includes will enable an advanced user to fully </g><g id='139'><g id='140'>customize and re-master</g></g><g id='141'>  <x id='142'/>Salix Live to better suit his or her own needs.</g>"
-msgstr ""
+msgstr "<g id='135'>Подібно більшості Live CD, що базуються на Slackware, Salix Live збудовано на технології</g><g id='136'><g id='137'>Скриптів Linux Live</g></g><g id='138'>. Деякі з шел-скриптів, які входять до неї, дозволяють досвідченим користувачам повністю </g><g id='139'><g id='140'>змінювати і перебудовувати</g></g><g id='141'>  <x id='142'/>Salix Live для кращої відповідності їхнім власним бажанням.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -844,7 +844,7 @@ msgstr "Вибираючи 'Змінити опції завантаження' 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Catfish is a handy file searching tool which provides a unified, lightweight and simple interface for different search engines such as find, (s)locate, doodle, tracker and beagle."
-msgstr ""
+msgstr "Catfish є інструментом пошуку, який забезпечує унікальний, легкий і простий інтерфейс для різноманітних знарядь пошуку, таких як find, (s)locate, doodle, tracker та beagle."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1094,7 +1094,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It will connect to wired (Ethernet only, no PPPoE/DSL support yet) and wireless networks."
-msgstr ""
+msgstr "Ви зможете з’єднуватися з дротовими (тільки Ethernet, PPPoE/DSL ще не підтримується) і бездротовими мережами."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1194,7 +1194,7 @@ msgstr "В наступному меню Вам запропонують змі�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "On the left side of the application, you will notice the different sections that must be configured before launching the installation process:"
-msgstr ""
+msgstr "Зліва у програмі Ви помітите різні секції, які повинні бути налаштовані перед запуском процесу встановлення:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1609,7 +1609,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Wicd is an open source wired and wireless network manager for Linux which aims to provide a simple interface to connect to networks with a wide variety of settings."
-msgstr ""
+msgstr "Wicd є менеджером дротових і бездротових мереж для Linux з відкритим кодом, метою якого є забезпечення простого інтерфейсу для зв’язку з мережами з багатьма налаштуваннями."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1629,7 +1629,7 @@ msgstr "Ви можете перевірити, чи модуль містить
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You can fully customize the content of a module by removing or adding applications and by deleting, editing or adding new files inside it."
-msgstr ""
+msgstr "Ви можете повністю змінити вміст модуля, вилучаючи або додаючи програми, або вилучаючи, редагуючи чи додаючи нові файли до нього."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
