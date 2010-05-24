@@ -14,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -859,7 +859,7 @@ msgstr "Клацання на цю секцію покаже Вам відпов
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Contextual help triggered by the position of the mouse will also be displayed above the application and will guide you every step of the way."
-msgstr ""
+msgstr "Контекстна допомога, викликана позицією миші буде також показуватися над програмою і допоможе на кожному Вашому кроці."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -994,7 +994,7 @@ msgstr "Якщо Вам сподобалася система Salix OS, то В�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "If you are still quite new to either Salix, Slackware or even Linux in general, then you should first of all take some time to study Salix Startup Guide as it is specifically aimed to be accessible to newcomers."
-msgstr ""
+msgstr "Якщо Ви новачок у Salix, Slackware або взагалі у Linux, тоді Вам стане у нагоді Допомога по роботі з Salix, оскільки вона спеціально написана для нових користувачів."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1434,12 +1434,12 @@ msgstr "У скрипти Linux Live входять наступні корис�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Office applications are composed of the full <g id='42'>OpenOffice productivity suite</g>, <g id='43'>ePDFView</g> and <g id='44'>Orage agenda</g>."
-msgstr ""
+msgstr "Офісні програми включають <g id='42'>OpenOffice</g>, <g id='43'>ePDFView</g> і <g id='44'>Orage agenda</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Smart Common Input Method platform (SCIM) is an X input method (XIM) platform containing support for more than thirty languages (Chinese, Japanese, Korean and many European languages)."
-msgstr ""
+msgstr "The Smart Common Input Method platform (SCIM) є метод вводу для X платформ (XIM), що містить підтримку для більш ніж тридцять мов (китайської, японської, корейської і багатьох європейських мов)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1464,7 +1464,7 @@ msgstr "Останні релізи Salix OS чи Salix Live доступні в
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The purpose of this manual is to enable you to take full advantage of the many functionalities of Salix Live."
-msgstr ""
+msgstr "Ціллю цієї допомоги є показати Вам всю гаму можливостей Salix Live."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1474,7 +1474,7 @@ msgstr "В результаті кінцевий CD не повинен міст
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The search option of the forum will quickly show you if the question you have in mind has already been posted by a member of the community and if it has been answered."
-msgstr ""
+msgstr "Можливість пошуку по форуму допоможе Вам швидко знайти відповідь на Ваше запитання, якщо воно вже кимось було заданим і хтось відповів на нього."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
