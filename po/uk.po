@@ -14,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -809,7 +809,7 @@ msgstr "Перед запуском Встановлювача Salix Live Вам
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Before use you should first click on the Update button to ensure that the latest updates from the software repositories are known to Gslapt."
-msgstr ""
+msgstr "Перед початком використання спочатку клацніть на кнопці Оновити і впевніться, що Gslapt використовує останні оновлення з репозитаріїв пакунків."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -894,7 +894,7 @@ msgstr "Навіть якщо Ви завантажили Salix Live з CD/DVD, 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Exaile is a music manager which incorporates automatic fetching of album art, lyrics fetching, Last.fm scrobbling, support for many portable media players, Internet radio such as Shoutcast, tabbed playlists, etc."
-msgstr ""
+msgstr "Exaile є менеджером музики, який автоматично завантажує обкладинку альбому, тексти пісень, має доступ до Last.fm, підтримує багато програвачів медіа, інтернет радіо, таке як Shoutcast, списки програвання у вкладках та інше."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -934,7 +934,7 @@ msgstr "Galculator є калькулятором з двома режимами 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Geany is a small and lightweight Integrated Development Environment which only has a few dependencies and is independent of any particular Desktop Environment."
-msgstr ""
+msgstr "Geany є малим і легким інтегрованим середовищем розробки, який має тільки кілька залежностей і не залежить від будь-якого специфічного середовища робочого столу."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -999,7 +999,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "If you do however, you might want to modify the default qwebircxxx login to something more personal and human readable."
-msgstr ""
+msgstr "Якщо тим не менше ви зробите, то Вам потрібно змінити типову назву користувача qwebircxxx на якусь більш особисту і читабельну."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1009,7 +1009,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "In order to do this, Salix OS has chosen the <g id='36'>Xfce</g> desktop, which offers a comprehensive full‑featured environment while managing to remain simple, unobstructive and highly responsive."
-msgstr ""
+msgstr "Щоб це зробити, Salix OS вибрав робочий стіл <g id='36'>Xfce</g>, який пропонує всеосяжне повнофункціональне середовище, залишаючись при цьому простим, необструктивним і дуже чутливим при управлінні."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1079,7 +1079,7 @@ msgstr "Це забезпечує простоту установки і вел�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It stores all your data in an international open standard format and can also read and write files from other common office software packages."
-msgstr ""
+msgstr "Всі Ваші дані зберігаються у міжнародному відкритому стандартному форматі і також може записувати і читати файли з інших типових офісних пакунків."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1099,7 +1099,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It will not modify any operating system or data present on its host computer and will leave no trace after shutdown."
-msgstr ""
+msgstr "Він не змінить жодної операційної системи чи даних на комп’ютері і не залишить по собі жодного сліду після виходу."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1154,7 +1154,7 @@ msgstr "Зміни будуть застосовані негайно."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Most Salix tools (except Lilo Setup) have an ncurse counterpart which can be used in a non-graphical environment (<g id='74'>runlevel 3</g>)."
-msgstr ""
+msgstr "Більшість інструментів Salix (крім Встановлювача Lilo) використовують ncurse, і можуть використовуватися в не графічному середовищі (<g id='74'>3-го рівня</g>)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1189,7 +1189,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "On the following menu, you will be given the possibility to change your keyboard map if the default one for your language does not suit you."
-msgstr ""
+msgstr "В наступному меню Вам запропонують змінити Вашу розкладку клавіатури, якщо типова для Вашої мови не задовольняє Вас."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1204,7 +1204,7 @@ msgstr "Як тільки закінчиться Ваше встановленн
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Once you are done, save the modified ISO to your hard drive and use Brasero to burn it on a CD-ROM."
-msgstr ""
+msgstr "Після закінчення збережіть змінений ISO на Ваш твердий диск і використайте Brasero для випалювання на CD-ROM."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1214,7 +1214,7 @@ msgstr "Після вибору Вашої мови просто натисні�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Only when all the sections have been completed will the 'Launch Salix Install' button be activated."
-msgstr ""
+msgstr "Тільки після закінчення всіх секцій буде активована кнопка 'Запустити встановлення Salix'."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1254,7 +1254,7 @@ msgstr "Налаштування модулів"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Pidgin is an easy to use and free chat client which lets you log in to accounts on multiple chat networks simultaneously."
-msgstr ""
+msgstr "Pidgin це легкий у використанні і вільний клієнт чату, який дозволяє Вам логуватися до Ваших рахунків до багатьох мереж чатів одночасно."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1319,7 +1319,7 @@ msgstr "Salix зазвичай встановлюється з одним з н�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix needs, at the very minimum, one swap partition (which will be automatically used by the Live Installer without any user intervention) and one Linux partition to hold its main directory tree."
-msgstr ""
+msgstr "Salix потребує, як мінімум, один розділ підкачки (який буде автоматично використаний Встановлювачем Live без участі користувача) і один розділ Linux для основного дерева тек."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1384,7 +1384,7 @@ msgstr "Програми"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Some of the Live Tools are graphical utilities that can be accessed directly on the desktop while some Live Tools, reserved for advanced users can only be executed in a Terminal, from the command line (<g id='120'>CLI</g>)."
-msgstr ""
+msgstr "Деякі Інструменти Live є графічними утилітами, до яких є безпосередній доступ, тоді як до деякі з Інструментів Live можна запустити тільки з терміналу з командної стрічки (<g id='120'>CLI</g>) і зарезервовані для досвідчених користувачів."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1459,7 +1459,7 @@ msgstr "На першому екрані Вам запропонують виб�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The latest Salix OS or Salix Live releases are freely and easily available as ISO image files from Salix OS <g id='93'>download page</g>."
-msgstr ""
+msgstr "Останні релізи Salix OS чи Salix Live доступні вільно як файли образів ISO на <g id='93'>сторінці завантажень</g> Salix OS."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1479,12 +1479,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This is ideal for advanced users who would like to install a lightweight Xfce and add their own choice of applications."
-msgstr ""
+msgstr "Це ідеально для досвідчених користувачів, які бажають встановити легке Xfce і додати свій власний набір програм."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This is ideal if you are an experienced user and want to customize your installation for any specific purpose, such as a web server, file server etc."
-msgstr ""
+msgstr "Це ідеально для досвідчених користувачів, які бажають змінити встановлення для певних специфічних цілей, таких як веб-сервер, файловий сервер та інших."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1539,37 +1539,37 @@ msgstr "Для запуску у 3-му рівні просто введіть u
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To execute this utility in runlevel 3, simply type dotnew."
-msgstr ""
+msgstr "Для запуску цієї утиліти на 3-му рівні введіть dotnew."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To execute this utility in runlevel 3, simply type keyboardsetup."
-msgstr ""
+msgstr "Для запуску цієї утиліти на 3-му рівні введіть keyboardsetup."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To execute this utility in runlevel 3, simply type servicesetup."
-msgstr ""
+msgstr "Для запуску цієї утиліти на 3-му рівні введіть servicesetup."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To load Salix Live from a different location than the boot device:"
-msgstr ""
+msgstr "Для завантаження Salix Live з іншого місця, ніж пристрій завантаження:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To load in console only without executing Xorg (runlevel 3)"
-msgstr ""
+msgstr "Для завантаження тільки в консолі без запуску Xorg (3-й рівень)"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To load optional modules from /optional/ directory on the CD:"
-msgstr ""
+msgstr "Для завантаження модулів з /опціональної/ теки на CD:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To remaster Salix Live, you could simply use the program Isomaster."
-msgstr ""
+msgstr "Для пепебудови Salix Live Ви можете просто використати isomaster."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1584,7 +1584,7 @@ msgstr "Для встановлення паролю root'а до \"somepass\", 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Totem is a media player (audio and video) which utilizes the GStreamer framework for playback."
-msgstr ""
+msgstr "Totem є медіа програвачем (аудіо і відео), який використовує GStreamer для програвання."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1614,7 +1614,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "XSane is a GUI scanning utility which uses the SANE library to communicate with scanners."
-msgstr ""
+msgstr "XSane є графічною утилітою, яка використовує бібліотеку SANE для зв’язку з сканерами."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1854,7 +1854,7 @@ msgstr "rm /mnt/hdxx/custom_live/base/unwanted_module"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "this will prevent the first \"reboot on first boot\" operation."
-msgstr ""
+msgstr "це дозволить запобігти першій операції \"перезавантажити при першому завантаженні\"."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "title"
