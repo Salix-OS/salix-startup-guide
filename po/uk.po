@@ -14,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -1089,7 +1089,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It warns you with pop‑up or audible alarms."
-msgstr ""
+msgstr "Вона попередить Вас через вигулькні повідомлення і звуковий сигнал."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1184,7 +1184,7 @@ msgstr "Зауважте, що Вам потрібно створити ще р�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "On the first boot from a USB key, an advanced bootloader will be installed (grub2) and the system will reboot once, this process is normal and only happens once."
-msgstr ""
+msgstr "Під час першого завантаження з USB флешки встановиться розширений менеджер завантаження (grub2) і система один раз перезавантажиться. Це є нормально і стається тільки раз."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1359,7 +1359,7 @@ msgstr "Salix OS є <g id='33'>Дистрибутивом Linux</g> що баз
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix OS package management uses the proven <g id='39'>slapt‑get/gslapt</g> combination includes dependency from both the original Slackware repositories and the complementary and ever-increasing Salix OS <g id='40'>repository</g>."
-msgstr ""
+msgstr "Керування пакетів Salix OS використовує випробувану комбінацію <g id='39'>slapt‑get/gslapt</g>, включаючи залежності від оринігальних репозитаріїв Slackware і від додаткових зростаючих <g id='40'>репозитаріїв</g> Salix OS."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1639,7 +1639,7 @@ msgstr "Ви можете використовувати Asunder для збер
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You could also use the <g id='87'>IRC link</g> above to be in live communication with some member of the community and get instant help if necessary."
-msgstr ""
+msgstr "Ви можете використати <g id='87'>посилання IRC</g> вище для інтерактивного зв’язку з деякими членами товариства для отримання негайної допомоги у випадку необхідності."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
