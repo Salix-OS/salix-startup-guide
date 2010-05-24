@@ -14,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -864,7 +864,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Contextual help triggered by the position of the mouse will be displayed above the application and will guide you every step of the way."
-msgstr ""
+msgstr "Контекстна довідка, викликана положенням миші, буде знаходитися над програмою і буде допомагати Вам на кожному кроці."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -959,7 +959,7 @@ msgstr "Тут входить тільки мінімум необхідних �
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "However due to its Live nature it also includes some extra utilities which are either needed or simply very useful in a Live session."
-msgstr ""
+msgstr "Однак у зв'язку з його Live природою він також включає в себе деякі додаткові утиліти, які або необхідні або просто є дуже корисними у Live сесії."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -974,7 +974,7 @@ msgstr "ISO Master є програмою для створення і зміни
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "If necessary, you can verify the integrity of your downloaded file by comparing its <g id='94'>md5sum</g> file with the original one uploaded besides the corresponding ISO image file by Salix OS."
-msgstr ""
+msgstr "В разі необхідності Ви можете перевірити цілісність завантаженого файлу , порівнюючи його файл <g id='94'>md5sum</g> з оригінальним файлом ISO, завантаженим на сторінку завантажень Salix OS."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1019,7 +1019,7 @@ msgstr "В цьому випадку нема необхідності ство�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "In the same manner that you boot from the optical drive, you must ensure that the BIOS is set to boot from a USB device before other devices."
-msgstr ""
+msgstr "Таким самим чином, як  Ви завантажились з оптичного приводу, Ви повинні пересвідчитись, що у BIOS встановлено завантаження з USB на першому місці."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1034,7 +1034,7 @@ msgstr "Вступ"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It <x id='75'/>will display a possible course of action for each new configuration file found in the system."
-msgstr ""
+msgstr "Це <x id = '75'/> покаже можливі дії для кожного нового файлу налаштувань, знайденого у системі."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1044,7 +1044,7 @@ msgstr "Це дозволяє шукати Slackware/Salix дзеркала і �
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It can be easily rendered or burned to a DVD or CD by using media authoring or disc burning software."
-msgstr ""
+msgstr "Він може бути легко записаний на DVD або CD, використовуючи програми обробки медіа або програми запису (випалювання) дисків."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1054,7 +1054,7 @@ msgstr "Salix Live доступний на багатьох мовах і пра
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It is designed to be as simple as possible and has some unique features to enable users to create their discs easily and quickly."
-msgstr ""
+msgstr "Програма створена бути як можна більш простою і має ряд унікальних особливостей, що дозволяють користувачам створювати свої диски легко і швидко."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1084,7 +1084,7 @@ msgstr "Всі Ваші дані зберігаються у міжнародн�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It stores mail in the MH mailbox format as well as the Mbox mailbox format via a plugin."
-msgstr ""
+msgstr "Програма зберігає диски в форматі скриньки MH, а також у форматі Mbox, використовуючи додаток. "
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1109,7 +1109,7 @@ msgstr "Встановлення Lilo"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Lilo Setup can also be useful in the process of a disaster recovery in which case you may have to launch it from a Live CD if you have lost all other means to boot into your system."
-msgstr ""
+msgstr "Встановлювач Lilo може бути корисним в процесі відновлення після збоїв , в цьому випадку Вам доведеться запускати його з Live CD, якщо Ви втратили всі інші засоби для завантаження в систему."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1219,7 +1219,7 @@ msgstr "Тільки після закінчення всіх секцій бу�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "OpenOffice.org 3 is the leading open-source office software suite <x id='65'/>for word processing, spreadsheets, presentations, graphics, databases and more."
-msgstr ""
+msgstr "OpenOffice.org 3 є провідною офісною програмою <x id='65'/> для обробки текстів, калькуляційних аркушів, презентацій, графіки, баз даних і навіть більше."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1274,7 +1274,7 @@ msgstr "Натискання 'c' дасть Вам доступ до Grub shell.
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Pressing 'e' while 'Start Salix Live' is selected opens up the following display, enabling you to modify some of the booting options for example in order to enter a boot parameter."
-msgstr ""
+msgstr "Натискання 'e', коли вибраний 'Запустити Salix Live', відкриває екран, який дозволить Вам змінити деякі опції завантаження, наприклад ввести специфічні параметри завантаження."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1424,7 +1424,7 @@ msgstr "Керування системою"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Basic Mode is built on the Core Mode with the addition of Xfce desktop environment, Firefox web browser and <g id='41'>Gslapt package manager</g>."
-msgstr ""
+msgstr "Базовий режим базований на Основному режимі з додатковим середовищем робочого столу Xfce, веб-переглядачем Firefox і <g id='41'>менеджером пакунків Gslapt</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
