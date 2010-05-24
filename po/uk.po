@@ -14,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -664,7 +664,7 @@ msgstr "<g id='66'>Transmission є </g><g id='67'><g id='68'>BitTorrent</g></g><
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='70'>All system management in Salix OS can be done the usual (</g><g id='71'><g id='72'>manual</g></g><g id='73'>) Slackware way.</g>"
-msgstr ""
+msgstr "<g id='70'>Всі системні налаштування у Salix OS можна зробити звичайно (</g><g id='71'><g id='72'>вручну</g></g><g id='73'>) так як це робиться у Slackware.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -774,17 +774,17 @@ msgstr "Крім цього, все решта інтуїтивно зрозум
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "As it is an application for everyday use, it launches itself in the background and can be accessed using the Orage Clock plugin for the panel."
-msgstr ""
+msgstr "Оскільки це є програма для щоденного використання, то вона запускається у тлі, і до неї можна отримати доступ, використовуючи плагін Orage Clock з панелі."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "As previously stated Salix relies on the excellent slapt-get/Gslapt combination for its software package management."
-msgstr ""
+msgstr "Так як вже було сказано, Salix опирається на комбінацію slapt-get/Gslapt для керування пакунками програм."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "As we have seen, this can be done simply with the help of <g id='153'>Gparted</g>, which is included in Salix Live and is available directly on the desktop."
-msgstr ""
+msgstr "Як ми вже бачили, це може бути зроблено за допомогою програми <g id='153'>Gparted</g>, яку включено в Salix Live і яка доступна безпосередньо з робочого столу."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -799,12 +799,12 @@ msgstr "Asunder є видирачем аудіо CD і декодером для
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Basic mode is intended for simple computations while Scientific Mode is Galculator's state‑of‑the‑art."
-msgstr ""
+msgstr "Базовий режим призначений для простих рахунків, тоді як Науковий режим для набагато складніших операцій."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Before executing Salix Live Installer, you should already have the necessary partitions available on your system."
-msgstr ""
+msgstr "Перед запуском Встановлювача Salix Live Вам потрібно мати у Вашій системі необхідні розділи диску."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -814,7 +814,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Before you can use any of the multimedia applications, you might have to first install some missing codecs from the multimedia menu."
-msgstr ""
+msgstr "Перед використанням мультимедійних програм бажано спочатку встановити деякі пропущені кодеки з мультимедійного меню."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -854,7 +854,7 @@ msgstr "Claws Mail є клієнтом електронної пошти і но
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Clicking on one of these sections will display the corresponding options that need to be set."
-msgstr ""
+msgstr "Клацання на цю секцію покаже Вам відповідні параметри, які потрібно налаштувати."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -879,7 +879,7 @@ msgstr "Налаштування Salix Live"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Designed for productivity, it loads and executes applications fast, while conserving system resources"
-msgstr ""
+msgstr "Оскільки його розроблено для продуктивності, він викликає швидко програми, зберігаючи системні ресурси"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -909,12 +909,12 @@ msgstr "File Roller є менеджером архівів."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Finally, Accessories applications include a variety of small, useful utilities among which are <g id='60'>Galculator</g>, <g id='61'>Mousepad</g>, <g id='62'>Catfish</g>, <g id='63'>File Roller</g>, <g id='64'>SCIM</g>, etc."
-msgstr ""
+msgstr "Нарешті, у програми з Аксесуари входять малі корисні утиліти, серед яких є <g id='60'>Galculator</g>, <g id='61'>Mousepad</g>, <g id='62'>Catfish</g>, <g id='63'>File Roller</g>, <g id='64'>SCIM</g>, та інші."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Finally, Salix OS strives to provide a localized system which is usable around the globe and can easily be used by non‑English speakers."
-msgstr ""
+msgstr "Нарешті, Salix OS прагне забезпечити локалізовану систему, яку можна використовувати у всьому світі і яка легко може бути використана не тільки англомовними користувачами."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -989,7 +989,7 @@ msgstr "Якщо так, то все що Вам потрібно, це вста
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "If you are fully satisfied with your Live experience of Salix OS, you can then proceed to install it with the help of Salix Live Installer."
-msgstr ""
+msgstr "Якщо Вам сподобалася система Salix OS, то Ви можете перейти до встановлення її за допомогою Встановлювача Salix Live."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1059,22 +1059,22 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It is highly configurable and supports alerts based on dates."
-msgstr ""
+msgstr "Ця програма має багато налаштувань і підтримує нагадування, що базуються на датах."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It is necessary to (re)configure the bootloader each time you install a new operating system on your computer."
-msgstr ""
+msgstr "Необхідно налаштовувати менеджер завантаження кожного разу після встановлення нової операційної системи на Ваш комп’ютер."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It loads into memory using only data provided on the CD."
-msgstr ""
+msgstr "Він завантажується в пам’ять, використовуючи тільки дані на CD."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It offers easy configuration and an abundance of features."
-msgstr ""
+msgstr "Це забезпечує простоту установки і велику кількість функцій."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1209,7 +1209,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Once you have selected your language, simply press on the Enter key to activate your choice."
-msgstr ""
+msgstr "Після вибору Вашої мови просто натисніть клавішу Enter для активації Вашого вибору."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1259,7 +1259,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Pidgin is compatible with numerous chat networks out of the box:"
-msgstr ""
+msgstr "Pidgin відразу сумісний з багатьма мережними чатами:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1369,12 +1369,12 @@ msgstr "Просто натисніть на дату для показу або
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "So do take the time to familiarize yourself fully with Salix Live Installer."
-msgstr ""
+msgstr "Тому присвятіть трохи часу для ознайомлення з Встановлювачем Salix Live."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "So, for example, if you wish to just use your own xorg.conf file, create etc/X11/ directories inside of /salixlive/rootcopy and store your xorg.conf in it."
-msgstr ""
+msgstr "Тому, для прикладу, якщо Ви бажаєте використовувати Ваш власний файл xorg.conf, створіть теку etc/X11/ у /salixlive/rootcopy і збережіть Ваш xorg.conf у ній."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1394,7 +1394,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Sometimes all you want to do is add a couple files to Salix Live, for example specific configuration files."
-msgstr ""
+msgstr "Може виникнути ситуація, коли все що Ви бажаєте, це додати кілька файлів до Salix Live, наприклад специфічні файли налаштувань."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1449,7 +1449,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The desktop link, Salix Online, will bring you to the Salix <g id='84'>Homepage</g>."
-msgstr ""
+msgstr "Це посилання на робочому столі перенаправить Вас до <g id='84'>Домашньої сторінки</g> Salix."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
