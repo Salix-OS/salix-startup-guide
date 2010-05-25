@@ -964,7 +964,7 @@ msgstr "Однак у зв'язку з його Live природою він т�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "However, while in the <g id='35'>KISS</g> principle that Slackware adheres to, \"Simple\" refers to the viewpoint of system design, Salix OS also applies it to the viewpoint of the end user."
-msgstr ""
+msgstr "Salix OS так само як і Slackware, дотримується принципу \"Простота\" <g id='35'>KISS</g> і застосовує його з точки зору кінцевого користувача."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
