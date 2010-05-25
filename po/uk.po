@@ -14,7 +14,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -704,7 +704,7 @@ msgstr "<g id='95'>Ви також можете помістити образ Sa
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='99'>If that is not the case, which is very rare, you will need to first enter the </g><g id='100'><g id='101'>BIOS</g></g><g id='102'> setup, usually by pressing the Del‑key or the F2‑key (or some other key combinations depending on your machine…). Once in the BIOS, find the \"boot menu\" and set the order of the boot devices properly, with your optical drive in first position. Save your changes and reboot your computer.</g>"
-msgstr ""
+msgstr "<g id='99'>Якщо ж це не той випадок, що є дуже рідкісним, то Вам потрібно ввійти в налаштування </g><g id='100'><g id='101'>BIOS</g></g><g id='102'> , зазвичай натискаючи клавішу Delete або клавішу F2 (або іншу комбінацію клавіш, в залежностівід типу Вашої машини…). У BIOS знайдіть \"boot menu\" і встановіть потрібний порядок завантаження, з оптичним диском на першій позиції. Збережіть Ваші зміни і перезавантажте комп’ютер.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1489,7 +1489,7 @@ msgstr "Це ідеально для досвідчених користувач
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This last mode is build on the Basic Mode and offers a full range of useful software applications one could need on a daily basis while following the \"one application per task\" rationale."
-msgstr ""
+msgstr "Наступним режимом є Базовий режим, який забезпечує повну гаму корисних програм, потрібних щодня, дотримуючись принципу \"одна програма за завдання\""
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1529,7 +1529,7 @@ msgstr "Включити режим відладки:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To enter a cheatcode, you simply have to add it to the 'linux' line above (after changes=slxsave.xfs), ensuring a blank space separates it from the previous boot parameter."
-msgstr ""
+msgstr "Для вводу cheatcode'у Вам потрібно просто додати його до стрічки 'linux' вище (після змін=slxsave.xfs), пересвідчившись, що є пропуск після попереднього параметру завантаження."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
