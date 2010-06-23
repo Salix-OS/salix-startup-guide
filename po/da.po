@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: salix-live-startup-guide\n"
@@ -13,8 +13,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: Danish\n"
 "X-Poedit-Country: DENMARK\n"
+"X-Poedit-Language: Danish\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
 #: SalixStartupGuide-en.odt:2
@@ -45,7 +45,7 @@ msgstr "Asunder"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Basic Mode"
-msgstr ""
+msgstr "Basal opsætning"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -85,22 +85,23 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Creating a module"
-msgstr ""
+msgstr "At lave et modul"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Customizing Salix Live"
-msgstr ""
+msgstr "Tilpasning af Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Customizing a module"
-msgstr ""
+msgstr "Tilpasning af et modul"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Dotnew"
-msgstr ""
+msgstr "Dotnew"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -115,7 +116,7 @@ msgstr "File Roller"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Full Mode"
-msgstr ""
+msgstr "Fuld opsætning"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -200,17 +201,17 @@ msgstr "Live USB-disk"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Main Index"
-msgstr ""
+msgstr "Hovedindeks"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Management"
-msgstr ""
+msgstr "Administration"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Modify Salix Live ISO"
-msgstr ""
+msgstr "Tilpasning af Salix Live-ISO'en"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -230,22 +231,22 @@ msgstr "Orage"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Other System Utilities"
-msgstr ""
+msgstr "Andre systemværktøjer"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Package Management"
-msgstr ""
+msgstr "Pakkestyring"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Partition Management"
-msgstr ""
+msgstr "Partitionsadministration"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Personalizing Modules"
-msgstr ""
+msgstr "Personliggørelse af moduler"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -253,9 +254,10 @@ msgid "Pidgin"
 msgstr "Pidgin"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Presentation"
-msgstr ""
+msgstr "Præsentation"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -270,22 +272,22 @@ msgstr "SCIM"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Codec Installer"
-msgstr ""
+msgstr "Salix Codec-Installation"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live Installer"
-msgstr ""
+msgstr "Salix Live-installation"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live Scripts"
-msgstr ""
+msgstr "Salix Live-Scripts"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Tools"
-msgstr ""
+msgstr "Salix-værktøjer"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -305,17 +307,17 @@ msgstr "Slapt-get"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Softwares"
-msgstr ""
+msgstr "Software"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Startup Services"
-msgstr ""
+msgstr "Opstartstjenester"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Support"
-msgstr ""
+msgstr "Support"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -325,17 +327,18 @@ msgstr "System"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "System Clock"
-msgstr ""
+msgstr "Systemur"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "System Language"
-msgstr ""
+msgstr "Systemsprog"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "The Persistence Wizard"
-msgstr ""
+msgstr "The Persistence Wizard"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -350,17 +353,17 @@ msgstr "Transmission"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Useful boot parameters"
-msgstr ""
+msgstr "Praktiske opstartsparametre"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Users Profile"
-msgstr ""
+msgstr "Brugerprofil"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "What are the Live Tools?"
-msgstr ""
+msgstr "Hvad er live-værktøjerne?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -370,12 +373,12 @@ msgstr "Hvad er en live-CD?"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "What is an ISO image?"
-msgstr ""
+msgstr "Hvad er et ISO-billede"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Which module contains application XXX?"
-msgstr ""
+msgstr "Hvilket modul indeholder program XXX?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -410,37 +413,37 @@ msgstr "procedure"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(Starts bash several times during boot."
-msgstr ""
+msgstr "(Starter bash flere gange under opstart."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(TIP:"
-msgstr ""
+msgstr "(TIP:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(This cheatcode is already included in Salix Live boot menu and the Persistence Wizard can assist you in creating a persistent file that will be automatically managed by Salix Live.)"
-msgstr ""
+msgstr "(Denne kode er allerede inkluderet i Salix Lives opstartsmenu, og man kan bruge \"Persistence Wizard\" til at lave en permanent fil, der automatisk kan bruges af Salix Live.)"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(You can use full module name (module.lzm) or you can skip the extension.)"
-msgstr ""
+msgstr "(Man kan anvende det fulde modulnavn (modul.lzm), eller filendelsen kan udelades)"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Add or remove files and directories to/from a CD image."
-msgstr ""
+msgstr "* Tilføj eller fjern filer og mapper til/fra et CD-billede."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Create an ISO image from scratch."
-msgstr ""
+msgstr "* Opret et ISO-billede fra grunden"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Create bootable CDs using various boot record types."
-msgstr ""
+msgstr "* Opret startbare CD'er ved hjælp af forskellige boot record-typer."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -480,27 +483,27 @@ msgstr "/usr/bin/txz2lzm"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a work directory:"
-msgstr ""
+msgstr "1- Opret en arbejdsmappe:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a working directory"
-msgstr ""
+msgstr "1- Opret en arbejdsmappe:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a working directory:"
-msgstr ""
+msgstr "1- Opret en arbejdsmappe:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Open the .iso file using a software archiver (file-roller, xarchiver, 7-zip, iso-master, …)."
-msgstr ""
+msgstr "1- Tilgå .iso-filen med et pakkeprogram (File-roller, Xarchiver, 7-zip, iso-master, ...)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Copy Salix Live's CD content to your working directory:"
-msgstr ""
+msgstr "2- Kopiér CD-indholdet fra Salix Live til din arbejdsmappe:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1861,4 +1864,3 @@ msgstr ""
 msgctxt "title"
 msgid "Salix Live Startup Guide"
 msgstr ""
-
