@@ -2,13 +2,13 @@
 # Copyright (C) 2010
 # This file is distributed under the same license as the salix-live-startup-guide package.
 # Imar van Erven Dorens <gambit73@gmail.com>, 2010.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"POT-Creation-Date: 2010-04-04 19:04+CET\n"
-"PO-Revision-Date: 2010-05-05 13:29+0100\n"
-"Last-Translator: Imar van Erven Dorens <gambit73@gmail.com>\n"
+"POT-Creation-Date: 2010-07-16 00:07+CET\n"
+"PO-Revision-Date: 2010-07-16 02:33+0100\n"
+"Last-Translator: Cyrille Pontvieux <jrd@enialis.net>\n"
 "Language-Team: Dutch <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -253,11 +253,6 @@ msgstr "Pidgin"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
-msgid "Presentation"
-msgstr "Presentation"
-
-#: SalixStartupGuide-en.odt:2
-msgctxt "heading"
 msgid "Ristretto"
 msgstr "Ristretto"
 
@@ -303,7 +298,7 @@ msgstr "Slapt-get"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
-msgid "Softwares"
+msgid "Software"
 msgstr "Software"
 
 #: SalixStartupGuide-en.odt:2
@@ -689,7 +684,7 @@ msgstr "<g id='82'>Slapt-get</g> is een CLI tool voor een APT-achtig systeem voo
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='88'>Salix Live is the Live CD version of </g><g id='89'>Salix OS</g><g id='90'>. You can therefore safely use it to 'test drive' Salix OS without having to install anything on your computer. You will thus be able to determine wheter and to what extent S</g><g id='91'>alix OS is compatible with your particular hardware configuration and if it suits your personal tastes.</g>"
-msgstr "<g id='88'>Salix Live is de Live CD versie van </g><g id='89'>Salix OS</g><g id='90'>. U kunt dus veilig een 'proefrit' maken met Salix OS zonder iets te hoeven installeren op uw computer. U zult in staat zijn om te bepalen in hoeverre S </g><g id='91'>Alix OS compatibel is met uw specifieke hardware configuratie en of het past bij uw persoonlijke voorkeur.</g>"
+msgstr "<g id='88'>Salix Live is de Live CD versie van </g><g id='89'>Salix OS</g><g id='90'>. U kunt dus veilig een 'proefrit' maken met Salix OS zonder iets te hoeven installeren op uw computer. U zult in staat zijn om te bepalen in hoeverre S</g><g id='91'>alix OS compatibel is met uw specifieke hardware configuratie en of het past bij uw persoonlijke voorkeur.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -844,9 +839,7 @@ msgstr "Door te kiezen voor 'Change boot options' in het Salix Live Boot menu, z
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Catfish is a handy file searching tool which provides a unified, lightweight and simple interface for different search engines such as find, (s)locate, doodle, tracker and beagle."
-msgstr ""
-"Catfish is een handige tool om bestanden te zoeken en voorziet in een uniforme, lichte en eenvoudige interface voor verschillende zoekmachines, zoals find, (s)locate, doodle, tracker en beagle.\r\n"
-"\t"
+msgstr "Catfish is een handige tool om bestanden te zoeken en voorziet in een uniforme, lichte en eenvoudige interface voor verschillende zoekmachines, zoals find, (s)locate, doodle, tracker en beagle."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1380,7 +1373,7 @@ msgstr "Dus, bijvoorbeeld, als u gebruik wilt maken van uw eigen xorg.conf besta
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
-msgid "Softwares"
+msgid "Software"
 msgstr "Software"
 
 #: SalixStartupGuide-en.odt:2
@@ -1862,3 +1855,13 @@ msgstr "dit zal de \"herstart bij eerste boot\" actie voorkomen."
 msgctxt "title"
 msgid "Salix Live Startup Guide"
 msgstr "Salix Live Opstart Handleiding"
+
+#, fuzzy
+#~ msgctxt "heading"
+
+#~ msgid "Introduc"
+#~ msgstr "Invoering"
+#~ msgctxt "heading"
+
+#~ msgid "Presentation"
+#~ msgstr "Presentation"
