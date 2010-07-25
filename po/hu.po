@@ -2,19 +2,19 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: salix-live-startup\n"
 "POT-Creation-Date: 2010-04-04 19:04+CET\n"
-"PO-Revision-Date: 2010-07-24 18:25+0100\n"
+"PO-Revision-Date: 2010-07-25 18:34+0100\n"
 "Last-Translator: Peter Polonkai <polesz@nedudu.hu>\n"
 "Language-Team: Nedudu Team <nedudu@nedudu.hu>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: HUNGARY\n"
 "X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -164,12 +164,12 @@ msgstr "Salix OS telepítése"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Introduction"
-msgstr ""
+msgstr "Bemutatkozás"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Iso Master"
-msgstr "Iso Master"
+msgstr "ISO Master"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -204,7 +204,7 @@ msgstr "Fő index"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Management"
-msgstr ""
+msgstr "Kezelés"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -349,7 +349,7 @@ msgstr "Transmission"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Useful boot parameters"
-msgstr ""
+msgstr "Használható indítási paraméterek"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -404,7 +404,7 @@ msgstr "gFTP"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "procedure"
-msgstr ""
+msgstr "eljárás"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -429,17 +429,17 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Add or remove files and directories to/from a CD image."
-msgstr ""
+msgstr "* Fájlok és könyvtárak hozzáadása és eltávolítása "
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Create an ISO image from scratch."
-msgstr ""
+msgstr "* ISO képfájl létrehozása teljesen az elejétől."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Create bootable CDs using various boot record types."
-msgstr ""
+msgstr "* Indítható CD készítése különböző indító rekord típus használatával."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -504,17 +504,17 @@ msgstr "2- A Salix Live CD tartalmának másoása a munkakönyvtárba:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Extract all files and folders (boot, packages and salixlive) to your USB root directory."
-msgstr "2- Az összes fájl és könyvtár (boot, packages és salixlive) kibontása az USB eszköz főkönyvtárába."
+msgstr "2- Minden fájl és könyvtár (boot, packages és salixlive) kibontása az USB eszköz főkönyvtárába."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Install all software packages using this directory as root:"
-msgstr ""
+msgstr "2- Minden szoftvercsomag telepítése ebből mint főkönyvtárból:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Open up the module you want to customize under the working directory:"
-msgstr ""
+msgstr "2- Testreszabni kívánt modul megnyitása a munkakönyvtárban:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -524,7 +524,7 @@ msgstr "3"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Add or remove modules or files as needed:"
-msgstr "3- Modulok vagy fájlok hozzáadása vagy törlése ha szükséges:"
+msgstr "3- Modulok és fájlok hozzáadás vagy eltávolítása ami szükséges:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -534,12 +534,12 @@ msgstr "3- Belépés az USB eszköz \"boot\" könyvtárába."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Remove all unneeded files:"
-msgstr "3- Az összes nem szükséges fájl eltávolítása:"
+msgstr "3- Az összes szükségtelen fájl eltávolítása:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Remove the packages from the working directory:"
-msgstr "3- Csomagok eltávolítása a munkakönyvtárból:"
+msgstr "3- A csomagok törlése a munkakönytárból:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -549,22 +549,22 @@ msgstr "4- Új csomagok telepítése a munkakönyvtárból:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Make any modifications you want:"
-msgstr "4- A módosítások elvégzése:"
+msgstr "4- A kívánt módosítások elvégzése:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Rebuild the CD image:"
-msgstr "4- CD képfájl újrakészítése:"
+msgstr "4- CD képfájl újjáépítése:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Run \"bootinst.sh\" if you are on Linux or Unix, \"bootinst.bat\" if you're on Windows."
-msgstr "4- \"bootinst.sh\" futtatása Linux vagy Unix alatt, \"bootinst.bat\" Windows alatt."
+msgstr "4- \"bootinst.sh\" futtatása Linux és Unix alatt, \"bootinst.bat\" Windows alatt."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "5- Build the module:"
-msgstr "5- Modul fordítása:"
+msgstr "5- Modul lefordítása:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -574,7 +574,7 @@ msgstr "5- Modul újrafordítása:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "6- Replace the original module with your new module, rebuild the ISO image and reburn the CD."
-msgstr "6- Eredeti modul kicserélése az új modullal, a CD képfájl újjáépítése és kiírása CD-re."
+msgstr "6- Az eredeti modul lecserélése az új modulra, a CD képfájl újjáépítése és a CD kiírása."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -729,22 +729,22 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "A new bootable ISO image will be created with all your modifications."
-msgstr ""
+msgstr "Az új indítható CD képfájl ekészítése az összes módosítás felhasználásával."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "AIM, ICQ, Google Talk, Jabber/XMPP, MSN Messenger, Yahoo, etc."
-msgstr ""
+msgstr "AIM, ICQ, Google Talk, Jabber/XMPP, MSN Messenger, Yahoo, stb."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Adding/Removing modules on the fly:"
-msgstr "Modulok hozzáadása/eltávolítása menet közben:"
+msgstr "Modulok hozzáadása/eltávolítása menetközben:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Advanced Boot Options"
-msgstr ""
+msgstr "Kibővített indítási opciók"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -794,7 +794,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Asunder is an Audio CD ripper and encoder for Linux."
-msgstr ""
+msgstr "Asunder egy Audio CD ripper és kódoló program Linux alatt."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -824,7 +824,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Boot procedure"
-msgstr ""
+msgstr "indítási eljárás"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -834,7 +834,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Brasero is an application to burn CD/DVD."
-msgstr ""
+msgstr "Brasero a CD/DVD író alkalmazás."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -849,7 +849,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Claws Mail is an open source email and news client."
-msgstr ""
+msgstr "Claws Mail egy nyílt forrású e-mail és hírolvasó kliens."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -869,12 +869,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Copyright © SalixOS.org 2010"
-msgstr ""
+msgstr "Copyright © SalixOS.org 2010"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Customizing Salix Live"
-msgstr ""
+msgstr "Salix Live testreszabása"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -884,7 +884,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Dotnew manages the system configuration upgrades used by Slackware."
-msgstr ""
+msgstr "Dotnew kezeli a Slackware rendszer konfigurációs fájljainak a változásait."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -899,12 +899,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Explode a module to a directory"
-msgstr ""
+msgstr "Modulok kibontása ebbe a könyvtárba"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "File Roller is an archive manager."
-msgstr ""
+msgstr "File Roller az archívum kezelő."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -919,17 +919,17 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Functionalities:"
-msgstr ""
+msgstr "Funkciók:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "GIMP (GNU Image Manipulation Program) is an image retouching and editing tool."
-msgstr ""
+msgstr "GIMP (GNU Image Manipulation Program) a kép retusáló és szerkesztő eszköz."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Galculator is a calculator featuring two user modes:"
-msgstr ""
+msgstr "Galculator egy számológép két használható móddal:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -939,12 +939,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Graphical applications include the <g id='56'>Gimp</g>, <g id='57'>Ristretto</g> and <g id='58'>XSane</g>"
-msgstr ""
+msgstr "Grafikus alkalmazások: <g id='56'>Gimp</g>, <g id='57'>Ristretto</g> és <g id='58'>XSane</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Gslapt is the GUI version of <g id='83'>Slapt-get</g>."
-msgstr ""
+msgstr "Gslapt a a <g id='83'>Slapt-get</g> grafikus frontendje."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -969,7 +969,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "ISO Master is an application for creating and modifying ISO9660 files (ISO images)."
-msgstr ""
+msgstr "ISO Master alkalmazás segítségével létrehozhatunk és módosíthatunk ISO9660 fájlokat (ISO képfájlokat)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1024,12 +1024,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Installing Salix OS"
-msgstr ""
+msgstr "Salix OS telepítése"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Introduction"
-msgstr ""
+msgstr "Bemutatkozás"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1104,7 +1104,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Lilo Setup"
-msgstr ""
+msgstr "Lilo beállítás"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1124,32 +1124,32 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Linux Live Scripts"
-msgstr ""
+msgstr "Linux Live szkriptek"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Live Tools"
-msgstr ""
+msgstr "Live eszközök"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Live USB Key"
-msgstr ""
+msgstr "Live USB flash eszköz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Make a module out of a directory:"
-msgstr ""
+msgstr "Modul készítése a könyvtárból:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Make a module out of a package:"
-msgstr ""
+msgstr "Modul készítése a csomagból:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Modifications are applied instantly."
-msgstr ""
+msgstr "Módosítások azonnali alkalmazása."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1164,7 +1164,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Mousepad is a simple text editor with printing support."
-msgstr ""
+msgstr "A Mousepad egy egyszerű szövegszerkesztő nyomtatás támogatással."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1174,7 +1174,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Multimedia applications include <g id='49'>Asunder</g>, <g id='50'>Brasero</g>, <g id='51'>Exaile</g>, <g id='52'>Iso Master</g>, <x id='53'/><g id='54'>Totem</g> and <g id='55'>Salix Codec Installer</g>."
-msgstr ""
+msgstr "Multimédia alkalmazások: <g id='49'>Asunder</g>, <g id='50'>Brasero</g>, <g id='51'>Exaile</g>, <g id='52'>Iso Master</g>, <x id='53'/><g id='54'>Totem</g> és <g id='55'>Salix Kodek Telepítő</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1224,7 +1224,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Or alternatively in CLI:"
-msgstr ""
+msgstr "Vagy alternatíva CLI módban:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1239,17 +1239,17 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Package Management"
-msgstr ""
+msgstr "Csomag kezelő"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Partition Management"
-msgstr ""
+msgstr "Partíció kezelő"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Personalizing Modules"
-msgstr ""
+msgstr "Modulok testreszabása"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1299,17 +1299,17 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Ristretto is a fast and lightweight picture viewer."
-msgstr ""
+msgstr "Ristretto a gyors és könnyed képnéző."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live 13.0"
-msgstr ""
+msgstr "Salix Live 13.0"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live Installer"
-msgstr ""
+msgstr "Salix Live Telepítő"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1324,7 +1324,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live"
-msgstr ""
+msgstr "Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1334,17 +1334,17 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live Installer is very easy to use."
-msgstr ""
+msgstr "A Salix Live Telepítő használata nagyon könnyű."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live root password is:"
-msgstr ""
+msgstr "Salix Live root jelszava:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix OS"
-msgstr ""
+msgstr "Salix OS"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1379,7 +1379,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Softwares"
-msgstr ""
+msgstr "Szoftverek"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1399,12 +1399,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Startup Guide"
-msgstr ""
+msgstr "Indítási útmutató"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Support"
-msgstr ""
+msgstr "Támogatás"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1419,7 +1419,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "System Management"
-msgstr ""
+msgstr "Rendszer kezelés"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1524,7 +1524,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To enable debug mode:"
-msgstr ""
+msgstr "Hiba keresési mód engedélyezése:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1589,7 +1589,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Type help to view all available commands."
-msgstr ""
+msgstr "Az összes parancs megjelenítéséhez írja be a help parancsot."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1664,77 +1664,77 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "basic and scientific mode."
-msgstr ""
+msgstr "alap és tudományos mód."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "cd /mnt/hdxx/"
-msgstr ""
+msgstr "cd /mnt/hdxx/"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "cd /mnt/hdxx/custom_live"
-msgstr ""
+msgstr "cd /mnt/hdxx/custom_live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/dev/device"
-msgstr ""
+msgstr "changes=/dev/eszköz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/dev/device/file"
-msgstr ""
+msgstr "changes=/dev/eszköz/fájl"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/dev/device/path/"
-msgstr ""
+msgstr "changes=/dev/eszköz/útvonal/"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/path/"
-msgstr ""
+msgstr "changes=/útvonal/"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/path/file"
-msgstr ""
+msgstr "changes=/útvonal/fájl"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=file"
-msgstr ""
+msgstr "changes=fájl"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "cp -ra /mnt/live/mnt/hdc/* /mnt/hdxx/custom_live"
-msgstr ""
+msgstr "cp -ra /mnt/live/mnt/hdc/* /mnt/hdxx/custom_live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "cp new_module /mnt/hdxx/custom_live/base"
-msgstr ""
+msgstr "cp új_modul /mnt/hdxx/enyéni_live/base"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "debug"
-msgstr ""
+msgstr "hibakeresés"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "dir2lzm directory1 module1.lzm"
-msgstr ""
+msgstr "dir2lzm directory1 module1.lzm"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "dir2lzm directoryx modulex.lzm"
-msgstr ""
+msgstr "dir2lzm directoryx modulex.lzm"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "ePDFView is a a very lightweight, simple PDF document viewer."
-msgstr ""
+msgstr "ePDFView a pehelykönnyű, egyszerű PDF dokumentum néző."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1749,27 +1749,27 @@ msgstr "stb."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "from=/dev/device/salixlive-version.iso"
-msgstr ""
+msgstr "from=/dev/device/salixlive-version.iso"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "from=path/to/exploded/salixlive-version.iso"
-msgstr ""
+msgstr "from=path/to/exploded/salixlive-version.iso"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "from=path/to/salixlive-version.iso"
-msgstr ""
+msgstr "from=path/to/salixlive-version.iso"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "gFTP aims to be simple to use yet powerful."
-msgstr ""
+msgstr "A gFTP egyszerűen és hatékonyan használható."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "gFTP is an FTP client with both a text and a GUI interface."
-msgstr ""
+msgstr "A gFTP egy FTP kliens szöveges és grafkus módban."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1804,12 +1804,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "live"
-msgstr ""
+msgstr "élő"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "load=module"
-msgstr ""
+msgstr "load=modul"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1834,12 +1834,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "passwd=ask"
-msgstr ""
+msgstr "password=kérdezzen"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "passwd=somepass"
-msgstr ""
+msgstr "passwd=másjelszó"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1859,4 +1859,5 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "title"
 msgid "Salix Live Startup Guide"
-msgstr ""
+msgstr "Salix Live Kézikönyv"
+
