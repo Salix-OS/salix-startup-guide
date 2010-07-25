@@ -169,7 +169,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Iso Master"
-msgstr ""
+msgstr "Iso Master"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -444,7 +444,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "./make_iso.sh /mnt/hdxx/live-x.x.x-custom.iso"
-msgstr ""
+msgstr "./make_iso.sh /mnt/hdxx/live-x.x.x-custom.iso"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -504,7 +504,7 @@ msgstr "2- A Salix Live CD tartalmának másoása a munkakönyvtárba:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Extract all files and folders (boot, packages and salixlive) to your USB root directory."
-msgstr ""
+msgstr "2- Az összes fájl és könyvtár (boot, packages és salixlive) kibontása az USB eszköz főkönyvtárába."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -524,57 +524,57 @@ msgstr "3"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Add or remove modules or files as needed:"
-msgstr ""
+msgstr "3- Modulok vagy fájlok hozzáadása vagy törlése ha szükséges:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Go to the \"boot\" directory on the USB key."
-msgstr ""
+msgstr "3- Belépés az USB eszköz \"boot\" könyvtárába."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Remove all unneeded files:"
-msgstr ""
+msgstr "3- Az összes nem szükséges fájl eltávolítása:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Remove the packages from the working directory:"
-msgstr ""
+msgstr "3- Csomagok eltávolítása a munkakönyvtárból:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Install new packages to the working directory:"
-msgstr ""
+msgstr "4- Új csomagok telepítése a munkakönyvtárból:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Make any modifications you want:"
-msgstr ""
+msgstr "4- A módosítások elvégzése:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Rebuild the CD image:"
-msgstr ""
+msgstr "4- CD képfájl újrakészítése:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Run \"bootinst.sh\" if you are on Linux or Unix, \"bootinst.bat\" if you're on Windows."
-msgstr ""
+msgstr "4- \"bootinst.sh\" futtatása Linux vagy Unix alatt, \"bootinst.bat\" Windows alatt."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "5- Build the module:"
-msgstr ""
+msgstr "5- Modul fordítása:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "5- Rebuild the module:"
-msgstr ""
+msgstr "5- Modul újrafordítása:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "6- Replace the original module with your new module, rebuild the ISO image and reburn the CD."
-msgstr ""
+msgstr "6- Eredeti modul kicserélése az új modullal, a CD képfájl újjáépítése és kiírása CD-re."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -739,7 +739,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Adding/Removing modules on the fly:"
-msgstr ""
+msgstr "Modulok hozzáadása/eltávolítása menet közben:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
