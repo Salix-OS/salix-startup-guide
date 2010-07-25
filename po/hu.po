@@ -447,37 +447,31 @@ msgid "./make_iso.sh /mnt/hdxx/live-x.x.x-custom.iso"
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "/usr/bin/activate"
 msgstr "/usr/bin/activate"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "/usr/bin/deactivate"
 msgstr "/usr/bin/deactivate"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "/usr/bin/dir2lzm"
 msgstr "/usr/bin/dir2lzm"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "/usr/bin/lzm2dir"
 msgstr "/usr/bin/lzm2dir"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "/usr/bin/tgz2lzm"
 msgstr "/usr/bin/tgz2lzm"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "/usr/bin/txz2lzm"
 msgstr "/usr/bin/txz2lzm"
