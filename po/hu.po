@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: salix-live-startup\n"
 "POT-Creation-Date: 2010-04-04 19:04+CET\n"
-"PO-Revision-Date: 2010-07-25 18:34+0100\n"
+"PO-Revision-Date: 2010-07-28 17:57+0100\n"
 "Last-Translator: Peter Polonkai <polesz@nedudu.hu>\n"
 "Language-Team: Nedudu Team <nedudu@nedudu.hu>\n"
 "MIME-Version: 1.0\n"
@@ -144,17 +144,17 @@ msgstr "Gslapt"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "How to boot from Salix Live CD/DVD?"
-msgstr ""
+msgstr "Hogyan induljon a Salix Live CD/DVD?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "How to boot from a Salix Live USB key?"
-msgstr ""
+msgstr "Hogyan induljon a Salix Live USB eszköz?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "How to install Salix Live on a USB key?"
-msgstr ""
+msgstr "Hogyan telepítsük a Salix Live USB eszközre?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -1534,22 +1534,22 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To execute it in runlevel 3, simply type usersetup."
-msgstr ""
+msgstr "A segédprogram futtatása 3-as futási szinten, egyszerűen gépelje be: usersetup."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To execute this utility in runlevel 3, simply type dotnew."
-msgstr ""
+msgstr "A segédprogram futtatása 3-as futási szinten, egyszerűen gépelje be: dotnew."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To execute this utility in runlevel 3, simply type keyboardsetup."
-msgstr ""
+msgstr "A segédprogram futtatása 3-as futási szinten, egyszerűen gépelje be: keyboardsetup."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To execute this utility in runlevel 3, simply type servicesetup."
-msgstr ""
+msgstr "A segédprogram futtatása 3-as futási szinten, egyszerűen gépelje be: servicesetup."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1559,7 +1559,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To load in console only without executing Xorg (runlevel 3)"
-msgstr ""
+msgstr "Betöltés konzol módban Xorg futtatása nélkül (3-as futtatási szint)"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1584,7 +1584,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Totem is a media player (audio and video) which utilizes the GStreamer framework for playback."
-msgstr ""
+msgstr "Totem a média lejátszó (audió és videó) a GStreamer keretrendszer használatával."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1599,7 +1599,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "We recommend you format your partions with the ext4 file system."
-msgstr ""
+msgstr "Mi az ext4 partíció használatát javasoljuk."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1619,7 +1619,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Xfce is a lightweight desktop environment for various Unix/Linux systems."
-msgstr ""
+msgstr "Xfce egy pehelysúlyú asztali környezet számos Unix/Linux rendszer számára."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1634,7 +1634,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You can use Asunder to save tracks from an Audio CD as any of WAV, MP3, OGG, FLAC, WavPack, Musepack, AAC, and Monkey's Audio files."
-msgstr ""
+msgstr "Használja az Asunder programot Audio CD sávjainak mentéséhez és konvertálásához WAV, MP3, OGG, FLAC, WavPack, MusePack, AAC és Monkey's Audio formátumokba."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1649,7 +1649,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You simply need to burn it on a CD-ROM with Brasero."
-msgstr ""
+msgstr "Ha egyszerűen CD-t akar írni akkor Brasero."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1774,32 +1774,32 @@ msgstr "A gFTP egy FTP kliens szöveges és grafkus módban."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg --root=/mnt/hdxx/directory1 packagea-x.x.x.txz"
-msgstr ""
+msgstr "installpkg --root=/mnt/hdxx/directory1 packagea-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directory1 packageb-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directory1 packageb-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directory1 packagec-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directory1 packagec-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directoryx package1-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directoryx package1-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directoryx package2-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directoryx package2-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directoryx package3-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directoryx package3-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1814,22 +1814,22 @@ msgstr "load=modul"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "lzm2dir /mnt/hdc/salixlive/base/modulex.lzm /mnt/hdxx/directoryx"
-msgstr ""
+msgstr "zm2dir /mnt/hdc/salixlive/base/modulex.lzm /mnt/hdxx/directoryx"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mkdir -p /mnt/hdxx/directory1"
-msgstr ""
+msgstr "mkdir -p /mnt/hdxx/directory1"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mkdir -p /mnt/hdxx/directoryx"
-msgstr ""
+msgstr "mkdir -p /mnt/hdxx/directoryx"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mkdir /mnt/hdxx/custom_live"
-msgstr ""
+msgstr "mkdir /mnt/hdxx/custom_live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1844,12 +1844,12 @@ msgstr "passwd=másjelszó"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "rm -rf /mnt/hdxx/directory1/usr/doc/*"
-msgstr ""
+msgstr "rm -rf /mnt/hdxx/directory1/usr/doc/*"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "rm /mnt/hdxx/custom_live/base/unwanted_module"
-msgstr ""
+msgstr "rm /mnt/hdxx/custom_live/base/unwanted_module"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
