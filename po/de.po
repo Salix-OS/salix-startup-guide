@@ -848,7 +848,7 @@ msgstr "Brasero ist eine Anwendung zum CD/DVD brennen."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "By selecting 'Change boot options' on the Salix Live Boot menu, you will be offered a choice of supplementary boot options"
-msgstr ""
+msgstr "Durch Auswahl von \"Change Boot-Optionen\" des Live Salix Boot-Menüs, wird eine Auswahl an zusätzlichen Boot-Optionen angeboten"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
