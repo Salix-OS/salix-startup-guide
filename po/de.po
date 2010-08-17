@@ -766,7 +766,6 @@ msgid "Alternatively, you can run \"install-on-USB\" if you're on Linux and have
 msgstr "Alternativ können Sie \"install-on-USB \" ausführen wenn Sie Linux benutzen und grub2 installiert haben;"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Alternatively, you can use any one of the Salix System Tools which you will find under the System section of the Menu."
 msgstr "Alternativ können Sie jedes der Salix System Tools verwenden, die Sie unter dem Abschnitt System des Menüs finden."
