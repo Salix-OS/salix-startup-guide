@@ -32,7 +32,7 @@ msgstr "Administrator (root) Passwort"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Advanced Boot Options"
-msgstr "Erweiterte Start Optionen"
+msgstr "Erweiterte Start Einstellungen"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -813,17 +813,17 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Before executing Salix Live Installer, you should already have the necessary partitions available on your system."
-msgstr ""
+msgstr "Vor der Ausführung Salix Live Installer, sollten Sie bereits über die notwendigen Partitionen auf Ihrem System verfügen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Before use you should first click on the Update button to ensure that the latest updates from the software repositories are known to Gslapt."
-msgstr ""
+msgstr "Vor dem Gebrauch sollten Sie zuerst auf die Schaltfläche \"Aktualisieren\" klicken um sicherzustellen, dass die neuesten Updates aus den Software-Repositories für Gslapt zur Verfügung stehen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Before you can use any of the multimedia applications, you might have to first install some missing codecs from the multimedia menu."
-msgstr ""
+msgstr "Bevor Sie Multimedia-Anwendungen nutzen können, müssen Sie möglicherweise zuerst einige fehlende Codecs aus dem Multimedia-Menü installieren."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -833,7 +833,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Boot procedure"
-msgstr ""
+msgstr "Boot-Vorgang"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
