@@ -32,7 +32,7 @@ msgstr "Administrator (root) Passwort"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Advanced Boot Options"
-msgstr "Erweiterte Boot Optionen"
+msgstr "Erweiterte Start Optionen"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -758,17 +758,19 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "All your modifications will be applied instantly if you press on the OK button and will not necessitate a reboot."
-msgstr ""
+msgstr "Alle Ihre Änderungen werden sofort angewendet werden, wenn Sie auf die OK-Taste drücken und wird keinen Neustart erfordern."
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "paragraph"
 msgid "Alternatively, you can run \"install-on-USB\" if you're on Linux and have grub2 installed;"
-msgstr ""
+msgstr "Alternativ können Sie \"install-on-USB \" ausführen wenn Sie Linux benutzen und grub2 installiert haben;"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "paragraph"
 msgid "Alternatively, you can use any one of the Salix System Tools which you will find under the System section of the Menu."
-msgstr ""
+msgstr "Alternativ können Sie jedes der Salix System Tools verwenden, die Sie unter dem Abschnitt System des Menüs finden."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -776,9 +778,10 @@ msgid "An ISO image is an archive file of an optical disc."
 msgstr "Ein ISO Image ist eine Archiv-Datei von einer CD"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "paragraph"
 msgid "Apart from this, everything is self‑explanatory."
-msgstr ""
+msgstr "Abgesehen davon, ist alles selbsterklärend."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
