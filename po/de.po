@@ -761,7 +761,6 @@ msgid "All your modifications will be applied instantly if you press on the OK b
 msgstr "Alle Ihre Änderungen werden sofort angewendet werden, wenn Sie auf die OK-Taste drücken und wird keinen Neustart erfordern."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Alternatively, you can run \"install-on-USB\" if you're on Linux and have grub2 installed;"
 msgstr "Alternativ können Sie \"install-on-USB \" ausführen wenn Sie Linux benutzen und grub2 installiert haben;"
@@ -778,7 +777,6 @@ msgid "An ISO image is an archive file of an optical disc."
 msgstr "Ein ISO Image ist eine Archiv-Datei von einer CD"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Apart from this, everything is self‑explanatory."
 msgstr "Abgesehen davon, ist alles selbsterklärend."
@@ -786,17 +784,17 @@ msgstr "Abgesehen davon, ist alles selbsterklärend."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "As it is an application for everyday use, it launches itself in the background and can be accessed using the Orage Clock plugin for the panel."
-msgstr ""
+msgstr "Da es sich um eine Anwendung für den täglichen Gebrauch handelt, startet es sich selbst in den Hintergrund und kann dann über das Orage Clock-Plugin für das Panel erreicht werden."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "As previously stated Salix relies on the excellent slapt-get/Gslapt combination for its software package management."
-msgstr ""
+msgstr "Wie bereits erwähnt stützt Salix sich auf die hervorragende Kombination slapt-get/Gslapt für seine Software-Paket-Verwaltung."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "As we have seen, this can be done simply with the help of <g id='153'>Gparted</g>, which is included in Salix Live and is available directly on the desktop."
-msgstr ""
+msgstr "Wie wir gesehen haben, kann dieses einfach mit Hilfe von <g id='153'>Gparted</g>, dass in Salix Live enthalten und direkt auf dem Desktop zur Verfügung steht, erledigt werden."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
