@@ -177,7 +177,7 @@ msgstr "Tastaturlayout"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Lilo Setup"
-msgstr "LiloSetup"
+msgstr "Lilo Setup"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -237,7 +237,7 @@ msgstr "Paketverwaltung"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Partition Management"
-msgstr "Partitions-Verwaltung"
+msgstr "Partitions Verwaltung"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
