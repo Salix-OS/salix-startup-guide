@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2010-04-04 17:04+CET\n"
-"PO-Revision-Date: 2010-08-28 16:57+0100\n"
+"PO-Revision-Date: 2010-08-28 19:25+0100\n"
 "Last-Translator: Christian Dersch <chrisdersch@googlemail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -412,7 +412,7 @@ msgstr "(Startet bash mehrmals während des Bootens."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(TIP:"
-msgstr "(TIP:"
+msgstr "(TIPP:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -427,17 +427,17 @@ msgstr "(Sie können den kompletten Modulnamen (module.lzm) verwenden oder die E
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Add or remove files and directories to/from a CD image."
-msgstr "* Fügen Sie Dateien hinzu oder entfernen Sie diese vom CD-Abbild."
+msgstr "* Dateien von einem ISO-Abbild entfernen/hinzufügen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Create an ISO image from scratch."
-msgstr "* Erzeuge ein ISO-Abbild von Grund auf."
+msgstr "* Ein ISO-Abbild von Grund auf erzeugen"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Create bootable CDs using various boot record types."
-msgstr "* Erzeuge bootfähige CDs unter Verwendung verschiedener Boot-Record Typen."
+msgstr "* Bootfähige CDs unter Verwendung verschiedener Boot-Record Typen erzeugen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -827,7 +827,7 @@ msgstr "Boot-Vorgang"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Booting parameters or cheatcodes, are used to manipulate the booting process of Linux."
-msgstr "Bootparameter und "
+msgstr "Bootparameter und Cheatcodes werden verwendet um den Bootprozess von Linux zu beeinflussen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
