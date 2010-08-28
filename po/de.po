@@ -32,7 +32,7 @@ msgstr "Administrator (root) Passwort"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Advanced Boot Options"
-msgstr "Erweiterte Bootoptionen"
+msgstr "Erweitere Bootoptionen"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -177,7 +177,7 @@ msgstr "Tastaturlayout"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Lilo Setup"
-msgstr "Lilo Setup"
+msgstr "LiloSetup"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -187,7 +187,7 @@ msgstr "Linux Live Skripte"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Live Tools"
-msgstr "Live Tools"
+msgstr "Live Werkzeuge"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -237,7 +237,7 @@ msgstr "Paketverwaltung"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Partition Management"
-msgstr "Partitionsverwaltung"
+msgstr "Partitions-Verwaltung"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -575,31 +575,26 @@ msgid "6- Replace the original module with your new module, rebuild the ISO imag
 msgstr "6- Ersetzen Sie das Originalmodul mit Ihrem neuen Modul, bauen Sie das IDO-Abbild neu und brennen Sie eine neue CD."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='103'>You also have the possibility to </g><g id='104'><g id='105'>modify most default boot settings</g></g><g id='106'>.</g>"
 msgstr "<g id='104'>Sie haben außerdem die Möglichkeit, </g><g id='105'><g id='106'>die meisten standardmäßigen Booteinstellungen zu ändern</g></g><g id='107'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='107'>Simply press Enter on the default menu entry: Start Salix Live and a moment later you will enter </g><g id='108'><g id='109'>Xfce desktop</g></g><g id='110'>.</g>"
 msgstr "<g id='108'>Drücken Sie einfach Enter auf dem Standard-Booteintrag: Start Salix Live und einen Moment später bekommen Sie den </g><g id='109'><g id='110'>Xfce Desktop</g></g><g id='111'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='111'>All Live Tools require </g><g id='112'><g id='113'>administrator's right</g></g><g id='114'> and will ask you for the (root) password. </g>"
 msgstr "<g id='112'>Alle Live Tools benötigen </g><g id='113'><g id='114'>Administratorrechte</g></g><g id='115'> und fragen Sie nach dem (Root-) Passwort. </g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='116'>Salix Live comes with all the default </g><g id='117'><g id='118'>softwares</g></g><g id='119'> included in Salix OS.</g>"
 msgstr "<g id='117'>Salix Live kommt mit jeglicher </g><g id='118'><g id='119'>Software,</g></g><g id='120'> welche in Salix OS integriert ist.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='121'>Important!</g><g id='122'> Once this file has been created, it is necessary to reboot the Live CD. From then on, Salix Live will begin to monitor any changes you perform and will record them in the new persistent file.</g>"
 msgstr "<g id='122'>Wichtig!</g><g id='123'> Sobald diese Datei erzeugt wurde ist es notwendig, das Livesystem neuzustarten. Von dort an wird Salix Live Ihre Änderungen erkennen und Sie in die neue persistente Datei schreiben.</g>"
@@ -615,7 +610,6 @@ msgid "<g id='127'>Gparted is included in Salix Live to assist you in </g><g id
 msgstr "<g id='127'>Gparted ist in Salix Live integriert um Sie beim </g><g id='128'><g id='129'>Verwalten Ihrer Partitionen</g></g><g id='130'> zu unterstützen, falls dies vor der Installation von Salix OS erforderlich ist.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='131'>Salix Live Installer will enable you to </g><g id='132'><g id='133'>install Salix OS</g></g><g id='134'> from the comfort of Salix Live graphical environment.</g>"
 msgstr "<g id='117'>Salix Live kommt mit jeglicher </g><g id='118'><g id='119'>Software,</g></g><g id='120'> welche in Salix OS integriert ist.</g>"
@@ -626,7 +620,6 @@ msgid "<g id='135'>Like most Live CDs based on Slackware, Salix Live is relying
 msgstr "<g id='135'>Wie die meisten Slackware-basierten Live CDs baut Salix Live auf der Technologie der </g><g id='136'><g id='137'>Linux Live Skripte</g></g><g id='138'> auf. Einige der integrierten Shell Skripte erlauben erfahrenen Nutzern das vollständige </g><g id='139'><g id='140'>Anpassen und Neuerstellen, </g></g><g id='141'>  <x id='142'/>so dass Salix Live den eigenen Anforderungen besser gerecht wird.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='143'>In order to bypass certain limitations or to complement some of the third-party technology it uses, Salix developed its own set of patches and scripts which for the most part need no user interaction while some can be executed, for instance to facilitate the creation of a </g><g id='144'><g id='145'>Salix Live USB Flash Disk</g></g><g id='146'>. <x id='147'/></g>"
 msgstr "<g id='143'>Um diverse Einschränkungen zu umgehen und einige Drittanbieter-Technologien zu ergänzen hat Salix seine Sammlung von Skripten und Patches entwickelt, welche zum größten Teil keine Interaktionen vom nutzer benötigen, während einige ausgeführt werden können, z.B.  um das Erzeugen der </g><g id='144'><g id='145'>Salix Live USB Flash Disk zu erleichtern.</g></g><g id='146'>. <x id='147'/></g>"
@@ -642,7 +635,6 @@ msgid "<g id='149'>If you do not already have the necessary partitions ready, yo
 msgstr "<g id='149'>Wenn Sie die erforderlichen Partitionen nicht bereits vorbereitet haben, können Sie Gparted verwenden, um sie zu erzeugen. </g><g id='150'><g id='151'>Gparted</g></g><g id='152'> erlaubt Ihnen, die Partitions-Ordnung eines Laufwerkes zu ändern, während der Inhalt der Partitionen erhalten wird.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='196'>By browsing </g>/mnt/live/memory/images/xxx.lzm/<g id='197'>, you can view the contents of each module, therefore you'll find which module holds a given package in </g>/mnt/live/memory/images/xxx.lzm/var/log/packages/"
 msgstr "<g id='196'>Beim Durchsuchen von </g>/mnt/live/memory/images/xxx.lzm/<g id='197'> können Sie den Inhalt jedes Moduls betrachten, dafür erfahren Sie, welches Modul ein gegebenes Paket enthält in </g>/mnt/live/memory/images/xxx.lzm/var/log/packages/"
@@ -683,7 +675,6 @@ msgid "<g id='77'>To execute it in runlevel 3, simply type clocksetup</g>."
 msgstr "<g id='77'>Um dies im Runlevel 3 auszuführen, geben Sie einfach clocksetup ein</g> ."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='78'>In Unix/Linux, all users and groups of users are given certain </g><g id='79'><g id='80'>permissions and access rights</g></g><g id='81'> to some part of the system in order to control their ability to access and change it.</g>"
 msgstr "<g id='78'> In Unix / Linux haben alle Benutzer und Gruppen von Benutzern bestimmte </g><g id='79'><g id='80'> Berechtigungen und Zugriffsrechte </g></g><g id='81'> auf einen Teil des Systems um ihre Fähigkeiten des Zugriffs zu kontrollieren und zu ändern. </g>"
@@ -704,13 +695,11 @@ msgid "<g id='92'>Salix Live will also come in handy as a mobile solution if yo
 msgstr "<g id='92'>Salix Live wird auch als eine mobile Lösung gelegen kommen, wenn Sie Salix OS überall hin mitnehmen möchten oder wenn Sie einige grundlegende Rettungsoperationen wie das Reparieren eines maroden LILO Bootloaders mit Lilo Setup, c </g> onfigurieren von Partitionen mit GParted, etc."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='95'>You can also explode the Salix Live ISO image onto a </g><g id='96'><g id='97'>USB key</g></g><g id='98'>.</g>"
 msgstr "<g id='104'>Sie haben außerdem die Möglichkeit, </g><g id='105'><g id='106'>die meisten standardmäßigen Booteinstellungen zu ändern</g></g><g id='107'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='99'>If that is not the case, which is very rare, you will need to first enter the </g><g id='100'><g id='101'>BIOS</g></g><g id='102'> setup, usually by pressing the Del‑key or the F2‑key (or some other key combinations depending on your machine…). Once in the BIOS, find the \"boot menu\" and set the order of the boot devices properly, with your optical drive in first position. Save your changes and reboot your computer.</g>"
 msgstr "<g id='100'>Wenn dies nicht der Fall ist, was sehr selten vorkommt, müssen Sie erst das </g><g id='101'><g id='102'>BIOS</g></g><g id='103'> Menü, häufig durch drücken der Entf oder der F2 Taste (oder einer anderen Taste, je nach Rechner...), öffnen. Suchen Sie im BIOS das \"Boot Menü\" und setzen Sie die Reihenfolge der Startlaufwerke so, dass sich Ihr optisches Laufwerk an erster Stelle befindet. Sichern Sie Ihre Einstellungen und starten Sie den Rechner neu.</g>"
@@ -1017,10 +1006,9 @@ msgid "In addition to offering free‑form drawing, it can accomplish essential 
 msgstr "Zusätzlich zur Möglichkeit des freihändigen Zeichnens werden grundlegende Bildbearbeitungsvorgänge wie Größe ändern, Bearbeiten und Zuschneiden von Fotos, das Kombinieren mehrerer Bilder, das Konvertieren zwischen verschiedenen Bildformaten wie auch das Erzeugen einfacher GIF Animationen unterstützt."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "In order to do this, Salix OS has chosen the <g id='36'>Xfce</g> desktop, which offers a comprehensive full‑featured environment while managing to remain simple, unobstructive and highly responsive."
-msgstr "Um dies zu bewerkstelligen hat Salix OS den <g id='36'>Xfce</g> gewählt, welcher eine umfassende Umgebung bietet, die jedoch auch einfach und schnell ansprechend ist."
+msgstr "Um dies zu bewerkstelligen hat Salix OS den <g id='36'>Xfce</g> Desktopgewählt, welcher eine umfassende Umgebung bietet, die jedoch auch einfach und schnell ansprechend ist."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1064,7 +1052,6 @@ msgid "It is available in many languages and works on all common computers."
 msgstr "Es ist in vielen Sprachen verfügbar und funktioniert auf allen üblichen Computern."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It is designed to be as simple as possible and has some unique features to enable users to create their discs easily and quickly."
 msgstr "Es ist dafür ausgelegt, so einfach wie möglich zu sein und hat einige einzigartige Eigenschaften, um den Benutzern das Erstellen ihrer Disks einfach und schnell zu ermöglichen."
@@ -1171,7 +1158,6 @@ msgid "Most Salix tools (except Lilo Setup) have an ncurse counterpart which ca
 msgstr "Die meisten Salix Werkzeuge (außer Lilo Setup) haben ein ncurses Gegenstück, welche in einer textbasierten Umgebung verwenden werden können (<g id='74'>runlevel 3</g>)."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Most of the time this is what you will want to do although occasionally, it might be preferable not to, for example if you want to use Grub instead or if you want to simply incorporate Salix in an existing bootloader configured from another distribution in a multiple boot setup."
 msgstr "Meist ist dies gewünscht, es kann jedoch vorteilhaft es nicht zu tun, z.B. wenn Sie stattdessen Grub verwenden möchsten oder Salix in den Bootloader eines anderen Systems einbinden möchten."
@@ -1720,7 +1706,6 @@ msgid "changes=/path/file"
 msgstr "changes=/path/file"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "changes=file"
 msgstr "changes=file"
@@ -1871,10 +1856,9 @@ msgid "rm /mnt/hdxx/custom_live/base/unwanted_module"
 msgstr "rm /mnt/hdxx/custom_live/base/unwanted_module"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "this will prevent the first \"reboot on first boot\" operation."
-msgstr "Dies wird die \"reboot on first boot\" verhindern."
+msgstr "Dies wird die \"reboot on first boot\" Operation verhindern."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "title"
