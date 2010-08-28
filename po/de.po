@@ -32,7 +32,7 @@ msgstr "Administrator (root) Passwort"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Advanced Boot Options"
-msgstr "Erweitere Bootoptionen"
+msgstr "Erweiterte Bootoptionen"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -270,6 +270,7 @@ msgid "Salix Codec Installer"
 msgstr "Salix Codec Installer"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Salix Live Installer"
 msgstr "Salix Live Installer"
@@ -310,6 +311,7 @@ msgid "Startup Services"
 msgstr "Systemdienste"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Support"
 msgstr "Unterstützung"
