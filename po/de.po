@@ -2,13 +2,13 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2010-04-04 17:04+CET\n"
-"PO-Revision-Date: 2010-03-26 15:27+0100\n"
-"Last-Translator: Thorsten Mühlfelder <thenktor@gmx.de>\n"
+"PO-Revision-Date: 2010-08-28 16:57+0100\n"
+"Last-Translator: Christian Dersch <chrisdersch@googlemail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -742,7 +742,7 @@ msgstr "Module \"on the fly\" hinzufügen oder entfernen:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Advanced Boot Options"
-msgstr ""
+msgstr "Erweiterte Bootoptionen"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -870,7 +870,6 @@ msgid "Copyright © SalixOS.org 2010"
 msgstr "Copyright © SalixOS.org 2010"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Customizing Salix Live"
 msgstr "Salix Live anpassen"
@@ -1021,7 +1020,6 @@ msgid "In the same manner that you boot from the optical drive, you must ensure 
 msgstr "Auf dieselbe Weise, wie Sie von optischen Medien starten, müssen Sie sicherstellen, dass das BIOS für das Starten von USB Medien eingestellt ist."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Installing Salix OS"
 msgstr "Salix OS installieren"
@@ -1029,7 +1027,7 @@ msgstr "Salix OS installieren"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Introduction"
-msgstr ""
+msgstr "Einführung"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1102,10 +1100,9 @@ msgid "It will not modify any operating system or data present on its host compu
 msgstr "Es verändert keine Betriebssysteme und Dateien auf dem Computer und hinterlässt nach dem Herunterfahren keine Spuren."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Lilo Setup"
-msgstr "LiloSetup"
+msgstr "Lilo Setup"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1125,12 +1122,12 @@ msgstr "Lilo Setup wird einen neuen LILO Bootloader auf Ihrem Computer installie
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Linux Live Scripts"
-msgstr ""
+msgstr "Linux Live Skripte"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Live Tools"
-msgstr ""
+msgstr "Live Werkzeuge"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1240,17 +1237,17 @@ msgstr "Unser <g id='85'>Wiki</g> und <g id='86'>Forum</g> sind zwei weitere wic
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Package Management"
-msgstr ""
+msgstr "Paketverwaltung"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Partition Management"
-msgstr ""
+msgstr "Partitionsverwaltung"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Personalizing Modules"
-msgstr ""
+msgstr "Module personalisieren"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1310,7 +1307,7 @@ msgstr "Salix Live 13.0"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live Installer"
-msgstr ""
+msgstr "Salix Live Installer"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1323,7 +1320,6 @@ msgid "Salix needs, at the very minimum, one swap partition (which will be autom
 msgstr "Salix benötigt als Minimum eine Swap Partition (welche automatisch von Installer verwendet wird) und eine Linux Partition für den Haupt Verzeichnisbaum."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix Live"
 msgstr "Salix Live"
@@ -1344,7 +1340,6 @@ msgid "Salix Live root password is:"
 msgstr "Das Salix Live root Passwort ist:"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix OS"
 msgstr "Salix OS"
@@ -1380,7 +1375,6 @@ msgid "So, for example, if you wish to just use your own xorg.conf file, create 
 msgstr "Um zum Beispiel eine eigene xorg.conf Datei zu verwenden, erzeugen sie das Verzeichnis etc/X11/ in Verzeichnis /salixlive/rootcopy und speichern Sie dort Ihre xorg.conf."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Softwares"
 msgstr "Software"
@@ -1408,7 +1402,7 @@ msgstr "Schnellanleitung"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Support"
-msgstr ""
+msgstr "Unterstützung"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1864,3 +1858,4 @@ msgstr "Dies wird die \"reboot on first boot\" Operation verhindern."
 msgctxt "title"
 msgid "Salix Live Startup Guide"
 msgstr "Salix Live Startup Guide"
+
