@@ -612,40 +612,34 @@ msgid "<g id='108'>Simply press Enter on the default menu entry: Start Salix L
 msgstr "<g id='108'>Druk op het standaard menu-item: Start Salix Live en even later komt u in </g><g id='109'><g id='110'>Xfce desktop</g></g><g id='111'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='112'>All Live Tools require </g><g id='113'><g id='114'>administrator's right</g></g><g id='115'> and will ask you for the (root) password. </g>"
-msgstr "<g id='111'>Alle Live Tools vereisen </g><g id='112'><g id='113'>administrator rechten</g></g><g id='114'> en zullen u voor het (root) wachtwoord vragen. </g>"
+msgstr "<g id='112'>Alle Live Tools vereisen </g><g id='113'><g id='114'>administrator rechten</g></g><g id='115'> en zullen u voor het (root) wachtwoord vragen. </g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='117'>Salix Live comes with all the default </g><g id='118'><g id='119'>softwares</g></g><g id='120'> included in Salix OS.</g>"
-msgstr "<g id='116'>Salix Live wordt geleverd met alle standaard </g><g id='117'><g id='118'>software</g></g><g id='119'> opgenomen in Salix OS.</g>"
+msgstr "<g id='117'>Salix Live wordt geleverd met alle standaard </g><g id='118'><g id='119'>software</g></g><g id='120'> opgenomen in Salix OS.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='122'>Important!</g><g id='123'> Once this file has been created, it is necessary to reboot the Live CD. From then on, Salix Live will begin to monitor any changes you perform and will record them in the new persistent file.</g>"
-msgstr "<g id='121'>Belangrijk!</g><g id='122'> Zodra dit bestand is aangemaakt is het noodzakelijk de Live CD te herstarten. Daarna zal Salix Live de wijzigingen die u uitvoert volgen en opslaan in het nieuwe persistente bestand.</g>"
+msgstr "<g id='122'>Belangrijk!</g><g id='123'> Zodra dit bestand is aangemaakt is het noodzakelijk de Live CD te herstarten. Daarna zal Salix Live de wijzigingen die u uitvoert volgen en opslaan in het nieuwe persistente bestand.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='124'>To remove any changes and come back to the default settings, simply delete the persistent file (slxsave.xfs) from the </g><g id='125'><g id='126'>mount point</g></g><g id='127'> it was initially created on.</g>"
-msgstr "<g id='123'>Voor het verwijderen van wijzigingen en terug te keren naar de standaardinstellingen, verwijder dan eenvoudigweg het persistente bestand (slxsave.xfs) van het </g><g id='124'><g id='125'>mountpoint</g></g><g id='126'> waar het in eerste instantie op aangemaakt was.</g>"
+msgstr "<g id='124'>Voor het verwijderen van wijzigingen en terug te keren naar de standaardinstellingen, verwijder dan eenvoudigweg het persistente bestand (slxsave.xfs) van het </g><g id='125'><g id='126'>mountpoint</g></g><g id='127'> waar het in eerste instantie op aangemaakt was.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='128'>Gparted is included in Salix Live to assist you in </g><g id='129'><g id='130'>managing your partitions</g></g><g id='131'> if it is necessary for you to do so before performing the installation of Salix OS.</g>"
-msgstr "<g id='127'>GParted is beschikbaar in Salix Live om te helpen bij </g><g id='128'><g id='129'>het beheer van uw partities </g></g><g id='130'> indien dat nodig is voordat de installatie van OS Salix wordt uitgevoerd.</g>"
+msgstr "<g id='128'>GParted is beschikbaar in Salix Live om te helpen bij </g><g id='129'><g id='130'>het beheer van uw partities </g></g><g id='131'> indien dat nodig is voordat de installatie van OS Salix wordt uitgevoerd.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='132'>Salix Live Installer will enable you to </g><g id='133'><g id='134'>install Salix OS</g></g><g id='135'> from the comfort of Salix Live graphical environment.</g>"
-msgstr "<g id='131'>Salix Live Installer maakt het mogelijk om </g><g id='132'><g id='133'>Salix OS te installeren</g></g><g id='134'> vanuit het comfort van de Salix Live grafische omgeving.</g>"
+msgstr "<g id='132'>Salix Live Installer maakt het mogelijk om </g><g id='133'><g id='134'>Salix OS te installeren</g></g><g id='135'> vanuit het comfort van de Salix Live grafische omgeving.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
