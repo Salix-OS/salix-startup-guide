@@ -2,12 +2,12 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2010-08-30 09:08+CET\n"
-"PO-Revision-Date: 2010-08-28 19:25+0100\n"
+"PO-Revision-Date: 2010-08-30 13:55+0100\n"
 "Last-Translator: Christian Dersch <chrisdersch@googlemail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -1440,7 +1440,6 @@ msgid "So, for example, if you wish to just use your own xorg.conf file, create 
 msgstr "Um zum Beispiel eine eigene xorg.conf Datei zu verwenden, erzeugen sie das Verzeichnis etc/X11/ in Verzeichnis /salixlive/rootcopy und speichern Sie dort Ihre xorg.conf."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Software"
 msgstr "Software"
@@ -1926,37 +1925,38 @@ msgid "Salix Live Startup Guide"
 msgstr "Salix Live Startup Guide"
 
 #~ msgctxt "heading"
+
 #~ msgid "Presentation"
 #~ msgstr "Präsentation"
-
 #~ msgctxt "heading"
+
 #~ msgid "Ristretto"
 #~ msgstr "Ristretto"
-
 #~ msgctxt "heading"
+
 #~ msgid "Totem"
 #~ msgstr "Totem"
-
 #~ msgctxt "heading"
+
 #~ msgid "XSane"
 #~ msgstr "Xsane"
-
 #~ msgctxt "heading"
+
 #~ msgid "ePDFView"
 #~ msgstr "ePDFView"
-
 #~ msgctxt "paragraph"
+
 #~ msgid "4- Run \"bootinst.sh\" if you are on Linux or Unix, \"bootinst.bat\" if you're on Windows."
 #~ msgstr "4- Führen Sie \"bootinst.sh\" aus, falls Sie in Linux/Unix sind oder \"bootinst.bat\" falls Sie in Windows sind."
-
 #~ msgctxt "paragraph"
+
 #~ msgid "Alternatively, you can run \"install-on-USB\" if you're on Linux and have grub2 installed;"
 #~ msgstr "Alternativ können Sie \"install-on-USB \" ausführen wenn Sie Linux benutzen und grub2 installiert haben;"
-
 #~ msgctxt "paragraph"
+
 #~ msgid "XSane is a GUI scanning utility which uses the SANE library to communicate with scanners."
 #~ msgstr "XSane ist ein GUI Scan Werkzeug, welches die SANE Bibliothek für die Kommunikation mit Scannern verwendet."
-
 #~ msgctxt "paragraph"
+
 #~ msgid "this will prevent the first \"reboot on first boot\" operation."
 #~ msgstr "Dies wird die \"reboot on first boot\" Operation verhindern."
