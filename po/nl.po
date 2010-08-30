@@ -602,10 +602,9 @@ msgid "<g id='100'>If that is not the case, which is very rare, you will need to
 msgstr "<g id='99'>Als dat niet het geval is, wat zeer zeldzaam is, moet u eerst de </g><g id='100'><g id='101'> BIOS </g></g><g id='102'> instellen, meestal door op de Del-toets of de F2-toets (of een andere toets-combinatie, afhankelijk van uw PC...). In de BIOS vindt u het \"boot menu\", zet de volgorde van de boot devices goed met uw optische drive in de eerste positie. Sla de wijzigingen op en herstart uw computer.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='104'>You also have the possibility to </g><g id='105'><g id='106'>modify most default boot settings</g></g><g id='107'>.</g>"
-msgstr "<g id='103'>U heeft ook de mogelijkheid om </g><g id='104'><g id='105'>wijzigt de meeste standaard boot-instellingen</g></g><g id='106'>.</g>"
+msgstr "<g id='104'>U heeft ook de mogelijkheid om </g><g id='105'><g id='106'>wijzigt de meeste standaard boot-instellingen</g></g><g id='107'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
@@ -641,7 +640,7 @@ msgstr "<g id='123'>Voor het verwijderen van wijzigingen en terug te keren naar 
 #, fuzzy
 msgctxt "paragraph"
 msgid "<g id='128'>Gparted is included in Salix Live to assist you in </g><g id='129'><g id='130'>managing your partitions</g></g><g id='131'> if it is necessary for you to do so before performing the installation of Salix OS.</g>"
-msgstr "<g id='127'>GParted is aanwezig in Salix Live om te helpen bij </g><g id='128'><g id='129'>het beheer van uw partities </g></g><g id='130'> indien dat nodig is voordat de installatie van OS Salix wordt uitgevoerd.</g>"
+msgstr "<g id='127'>GParted is beschikbaar in Salix Live om te helpen bij </g><g id='128'><g id='129'>het beheer van uw partities </g></g><g id='130'> indien dat nodig is voordat de installatie van OS Salix wordt uitgevoerd.</g>"
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
