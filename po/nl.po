@@ -607,10 +607,9 @@ msgid "<g id='104'>You also have the possibility to </g><g id='105'><g id='106'>
 msgstr "<g id='104'>U heeft ook de mogelijkheid om </g><g id='105'><g id='106'>wijzigt de meeste standaard boot-instellingen</g></g><g id='107'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='108'>Simply press Enter on the default menu entry: Start Salix Live and a moment later you will enter </g><g id='109'><g id='110'>Xfce desktop</g></g><g id='111'>.</g>"
-msgstr "<g id='107'>Druk op het standaard menu-item: Start Salix Live en even later komt u in </g><g id='108'><g id='109'>Xfce desktop</g></g><g id='110'>.</g>"
+msgstr "<g id='108'>Druk op het standaard menu-item: Start Salix Live en even later komt u in </g><g id='109'><g id='110'>Xfce desktop</g></g><g id='111'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
