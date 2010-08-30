@@ -1,0 +1,21 @@
+How to use this?
+- Install the OpenOffice PDF export configuration into your OOo config using the file "ooconfig"
+- Install the packages itools and unoconv:
+    http://enialis.net/~jrd/salix/itools/
+    http://enialis.net/~jrd/salix/unoconv/
+- Use "./compile all pdf" to compile all ODT and all PDF too.
+  Use "./compile LOCALE pdf" to compile only for this locale.
+  Sometimes one locale may crash, in this case just try again. Assure you that there is no OOo instance running.
+
+If you want to update the content of the ODT file:
+- Open the ODT file under OOo and make all your modifications.
+- Save it to "new.odt"
+- Create a folder "new"
+- Unzip it to this folder: "cd new && unzip ../new.odt"
+- Copy back all file from "new" to "odt" except "Pictures".
+- Sync "new/Pictures" with "images/en".
+- Run "./fix_grddl.sh" to remove a non-used namespace added by latest OOo not handled by itools yet.
+- Run "./update_translations.sh" to update the .pot file and all others .po files.
+- Edit the .pot file and check for splitted words/sentances "like th<span class="Toto">is typ</span>e of things" by either removing the wrong tag or by repositionning it correctly.
+- Re-run "./update_translations.sh" until you're satisfied.
+- Use "./compile.sh all pdf" to generate all PDF file from this.
