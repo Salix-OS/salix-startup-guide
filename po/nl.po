@@ -564,7 +564,7 @@ msgstr "3- Verwijder de pakketten van de werkfolder:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- If you're running on Unix (Linux, BSD, Mac OS X), just run the file called “install-on-USB.sh”."
-msgstr ""
+msgstr "4 - Als u Unix draait (Linux, BSD, Mac OS X), start eenvoudigweg het bestand \"install-op-USB.sh\"."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -597,10 +597,9 @@ msgid "6- Replace the original module with your new module, rebuild the ISO imag
 msgstr "6- Vervang de originele module met uw nieuwe module, Maak de ISO image opnieuw en herbrand de CD."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='100'>If that is not the case, which is very rare, you will need to first enter the </g><g id='101'><g id='102'>BIOS</g></g><g id='103'> setup, usually by pressing the Del‑key or the F2‑key (or some other key combinations depending on your machine…). Once in the BIOS, find the \"boot menu\" and set the order of the boot devices properly, with your optical drive in first position. Save your changes and reboot your computer.</g>"
-msgstr "<g id='99'>Als dat niet het geval is, wat zeer zeldzaam is, moet u eerst de </g><g id='100'><g id='101'> BIOS </g></g><g id='102'> instellen, meestal door op de Del-toets of de F2-toets (of een andere toets-combinatie, afhankelijk van uw machine, ...). In het BIOS, vindt u het \"boot menu\" en zet de volgorde van de boot devices goed met uw optische drive als eerste positie. Sla de wijzigingen op en herstart uw computer.</g>"
+msgstr "<g id='99'>Als dat niet het geval is, wat zeer zeldzaam is, moet u eerst de </g><g id='100'><g id='101'> BIOS </g></g><g id='102'> instellen, meestal door op de Del-toets of de F2-toets (of een andere toets-combinatie, afhankelijk van uw PC...). In de BIOS vindt u het \"boot menu\", zet de volgorde van de boot devices goed met uw optische drive in de eerste positie. Sla de wijzigingen op en herstart uw computer.</g>"
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
