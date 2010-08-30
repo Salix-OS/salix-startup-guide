@@ -644,19 +644,17 @@ msgstr "<g id='132'>Salix Live Installer maakt het mogelijk om </g><g id='133'><
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='136'>LiveClone generates a Live CD/DVD iso image (which you can burn as an image on a CD/DVD with a CD/DVD burner) or a Live USB key. This means that it creates your customized live environment which will be based either on your SalixLive or your running system. In the case of a Live USB Key generation, you will be offered to make your USB key with “</g><g id='137'><g id='138'>persistence</g></g><g id='139'>”.</g>"
-msgstr ""
+msgstr "<g id='136'>LiveClone genereert een Live CD/DVD iso image (welke op een CD/DVD kan worden gebrand met een CD/DVD brander) of een Live USB key. Dit houdt in dat het uw eigen aangepaste live omgeving maakt welke op uw SalixLive of eigen draaiende systeem is gebaseerd. In het geval van een Live USB Key creatie, zult u de mogelijkheid hebben om de USB key te maken met“</g><g id='137'><g id='138'>persistentie</g></g><g id='139'>”.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='141'>Like most Live CDs based on Slackware, Salix Live is relying on the </g><g id='142'><g id='143'>Linux Live Scripts</g></g><g id='144'> technology. Some of the shell scripts it includes will enable an advanced user to fully </g><g id='145'><g id='146'>customize and re-master</g></g><g id='147'>  <x id='148'/>Salix Live to better suit his or her own needs.</g>"
-msgstr "<g id='135'>Zoals de meeste Live CDs gebaseerd op Slackware, is Salix Live afhankelijk van de </g><g id='136'><g id='137'>Linux Live Scripts</g></g><g id='138'> technologie. Sommige van de aanwezige shell scripts zullen een gevorderde gebruiker in staat stellen Salix Live volledig</g><g id='139'><g id='140'> aan te passen en remasteren</g></g><g id='141'><x id='142'/>zodat het beter aansluit op zijn of haar eigen wensen.</g>"
+msgstr "<g id='141'>Zoals de meeste Live CDs gebaseerd op Slackware, is Salix Live afhankelijk van de </g><g id='142'><g id='143'>Linux Live Scripts</g></g><g id='144'> technologie. Sommige van de aanwezige shell scripts zullen een gevorderde gebruiker in staat stellen Salix Live volledig</g><g id='145'><g id='146'> aan te passen en remasteren</g></g><g id='147'><x id='148'/>zodat het beter aansluit op zijn of haar eigen wensen.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='149'>In order to bypass certain limitations or to complement some of the third-party technology it uses, Salix developed its own set of patches and scripts which for the most part need no user interaction while some can be executed, for instance to facilitate the creation of a </g><g id='150'><g id='151'>Salix Live USB Flash Disk</g></g><g id='152'>. <x id='153'/></g>"
-msgstr "<g id='143'>Om bepaalde beperkingen te omzeilen of om een deel van de technologie welke van derden wordt gebruikt aan te vullen, ontwikkelde Salix zijn eigen set patches en scripts die merendeels geen gebruikersinteractie nodig hebben. Sommige scripts kunnen worden uitgevoerd om bijvoorbeeld het opstellen van een Salix Live USB Flash Disk </g><g id='144'><g id='145'>te vergemakkelijken</g></g><g id='146'>.<x id='147'/></g>"
+msgstr "<g id='149'>Om bepaalde beperkingen te omzeilen of om een deel van de technologie welke van derden wordt gebruikt aan te vullen, ontwikkelde Salix zijn eigen set patches en scripts die merendeels geen gebruikersinteractie nodig hebben. Sommige scripts kunnen worden uitgevoerd om bijvoorbeeld het opstellen van een </g><g id='150'><g id='151'>Salix Live USB Flash Disk te vergemakkelijken</g></g><g id='152'>.<x id='153'/></g>"
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
