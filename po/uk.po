@@ -644,7 +644,7 @@ msgstr "<g id='132'>Встановлювач Salix Live дозволить Ва
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='136'>LiveClone generates a Live CD/DVD iso image (which you can burn as an image on a CD/DVD with a CD/DVD burner) or a Live USB key. This means that it creates your customized live environment which will be based either on your SalixLive or your running system. In the case of a Live USB Key generation, you will be offered to make your USB key with “</g><g id='137'><g id='138'>persistence</g></g><g id='139'>”.</g>"
-msgstr ""
+msgstr "<g id='136'>LiveClone створює образ iso Live CD/DVD (який Ви можете записати як образ на CD/DVD за допомогою випалювача CD/DVD) або на Live USB пам’яті флеш. Вона створює \"live\" середовище, яке базується або на SalixLive або на Вашій поточній системі. У випадку створення Live USB Вам пропонується створити пам’ять флеш USB з “</g><g id='137'><g id='138'>файлом збереження</g></g><g id='139'>”.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1139,7 +1139,7 @@ msgstr "Це покаже можливі дії для кожного новог
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It will display available sound cards in your system and let you select the card you want to use in preference."
-msgstr ""
+msgstr "Показує доступні звукові карти у Вашій системі і дозволяє вибрати карту, яку Ви бажаєте використовувати."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1149,7 +1149,7 @@ msgstr "Він не змінить жодної операційної сист�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Just by dragging your video clips, you can create your own film clips."
-msgstr ""
+msgstr "Переносячи Ваші відео-кліпи, Ви можете створити Ваш власний фільм."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1559,7 +1559,7 @@ msgstr "Це ідеально для досвідчених користувач
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This is particularly useful when you have a multiple sound cards in your system, and you would like to assign a sound card for your system other than the one automatically picked during installation/start-up."
-msgstr ""
+msgstr "Це особливо корисно, коли Ви маєте кілька звукових карт у Вашій системі, і Ви бажаєте приписати іншу звукову карту для системи, ніж та що була вибрана автоматично під час встановлення/запуску."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1569,7 +1569,7 @@ msgstr "Наступним режимом є Базовий режим, який
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This tool facilitates defining / overviewing host names used while setting up your machine as a server."
-msgstr ""
+msgstr "Цей інструмент дозволяє визначати / перевизначати назви серверів, що використовуються під час конфігурації Вашої машини як сервера."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
