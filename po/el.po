@@ -1570,7 +1570,7 @@ msgstr "O τελευταίος τρόπος εγκατάστασης βασίζ�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This tool facilitates defining / overviewing host names used while setting up your machine as a server."
-msgstr ""
+msgstr "Το εργαλείο αυτό χρησιμοποιείται για τη δήλωση/εποπτεία των ονομάτων υπολογιστών στο δίκτυό σας."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1673,10 +1673,9 @@ msgid "Undo options are available and none of the settings will be applied until
 msgstr "Υπάρχει η δυνατότητα αναίρεσης οποιασδήποτε επιλογής και καμιά από τις ρυθμίσεις δεν θα εφαρμοστεί μέχρι να κάνετε κλικ στο κουμπί 'Έναρξη της εγκατάστασης του Salix'."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Viewnior is a fast and lightweight picture viewer."
-msgstr "Το Ristretto είναι ένας ταχύς και ελαφρύς προβολέας εικόνων."
+msgstr "Το Viewnior είναι ένας ταχύς και ελαφρύς προβολέας εικόνων."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1699,10 +1698,9 @@ msgid "Xfce is a lightweight desktop environment for various Unix/Linux systems.
 msgstr "Το Xfce είναι ένα ελαφρύ περιβάλλον εργασίας για ποικίλα Unix/Linux συστήματα."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You can check that the module contains the unwanted packages by listing the <g id='193'>/mnt/hdxx/directoryx/var/log/packages/</g> directory.)"
-msgstr "Μπορείτε να ελέγξετε ότι το άρθρωμα που περιέχει τα ανεπιθύμητα πακέτα έχει σε λίστα το <g id='187'>/mnt/hdxx/directoryx/var/log/packages/ κατάλογο.)</g>"
+msgstr "Μπορείτε να ελέγξετε ότι το άρθρωμα που περιέχει τα ανεπιθύμητα πακέτα έχει σε λίστα το <g id='193'>/mnt/hdxx/directoryx/var/log/packages/ κατάλογο.)</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1715,16 +1713,14 @@ msgid "You can use Asunder to save tracks from an Audio CD as any of WAV, MP3, O
 msgstr "Μπορείτε να χρησιμοποιήσετε το Asunder για να αποθηκεύσετε tracks από ένα CD ήχου ως οποιοδήποτε τύπο WAV, MP3, OGG, FLAC, WavPack, Musepack, AAC, και Monkey's Audio αρχείων ήχου."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You could also use the <g id='89'>IRC link</g> above to be in live communication with some member of the community and get instant help if necessary."
-msgstr "Μπορείτε επίσης να χρησιμοποιήσετε τον <g id='87'>σύνδεσμο IRC</g> παραπάνω για να είστε σε απευθείας επικοινωνία με μερικά μέλη της κοινότητας και να έχετε άμαση βοήθεια όταν τη χρειαστείτε."
+msgstr "Μπορείτε επίσης να χρησιμοποιήσετε τον <g id='89'>σύνδεσμο IRC</g> παραπάνω για να είστε σε απευθείας επικοινωνία με μερικά μέλη της κοινότητας και να έχετε άμαση βοήθεια όταν τη χρειαστείτε."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You must open an ISO file of Salix Live (for example the one you downloaded) and then add to and/or remove from the modules situated in <g id='205'>/salixlive/base</g>, <g id='206'>/salixlive/modules</g> or <g id='207'>/salixlive/optional</g>."
-msgstr "Πρέπει να ανοίξτε ένα αρχείο ISO του Salix Live (για παράδειγμα αυτό που κατεβάσατε) και στη συνέχεια να προσθέσετε ή και να αφαιρέστε σε αυτό αρθρώματα που βρίσκονται στα <g id='199'>/salixlive/base</g>, <g id='200'>/salixlive/modules</g> ή <g id='201'>/salixlive/optional</g>."
+msgstr "Πρέπει να ανοίξτε ένα αρχείο ISO του Salix Live (για παράδειγμα αυτό που κατεβάσατε) και στη συνέχεια να προσθέσετε ή και να αφαιρέστε σε αυτό αρθρώματα που βρίσκονται στα <g id='205'>/salixlive/base</g>, <g id='206'>/salixlive/modules</g> ή <g id='207'>/salixlive/optional</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
