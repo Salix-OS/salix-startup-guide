@@ -16,7 +16,8 @@ for po in `ls po/*.po` po/en.po;do
     (
       cd odt-$lang
       rm -f ../base-$lang.odt
-      zip -r ../base-$lang.odt * >/dev/null
+      zip -0 -X ../base-$lang.odt mimetype >/dev/null
+      zip -r ../base-$lang.odt * -x mimetype >/dev/null
     )
     rm -rf odt-$lang
     if [ "$lang" != "en" ]; then
