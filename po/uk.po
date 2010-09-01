@@ -668,10 +668,9 @@ msgid "<g id='131'>Graphical applications include the <x id='132'/></g><g id='13
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='146'><g id='147'>Geany</g></g><g id='148'> is provided in the Development applications.</g>"
-msgstr "<g id='59'>Geany</g> міститься в Програмах розробки."
+msgstr "<g id='146'><g id='147'>Geany</g></g><g id='148'> міститься в Програмах розробки."
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
@@ -680,10 +679,9 @@ msgid "<g id='149'>Finally, Accessories applications include a variety of small,
 msgstr "Нарешті, у програми з Аксесуари входять малі корисні утиліти, серед яких є <g id='60'>Galculator</g>, <g id='61'>Mousepad</g>, <g id='62'>Catfish</g>, <g id='63'>File Roller</g>, <g id='64'>SCIM</g>, та інші."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='168'>Transmission is a </g><g id='169'><g id='170'>BitTorrent</g></g><g id='171'> client that is simple, lean and powerful.</g>"
-msgstr "<g id='66'>Transmission є </g><g id='67'><g id='68'>BitTorrent</g></g><g id='69'> клієнтом, дуже простим, швидким і потужним.</g>"
+msgstr "<g id='168'>Transmission є </g><g id='169'><g id='170'>BitTorrent</g></g><g id='69'> клієнтом, дуже простим, швидким і потужним.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
