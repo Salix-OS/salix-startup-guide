@@ -13,8 +13,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: French\n"
 "X-Poedit-Country: FRANCE\n"
+"X-Poedit-Language: French\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -112,10 +112,9 @@ msgid "Dotnew"
 msgstr "Dotnew"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Evince (Document Viewer)"
-msgstr "Visualiseur de documents"
+msgstr "Visualiseur de documents (Evince)"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -243,10 +242,9 @@ msgid "LiveClone"
 msgstr "LiveClone"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Login"
-msgstr "Pidgin"
+msgstr "Login"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -259,10 +257,9 @@ msgid "Management"
 msgstr "Gestion"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "MediaPlayer"
-msgstr "Lecteur Multimédia Parole"
+msgstr "Lecteur Multimédia"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -300,7 +297,6 @@ msgid "Package Management"
 msgstr "Gestion des paquets"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Parole Media Player"
 msgstr "Lecteur Multimédia Parole"
@@ -366,7 +362,6 @@ msgid "Salix OS"
 msgstr "Salix OS"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Simple Scan"
 msgstr "Simple Scan"
@@ -432,7 +427,6 @@ msgid "Users Profile"
 msgstr "Profil utilisateurs"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Viewnior"
 msgstr "Viewnior"
@@ -473,7 +467,6 @@ msgid "Xfce and Firefox"
 msgstr "Xfce et Firefox"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "ePDFview"
 msgstr "ePDFView"
@@ -629,7 +622,6 @@ msgid "3- Remove the packages from the working directory:"
 msgstr "3- Enlevez des paquets du répertoire de travail :"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "4- If you're running on Unix (Linux, BSD, Mac OS X), simply execute the file called “install-on-USB.sh”."
 msgstr "4 - Si vous êtes sous Unix (Linux, BSD, Mac OS X), il suffit d'exécuter le fichier \"install-on-USB.sh\"."
@@ -676,10 +668,9 @@ msgid "<g id='131'>Graphical applications include the <x id='132'/></g><g id='13
 msgstr "<g id='131'>Les applications graphiques comprennent <x id='132'/></g><g id='133'><g id='134'>Evince (visionneur de documents)</g></g><g id='135'>, </g><g id='136'><g id='137'>Gimp</g></g><g id='138'>, </g><g id='139'><g id='140'>Simple Scan</g></g><g id='141'> et </g><g id='142'><g id='143'>Viewnior</g></g><g id='144'>. <x id='145'/></g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='146'><g id='147'>Geany</g></g><g id='148'> is provided in the Development applications.</g>"
-msgstr "<g id='59'>Geany</g> est disponible comme application de développement."
+msgstr "<g id='146'><g id='147'>Geany</g></g><g id='148'> est disponible comme application de développement.</g>"
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
@@ -711,16 +702,14 @@ msgid "<g id='204'>Most Salix tools (except Lilo Setup) have an ncurse counterp
 msgstr "La plupart des outils de Salix (sauf Lilo Setup) ont un homologue \"ncurses\" qui peut être utilisé dans un environnement non graphique (<g id='77'>runlevel 3</g>)."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='210'>To execute it in runlevel 3, simply type localesetup</g>."
-msgstr "<g id='78'>Pour l'exécuter en runlevel 3, tapez simplement localesetup</g>."
+msgstr "<g id='210'>Pour l'exécuter en runlevel 3, tapez simplement localesetup</g>."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='211'>To execute it in runlevel 3, simply type clocksetup</g>."
-msgstr "<g id='79'>Pour l'exécuter en runlevel 3, tapez simplement clocksetup</g>."
+msgstr "<g id='211'>Pour l'exécuter en runlevel 3, tapez simplement clocksetup</g>."
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
@@ -877,10 +866,9 @@ msgid "<g id='327'>Once the installation process is completed, You will be given
 msgstr "La plupart du temps c'est ce que vous voudrez faire bien que parfois ce ne soit pas le cas, par exemple si vous souhaitez utiliser grub à la place ou si vous voulez simplement incorporer Salix dans un chargeur de démarrage existant d'une autre distribution."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='382'>If you have a Salix LiveCD, you can simply use </g><g id='383'><g id='384'>LiveClone</g></g><g id='385'> from a Live session. </g>"
-msgstr "<g id='28'>Le Salix Live Startup Guide est publié sous la licence </g><g id='29'><g id='30'>CC-BY-SA 3.0</g></g><g id='31'></g>"
+msgstr "<g id='382'>Si vous avez un Live CD Salix, vous pouvez simplement utiliser </g><g id='383'><g id='384'>LiveClone</g></g><g id='385'> à partir d'une session Live.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1655,7 +1643,6 @@ msgid "Salix Live Installer"
 msgstr "Salix Live Installer"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix OS 13.1"
 msgstr "Salix Live 13.1"
@@ -1676,10 +1663,9 @@ msgid "Salix Live"
 msgstr "Salix Live"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix Live CD holds a <g id='372'>/salixlive/rootcopy/</g> directory."
-msgstr "Le CD de Salix Live contient un répertoire <g id='204'>/salixlive/rootcopy/</g>."
+msgstr "Le CD de Salix Live contient un répertoire <g id='372'>/salixlive/rootcopy/</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
