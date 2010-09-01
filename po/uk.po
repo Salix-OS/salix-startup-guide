@@ -673,10 +673,9 @@ msgid "<g id='146'><g id='147'>Geany</g></g><g id='148'> is provided in the Deve
 msgstr "<g id='146'><g id='147'>Geany</g></g><g id='148'> міститься в Програмах розробки."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='149'>Finally, Accessories applications include a variety of small, useful utilities among which are </g><g id='150'><g id='151'>Galculator</g></g><g id='152'>, </g><g id='153'><g id='154'>Mousepad</g></g><g id='155'>, </g><g id='156'><g id='157'>Catfish</g></g><g id='158'>, </g><g id='159'><g id='160'>File Roller</g></g><g id='161'>, </g><g id='162'><g id='163'>SCIM</g></g><g id='164'>, etc.</g>"
-msgstr "Нарешті, у програми з Аксесуари входять малі корисні утиліти, серед яких є <g id='60'>Galculator</g>, <g id='61'>Mousepad</g>, <g id='62'>Catfish</g>, <g id='63'>File Roller</g>, <g id='64'>SCIM</g>, та інші."
+msgstr "<g id='149'>Нарешті, у програми з Аксесуари входять малі корисні утиліти, серед яких є </g><g id='150'><g id='151'>Galculator</g></g><g id='152'>, </g><g id='153'><g id='154'>Mousepad</g></g><g id='155'>, </g><g id='156'><g id='157'>Catfish</g></g><g id='158'>, </g><g id='159'><g id='160'>File Roller</g></g><g id='161'>, </g><g id='162'><g id='163'>SCIM</g></g><g id='164'>, та інші.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -719,10 +718,9 @@ msgid "<g id='212'>In Unix/Linux, all users and groups of users are given certai
 msgstr "<g id='80'>В Unix/Linux, всім користувачам і групам дано певні </g><g id='81'><g id='82'> привілеї і права доступу</g></g><g id='83'> до деяких частин системи, для того щоб контролювати можливість доступу і її зміни.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='216'><g id='217'>Slapt-get</g></g><g id='218'> is a CLI tool providing an APT‑like system for Slackware package management. It allows one to search Slackware/Salix mirrors and third party sources for packages, compare them with installed packages, install new packages, or upgrade all installed packages. </g>"
-msgstr "Це дозволяє шукати Slackware/Salix дзеркала і треті джерела пакунків, порівнювати їх з вже встановленими пакунками, встановлювати нові пакунки або оновлювати всі встановлені пакунки."
+msgstr "<g id='216'><g id='217'>Slapt-get</g></g><g id='218'> є програмою, що запускається з командного рядка, і з функціями як у APT-подібної системи пакетів як у Slackware. Це дозволяє шукати Slackware/Salix дзеркала і треті джерела пакунків, порівнювати їх з вже встановленими пакунками, встановлювати нові пакунки або оновлювати всі встановлені пакунки."
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
