@@ -13,8 +13,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: FRANCE\n"
 "X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -233,10 +233,9 @@ msgid "Live USB Flash Drive"
 msgstr "Clé USB Live"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Live version"
-msgstr "Outils Live"
+msgstr "Version Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -1214,7 +1213,7 @@ msgstr "Geany est un environnement de développement intégré petit et léger q
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Gigolo is a frontend to easily manage connections to remote filesystems using GIO/GVfs."
-msgstr ""
+msgstr "Gigolo est une interface pour gérer facilement les connexions aux systèmes de fichiers distants en utilisant GIO/GVfs."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1264,7 +1263,7 @@ msgstr "Si vous êtes tout nouveau soit à Salix, Slackware ou encore à Linux e
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "If you only have an iso image of Salix Live, follow the instructions below:"
-msgstr ""
+msgstr "Si vous avez seulement une image ISO de Salix Live, suivez les instructions ci-dessous :"
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
@@ -1275,7 +1274,7 @@ msgstr "Si vous êtes sous Windows, il suffit d'exécuter le fichier \"install-o
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Important!"
-msgstr ""
+msgstr "Important !"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1290,7 +1289,7 @@ msgstr "Dans ce cas, il n'est pas nécessaire de créer ou modifier un module."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "In the case of a Live USB Key generation, you will be offered to make your USB key with “</g><g id='289'><g id='290'>persistence</g></g><g id='291'>”.</g>"
-msgstr ""
+msgstr "Dans le cas d'une génération de clé USB Live, il vous sera proposé de faire votre clé USB avec une gestion de la \"</g><g id='289'><g id='290'>persistance</g></g><g id='291'>\".</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1322,7 +1321,7 @@ msgstr "Il affichera un plan d'action possible pour chaque nouveau fichier de co
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It allows you to quickly connect/mount a remote filesystem and browse local networks shares."
-msgstr ""
+msgstr "Il vous permet de connecter/monter rapidement un système de fichiers distant et d'explorer les réseaux locaux."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1332,12 +1331,12 @@ msgstr "Il peut être facilement généré ou gravé sur un DVD ou un CD en util
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It currently supports pdf, postscript, djvu, tiff and dvi."
-msgstr ""
+msgstr "Il supporte actuellement les formats PDF, PostScript, djvu, TIFF et DVI."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It depends if you already have a Salix LiveCD or simply an iso image."
-msgstr ""
+msgstr "Cela dépend si vous avez déjà un Live CD Salix ou tout simplement une image ISO."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1357,12 +1356,12 @@ msgstr "Il est hautement configurable et supporte des alertes basées sur les da
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It is intended to be a basic media player with little dependencies."
-msgstr ""
+msgstr "Il est destiné à être un lecteur multimédia de base avec peut de dépendances."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It is interesting to note that when you produce your own customized Live CD/DVD/USB with the help of LiveClone, Salix Live Installer will still be fully functionable with it."
-msgstr ""
+msgstr "Il est intéressant de noter que lorsque vous produisez vos propres Live CD/DVD/USB avec l'aide de LiveClone, Salix Live Installer sera toujours pleinement opérationnel avec."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1382,7 +1381,7 @@ msgstr "Il offre une configuration aisée et une abondance de fonctions."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It opens PDF files, save copies of documents, and has support for printing using CUPS."
-msgstr ""
+msgstr "Il ouvre les fichiers PDF, enregistrer des copies de documents, et a un support de l'impression en utilisant CUPS."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1397,12 +1396,12 @@ msgstr "Il stocke vos courriels dans le format de boîte aux lettres MH, ainsi q
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It supports fullscreen mode, seeking, changing video colour settings and more."
-msgstr ""
+msgstr "Il supporte le mode plein écran, la recherche, la modification des paramètres de couleur vidéo et plus encore."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It uses the WebKit rendering engine."
-msgstr ""
+msgstr "Il utilise le moteur de rendu WebKit."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1462,7 +1461,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Lxde edition"
-msgstr ""
+msgstr "Édition Lxde"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1477,12 +1476,12 @@ msgstr "Faire un module d'un paquet :"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Media Player will play any audio/video files which gstreamer can play."
-msgstr ""
+msgstr "Media Player va jouer tout les fichiers audio/vidéo que GStreamer peut jouer."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Midori (Japanese for green) is a web browser that aims to be lightweight and fast."
-msgstr ""
+msgstr "Midori (vert en Japonais) est un navigateur web qui se veut léger et rapide."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1507,12 +1506,12 @@ msgstr "Notez que vous devez recréer l'arborescence complète pour que les corr
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Of course, Gslapt package manager, and its command line equivalent slapt-get, are available to install extra software from Slackware and Salix repositories, with complete support for dependency resolution."
-msgstr ""
+msgstr "Bien sûr, le gestionnaire de paquets Gslapt, et sa ligne de commande équivalent slapt-get, sont disponibles pour installer des logiciels supplémentaires à partir des dépôts de Slackware et de Salix, avec support complet de la résolution des dépendances."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Of course, this is also the case with the <g id='414'>installation</g> and <g id='415'>customization</g> of Salix LXDE Live."
-msgstr ""
+msgstr "Bien sûr, c'est également le cas avec l'<g id='414'>installation</g> et la <g id='415'>personnalisation</g> de Salix LXDE Live."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1527,7 +1526,7 @@ msgstr "Sur le côté gauche de l'application, vous verrez les différentes sect
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Once this file has been created, it is necessary to reboot the Live CD."
-msgstr ""
+msgstr "Une fois que ce fichier a été créé, il est nécessaire de redémarrer le Live CD."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1568,12 +1567,12 @@ msgstr "Gestion des paquets"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Parole features playback of local media files, including video with subtitles support, DVD/CD and live streams."
-msgstr ""
+msgstr "Parole permet la lecture de fichiers médias locaux, y compris les vidéos avec sous-titres, les DVD/CD et flux en streaming."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Parole is also extensible via plugins, and it is shipped with a browser media player plugin."
-msgstr ""
+msgstr "Parole est également extensible via des greffons, et il est livré avec un greffon pour le navigateur Internet."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1593,7 +1592,7 @@ msgstr "PiTiVi est éditeur de vidéos facile à utiliser."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "PiTiVi's user interface is carefully designed to suit both the newcomer and the professional, to be efficient and intuitive."
-msgstr ""
+msgstr "L'interface utilisateur PiTiVi est soigneusement conçu pour convenir à la fois aux novices et aux professionnels, pour être efficace et intuitive."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1643,12 +1642,12 @@ msgstr "Rappelez-vous que la partition de swap existante sera automatiquement ut
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix LXDE Live is the Live version of Salix LXDE edition and thus includes the same choice of software plus, just like Salix XFCE Live, the full set of <x id='408'/><g id='409'>Salix Live tools</g>."
-msgstr ""
+msgstr "Salix LXDE Live est la version Live de l'édition LXDE de Salix et comprend donc le même choix de logiciels plus, tout comme Salix Xfce Live, l'ensemble des <x id='408'/><g id='409'>outils Salix Live</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix LXDE edition features the Lightweight X11 Desktop Environment, “<g id='386'>an extremely fast-performing and energy-saving desktop environment</g>”, with a clean look and feel."
-msgstr ""
+msgstr "L'édition LXDE de Salix comporte « Lightweight X11 Desktop Environment » (LXDE), <g id='386'>un environnement de bureau extrêmement rapide, performant et économes en énergie</g>, avec un design propre."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1716,7 +1715,7 @@ msgstr "Il suffit de cliquer sur une date pour afficher ou définir l'agenda pou
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Simply plug your Salix Live USB key in your computer and start it the usual way."
-msgstr ""
+msgstr "Il suffit de brancher votre clé USB Live Salix dans votre ordinateur et la booter de façon habituelle."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1736,7 +1735,7 @@ msgstr "Logiciels"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Some of Salix XFCE standard application however are replaced by lighter counteparts."
-msgstr ""
+msgstr "Certaines des applications standard de Salix Xfce sont cependant remplacés par contreparties plus légères."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1782,7 +1781,7 @@ msgstr "Système de gestion"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Core installation mode is identical to the one you get from the XFCE edition while Basic will install a minimal LXDE desktop with only Midori and Gslapt installed as extra."
-msgstr ""
+msgstr "Le mode Essentiel est identique à celui que vous obtenez avec l'édition Xfce, alors que le mode de Base installera un bureau LXDE minimal avec seulement Midori et Gslapt installé en plus."
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
@@ -1798,7 +1797,7 @@ msgstr "Les Linux Live Scripts sont fournis avec ces commandes :"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Office suite is managed by <x id='389'/><g id='390'>Abiword</g> and <g id='391'>Gnumeric</g> while <g id='392'>ePDFviewer</g> replaces Evince."
-msgstr ""
+msgstr "La suite Office est gérée par <x id='389'/><g id='390'>Abiword</g> et par <g id='391'>Gnumeric</g> tandis qu'<g id='392'>ePDFviewer</g> remplace Evince."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1818,17 +1817,17 @@ msgstr "Le premier écran vous permettra de choisir votre langue."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The full set of <x id='387'/><g id='388'>Salix system tools</g> are of course included in this release as well as many of the applications used in Salix XFCE standard edition."
-msgstr ""
+msgstr "L'ensemble des <x id='387'/><g id='388'>outils système de Salix</g> sont bien sûr inclus dans cette version ainsi que la plupart des applications utilisées dans l'édition standard de Salix Xfce."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The goal of Gnumeric is to be the best possible spreadsheet."
-msgstr ""
+msgstr "L'objectif de Gnumeric est d'être le meilleur tableur."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The interface is intuitive, you can create your own film clips with a simple drag and drop."
-msgstr ""
+msgstr "L'interface est intuitive, vous pouvez créer vos propres extraits de films avec un simple glisser-déposer."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1843,17 +1842,17 @@ msgstr "Le CD résultant ne doit pas contenir le fichier .iso, ou vous avez fait
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Therefore all the instructions that apply to <g id='413'>Salix XFCE Live</g> are equally applicable to Salix LXDE Live."
-msgstr ""
+msgstr "Par conséquent, toutes les instructions qui s'appliquent à <g id='413'>Salix Live Xfce</g> sont également applicables à Salix Live LXDE."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "These features come in very handy when scanning books and multi-page documents."
-msgstr ""
+msgstr "Ces caractéristiques sont très utiles pour scanner des livres ou documents avec de multiple pages."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This can be particularly interesting if you regularly perform installations at friends/family/neigbours/schools/etc and you generally like to add your personnal touch/preferences to those installations."
-msgstr ""
+msgstr "Cela peut être particulièrement intéressant si vous effectuez régulièrement des installations chez des amis/de la famille/des voisins/des écoles/etc et que généralement vous souhaitez ajouter votre touche personnelle/vos préférences pour ces installations."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1978,7 +1977,7 @@ msgstr "L'annulation est disponible et aucun des paramètres ne sera appliqué t
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Unlike other system tools, Wicd is located under the Internet Menu."
-msgstr ""
+msgstr "Contrairement aux outils d'autres systèmes, Wicd est situé dans le menu Internet."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2003,7 +2002,7 @@ msgstr "Les instructions en dessous du menu de démarrage de Salix Live vous do
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "While not attempting to clone existing applications, Gnumeric can however read files saved with other spreadsheets and offers a customizable feel that attempts to minimize the costs of transition."
-msgstr ""
+msgstr "Bien que n'essayant pas de cloner les applications existantes, Gnumeric peut cependant lire les fichiers enregistrés avec d'autres tableurs et offre une personnalisation qui tente de minimiser les coûts de transition."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2018,7 +2017,7 @@ msgstr "Xfce est un environnement de bureau léger pour divers systèmes Unix/Li
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You can also crop images before saving them."
-msgstr ""
+msgstr "Vous pouvez également rogner des images avant de les enregistrer."
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
@@ -2034,7 +2033,7 @@ msgstr "Vous pouvez personnaliser complètement le contenu d'un module en suppri
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You can now easily produce your very own mini distro with the help of LiveClone and you are all set to deploy it on multiple computers."
-msgstr ""
+msgstr "Vous pouvez désormais facilement produire votre propre mini distro avec l'aide de LiveClone et vous êtes tout prêt pour la déployer sur plusieurs ordinateurs."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2135,7 +2134,7 @@ msgstr "dir2lzm directoryx modulex.lzm"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "ePDFView is a lightweight PDF document viewer that only uses the GTK+ and Poppler libraries."
-msgstr ""
+msgstr "ePDFView est un visualiseur léger de documents PDF qui utilise seulement les bibliothèques GTK+ et Poppler."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2235,7 +2234,7 @@ msgstr "mkdir /mnt/hdxx/custom_live"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mtPaint is a painting program designed to easily create pixel art and manipulate digital photos."
-msgstr ""
+msgstr "mtPaint est un programme de peinture conçu pour créer facilement du pixel art ou pour manipuler des photos numériques."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
