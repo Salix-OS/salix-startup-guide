@@ -19,3 +19,9 @@ If you want to update the content of the ODT file:
 - Edit the .pot file and check for splitted words/sentances "like th<span class="Toto">is typ</span>e of things" by either removing the wrong tag or by repositionning it correctly in the file odt/content.xml.
 - Re-run "./update_translations.sh" until you're satisfied.
 - Use "./compile.sh all pdf" to generate all PDF file from this.
+
+Tips for manipulating the ODT document:
+- Go in Tools → Options → Appearance → Page and column breaks → choose color Red.
+- Ensure that each page starts with a red line, i.e. that you put a "page break" at the end of each page. This is because the size of § will vary with different languages. Most languages takes a bigger size than english, so takes this into account by letting some room at the end of each page (one or two lines, depends on the amount of text on the page).
+- If you make a modification to a part of text, and you miss some part. Prefer doing "undo" then reapply your modification rather than applying the modification to the remaining part.
+- When editing text, prefer showing special characters: View → Nonprinting Characters.
