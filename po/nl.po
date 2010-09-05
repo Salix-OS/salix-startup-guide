@@ -867,40 +867,34 @@ msgid "<g id='62'>However, while in the </g><g id='63'><g id='64'>KISS</g></g><g
 msgstr "<g id='62'Terwijl Slackware in principe voldoet aan het </g><g id='63'><g id='64'>KISS</g></g><g id='65'>, \"Simpel\" verwijst bij hen naar het standpunt van systeemontwerp. Salix OS is echter ook van toepassing is voor het standpunt van de eindgebruiker."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='66'>In order to do this, Salix OS has chosen the </g><g id='67'><g id='68'>Xfce</g></g><g id='69'> desktop, which offers a comprehensive full‑featured environment while managing to remain simple, unobstructive and highly responsive.</g>"
-msgstr "Om dit te doen, heeft Salix OS gekozen voor de <g id='36'>Xfce</g> desktop, welke een uitgebreid full-featured omgeving heeft, terwijl het beheer eenvoudig, toegankelijk en snel blijft."
+msgstr "<g id='66'>Om dit te doen, heeft Salix OS gekozen voor de </g><g id='67'><g id='68'>Xfce</g></g><g id='69'> desktop, welke een uitgebreid full-featured omgeving heeft, terwijl het beheer eenvoudig, toegankelijk en snel blijft.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='70'>Salix OS also provides all the necessary </g><g id='71'><g id='72'>GUI</g></g><g id='73'> utilities to assist </g><g id='74'><g id='75'>system management</g></g><g id='76'>.</g>"
-msgstr "Salix OS biedt ook alle nodige <g id='37'>GUI</g> om <g id='38'>systeembeheer</g> te vergemakkelijken."
+msgstr "<g id='70'>Salix OS biedt ook alle nodige </g><g id='71'><g id='72'>GUI</g></g><g id='73'>tools om </g><g id='74'><g id='75'>systeembeheer</g></g><g id='76'> te vergemakkelijken.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='77'>Salix OS package management uses the proven </g><g id='78'><g id='79'>slapt‑get/gslapt</g></g><g id='80'> combination includes dependency from both the original Slackware repositories and the complementary and ever-increasing Salix OS </g><g id='81'><g id='82'>repository</g></g><g id='83'>.</g>"
-msgstr "Salix OS package management maakt gebruik van de bewezen <g id='39'>slapt-get/gslapt</g> combinatie en omvat afhankelijkheid van zowel de originele Slackware repositories en de complementaire en de steeds toenemende Salix OS <g id='40'>repository</g>."
+msgstr "<g id='77'>Salix OS package management maakt gebruik van de bewezen </g><g id='78'><g id='79'>slapt‑get/gslapt</g></g><g id='80'> combinatie en omvat afhankelijkheid van zowel de originele Slackware repositories en de complementaire en de steeds toenemende Salix OS </g><g id='81'><g id='82'>repository</g></g><g id='83'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='84'>The Basic Mode is built on the Core Mode with the addition of Xfce desktop environment, Firefox web browser and </g><g id='85'><g id='86'>Gslapt package manager</g></g><g id='87'>. This is ideal for advanced users who would like to install a lightweight Xfce and add their own choice of applications.</g>"
-msgstr "De standaard modus is gebaseerd op de Core modus met toevoeging van een Xfce desktop omgeving, Firefox webbrowser en <g id='41'>Gslapt pakket manager</g>."
+msgstr "<g id='84'>De standaard modus is gebaseerd op de Core modus met toevoeging van een Xfce desktop omgeving, Firefox webbrowser en </g><g id='85'><g id='86'>Gslapt pakketmanager</g></g><g id='87'>. Dit is ideaal voor ervaren gebruikers die een lichtgewicht Xfce met hun eigen applicaties willen installeren.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='88'>The Office applications are composed of the full </g><g id='89'><g id='90'>OpenOffice productivity suite</g></g><g id='91'>, and </g><g id='92'><g id='93'>Orage agenda</g></g><g id='94'>.</g>"
-msgstr "De Office applicaties zijn samengesteld uit de volledige <g id='42'>OpenOffice productiviteitssuite</g>, <g id='43'>epdfview</g> en <g id='44'>Orage agenda</g>."
+msgstr "<g id='88'>De Office applicaties zijn samengesteld uit de volledige </g><g id='89'><g id='90'>OpenOffice productiviteitssuite</g></g><g id='91'> en </g><g id='92'><g id='93'>Orage agenda</g></g><g id='94'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='95'>Besides Firefox, Network applications include </g><g id='96'><g id='97'>Claws‑mail</g></g><g id='98'>, </g><g id='99'><g id='100'>Pidgin</g></g><g id='101'>  </g><g id='102'><g id='103'>Transmission</g></g><g id='104'> and </g><g id='105'><g id='106'>gFTP</g></g><g id='107'>.</g>"
-msgstr "Naast Firefox, heeft Netwerk toepassingen onder meer <g id='45'>Claws-mail</g>, <g id='46'>Pidgin</g>, <g id='47'>Transmission</g> en <g id='48'>gFTP</g>."
+msgstr "<g id='95'>Naast Firefox, heeft Netwerk toepassingen onder meer </g><g id='96'><g id='97'>Claws‑mail</g></g><g id='98'>, </g><g id='99'><g id='100'>Pidgin</g></g><g id='101'>  </g><g id='102'><g id='103'>Transmission</g></g><g id='104'> en </g><g id='105'><g id='106'>gFTP</g></g><g id='107'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
