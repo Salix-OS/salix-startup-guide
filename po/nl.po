@@ -232,9 +232,10 @@ msgid "Live USB Flash Drive"
 msgstr "Live USB Flash Drive"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Live version"
-msgstr "Live versie"
+msgstr "Live version"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -377,9 +378,10 @@ msgid "Software"
 msgstr "Software"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Standard version"
-msgstr "Standaard versie"
+msgstr "Standard version"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -432,6 +434,7 @@ msgid "Viewnior"
 msgstr "Viewnior"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Whaaw!"
 msgstr "Whaaw!"
