@@ -1799,7 +1799,7 @@ msgstr "Dit is ideaal als u een ervaren gebruiker bent en u wilt uw installatie 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This is particularly useful when you have a multiple sound cards in your system, and you would like to assign a sound card for your system other than the one automatically picked during installation/start-up."
-msgstr ""
+msgstr "Dit is vooral handig wanneer u meerdere geluidskaarten in uw systeem hebt, en u wilt een andere geluidskaart voor uw systeem toewijzen dan degene automatisch gekozen tijdens de installatie/start-up."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1809,7 +1809,7 @@ msgstr "Deze laatste modus is gebaseerd op de Basic Modus en biedt een volledig 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This tool facilitates defining / overviewing host names used while setting up your machine as a server."
-msgstr ""
+msgstr "Deze tool vergemakkelijkt het definiëren/overzien van gebruikte hostnamen, tijdens het opzetten van uw PC als server."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1914,7 +1914,7 @@ msgstr "Ongedaan maken opties zijn beschikbaar en geen van de instellingen zal w
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Unlike other system tools, Wicd is located under the Internet Menu."
-msgstr ""
+msgstr "In tegenstelling tot andere systeemtools is Wicd te vinden onder het Internet menu."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1939,7 +1939,7 @@ msgstr "Via de instructies onder het Salix Live Boot menu krijgt u toegang tot d
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "While not attempting to clone existing applications, Gnumeric can however read files saved with other spreadsheets and offers a customizable feel that attempts to minimize the costs of transition."
-msgstr ""
+msgstr "Hoewel het niet probeert om bestaande toepassingen te klonen, kan Gnumeric bestanden lezen die zijn opgeslagen met andere spreadsheets en biedt een aanpasbare omgeving dat poogt de overgangskosten te minimaliseren."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
