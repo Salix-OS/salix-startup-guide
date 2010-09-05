@@ -1734,7 +1734,7 @@ msgstr "De Linux Live Scripts worden geleverd met de volgende handige commando's
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Office suite is managed by <x id='389'/><g id='390'>Abiword</g> and <g id='391'>Gnumeric</g> while <g id='392'>ePDFviewer</g> replaces Evince."
-msgstr ""
+msgstr "Het Office pakket bevat <x id='389'/><g id='390'>Abiword</g> and <g id='391'>Gnumeric</g> en <g id='392'>ePDFviewer</g> vervangt Evince."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1754,17 +1754,17 @@ msgstr "Het welkomstscherm geeft de mogelijkheid om uw taal te selecteren."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The full set of <x id='387'/><g id='388'>Salix system tools</g> are of course included in this release as well as many of the applications used in Salix XFCE standard edition."
-msgstr ""
+msgstr "De volledige set van de <x id='387'/><g id='388'> Salix systeem tools </g> zijn uiteraard opgenomen in deze release, evenals veel toepassingen welke gebruikt worden in de Salix XFCE standaard editie."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The goal of Gnumeric is to be the best possible spreadsheet."
-msgstr ""
+msgstr "Het doel van Gnumeric is om het beste spreadsheet programma te zijn."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The interface is intuitive, you can create your own film clips with a simple drag and drop."
-msgstr ""
+msgstr "De interface is intuïtief, u kunt uw eigen filmpjes met een simpele drag&drop samenstellen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1779,17 +1779,17 @@ msgstr "De resulterende CD moet niet het .iso bestand bevatten. of u heeft een f
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Therefore all the instructions that apply to <g id='413'>Salix XFCE Live</g> are equally applicable to Salix LXDE Live."
-msgstr ""
+msgstr "Zodoende moeten alle instructies die van toepassing zijn op<g id='413'> Salix XFCE Live </g> eveneens van toepassing zijn op Salix LXDE Live."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "These features come in very handy when scanning books and multi-page documents."
-msgstr ""
+msgstr "Deze functies zijn zeer handig bij het scannen van boeken en documenten met meerdere pagina's."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This can be particularly interesting if you regularly perform installations at friends/family/neigbours/schools/etc and you generally like to add your personnal touch/preferences to those installations."
-msgstr ""
+msgstr "Dit kan vooral handig zijn als u regelmatig installaties uitvoert bij vrienden/familie/neigbours/scholen/etc en u over het algemeen uw persoonlijke touch/voorkeuren aan deze installaties wilt toevoegen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1917,10 +1917,9 @@ msgid "Unlike other system tools, Wicd is located under the Internet Menu."
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Viewnior is a fast and lightweight picture viewer."
-msgstr "Ristretto is een snelle en lichtgewicht foto-viewer."
+msgstr "Viewnior is een snelle en lichtgewicht fotoviewer."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1997,7 +1996,7 @@ msgstr "Uw computer moet ingesteld worden om eerst van de optische speler op te 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "a 200MHz CPU and 16MB of free RAM)."
-msgstr ""
+msgstr "een 200MHz processor en 16MB RAM vrij)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
