@@ -860,19 +860,17 @@ msgstr "<g id='28'>Помічник встановлення Salix Live ство
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='393'>Midori</g> is the web browser, <x id='394'/><g id='395'>Whaaw! MediaPlayer</g> plays multimedia contents and <g id='396'>mtPaint</g> offers graphic and photo editing."
-msgstr ""
+msgstr "<g id='393'>Midori</g> є переглядачкою тенет, <x id='394'/><g id='395'>Whaaw! MediaPlayer</g> програє мультимедіа і <g id='396'>mtPaint</g> дозволяє редактувати графіку і фото."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='47'>The latest version of this document can be found </g><g id='48'><g id='49'>here</g></g><g id='50'>.</g>"
-msgstr "<g id='24'>Останнб версію цього документа можна знайти </g><g id='25'><g id='26'>тут</g></g><g id='27'>.</g>"
+msgstr "<g id='47'>Останню версію цього документа можна знайти </g><g id='48'><g id='49'>тут</g></g><g id='50'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='51'>Salix Live Startup Guide is released under </g><g id='52'><g id='53'>CC-BY-SA 3.0</g></g><g id='54'> license.</g>"
-msgstr "<g id='28'>Помічник встановлення Salix Live створено згідно ліцензії </g><g id='29'><g id='30'>CC-BY-SA 3.0</g></g><g id='31'>.</g>"
+msgstr "<g id='51'>Помічник встановлення Salix Live створено згідно ліцензії </g><g id='52'><g id='53'>CC-BY-SA 3.0</g></g><g id='54'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
@@ -960,7 +958,7 @@ msgstr "Звукова карта ALSA управляє конфігураціє
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "AbiWord is a word processing program suitable for a wide variety of word processing tasks."
-msgstr ""
+msgstr "AbiWord є програмою для написання текстів і підходить для різноманітних завдань обробки тексту."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1008,7 +1006,6 @@ msgid "As previously stated Salix relies on the excellent slapt-get/Gslapt combi
 msgstr "Так як вже було сказано, Salix опирається на комбінацію slapt-get/Gslapt для керування пакунками програм."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "As the name indicates, Rebuild Icon Cache re-connects some icons that are not displayed after updating your system / installing some new program, and makes them appear again on your menu bar."
 msgstr "Як показує назва, Перебудова Кешу Іконок відновлює деякі іконки, які були втрачені після оновлення системи / встановлення нових програм, і показує їх знову на панелі меню."
@@ -1016,7 +1013,7 @@ msgstr "Як показує назва, Перебудова Кешу Іконо
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "As with the standard XFCE edition, installation can be performed in three different modes, core, basic and full."
-msgstr ""
+msgstr "Так само як і встановлення XFCE видання, можна вибрати встановлення в трьох режимах, основному, базовому і повному."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1046,7 +1043,7 @@ msgstr "Перед використанням мультимедійних пр�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Besides scanning, Simple Scan has some intelligent features, like saving files as image sequences and pdf files."
-msgstr ""
+msgstr "Крім сканування, Просте Сканування має властивість зберігати файли як зображення і як pdf файли."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
