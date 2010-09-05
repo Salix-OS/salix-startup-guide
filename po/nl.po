@@ -737,75 +737,64 @@ msgid "<g id='237'>Salix Live is the Live CD version of </g><g id='238'><g id='
 msgstr "<g id='237'>Salix Live is de Live CD versie van </g><g id='238'><g id='239'>Salix OS</g><g id='240'>. U kunt dus veilig een 'proefrit' maken met Salix OS zonder iets te hoeven installeren op uw computer. U zult in staat zijn om te bepalen in hoeverre S</g><g id='241'>alix OS compatibel is met uw specifieke hardware configuratie en of het past bij uw persoonlijke voorkeur.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='243'>The latest Salix OS or Salix Live releases are freely and easily available as ISO image files from Salix OS </g><g id='244'><g id='245'>download page</g></g><g id='246'>.</g>"
-msgstr "De nieuwste Salix OS of Salix Live releases zijn gratis en gemakkelijk verkrijgbaar als ISO image bestanden van de Salix OS <g id='93'>download pagina</g>."
+msgstr "<g id='243'>De nieuwste Salix OS of Salix Live releases zijn gratis en gemakkelijk verkrijgbaar als ISO image bestanden van de Salix OS </g><g id='244'><g id='245'>download pagina</g></g><g id='246'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='247'>If necessary, you can verify the integrity of your downloaded file by comparing its </g><g id='248'><g id='249'>md5sum</g></g><g id='250'> file with the original one uploaded besides the corresponding ISO image file by Salix OS.</g>"
-msgstr "Indien nodig, kunt u de integriteit van uw gedownloade bestand controleren door het <g id='94'>md5sum</g> bestand te vergelijken met de originele bij het overeenkomstige ISO bestand geüpload door Salix OS."
+msgstr "<g id='247'>Indien nodig, kunt u de integriteit van uw gedownloade bestand controleren door het </g><g id='248'><g id='249'>md5sum</g></g><g id='250'> bestand te vergelijken met de originele bij het overeenkomstige ISO bestand geüpload door Salix OS.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='251'>You can also explode the Salix Live ISO image onto a </g><g id='252'><g id='253'>USB key</g></g><g id='254'>.</g>"
-msgstr "<g id='95'>U kunt de Salix Live ISO image ook op een </g><g id='96'><g id='97'>USB-stick</g></g><g id='98'> zetten.</g>"
+msgstr "<g id='251'>U kunt de Salix Live ISO image ook op een </g><g id='252'><g id='253'>USB-stick</g></g><g id='254'>zetten.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='255'>If that is not the case, which is very rare, you will need to first enter the </g><g id='256'><g id='257'>BIOS</g></g><g id='258'> setup, usually by pressing the Del‑key or the F2‑key (or some other key combinations depending on your machine…). Once in the BIOS, find the \"boot menu\" and set the order of the boot devices properly, with your optical drive in first position. Save your changes and reboot your computer.</g>"
-msgstr "<g id='99'>Als dat niet het geval is, wat zeer zeldzaam is, moet u eerst de </g><g id='100'><g id='101'> BIOS </g></g><g id='102'> instellen, meestal door op de Del-toets of de F2-toets (of een andere toets-combinatie, afhankelijk van uw PC...). In de BIOS vindt u het \"boot menu\", zet de volgorde van de boot devices goed met uw optische drive in de eerste positie. Sla de wijzigingen op en herstart uw computer.</g>"
+msgstr "<g id='255'>Als dat niet het geval is, wat zeer zeldzaam is, moet u eerst de </g><g id='256'><g id='257'>BIOS</g></g><g id='258'> instellen, meestal door op de Del-toets of de F2-toets (of een andere toets-combinatie, afhankelijk van uw PC...). In de BIOS vindt u het \"boot menu\", zet de volgorde van de boot devices goed met uw optische drive in de eerste positie. Sla de wijzigingen op en herstart uw computer.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='259'>You also have the possibility to </g><g id='260'><g id='261'>modify most default boot settings</g></g><g id='262'>.</g>"
-msgstr "<g id='104'>U heeft ook de mogelijkheid om </g><g id='105'><g id='106'>wijzigt de meeste standaard boot-instellingen</g></g><g id='107'>.</g>"
+msgstr "<g id='259'>U heeft ook de mogelijkheid om </g><g id='260'><g id='261'>de meeste standaard boot-instellingen te wijzigen</g></g><g id='262'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='263'>Simply press Enter on the default menu entry: Start Salix Live and a moment later you will enter </g><g id='264'><g id='265'>Xfce desktop</g></g><g id='266'>.</g>"
-msgstr "<g id='108'>Druk op het standaard menu-item: Start Salix Live en even later komt u in </g><g id='109'><g id='110'>Xfce desktop</g></g><g id='111'>.</g>"
+msgstr "<g id='263'>Druk op het standaard menu-item: Start Salix Live en even later komt u in de </g><g id='264'><g id='265'>Xfce desktop</g></g><g id='266'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='267'>Salix Live is configured with autologin, which means that you will not need to identify yourself before entering the Live session. If for any reason, the automated login was not working or you had to restart a new session for whatever reason, you will need to know that the standard user login is: </g><g id='268'>one</g><g id='269'> and it doesn't have a password.</g>"
-msgstr ""
+msgstr "<g id='267'>Salix Live is met autologin geconfigureerd, wat betekent dat u zich niet hoeft te identificeren bij het starten van een Live sessie. Indien op eniger wijze de autlogin niet heeft gewerkt of u moest een nieuwe sessie starten, zult u moeten weten dat de standaard gebruikerslogin is: </g><g id='268'>one</g><g id='269'> en deze bevat geen wachtwoord.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='270'>All Live Tools require </g><g id='271'><g id='272'>administrator's right</g></g><g id='273'> and will ask you for the (root) password. </g>"
-msgstr "<g id='112'>Alle Live Tools vereisen </g><g id='113'><g id='114'>administrator rechten</g></g><g id='115'> en zullen u voor het (root) wachtwoord vragen. </g>"
+msgstr "<g id='270'>Alle Live Tools vereisen </g><g id='271'><g id='272'>administrator rechten</g></g><g id='273'>en zullen u voor het (root) wachtwoord vragen. </g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='275'>Salix Live comes with all the default </g><g id='276'><g id='277'>software</g></g><g id='278'> included in Salix OS.</g>"
-msgstr "<g id='117'>Salix Live wordt geleverd met alle standaard </g><g id='118'><g id='119'>software</g></g><g id='120'> opgenomen in Salix OS.</g>"
+msgstr "<g id='275'>Salix Live wordt geleverd met alle standaard </g><g id='276'><g id='277'>software</g></g><g id='278'> opgenomen in Salix OS.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='279'>Some of the Live Tools are graphical utilities that can be accessed directly on the desktop while some Live Tools, reserved for advanced users can only be executed in a Terminal, from the command line (</g><g id='280'><g id='281'>CLI</g></g><g id='282'>).</g>"
-msgstr "Sommige van de Live Tools zijn grafische tools welke meteen toegankelijk zijn op de desktop, terwijl sommige Live Tools bestemd zijn voor gevorderde gebruikers en kunnen alleen worden uitgevoerd in een terminal, vanaf de <g id='120'>CLI </g>."
+msgstr "<g id='279'>Sommige van de Live Tools zijn grafische tools welke meteen toegankelijk zijn op de desktop, terwijl sommige Live Tools bestemd zijn voor gevorderde gebruikers en kunnen alleen worden uitgevoerd in een terminal, vanaf de command line (</g><g id='280'><g id='281'>CLI</g></g><g id='282'>).</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='283'>Gparted is included in Salix Live to assist you in </g><g id='284'><g id='285'>managing your partitions</g></g><g id='286'> if it is necessary for you to do so before performing the installation of Salix OS.</g>"
-msgstr "<g id='128'>GParted is beschikbaar in Salix Live om te helpen bij </g><g id='129'><g id='130'>het beheer van uw partities </g></g><g id='131'> indien dat nodig is voordat de installatie van OS Salix wordt uitgevoerd.</g>"
+msgstr "<g id='283'>GParted is beschikbaar in Salix Live om te helpen bij </g><g id='284'><g id='285'>het beheer van uw partities</g></g><g id='286'> indien dat nodig is voordat de installatie van OS Salix wordt uitgevoerd.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='287'>LiveClone generates a Live CD/DVD iso image (which you can burn as an image on a CD/DVD with a CD/DVD burner) or a Live USB key. This means that you can create your very own customized live CD/DVD/USB <x id='288'/>which will be based either on SalixLive or your modified running environment."
-msgstr "<g id='136'>LiveClone genereert een Live CD/DVD iso image (welke op een CD/DVD kan worden gebrand met een CD/DVD brander) of een Live USB key. Dit houdt in dat het uw eigen aangepaste live omgeving maakt welke op uw SalixLive of eigen draaiende systeem is gebaseerd. In het geval van een Live USB Key creatie, zult u de mogelijkheid hebben om de USB key te maken met“</g><g id='137'><g id='138'>persistentie</g></g><g id='139'>”.</g>"
+msgstr "<g id='287'>LiveClone genereert een Live CD/DVD iso image (welke op een CD/DVD kan worden gebrand met een CD/DVD brander) of een Live USB-stick. Dit houdt in dat het uw eigen aangepaste live CD/DVD/USB Key kan maken <x id='288'/>welke op uw SalixLive of eigen draaiende systeem is gebaseerd."
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
