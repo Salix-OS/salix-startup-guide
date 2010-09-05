@@ -929,12 +929,12 @@ msgstr "AIM, ICQ, Google Talk, Jabber/XMPP, MSN Messenger, Yahoo, etc."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "ALSA Sound Card manages the system sound card configuration."
-msgstr ""
+msgstr "ALSA Sound Card beheert de configuratie van de systeemgeluidskaart."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "AbiWord is a word processing program suitable for a wide variety of word processing tasks."
-msgstr ""
+msgstr "AbiWord is een tekstverwerkingsprogramma welke geschikt is voor een breed scala van tekstverwerkingstaken."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -974,7 +974,7 @@ msgstr "Aangezien het een applicatie is voor dagelijks gebruik, zal het in de ac
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "As long as it is supported by the GStreamer Multimedia Framework, PiTiVi will handle any format you throw at it."
-msgstr ""
+msgstr "Zolang het wordt ondersteund door het GStreamer Multimedia Framework, zal PiTiVi elk formaat verwerken."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -984,12 +984,12 @@ msgstr "Zoals eerder vermeld is Salix gebaseerd op de uitstekende combinatie sla
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "As the name indicates, Rebuild Icon Cache re-connects some icons that are not displayed after updating your system / installing some new program, and makes them appear again on your menu bar."
-msgstr ""
+msgstr "Zoals de naam al aangeeft, zal Rebuild Icon Cache een aantal icoontjes die niet worden weergegeven na het updaten van uw systeem of installeren van een nieuw programma, opnieuw aansluiten en laat ze weer verschijnen op uw menubalk."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "As with the standard XFCE edition, installation can be performed in three different modes, core, basic and full."
-msgstr ""
+msgstr "Zoals bij de standaard XFCE editie, kan de installatie worden uitgevoerd in drie verschillende modes, core, basic en full."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1019,7 +1019,7 @@ msgstr "Voordat u gebruik kunt maken van de multimedia toepassingen, moet u miss
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Besides scanning, Simple Scan has some intelligent features, like saving files as image sequences and pdf files."
-msgstr ""
+msgstr "Naast het scannen, heeft Simple Scan een aantal intelligente functies, zoals het opslaan van bestanden als sequentiële plaatjes en PDF."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1034,7 +1034,7 @@ msgstr "Boot parameters of cheatcodes worden toegepast om het opstartproces van 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Both LiveCDs share the same <g id='410'>login</g>, <g id='411'>root passwords</g>, <g id='412'>cheatcodes</g>, etc."
-msgstr ""
+msgstr "Beide LiveCDs delen dezelfde <g id='410'>login</g>, <g id='411'>root wachtwoorden</g>, <g id='412'>cheatcodes</g>, etc."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1042,10 +1042,9 @@ msgid "Brasero is an application to burn CD/DVD."
 msgstr "Brasero is een applicatie om CD/DVD's branden."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "By browsing /mnt/live/memory/images/xxx.lzm/, you can view the contents of each module, therefore you'll find which module holds a given package in /mnt/live/memory/images/xxx.lzm/var/log/packages/"
-msgstr "<g id='196'>Door te bladeren in</g>/mnt/live/memory/images/xxx.lzm/<g id='197'>, kunt u de inhoud van elke module inzien, zodoende vindt u welke module een bepaald pakket bevat </g>/mnt/live/memory/images/xxx.lzm/var/log/packages/"
+msgstr "Door te bladeren in /mnt/live/memory/images/xxx.lzm/, kunt u de inhoud van elke module inzien, zodoende vindt u welke module een bepaald pakket bevat in /mnt/live/memory/images/xxx.lzm/var/log/packages/"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1100,7 +1099,7 @@ msgstr "Dotnew beheert de systeemconfiguratie upgrades welke door Slackware gebr
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Due to its efficient design it can run on older PC hardware (e.g."
-msgstr ""
+msgstr "Dankzij het efficiënte ontwerp kan het draaien op oudere pc hardware (bijvoorbeeld"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1110,7 +1109,7 @@ msgstr "Zelfs vanaf een CD/DVD uitgevoerd, Salix Live geeft je de mogelijkheid o
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Evince is a document viewer for multiple document formats."
-msgstr ""
+msgstr "Evince is een documentviewer voor meerdere document formaten."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1133,10 +1132,9 @@ msgid "Finally, Salix OS strives to provide a localized system which is usable 
 msgstr "Ten slotte, Salix OS streeft ernaar om een gelokaliseerd systeem te leveren dat geschikt is voor gebruik over de hele wereld en makkelijk kan worden gebruikt door niet-Engels sprekenden."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "From then on, Salix Live will begin to monitor any changes you perform and will record them in the new persistent file."
-msgstr "<g id='122'>Belangrijk!</g><g id='123'> Zodra dit bestand is aangemaakt is het noodzakelijk de Live CD te herstarten. Daarna zal Salix Live de wijzigingen die u uitvoert volgen en opslaan in het nieuwe persistente bestand.</g>"
+msgstr "Daarna zal Salix Live de wijzigingen die u uitvoert volgen en opslaan in het nieuwe persistente bestand."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1161,7 +1159,7 @@ msgstr "Geany is een klein en lichtgewicht Integrated Development Environment we
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Gigolo is a frontend to easily manage connections to remote filesystems using GIO/GVfs."
-msgstr ""
+msgstr "Gigolo is een frontend om gemakkelijk verbindingen te beheren van bestandssystemen op afstand met behulp van GIO/Gvfs."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1176,7 +1174,7 @@ msgstr "Hier is uitsluitend inbegrepen de essentiële software om een console te
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Host names manages the host names used by your computer."
-msgstr ""
+msgstr "Host names beheert de hostnamen die worden gebruikt door uw computer."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1211,18 +1209,17 @@ msgstr "Indien u onbekend bent met hetzij Salix, Slackware of zelfs Linux in het
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "If you only have an iso image of Salix Live, follow the instructions below:"
-msgstr ""
+msgstr "Als u slechts een ISO image van Salix Live bezit, volg dan de onderstaande instructies:"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "If you're on Windows, execute the file called “install-on-USB.cmd” instead."
-msgstr "4 - Als u Unix draait (Linux, BSD, Mac OS X), start eenvoudigweg het bestand \"install-op-USB.sh\"."
+msgstr "Als u op Windows zit, voer dan het bestand met de naam \"install-on-USB.cmd\" uit."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Important!"
-msgstr ""
+msgstr "Belangrijk!"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1237,7 +1234,7 @@ msgstr "In dat geval is het niet noodzakelijk om een module te maken of te wijzi
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "In the case of a Live USB Key generation, you will be offered to make your USB key with “</g><g id='289'><g id='290'>persistence</g></g><g id='291'>”.</g>"
-msgstr ""
+msgstr "In het geval van een Live USB-stick creatie, zult u de mogelijkheid krijgen om uw USB-stick te maken met “</g><g id='289'><g id='290'>persistentie</g></g><g id='291'>”.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1257,18 +1254,17 @@ msgstr "Introductie"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It <x id='208'/>will display available sound cards in your system and let you select the card you want to use in preference."
-msgstr ""
+msgstr "Het <x id='208'/> zal beschikbare geluidskaarten tonen in uw systeem en laat u de kaart die u wilt gebruiken kiezen."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It <x id='209'/>will display a possible course of action for each new configuration file found in the system."
-msgstr "Het <x id='75'/> zal een mogelijke keuze tonen voor elk nieuw gevonden configuratie bestand in het systeem."
+msgstr "Het <x id='209'/> zal een keuze tonen voor elk nieuw gevonden configuratie bestand in het systeem."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It allows you to quickly connect/mount a remote filesystem and browse local networks shares."
-msgstr ""
+msgstr "Het stelt u in staat om snel een remote bestandssysteem te verbinden/mounten en lokale netwerken te browsen en delen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
