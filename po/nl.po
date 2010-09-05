@@ -1584,12 +1584,12 @@ msgstr "Vergeet niet dat de bestaande swap-partitie automatisch gebruikt zal wor
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix LXDE Live is the Live version of Salix LXDE edition and thus includes the same choice of software plus, just like Salix XFCE Live, the full set of <x id='408'/><g id='409'>Salix Live tools</g>."
-msgstr ""
+msgstr "Salix LXDE Live is de Live versie van de Salix LXDE editie en bevat derhalve dezelfde keus aan software en, net als Salix XFCE Live, de volledige set aan <x id='408'/><g id='409'>Salix Live tools</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix LXDE edition features the Lightweight X11 Desktop Environment, “<g id='386'>an extremely fast-performing and energy-saving desktop environment</g>”, with a clean look and feel."
-msgstr ""
+msgstr "Salix LXDE editie bevat de Lightweight X11 Desktop Environment \"<g id='386'>een extreem snel presterende en energiebesparende desktop omgeving </g>\", met een simpele look en feel."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1597,10 +1597,9 @@ msgid "Salix Live Installer"
 msgstr "Salix Live Installer"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix OS 13.1"
-msgstr "Salix Live 13.0"
+msgstr "Salix Live 13.1"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1618,10 +1617,9 @@ msgid "Salix Live"
 msgstr "Salix Live"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix Live CD holds a <g id='372'>/salixlive/rootcopy/</g> directory."
-msgstr "Salix Live CD bevat een <g id='198'>/salixlive/rootcopy/</g>  folder."
+msgstr "Salix Live CD bevat een <g id='372'>/salixlive/rootcopy/</g>  folder."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1634,10 +1632,9 @@ msgid "Salix Live root password is:"
 msgstr "Salix Live root wachtwoord is:"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix Live will also come in handy as a mobile solution if you wish to carry Salix OS everywhere you go or if you need to perform some basic rescue operation such as fixing an ailing LILO bootloader with Lilo Setup, configuring some partitions with Gparted, etc."
-msgstr "<g id='92'>Salix Live zal ook van pas komen als een mobiele oplossing indien u Salix OS overal naar toe wilt nemen of als u een simpele reddingsoperatie wilt uitvoeren zoals het corrigeren van een slecht lopende LILO bootloader met Lilo Setup, het c</g>onfigureren van een aantal partities met gparted, enz."
+msgstr "Salix Live zal ook van pas komen als een mobiele oplossing indien u Salix OS overal naar toe wilt nemen of als u een simpele reddingsoperatie wilt uitvoeren zoals het corrigeren van een slecht lopende LILO bootloader met Lilo Setup, het configureren van een aantal partities met gparted, enz."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1647,7 +1644,7 @@ msgstr "Salix OS"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Simple Scan allows you to scan your documents/photos with your scanner or even with your webcam!"
-msgstr ""
+msgstr "Simple Scan maakt het mogelijk te scannen van documenten/foto's met uw scanner of zelfs met uw webcam!"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1657,7 +1654,7 @@ msgstr "Klik op een datum om de dagagenda weer te geven of aan te passen."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Simply plug your Salix Live USB key in your computer and start it the usual way."
-msgstr ""
+msgstr "Sluit simpelweg uw Salix Live USB-stick aan op uw computer en start het op de gebruikelijke manier."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1677,7 +1674,7 @@ msgstr "Software"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Some of Salix XFCE standard application however are replaced by lighter counteparts."
-msgstr ""
+msgstr "Sommige van de Salix XFCE standaard applicaties zijn echter vervangen door lichtere tegenhangers."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1705,10 +1702,9 @@ msgid "Support"
 msgstr "Ondersteuning"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Support is available straight from Salix desktop:"
-msgstr "Support is beschikbaar rechtstreeks op het Salix bureaublad:"
+msgstr "Support is direct beschikbaar op het Salix bureaublad:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1723,13 +1719,12 @@ msgstr "Systeembeheer"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Core installation mode is identical to the one you get from the XFCE edition while Basic will install a minimal LXDE desktop with only Midori and Gslapt installed as extra."
-msgstr ""
+msgstr "De Core installatiemodus is identiek aan die van de XFCE editie, terwijl Basic een minimale LXDE desktop met alleen Midori en Gslapt als extra zal installeren."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The Full mode installs a complete, yet wickedly fast, Graphic Desktop environment with all the software one would need for daily use, while still following the \"one application per task\" rationale."
-msgstr "Deze laatste modus is gebaseerd op de Basic Modus en biedt een volledig gamma van nuttige software welke dagelijks nodig kan zijn, maar nog steeds de \"een aanvraag per taak\" logica volgend."
+msgstr "De Full modus installeert een complete, maar onvoorstelbaar snelle grafische Desktop met alle software welke dagelijks nodig zou kunnen zijn, maar nog steeds de \"een aanvraag per taak\" logica volgend."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
