@@ -2,13 +2,13 @@
 # Copyright (C) 2010
 # This file is distributed under the same license as the salix-live-startup-guide package.
 # Imar van Erven Dorens <gambit73@gmail.com>, 2010.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "POT-Creation-Date: 2010-09-01 07:09+CET\n"
-"PO-Revision-Date: 2010-07-16 02:33+0100\n"
-"Last-Translator: Cyrille Pontvieux <jrd@enialis.net>\n"
+"PO-Revision-Date: 2010-09-05 21:46+0100\n"
+"Last-Translator: Imar van Erven Dorens <gambit73@gmail.com>\n"
 "Language-Team: Dutch <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1399,7 +1399,7 @@ msgstr "Live USB Key"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Live version"
-msgstr ""
+msgstr "Live versie"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1689,7 +1689,7 @@ msgstr "Soms is alles wat u wilt doen het toevoegen van een paar bestanden aan S
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Standard version"
-msgstr ""
+msgstr "Standaard versie"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1929,7 +1929,7 @@ msgstr "Wij adviseren u uw partities met het ext4-bestandssysteem te formatteren
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Whaaw!"
-msgstr ""
+msgstr "Whaaw!"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2199,95 +2199,73 @@ msgstr "Salix Live Opstart Handleiding"
 #~ msgctxt "heading"
 #~ msgid "Viewer)"
 #~ msgstr "Viewnior"
-
 #~ msgctxt "paragraph"
 #~ msgid "<g id='154'>A disk device can be subdivided into one or more partitions</g>."
 #~ msgstr "<g id='148'>Een disk device kan worden onderverdeeld in een of meer partities </g>."
-
 #~ msgctxt "paragraph"
 #~ msgid "<g id='84'>Slapt-get</g> is a CLI tool providing an APT‑like system for Slackware package management."
 #~ msgstr "<g id='82'>Slapt-get</g> is een CLI tool voor een APT-achtig systeem voor Slackware pakket management."
-
 #~ msgctxt "paragraph"
 #~ msgid "Document Viewer is a a very lightweight, simple PDF document viewer."
 #~ msgstr "ePDFView is een zeer lichtgewicht, eenvoudige PDF bestand viewer."
-
 #~ msgctxt "paragraph"
 #~ msgid "Graphical applications include the <g id='56'>Gimp</g>, <g id='57'>Viewnior</g> and <g id='58'>Simple Scan</g>"
 #~ msgstr "Grafische applicaties zijn <g id='56'>Gimp</g>, <g id='57'>Ristretto</g> en <g id='58'>Xsane</g>"
-
 #~ msgctxt "paragraph"
 #~ msgid "Gslapt is the GUI version of <g id='85'>Slapt-get</g>."
 #~ msgstr "Gslapt is de GUI-versie van <g id='83'>Slapt-get</g> ."
-
 #~ msgctxt "paragraph"
 #~ msgid "If you do however, you might want to modify the default qwebircxxx login to something more personal and human readable."
 #~ msgstr "Als u wilt, kunt u de standaard qwebircxxx login wijzigen in iets meer persoonlijk en menselijke leesbaar."
-
 #~ msgctxt "paragraph"
 #~ msgid "On the first boot from a USB key, an advanced bootloader will be installed (grub2) and the system will reboot once, this process is normal and only happens once."
 #~ msgstr "Bij de eerste start van een USBkey, zal een geavanceerde bootloader worden geïnstalleerd (grub2) en het systeem zal eenmalig opnieuw opstarten. Dit proces is normaal en gebeurt eenmalig."
-
 #~ msgctxt "paragraph"
 #~ msgid "Once the installation process is completed, You will be given the choice to launch <g id='160'>Lilo Setup</g> to configure your LILO bootloader."
 #~ msgstr "Zodra de installatie is voltooid, krijgt u de keuze om <g id='154'>Lilo Setup</g> te starten om de LILO bootloader te configureren."
-
 #~ msgctxt "paragraph"
 #~ msgid "Our <g id='87'>Wiki</g> and <g id='88'>Forum</g> will be two other important sources of information."
 #~ msgstr "Onze <g id='85'>Wiki</g> en <g id='86'>Forum</g> zullen twee andere belangrijke bronnen van informatie zijn."
-
 #~ msgctxt "paragraph"
 #~ msgid "Parole Media Player is a media player (audio and video) which utilizes the GStreamer framework for playback."
 #~ msgstr "Totem is een mediaspeler (audio en video) die het GStreamer framework voor playback gebruikt."
-
 #~ msgctxt "paragraph"
 #~ msgid "The desktop link, Salix Online, will bring you to the Salix <g id='86'>Homepage</g>."
 #~ msgstr "Het bureaublad link, Salix Online, brengt u naar de Salix <g id='84'>Homepage</g>."
-
 #~ msgctxt "paragraph"
 #~ msgid "The search option of the forum will quickly show you if the question you have in mind has already been posted by a member of the community and if it has been answered."
 #~ msgstr "De zoekfunctie van het forum zullen snel zien of uw vraag al is gepost door een forumlid en of de vraag al is beantwoord."
-
 #~ msgctxt "paragraph"
 #~ msgid "This is ideal for advanced users who would like to install a lightweight Xfce and add their own choice of applications."
 #~ msgstr "Dit is ideaal voor geavanceerde gebruikers die graag een lichtgewicht Xfce willen installeren en hun eigen keuze aan applicaties willen toevoegen."
-
 #~ msgctxt "paragraph"
 #~ msgid "You will be greeted by a reminder that all the necessary partitions have to be created first."
 #~ msgstr "Er zal een herinnering komen dat alle benodigde partities nog moeten worden aangemaakt."
-
 #~ msgctxt "heading"
 #~ msgid "Ristretto"
 #~ msgstr "Ristretto"
-
 #~ msgctxt "heading"
 #~ msgid "Totem"
 #~ msgstr "Totem"
-
 #~ msgctxt "heading"
 #~ msgid "XSane"
 #~ msgstr "XSane"
-
 #~ msgctxt "paragraph"
 #~ msgid "4- Run \"bootinst.sh\" if you are on Linux or Unix, \"bootinst.bat\" if you're on Windows."
 #~ msgstr "4- Voer \"bootinst.sh\" indien u op Linux of Unix werkt, \"bootinst.bat\" indien Windows."
-
 #~ msgctxt "paragraph"
 #~ msgid "Alternatively, you can run \"install-on-USB\" if you're on Linux and have grub2 installed;"
 #~ msgstr "Als alternatief kunt u \"install-on-USB\" uitvoeren als u op Linux zit en grub2 geïnstalleerd heeft;"
-
 #~ msgctxt "paragraph"
 #~ msgid "XSane is a GUI scanning utility which uses the SANE library to communicate with scanners."
 #~ msgstr "Xsane is een GUI scantool dat de SANE library gebruikt om te communiceren met scanners."
-
 #~ msgctxt "paragraph"
 #~ msgid "this will prevent the first \"reboot on first boot\" operation."
 #~ msgstr "dit zal de \"herstart bij eerste boot\" actie voorkomen."
-
 #~ msgctxt "heading"
 #~ msgid "Introduc"
 #~ msgstr "Invoering"
-
 #~ msgctxt "heading"
 #~ msgid "Presentation"
 #~ msgstr "Presentation"
+
