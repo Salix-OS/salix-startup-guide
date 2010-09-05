@@ -724,7 +724,7 @@ msgstr "<g id='219'>Gslapt is de GUI versie van </g><g id='220'><g id='221'>Slap
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='223'>The desktop link, Salix Online, will bring you to the Salix </g><g id='224'><g id='225'>Homepage</g></g><g id='226'>. Our </g><g id='227'><g id='228'>Wiki</g></g><g id='229'> and </g><g id='230'><g id='231'>Forum</g></g><g id='232'> will be two other important sources of information. The search option of the forum will quickly show you if the question you have in mind has already been posted by a member of the community and if it has been answered.</g>"
-msgstr ""
+msgstr "<g id='223'>De link op de desktop, Salix Online, stuurt u naar de Salix </g><g id='224'><g id='225'>Thuispagina</g></g><g id='226'>. Onze </g><g id='227'><g id='228'>Wiki</g></g><g id='229'> en </g><g id='230'><g id='231'>Forum</g></g><g id='232'> zijn twee andere bronnen van belang voor informatie. De zoekoptie in het forum zult u snel tonen of uw vraag reeds eerder gesteld is door een community lid en of deze vraag al is beantwoord.</g>"
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
