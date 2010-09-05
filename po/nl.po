@@ -687,46 +687,39 @@ msgid "<g id='174'>Parole is a modern simple media player based on the </g><g id
 msgstr "<g id='174'>Parole is a moderne simpele media player gebaseerd op het </g><g id='175'><g id='176'>GStreamer</g></g><g id='177'> framework and geschreven om goed in de </g><g id='178'><g id='179'>Xfce</g></g><g id='180'> desktop te passen. Parole is ontworpen met de gedachte van  eenvoud, snelheid en minimaal gebruik van resources. </g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='200'>All system management in Salix OS can be done the usual (</g><g id='201'><g id='202'>manual</g></g><g id='203'>) Slackware way.</g>"
-msgstr "<g id='70'>Al het systeem\\beheer in Salix OS kan worden gedaan op de gebruikelijke (</g><g id='71'><g id='72'>handmatige</g></g><g id='73'>) Slackware wijze.</g>"
+msgstr "<g id='200'>Al het systeembeheer in Salix OS kan worden gedaan op de gebruikelijke (</g><g id='201'><g id='202'>handmatige</g></g><g id='203'>) Slackware wijze.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='204'>Most Salix tools (except Lilo Setup) have an ncurse counterpart which can be used in a non-graphical environment (</g><g id='205'><g id='206'>runlevel 3</g></g><g id='207'>).</g>"
-msgstr "De meeste Salix tools (behalve Lilo Setup) hebben een ncurse tegenhanger die gebruikt kan worden in een niet-grafische omgeving (<g id='74'> runlevel 3 </g>)."
+msgstr "<g id='204'>De meeste Salix tools (behalve Lilo Setup) hebben een ncurse tegenhanger die gebruikt kan worden in een niet-grafische omgeving (</g><g id='205'><g id='206'>runlevel 3</g></g><g id='207'>).</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='210'>To execute it in runlevel 3, simply type localesetup</g>."
-msgstr "<g id='76'>Voor het uitvoeren in runlevel 3, typt u localesetup</g>."
+msgstr "<g id='210'>Voor het uitvoeren in runlevel 3, typt u localesetup</g>."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='211'>To execute it in runlevel 3, simply type clocksetup</g>."
-msgstr "<g id='77'>Voor het uitvoeren in runlevel 3, typt u clocksetup</g>."
+msgstr "<g id='211'>Voor het uitvoeren in runlevel 3, typt u clocksetup</g>."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='212'>In Unix/Linux, all users and groups of users are given certain </g><g id='213'><g id='214'>permissions and access rights</g></g><g id='215'> to some part of the system in order to control their ability to access and change it.</g>"
-msgstr "<g id='78'>In Unix/Linux hebben alle gebruikers en groepen gebruikers bepaalde </g><g id='79'><g id='80'>machtigingen en toegangsrechten</g></g><g id='81'> voor een deel van het systeem om hun eigen rechten en toegang te wijzigen.</g>"
+msgstr "<g id='212'>In Unix/Linux hebben alle gebruikers en groepen gebruikers bepaalde </g><g id='213'><g id='214'>machtigingen en toegangsrechten</g></g><g id='215'> voor een deel van het systeem om hun eigen rechten en toegang te wijzigen.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='216'><g id='217'>Slapt-get</g></g><g id='218'> is a CLI tool providing an APT‑like system for Slackware package management. It allows one to search Slackware/Salix mirrors and third party sources for packages, compare them with installed packages, install new packages, or upgrade all installed packages. </g>"
-msgstr "Men kan Slackware/Salix mirrors en sources van derden voor pakketten zoeken, vergelijken met geïnstalleerde pakketten, nieuwe pakketten installeren of alle geïnstalleerde pakketten upgraden."
+msgstr "<g id='216'><g id='217'>Slapt-get</g></g><g id='218'> is een CLI tool welke een APT‑achtig systeem voor het Slackware paketmanagement levert. Men kan Slackware/Salix mirrors zoeken en third party sources voor packages, vergelijk ze met reeds geinstalleerde packages, installeer nieuwe packages, of upgrade alle geinstalleerde packages. </g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='219'>Gslapt is the GUI version of </g><g id='220'><g id='221'>Slapt-get</g></g><g id='222'>.</g>"
-msgstr "<g id='25'>De laatste versie van dit document kan </g><g id='26'><g id='27'>hier</g></g><g id='28'> worden gevonden.</g>"
+msgstr "<g id='219'>Gslapt is de GUI versie van </g><g id='220'><g id='221'>Slapt-get</g></g><g id='222'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
