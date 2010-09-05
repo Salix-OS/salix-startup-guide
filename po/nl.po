@@ -234,7 +234,7 @@ msgstr "Live USB Flash Drive"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Live version"
-msgstr "Live-versie"
+msgstr "Live versie"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -1449,12 +1449,12 @@ msgstr "Merk op dat de volledige folder hierarchie opnieuw gemaakt moet worden o
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Of course, Gslapt package manager, and its command line equivalent slapt-get, are available to install extra software from Slackware and Salix repositories, with complete support for dependency resolution."
-msgstr ""
+msgstr "Natuurlijk, Gslapt package manager, en haar gelijkwaardige command line equivalent slapt-get, zijn beschikbaar om extra software van Slackware en Salix repositories te installeren, met volledige ondersteuning voor dependency oplossingen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Of course, this is also the case with the <g id='414'>installation</g> and <g id='415'>customization</g> of Salix LXDE Live."
-msgstr ""
+msgstr "Natuurlijk is dit ook het geval met de <g id='414'>installatie</g> en <g id='415'>aanpassing</g> van Salix LXDE Live."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1469,7 +1469,7 @@ msgstr "Aan de linkerzijde van de applicatie ziet u de verschillende onderdelen 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Once this file has been created, it is necessary to reboot the Live CD."
-msgstr ""
+msgstr "Wanneer dit bestand is aangemaakt, is het noodzakelijk de Live CD te herstarten."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1487,10 +1487,9 @@ msgid "Only when all the sections have been completed will the 'Launch Salix Ins
 msgstr "Pas als alle delen zijn afgerond zal de 'Start de Salix Installatie' knop worden geactiveerd."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "OpenOffice.org 3 is the leading open-source office software suite <x id='165'/>for word processing, spreadsheets, presentations, graphics, databases and more."
-msgstr "OpenOffice.org 3 is de toonaangevende open-source office software suite <x id='65'/>voor tekstverwerking, spreadsheets, presentaties, grafieken, databases en meer."
+msgstr "OpenOffice.org 3 is de toonaangevende open-source office software suite <x id='165'/>voor tekstverwerking, spreadsheets, presentaties, grafieken, databases en meer."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1510,12 +1509,12 @@ msgstr "Pakketbeheer"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Parole features playback of local media files, including video with subtitles support, DVD/CD and live streams."
-msgstr ""
+msgstr "Parole kan lokale media bestanden afspelen, zoals video met ondertiteling, DVD/CD en live streams."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Parole is also extensible via plugins, and it is shipped with a browser media player plugin."
-msgstr ""
+msgstr "Parole is ook uitbreidbaar met plugins en wordt geleverd met een browser media player plugin."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1530,12 +1529,12 @@ msgstr "Personalisatie modules:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "PiTiVi is an easy to use video editor."
-msgstr ""
+msgstr "PiTiVi is een makkelijk te gebruiken video-editor."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "PiTiVi's user interface is carefully designed to suit both the newcomer and the professional, to be efficient and intuitive."
-msgstr ""
+msgstr "PiTiVi's gebruikersinterface is zorgvuldig ontworpen om efficiënt en intuïtief zowel de nieuwkomer en de ervarene tegemoet te komen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
