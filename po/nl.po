@@ -672,21 +672,19 @@ msgid "<g id='146'><g id='147'>Geany</g></g><g id='148'> is provided in the Deve
 msgstr "<g id='146'><g id='147'>Geany</g></g><g id='148'>wordt geleverd in de ontwikkelingsapplicaties.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='149'>Finally, Accessories applications include a variety of small, useful utilities among which are </g><g id='150'><g id='151'>Galculator</g></g><g id='152'>, </g><g id='153'><g id='154'>Mousepad</g></g><g id='155'>, </g><g id='156'><g id='157'>Catfish</g></g><g id='158'>, </g><g id='159'><g id='160'>File Roller</g></g><g id='161'>, </g><g id='162'><g id='163'>SCIM</g></g><g id='164'>, etc.</g>"
-msgstr "Ten slotte, Accessoires omvatten een scala van kleine, handige programmaatjes waaronder <g id='60'>Galculator</g>, <g id='61'>Mousepad</g>, <g id='62'>Meerval</g>, <g id='63'>File Roller</g>, <g id='64'>SCIM</g>, enz."
+msgstr "<g id='149'>Ten slotte, Accessoires omvat een scala van kleine, handige programmaatjes waaronder </g><g id='150'><g id='151'>Galculator</g></g><g id='152'>, </g><g id='153'><g id='154'>Mousepad</g></g><g id='155'>, </g><g id='156'><g id='157'>Catfish</g></g><g id='158'>, </g><g id='159'><g id='160'>File Roller</g></g><g id='161'>, </g><g id='162'><g id='163'>SCIM</g></g><g id='164'>, etc.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='168'>Transmission is a </g><g id='169'><g id='170'>BitTorrent</g></g><g id='171'> client that is simple, lean and powerful.</g>"
-msgstr "<g id='66'>Transmission is een</g><g id='67'><g id='68'> BitTorrent</g></g><g id='69'> client welke eenvoudig, slank en krachtig is.</g>"
+msgstr "<g id='168'>Transmission is een </g><g id='169'><g id='170'>BitTorrent</g></g><g id='171'> client welke eenvoudig, slank en krachtig is.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='174'>Parole is a modern simple media player based on the </g><g id='175'><g id='176'>GStreamer</g></g><g id='177'> framework and written to fit well in the </g><g id='178'><g id='179'>Xfce</g></g><g id='180'> desktop. Parole is designed with simplicity, speed and resource usage in mind. </g>"
-msgstr ""
+msgstr "<g id='174'>Parole is a moderne simpele media player gebaseerd op het </g><g id='175'><g id='176'>GStreamer</g></g><g id='177'> framework and geschreven om goed in de </g><g id='178'><g id='179'>Xfce</g></g><g id='180'> desktop te passen. Parole is ontworpen met de gedachte van  eenvoud, snelheid en minimaal gebruik van resources. </g>"
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
