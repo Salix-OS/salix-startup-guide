@@ -1274,12 +1274,12 @@ msgstr "Het kan gemakkelijk gerenderd of gebrand worden op een DVD of CD met beh
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It currently supports pdf, postscript, djvu, tiff and dvi."
-msgstr ""
+msgstr "Het ondersteunt momenteel PDF, PostScript, DjVu, TIFF en DVI."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It depends if you already have a Salix LiveCD or simply an iso image."
-msgstr ""
+msgstr "Het is afhankelijk of u al een Salix LiveCD heeft of gewoon een ISO image."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1299,12 +1299,12 @@ msgstr "Het is zeer configureerbaar en ondersteunt meldingen op basis van datums
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It is intended to be a basic media player with little dependencies."
-msgstr ""
+msgstr "Het is bedoeld om een eenvoudige mediaspeler met weinig dependencies te zijn."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It is interesting to note that when you produce your own customized Live CD/DVD/USB with the help of LiveClone, Salix Live Installer will still be fully functionable with it."
-msgstr ""
+msgstr "Het is interessant op te merken dat wanneer het maken van uw eigen aangepaste live CD/DVD/USB met behulp van LiveClone, dat de Salix Live Installer nog steeds volledig functioneel zal zijn."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1324,7 +1324,7 @@ msgstr "Het biedt een eenvoudige configuratie en een overvloed aan mogelijkheden
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It opens PDF files, save copies of documents, and has support for printing using CUPS."
-msgstr ""
+msgstr "Het opent PDF bestanden, slaat kopieën van documenten op en heeft printerondersteuning via CUPS."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1339,12 +1339,12 @@ msgstr "Het slaat mail op in het mailbox MH-formaat, alsmede het Mbox mailbox fo
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It supports fullscreen mode, seeking, changing video colour settings and more."
-msgstr ""
+msgstr "Het ondersteunt fullscreen-modus, zoeken, het veranderen van kleurinstellingen en meer."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It uses the WebKit rendering engine."
-msgstr ""
+msgstr "Het gebruikt de WebKit render engine."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1404,7 +1404,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Lxde edition"
-msgstr ""
+msgstr "Lxde editie"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1419,12 +1419,12 @@ msgstr "Maak een module vanuit een pakket:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Media Player will play any audio/video files which gstreamer can play."
-msgstr ""
+msgstr "Media Player zal alle audio/video bestanden afspelen die gstreamer kan afspelen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Midori (Japanese for green) is a web browser that aims to be lightweight and fast."
-msgstr ""
+msgstr "Midori (Japans voor groen) is een webbrowser die streeft  naar lichtgewicht en snel te zijn."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
