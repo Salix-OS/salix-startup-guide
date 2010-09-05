@@ -1954,13 +1954,12 @@ msgstr "Xfce is een lichtgewicht desktop omgeving voor diverse Unix/Linux system
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You can also crop images before saving them."
-msgstr ""
+msgstr "U kunt ook afbeeldingen bijsnijden voordat ze worden opgeslagen."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You can check that the module contains the unwanted packages by listing the <g id='363'>/mnt/hdxx/directoryx/var/log/packages/ directory.)</g>"
-msgstr "U kunt controleren dat de module de ongewenste pakketten bevat door de folder<g id='187'>/mnt/hdxx/directoryx/var/log/packages/ op te vragen.)</g>"
+msgstr "U kunt controleren dat de module de ongewenste pakketten bevat door de folder<g id='363'>/mnt/hdxx/directoryx/var/log/packages/ op te vragen.)</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1970,7 +1969,7 @@ msgstr "U kunt de inhoud van een module volledig aanpassen door het verwijderen 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You can now easily produce your very own mini distro with the help of LiveClone and you are all set to deploy it on multiple computers."
-msgstr ""
+msgstr "U kunt nu eenvoudig uw eigen mini-distro maken met behulp van LiveClone en u bent gereed om het in te zetten op meerdere computers."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1978,10 +1977,9 @@ msgid "You can use Asunder to save tracks from an Audio CD as any of WAV, MP3, O
 msgstr "U kunt gebruik maken van Asunder om tracks op te slaan van een audio CD naar een bestand als WAV, MP3, OGG, FLAC, WavPack, Musepack, AAC en Monkey's Audio."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You must open an ISO file of Salix Live (for example the one you downloaded) and then add to and/or remove from the modules situated in <g id='373'>/salixlive/base</g>, <g id='374'>/salixlive/modules</g> or <g id='375'>/salixlive/optional</g>."
-msgstr "U moet een ISO bestand van Salix Live openen (bijvoorbeeld degene welke u heeft gedownload) en dan toevoegen en/of verwijderen van de modules in <g id='199'>/salixlive/base</g>, <g id='200'>/salixlive/modules</g> or <g id='201'>/salixlive/optional</g>."
+msgstr "U moet een ISO bestand van Salix Live openen (bijvoorbeeld degene welke u heeft gedownload) en vervolgens toevoegen en/of verwijderen van de modules in <g id='373'>/salixlive/base</g>, <g id='374'>/salixlive/modules</g> or <g id='375'>/salixlive/optional</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2071,7 +2069,7 @@ msgstr "dir2lzm directoryx modulex.lzm"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "ePDFView is a lightweight PDF document viewer that only uses the GTK+ and Poppler libraries."
-msgstr ""
+msgstr "epdfview is een lichtgewicht PDF viewer die alleen gebruik maakt van de GTK + en Poppler libraries."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2171,7 +2169,7 @@ msgstr "mkdir /mnt/hdxx/custom_live"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mtPaint is a painting program designed to easily create pixel art and manipulate digital photos."
-msgstr ""
+msgstr "mtPaint is een tekenprogramma dat is ontworpen om eenvoudig pixel art en digitale foto's te manipuleren."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
