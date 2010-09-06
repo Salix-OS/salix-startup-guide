@@ -859,12 +859,12 @@ msgstr "<g id='51'>Salix Live Startup Guide is vrijgegeven onder de </g><g id='5
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='55'>Salix OS is a </g><g id='56'><g id='57'>Linux Distribution</g></g><g id='58'> based on </g><g id='59'><g id='60'>Slackware</g></g><g id='61'> that retains full backwards compatibility with its illustrious parent.</g>"
-msgstr "<g id='55'>Salix OS is een </g><g id='56'><g id='57'>Linux Distribution</g></g><g id='58'> gebaseerd op </g><g id='59'><g id='60'>Slackware</g></g><g id='61'> welke volledig terugwaarts compatible blijft met zijn illustere voorvader."
+msgstr "<g id='55'>Salix OS is een </g><g id='56'><g id='57'>Linux Distribution</g></g><g id='58'> gebaseerd op </g><g id='59'><g id='60'>Slackware</g></g><g id='61'> welke volledig terugwaarts compatible blijft met zijn illustere voorvader.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='62'>However, while in the </g><g id='63'><g id='64'>KISS</g></g><g id='65'> principle that Slackware adheres to, \"Simple\" refers to the viewpoint of system design, Salix OS also applies it to the viewpoint of the end user.</g>"
-msgstr "<g id='62'Terwijl Slackware in principe voldoet aan het </g><g id='63'><g id='64'>KISS</g></g><g id='65'>, \"Simpel\" verwijst bij hen naar het standpunt van systeemontwerp. Salix OS is echter ook van toepassing is voor het standpunt van de eindgebruiker."
+msgstr "<g id='62'>Terwijl Slackware in principe voldoet aan het </g><g id='63'><g id='64'>KISS</g></g><g id='65'>, \"Simpel\" verwijst bij hen naar het standpunt van systeemontwerp. Salix OS is echter ook van toepassing is voor het standpunt van de eindgebruiker.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1764,7 +1764,7 @@ msgstr "Het doel van Gnumeric is om het beste spreadsheet programma te zijn."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The interface is intuitive, you can create your own film clips with a simple drag and drop."
-msgstr "De interface is intuïtief, u kunt uw eigen filmpjes met een simpele drag&drop samenstellen."
+msgstr "De interface is intuïtief, u kunt uw eigen filmpjes met een simpele drag &amp; drop samenstellen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
