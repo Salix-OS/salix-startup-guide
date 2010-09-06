@@ -434,7 +434,7 @@ msgstr "Viewnior"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Whaaw!"
-msgstr "Whaaw!"
+msgstr "Оооов!"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -1427,7 +1427,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Lxde edition"
-msgstr ""
+msgstr "Версія Lxde"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1442,7 +1442,7 @@ msgstr "Створити модуль поза пакунком:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Media Player will play any audio/video files which gstreamer can play."
-msgstr ""
+msgstr "Програвач Медіа програє аудіо/відео файли, які підтримуються через gstreamer."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1983,7 +1983,7 @@ msgstr "Xfce є легким середовищем для багатьох си
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You can also crop images before saving them."
-msgstr ""
+msgstr "Ви також можете обрізати зображення перед їх збереженням."
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
@@ -2025,7 +2025,7 @@ msgstr "Ваш комп’ютер повинен бути налаштован�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "a 200MHz CPU and 16MB of free RAM)."
-msgstr ""
+msgstr "200MHz CPU і 16MB вільної пам’яті RAM)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
