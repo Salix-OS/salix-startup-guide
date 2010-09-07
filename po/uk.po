@@ -794,7 +794,7 @@ msgstr "<g id='259'>Gparted включений в Salix Live і допомож�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='263'>LiveClone generates a Live CD/DVD iso image (which you can burn as an image on a CD/DVD with a CD/DVD burner) or a Live USB key. This means that you can create your very own customized live CD/DVD/USB <x id='264'/>which will be based either on SalixLive or your modified running environment."
-msgstr ""
+msgstr "<g id='263'> LiveClone генерує Live CD/DVD ISO-образ (який можна записати як образ на CD/DVD за допомогою CD/DVD випалювача) або Live USB. Це означає, що Ви можете створювати свої власні індивідуальні Live CD/DVD/USB <x id='264'/>, які будуть грунтуватися або на SalixLive або на Вашому власному середовищі."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
