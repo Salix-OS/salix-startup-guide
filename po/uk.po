@@ -1434,7 +1434,7 @@ msgstr "Програвач Медіа програє аудіо/відео фа�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Midori (Japanese for green) is a web browser that aims to be lightweight and fast."
-msgstr ""
+msgstr "Midori (зелений з японською) є переглядачем тенет, дуже легким і швидким."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1479,7 +1479,7 @@ msgstr "Зліва у програмі Ви помітите різні секц
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Once this file has been created, it is necessary to reboot the Live CD."
-msgstr ""
+msgstr "Як тільки цей файл буде створено, Вам необхідно буде перезавантажити Live CD."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1520,12 +1520,12 @@ msgstr "Керування пакунками"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Parole features playback of local media files, including video with subtitles support, DVD/CD and live streams."
-msgstr ""
+msgstr "Parole програє локальні файли медіа, має підтримку субтитрів, DVD/CD і live stream."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Parole is also extensible via plugins, and it is shipped with a browser media player plugin."
-msgstr ""
+msgstr "Parole також можна розбудовувати за допомогою додатків. По замовчуванню він йде з додатком програвача медіа."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
