@@ -2083,7 +2083,7 @@ msgstr "dir2lzm directoryx modulex.lzm"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "ePDFView is a lightweight PDF document viewer that only uses the GTK+ and Poppler libraries."
-msgstr ""
+msgstr "ePDFView є легким переглядачем документів PDF, що використовує тільки GTK+ і бібліотеки Poppler."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2183,7 +2183,7 @@ msgstr "mkdir /mnt/hdxx/custom_live"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mtPaint is a painting program designed to easily create pixel art and manipulate digital photos."
-msgstr ""
+msgstr "mtPaint є програмою для малювання і простої обробки цифрових фотографій."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
