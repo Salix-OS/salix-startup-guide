@@ -792,10 +792,9 @@ msgid "<g id='259'>Gparted is included in Salix Live to assist you in </g><g id
 msgstr "<g id='259'>Gparted включений в Salix Live і допоможе Вам у </g><g id='260'><g id='261'>керуванні Вашими розділами</g></g><g id='262'> якщо Вам буде необхідно зробити це перед запуском встановлення Salix OS.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='263'>LiveClone generates a Live CD/DVD iso image (which you can burn as an image on a CD/DVD with a CD/DVD burner) or a Live USB key. This means that you can create your very own customized live CD/DVD/USB <x id='264'/>which will be based either on SalixLive or your modified running environment."
-msgstr "<g id='263'>LiveClone generates a Live CD/DVD iso image (which you can burn as an image on a CD/DVD with a CD/DVD burner) or a Live USB key. This means that you can create your very own customized live CD/DVD/USB <x id='264'/>which will be based either on SalixLive or your modified running environment."
+msgstr ""
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1721,7 +1720,7 @@ msgstr "Керування системою"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Core installation mode is identical to the one you get from the XFCE edition while Basic will install a minimal LXDE desktop with only Midori and Gslapt installed as extra."
-msgstr ""
+msgstr "Основний режим встановлення є ідентичним до такого ж з видання XFCE, тоді як базовий встановлює мінімальне середовище робочого столу LXDE тільки з Midori і Gslapt в якості додаткових програм."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
