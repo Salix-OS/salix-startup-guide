@@ -379,7 +379,7 @@ msgstr "Програми"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Standard version"
-msgstr "Стандартна версія"
+msgstr "Стандартне видання"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -1591,7 +1591,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix LXDE edition features the Lightweight X11 Desktop Environment, “<g id='360'>an extremely fast-performing and energy-saving desktop environment</g>”, with a clean look and feel."
-msgstr ""
+msgstr "Видання Salix LXDE пропонує графічне середовище, “<g id='360'>що є неймовірно швидким і ресурсозберігальним середовищем</g>”, з дуже простим виглядом."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1676,7 +1676,7 @@ msgstr "Програми"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Some of Salix XFCE standard application however are replaced by lighter counteparts."
-msgstr ""
+msgstr "Деякі за стандартних програм Salix XFCE замінені їхніми легшими відповідниками."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1724,10 +1724,9 @@ msgid "The Core installation mode is identical to the one you get from the XFCE 
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The Full mode installs a complete, yet wickedly fast, Graphic Desktop environment with all the software one would need for daily use, while still following the \"one application per task\" rationale."
-msgstr "Наступним режимом є Базовий режим, який забезпечує повну гаму корисних програм, потрібних щодня, дотримуючись принципу \"одна програма за завдання\""
+msgstr "Повний режим встановлює повну графічну оболонку з усім набором програм, потрібним для щоденного вжитку, дотримуючись принципу \"одна програма для одного завдання\""
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1792,7 +1791,7 @@ msgstr "Ці властивості дуже пригодяться при ск�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This can be particularly interesting if you regularly perform installations at friends/family/neigbours/schools/etc and you generally like to add your personnal touch/preferences to those installations."
-msgstr ""
+msgstr "Це може бути корисним, якщо Ви встановлюєте друзям/родині/сусідам/школі/де-небудь і бажаєте додати Ваші особисті налаштування до цього встановлення."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1972,7 +1971,7 @@ msgstr "Ви можете повністю змінити вміст модул�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You can now easily produce your very own mini distro with the help of LiveClone and you are all set to deploy it on multiple computers."
-msgstr ""
+msgstr "Ви можете легко створити Ваш власний міні-дистрибутив за допомогою LiveClone і запускати його на багатьох комп’ютерах."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1980,10 +1979,9 @@ msgid "You can use Asunder to save tracks from an Audio CD as any of WAV, MP3, O
 msgstr "Ви можете використовувати Asunder для збереження треків з аудіо CD як файли у форматі WAV, MP3, OGG, FLAC, WavPack, Musepack, AAC і Monkey Audio ."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You must open an ISO file of Salix Live (for example the one you downloaded) and then add to and/or remove from the modules situated in <g id='347'>/salixlive/base</g>, <g id='348'>/salixlive/modules</g> or <g id='349'>/salixlive/optional</g>."
-msgstr "Ви повинні відкрити ISO файл Salix Live (для прикладу один з тих, що Ви завантажили) і тоді додати і/або вилучити з модулів, що містяться в <g id='205'>/salixlive/base</g>, <g id='206'>/salixlive/modules</g> або <g id='207'>/salixlive/optional</g>."
+msgstr "Ви повинні відкрити ISO файл Salix Live (для прикладу один з тих, що Ви завантажили) і тоді додати і/або вилучити з модулів, що містяться в <g id='347'>/salixlive/base</g>, <g id='348'>/salixlive/modules</g> або <g id='349'>/salixlive/optional</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
