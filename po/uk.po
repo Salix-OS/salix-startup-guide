@@ -865,16 +865,14 @@ msgid "<g id='55'>Salix OS is a </g><g id='56'><g id='57'>Linux Distribution</g
 msgstr "<g id='55'> Salix OS є </g><g id='56'><g id='57'>дистрибутивом Linux</g></g><g id='58'>,  що базується на </g><g id='59'><g id='60'>Slackware</g></g><g id='61'> і  зберігає повну сумісність з ним.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='62'>However, while in the </g><g id='63'><g id='64'>KISS</g></g><g id='65'> principle that Slackware adheres to, \"Simple\" refers to the viewpoint of system design, Salix OS also applies it to the viewpoint of the end user.</g>"
-msgstr "Salix OS, так само як і Slackware, дотримується принципу \"Простота\" <g id='34'>KISS</g> і застосовує його з думкою про кінцевого користувача."
+msgstr "<g id='62'>Salix OS, так само як і Slackware, дотримується принципу \"Простота\" </g><g id='63'><g id='64'>KISS</g></g><g id='65'> і застосовує його з думкою про кінцевого користувача.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='66'>In order to do this, Salix OS has chosen the </g><g id='67'><g id='68'>Xfce</g></g><g id='69'> desktop, which offers a comprehensive full‑featured environment while managing to remain simple, unobstructive and highly responsive.</g>"
-msgstr "Щоб це зробити, Salix OS вибрав в якості робочого столу <g id='34'>Xfce</g>, який пропонує всеосяжне повнофункціональне середовище, залишаючись при цьому простим, необструктивним і дуже чутливим при управлінні."
+msgstr "<g id='66'>Щоб це зробити, Salix OS вибрав в якості робочого столу </g><g id='67'><g id='68'>Xfce</g></g><g id='69'> , який пропонує всеосяжне повнофункціональне середовище, залишаючись при цьому простим, необструктивним і дуже чутливим при управлінні.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -882,16 +880,14 @@ msgid "<g id='70'>Salix OS also provides all the necessary </g><g id='71'><g id
 msgstr " <g id='70'>Salix OS також забезпечує всі необхідні </g><g id='71'><g id='72'>GUI</g></g><g id='73'> утиліти для </g><g id='74'><g id='75'>керування системою</g></g><g id='76'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='77'>Salix OS package management uses the proven </g><g id='78'><g id='79'>slapt‑get/gslapt</g></g><g id='80'> combination includes dependency from both the original Slackware repositories and the complementary and ever-increasing Salix OS </g><g id='81'><g id='82'>repository</g></g><g id='83'>.</g>"
-msgstr "Керування пакетів Salix OS використовує випробувану комбінацію <g id='38'>slapt‑get/gslapt</g>, включаючи залежності від оринігальних репозитаріїв Slackware і від додаткових зростаючих <g id='39'>репозитаріїв</g> Salix OS."
+msgstr "<g id='77'>Для керування пакетами Salix OS використовує випробувану комбінацію </g><g id='78'><g id='79'>slapt‑get/gslapt</g></g><g id='80'>, включаючи залежності від оринігальних репозитаріїв Slackware і від додаткових зростаючих </g><g id='81'><g id='82'>репозитаріїв</g></g><g id='83'> Salix OS.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='84'>The Basic Mode is built on the Core Mode with the addition of Xfce desktop environment, Firefox web browser and </g><g id='85'><g id='86'>Gslapt package manager</g></g><g id='87'>. This is ideal for advanced users who would like to install a lightweight Xfce and add their own choice of applications.</g>"
-msgstr "Базовий режим базований на Основному режимі з додатковим середовищем робочого столу Xfce, веб-переглядачем Firefox і <g id='40'>менеджером пакунків Gslapt</g>."
+msgstr "<g id='84'>Базовий режим побудований на Основному режимі з додатковим середовищем робочого столу Xfce, веб-переглядачем Firefox і </g><g id='85'><g id='86'>менеджером пакунків Gslapt</g></g><g id='87'>.  Це є ідеалом для досвідчених користувачів, яким подобається інсталювати легке середовище Xfce і додавати свій вибір програм.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -899,10 +895,9 @@ msgid "<g id='88'>The Office applications are composed of the full </g><g id='89
 msgstr "<g id='88'>Офісні програми включають </g><g id='89'><g id='90'>OpenOffice</g></g><g id='91'> і </g><g id='92'><g id='93'>Orage agenda</g></g><g id='94'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='95'>Besides Firefox, Network applications include </g><g id='96'><g id='97'>Claws‑mail</g></g><g id='98'>, </g><g id='99'><g id='100'>Pidgin</g></g><g id='101'>  </g><g id='102'><g id='103'>Transmission</g></g><g id='104'> and </g><g id='105'><g id='106'>gFTP</g></g><g id='107'>.</g>"
-msgstr "Окрім Firefox, до Мережних програм входить <g id='44'>Claws‑mail</g>, <g id='45'>Pidgin</g>  <g id='46'>Transmission</g> і <g id='47'>gFTP</g>."
+msgstr "<g id='95'>Окрім Firefox, до Мережних програм входить </g><g id='96'><g id='97'>Claws‑mail</g></g><g id='98'>, </g><g id='99'><g id='100'>Pidgin</g></g><g id='101'> </g><g id='102'><g id='103'>Transmission</g></g><g id='104'> і </g><g id='105'><g id='106'>gFTP</g></g><g id='107'>.</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1050,10 +1045,9 @@ msgid "Brasero is an application to burn CD/DVD."
 msgstr "Brasero є програмою для запису CD/DVD."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "By browsing /mnt/live/memory/images/xxx.lzm/, you can view the contents of each module, therefore you'll find which module holds a given package in /mnt/live/memory/images/xxx.lzm/var/log/packages/"
-msgstr "<g id='202'>Відкриваючи </g>/mnt/live/memory/images/xxx.lzm/<g id='203'>, Ви можете переглядати вміст кожного модуля, і таким чином Ви можете знайти, який модуль містить заданий пакунок в </g>/mnt/live/memory/images/xxx.lzm/var/log/packages/"
+msgstr "Відкриваючи /mnt/live/memory/images/xxx.lzm/, Ви можете переглядати вміст кожного модуля, і таким чином Ви можете знайти, який модуль містить шуканий пакунок в /mnt/live/memory/images/xxx.lzm/var/log/packages/"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1141,10 +1135,9 @@ msgid "Finally, Salix OS strives to provide a localized system which is usable 
 msgstr "Нарешті, Salix OS прагне забезпечити локалізовану систему, яку можна використовувати у всьому світі і яка легко може бути використана не тільки англомовними користувачами."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "From then on, Salix Live will begin to monitor any changes you perform and will record them in the new persistent file."
-msgstr "<g id='122'>Важливо!</g><g id='123'> Після того як файл був створений, необхідно перезавантажити Live CD. Відтепер Salix Live почне відстежувати будь-які зміни, які Ви робите і запише їх у новому файлі зберігання.</g>"
+msgstr " Відтепер Salix Live почне відстежувати будь-які зміни, які Ви зробите, і запише їх у новому файлі збереження."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
