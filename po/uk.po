@@ -821,16 +821,14 @@ msgid "<g id='285'>In order to bypass certain limitations or to complement some 
 msgstr "<g id='149'>Для того, щоб обійти деякі обмеження або доповнити деякі технології 'третіх сторін', які використовуються, Salix розробив свій власний набір патчів і скриптів, які здебільшого не вимагають взаємодії з користувачем, хоча деякі можуть бути використані, наприклад, для полегшення створення </g><g id='150'><g id='151'>диску USB флеш з Salix Live</g></g><g id='152'>. <x id='153'/></g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='290'><g id='291'>A disk device can be subdivided into one or more partitions</g></g><g id='292'>. Before executing Salix Live Installer, you should already have the necessary partitions available on your system.</g>"
-msgstr "Перед запуском Встановлювача Salix Live Вам потрібно мати у Вашій системі необхідні розділи диску."
+msgstr "<g id='290'><g id='291'>Пристрій диску може бути розділений на один або більше розділів</g></g><g id='292'>.Перед запуском Встановлювача Salix Live Вам потрібно мати у Вашій системі необхідні розділи диску.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='293'>If you do not already have the necessary partitions ready, you may want to use Gparted to create them first. </g><g id='294'><g id='295'>Gparted</g></g><g id='296'> will enable you to change the partition organization on a disk device while preserving the contents of the partitions.</g>"
-msgstr "<g id='155'>Якщо Ви ще не маєте приготованих необхідних  розділів диску, то Ви можете їх створити за допомогою Gparted. </g><g id='156'><g id='157'>Gparted</g></g><g id='158'> дозволить Вам змінити розподіл диску, зберігаючи при цьому вміст розділів.</g>"
+msgstr "<g id='293'>Якщо Ви ще не маєте приготованих необхідних  розділів диску, то Ви можете їх створити за допомогою Gparted. </g><g id='294'><g id='295'>Gparted</g></g><g id='296'> дозволить Вам змінити розподіл диску, зберігаючи при цьому вміст розділів.</g>"
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
@@ -845,16 +843,14 @@ msgid "<g id='301'>Once the installation process is completed, You will be given
 msgstr "У більшості випадків це те, що Вам потрібно буде робити час від часу, хоча іноді краще не робити, наприклад, якщо Ви хочете використовувати Grub, або якщо Ви хочете, щоб просто включити Salix до існуючого завантажувача, налаштованого іншим дистрибутивом, до списку операційних систем."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='356'>If you have a Salix LiveCD, you can simply use </g><g id='357'><g id='358'>LiveClone</g></g><g id='359'> from a Live session. </g>"
-msgstr "<g id='28'>Помічник встановлення Salix Live створено згідно ліцензії </g><g id='29'><g id='30'>CC-BY-SA 3.0</g></g><g id='31'>.</g>"
+msgstr "<g id='356'>Якщо Ви маєте Salix LiveCD, може використати </g><g id='357'><g id='358'>LiveClone</g></g><g id='359'> з сесії Live.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='367'>Midori</g> is the web browser, <x id='368'/><g id='369'>Whaaw! MediaPlayer</g> plays multimedia contents and <g id='370'>mtPaint</g> offers graphic and photo editing."
-msgstr "<g id='393'>Midori</g> є переглядачкою тенет, <x id='394'/><g id='395'>Whaaw! MediaPlayer</g> програє мультимедіа і <g id='396'>mtPaint</g> дозволяє редактувати графіку і фото."
+msgstr "<g id='367'>Midori</g> є переглядачкою тенет, <x id='368'/><g id='369'>Whaaw! MediaPlayer</g> програє мультимедіа і <g id='370'>mtPaint</g> дозволяє редагувати графіку і фото."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -867,10 +863,9 @@ msgid "<g id='51'>Salix Live Startup Guide is released under </g><g id='52'><g i
 msgstr "<g id='51'>Помічник встановлення Salix Live створено згідно ліцензії </g><g id='52'><g id='53'>CC-BY-SA 3.0</g></g><g id='54'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='55'>Salix OS is a </g><g id='56'><g id='57'>Linux Distribution</g></g><g id='58'> based on </g><g id='59'><g id='60'>Slackware</g></g><g id='61'> that retains full backwards compatibility with its illustrious parent.</g>"
-msgstr "Salix OS є <g id='32'>Дистрибутивом Linux</g> що базується на <g id='33'>Slackware</g> і  зберігає повну сумісність з ним."
+msgstr "<g id='55'> Salix OS є </g><g id='56'><g id='57'>дистрибутивом Linux</g></g><g id='58'>,  що базується на </g><g id='59'><g id='60'>Slackware</g></g><g id='61'> і  зберігає повну сумісність з ним.</g>"
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
