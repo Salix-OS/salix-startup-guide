@@ -434,7 +434,7 @@ msgstr "Viewnior"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Whaaw!"
-msgstr "Оооов!"
+msgstr "Ооов!"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -834,10 +834,9 @@ msgid "<g id='297'>You will be greeted by a reminder that all the necessary part
 msgstr "Як ми вже бачили, це може бути зроблено за допомогою програми <g id='159'>Gparted</g>, яку включено в Salix Live і яка доступна безпосередньо з робочого столу."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='301'>Once the installation process is completed, You will be given the choice to launch </g><g id='302'><g id='303'>Lilo Setup</g></g><g id='304'> to configure your LILO bootloader. Most of the time this is what you will want to do although occasionally, it might be preferable not to, for example if you want to use Grub instead or if you want to simply incorporate Salix in an existing bootloader configured from another distribution in a multiple boot setup.</g>"
-msgstr "У більшості випадків це те, що Вам потрібно буде робити час від часу, хоча іноді краще не робити, наприклад, якщо Ви хочете використовувати Grub, або якщо Ви хочете, щоб просто включити Salix до існуючого завантажувача, налаштованого іншим дистрибутивом, до списку операційних систем."
+msgstr "<g id='301'>Як тільки процес інсталяції завершиться, Вам запропонують запустити </g><g id='302'><g id='303'>Налаштування Lilo</g></g><g id='304'> для встановлення завантажувача LILO. У більшості випадків це те, що Вам потрібно буде робити час від часу, хоча іноді краще не робити, наприклад, якщо Ви хочете використовувати Grub, або якщо Ви хочете, щоб просто включити Salix до існуючого завантажувача, налаштованого іншим дистрибутивом, до списку операційних систем.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1307,7 +1306,7 @@ msgstr "Він може бути базовим програвачем з мін
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It is interesting to note that when you produce your own customized Live CD/DVD/USB with the help of LiveClone, Salix Live Installer will still be fully functionable with it."
-msgstr ""
+msgstr "Варто зауважити, що коли Ви створите Ваш власний Live CD/DVD/USB за допомогою LiveClone, встановлювач Salix Live все ще буде повністю працювати з ним."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1763,12 +1762,12 @@ msgstr "Повний набір <x id='361'/><g id='362'>Системних зн
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The goal of Gnumeric is to be the best possible spreadsheet."
-msgstr ""
+msgstr "Gnumeric намагається бути кращою програмою для обробки калькуляційних аркушів."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The interface is intuitive, you can create your own film clips with a simple drag and drop."
-msgstr ""
+msgstr "Інтерфейс є інтуїтивним, Ви можете створити Ваш власний фільм за допомогою простого перетягування."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1783,7 +1782,7 @@ msgstr "В результаті кінцевий CD не повинен міст
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Therefore all the instructions that apply to <g id='376'>Salix XFCE Live</g> are equally applicable to Salix LXDE Live."
-msgstr ""
+msgstr "Таким чином, всі інструкції, які відносяться до <g id='376'> Salix XFCE Live </g>, так само застосовуються до Salix LXDE Live."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1943,7 +1942,7 @@ msgstr "Як буде показано нижче, меню завантажен
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "While not attempting to clone existing applications, Gnumeric can however read files saved with other spreadsheets and offers a customizable feel that attempts to minimize the costs of transition."
-msgstr ""
+msgstr "Gnumeric може читати файли, створені іншими програмами."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
