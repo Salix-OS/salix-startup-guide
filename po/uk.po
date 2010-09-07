@@ -795,13 +795,12 @@ msgstr "<g id='259'>Gparted включений в Salix Live і допомож�
 #, fuzzy
 msgctxt "paragraph"
 msgid "<g id='263'>LiveClone generates a Live CD/DVD iso image (which you can burn as an image on a CD/DVD with a CD/DVD burner) or a Live USB key. This means that you can create your very own customized live CD/DVD/USB <x id='264'/>which will be based either on SalixLive or your modified running environment."
-msgstr "<g id='136'>LiveClone створює образ iso Live CD/DVD (який Ви можете записати як образ на CD/DVD за допомогою випалювача CD/DVD) або на Live USB пам’яті флеш. Вона створює \"live\" середовище, яке базується або на SalixLive або на Вашій поточній системі. У випадку створення Live USB Вам пропонується створити пам’ять флеш USB з “</g><g id='137'><g id='138'>файлом збереження</g></g><g id='139'>”.</g>"
+msgstr "<g id='263'>LiveClone generates a Live CD/DVD iso image (which you can burn as an image on a CD/DVD with a CD/DVD burner) or a Live USB key. This means that you can create your very own customized live CD/DVD/USB <x id='264'/>which will be based either on SalixLive or your modified running environment."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='269'>To remove any changes and come back to the default settings, simply delete the persistent file (slxsave.xfs) from the </g><g id='270'><g id='271'>mount point</g></g><g id='272'> it was initially created on.</g>"
-msgstr "<g id='124'>Для видалення будь-яких змін і повернення назад до типових налаштувань просто вилучіть файл запису змін (slxsave.xfs) з </g><g id='125'><g id='126'>точки монтування</g></g><g id='127'> на якій він був створений.</g>"
+msgstr "<g id='269'>Для видалення будь-яких змін і повернення назад до типових налаштувань просто вилучіть файл запису змін (slxsave.xfs) з </g><g id='270'><g id='271'>точки монтування</g></g><g id='272'> на якій він був створений.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -809,16 +808,14 @@ msgid "<g id='273'>Salix Live Installer will enable you to </g><g id='274'><g i
 msgstr "<g id='273'>Встановлювач Salix Live дозволить Вам </g><g id='274'><g id='275'>встановити Salix OS</g></g><g id='276'> з комфортного графічного середовища Salix Live.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='277'>Like most Live CDs based on Slackware, Salix Live is relying on the </g><g id='278'><g id='279'>Linux Live Scripts</g></g><g id='280'> technology. Some of the shell scripts it includes will enable an advanced user to fully </g><g id='281'><g id='282'>customize and re-master</g></g><g id='283'>  <x id='284'/>Salix Live to better suit his or her own needs.</g>"
-msgstr "<g id='141'>Подібно більшості Live CD, що базуються на Slackware, Salix Live збудовано на технології</g><g id='142'><g id='143'>Скриптів Linux Live</g></g><g id='144'>. Деякі з шел-скриптів, які входять до неї, дозволяють досвідченим користувачам повністю </g><g id='145'><g id='146'>змінювати і перебудовувати</g></g><g id='147'>  <x id='148'/>Salix Live для кращої відповідності їхнім власним бажанням.</g>"
+msgstr "<g id='277'>Подібно більшості Live CD, що базуються на Slackware, Salix Live збудовано на технології</g><g id='278'><g id='279'>Скриптів Linux Live</g></g><g id='280'>. Деякі з шел-скриптів, які входять до неї, дозволяють досвідченим користувачам повністю </g><g id='281'><g id='282'>змінювати і перебудовувати</g></g><g id='283'>  <x id='284'/>Salix Live для кращої відповідності їхнім власним бажанням.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='285'>In order to bypass certain limitations or to complement some of the third-party technology it uses, Salix developed its own set of patches and scripts which for the most part need no user interaction while some can be executed, for instance to facilitate the creation of a </g><g id='286'><g id='287'>Salix Live USB Flash Disk</g></g><g id='288'>. <x id='289'/></g>"
-msgstr "<g id='149'>Для того, щоб обійти деякі обмеження або доповнити деякі технології 'третіх сторін', які використовуються, Salix розробив свій власний набір патчів і скриптів, які здебільшого не вимагають взаємодії з користувачем, хоча деякі можуть бути використані, наприклад, для полегшення створення </g><g id='150'><g id='151'>диску USB флеш з Salix Live</g></g><g id='152'>. <x id='153'/></g>"
+msgstr "<g id='285'>Для того, щоб обійти деякі обмеження або доповнити деякі технології 'третіх сторін', які використовуються, Salix розробив свій власний набір патчів і скриптів, які здебільшого не вимагають взаємодії з користувачем, хоча деякі можуть бути використані, наприклад, для полегшення створення </g><g id='286'><g id='287'>диску USB флеш з Salix Live</g></g><g id='288'>. <x id='289'/></g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -898,10 +895,9 @@ msgid "<g id='84'>The Basic Mode is built on the Core Mode with the addition of 
 msgstr "Базовий режим базований на Основному режимі з додатковим середовищем робочого столу Xfce, веб-переглядачем Firefox і <g id='40'>менеджером пакунків Gslapt</g>."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='88'>The Office applications are composed of the full </g><g id='89'><g id='90'>OpenOffice productivity suite</g></g><g id='91'>, and </g><g id='92'><g id='93'>Orage agenda</g></g><g id='94'>.</g>"
-msgstr "Офісні програми включають <g id='41'>OpenOffice</g>, <g id='42'>Переглядач документів</g> і <g id='43'>Orage agenda</g>."
+msgstr "<g id='88'>Офісні програми включають </g><g id='89'><g id='90'>OpenOffice</g></g><g id='91'> і </g><g id='92'><g id='93'>Orage agenda</g></g><g id='94'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
@@ -1227,7 +1223,6 @@ msgid "If you only have an iso image of Salix Live, follow the instructions belo
 msgstr "Якщо Ви маєте образ iso для Salix Live, використайте наступні інструкції:"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "If you're on Windows, execute the file called “install-on-USB.cmd” instead."
 msgstr "Якщо Ви використовуєте Windows, тоді запустіть файл під назвою “install-on-USB.cmd”."
@@ -1268,16 +1263,14 @@ msgid "Introduction"
 msgstr "Вступ"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It <x id='185'/>will display available sound cards in your system and let you select the card you want to use in preference."
-msgstr "Показує доступні звукові карти у Вашій системі і дозволяє вибрати карту, яку Ви бажаєте використовувати."
+msgstr "<x id='185'/>Показує доступні звукові карти у Вашій системі і дозволяє вибрати карту, яку Ви бажаєте використовувати."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It <x id='186'/>will display a possible course of action for each new configuration file found in the system."
-msgstr "Це покаже можливі дії для кожного нового файлу налаштувань, знайденого у системі."
+msgstr "<x id='186'/>Показує можливі дії для кожного нового файлу налаштувань, знайденого у системі."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
