@@ -1302,7 +1302,7 @@ msgstr "Ця програма має багато налаштувань і пі
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It is intended to be a basic media player with little dependencies."
-msgstr ""
+msgstr "Він може бути базовим програвачем з мінімальними залежностями."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1490,10 +1490,9 @@ msgid "Only when all the sections have been completed will the 'Launch Salix Ins
 msgstr "Тільки після закінчення всіх секцій буде активована кнопка 'Запустити встановлення Salix'."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "OpenOffice.org 3 is the leading open-source office software suite <x id='165'/>for word processing, spreadsheets, presentations, graphics, databases and more."
-msgstr "OpenOffice.org 3 є провідною офісною програмою <x id='65'/> для обробки текстів, калькуляційних аркушів, презентацій, графіки, баз даних і навіть більше."
+msgstr "OpenOffice.org 3 є провідною офісною програмою <x id='165'/> для обробки текстів, калькуляційних аркушів, презентацій, графіки, баз даних і навіть більше."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1636,10 +1635,9 @@ msgid "Salix Live root password is:"
 msgstr "Пароль root'а Salix Live:"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix Live will also come in handy as a mobile solution if you wish to carry Salix OS everywhere you go or if you need to perform some basic rescue operation such as fixing an ailing LILO bootloader with Lilo Setup, configuring some partitions with Gparted, etc."
-msgstr "Salix Live також може міститися на переносних пристроях, Ви можете переносити її де Вам заманеться, також може бути корисною, якщо Вам потрібно врятувати систему, наприклад виправити завантажувач LILO за допомогою Lilo Setup, налаштування деяких розділів диску за допомогою Gparted, та інших."
+msgstr "Salix Live також може міститися на переносних пристроях, Ви можете переносити її де Вам заманеться, і також може бути корисною, якщо Вам потрібно врятувати систему, наприклад виправити завантажувач LILO за допомогою Lilo Setup, налаштування деяких розділів диску за допомогою Gparted, та інших."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1659,7 +1657,7 @@ msgstr "Просто натисніть на дату для показу або
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Simply plug your Salix Live USB key in your computer and start it the usual way."
-msgstr ""
+msgstr "Просто підключіть Ваш Salix Live USB пам’ять до комп’ютера і завантажте його, так як це Ви звичайно робите. "
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1740,7 +1738,7 @@ msgstr "У скрипти Linux Live входять наступні корис�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Office suite is managed by <x id='363'/><g id='364'>Abiword</g> and <g id='365'>Gnumeric</g> while <g id='366'>ePDFviewer</g> replaces Evince."
-msgstr ""
+msgstr "Офісні програми включають <x id='363'/><g id='364'>Abiword</g> і <g id='365'>Gnumeric</g>, а <g id='366'>ePDFviewer</g> заміняє Evince."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1760,7 +1758,7 @@ msgstr "На першому екрані Вам запропонують виб�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The full set of <x id='361'/><g id='362'>Salix system tools</g> are of course included in this release as well as many of the applications used in Salix XFCE standard edition."
-msgstr ""
+msgstr "Повний набір <x id='361'/><g id='362'>Системних знарядь Salix </g>, звичайно, включено в це видання, так само як і багато програм, що використовуються в стандартному виданні Salix XFCE."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
