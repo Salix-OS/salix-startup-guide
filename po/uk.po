@@ -877,10 +877,9 @@ msgid "<g id='66'>In order to do this, Salix OS has chosen the </g><g id='67'><
 msgstr "Щоб це зробити, Salix OS вибрав в якості робочого столу <g id='34'>Xfce</g>, який пропонує всеосяжне повнофункціональне середовище, залишаючись при цьому простим, необструктивним і дуже чутливим при управлінні."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='70'>Salix OS also provides all the necessary </g><g id='71'><g id='72'>GUI</g></g><g id='73'> utilities to assist </g><g id='74'><g id='75'>system management</g></g><g id='76'>.</g>"
-msgstr "Salix OS також забезпечує всі необхідні <g id='36'>GUI</g> утиліти для <g id='37'>керування системою</g>."
+msgstr " <g id='70'>Salix OS також забезпечує всі необхідні </g><g id='71'><g id='72'>GUI</g></g><g id='73'> утиліти для </g><g id='74'><g id='75'>керування системою</g></g><g id='76'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
@@ -1245,7 +1244,7 @@ msgstr "В цьому випадку нема необхідності ство�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "In the case of a Live USB Key generation, you will be offered to make your USB key with “</g><g id='265'><g id='266'>persistence</g></g><g id='267'>”.</g>"
-msgstr ""
+msgstr "У випадку створення Live USB флеш пам’яті Вам запропонують створити її з “</g><g id='265'><g id='266'>файлом збереження</g></g><g id='267'>”.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1275,7 +1274,7 @@ msgstr "<x id='186'/>Показує можливі дії для кожного 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It allows you to quickly connect/mount a remote filesystem and browse local networks shares."
-msgstr ""
+msgstr "Дозволяє швидко з’єднуватися/монтувати віддалену файлову систему і переглядати локальні відкриті теки."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1290,7 +1289,7 @@ msgstr "На даний момент підтримує pdf, postscript, djvu, t
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It depends if you already have a Salix LiveCD or simply an iso image."
-msgstr ""
+msgstr "Це залежить від того, чи Ви вже маєте Salix LiveCD або тільки образ iso."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
