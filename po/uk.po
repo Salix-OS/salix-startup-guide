@@ -827,10 +827,9 @@ msgid "<g id='293'>If you do not already have the necessary partitions ready, yo
 msgstr "<g id='293'>Якщо Ви ще не маєте приготованих необхідних  розділів диску, то Ви можете їх створити за допомогою Gparted. </g><g id='294'><g id='295'>Gparted</g></g><g id='296'> дозволить Вам змінити розподіл диску, зберігаючи при цьому вміст розділів.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='297'>You will be greeted by a reminder that all the necessary partitions have to be created first. As we have seen, this can be done simply with the help of </g><g id='298'><g id='299'>Gparted</g></g><g id='300'>, which is included in Salix Live and is available directly on the desktop.</g>"
-msgstr "Як ми вже бачили, це може бути зроблено за допомогою програми <g id='159'>Gparted</g>, яку включено в Salix Live і яка доступна безпосередньо з робочого столу."
+msgstr "<g id='297'> Появиться нагадування, що всі необхідні розділи повинні бути створені на початку. Як ми вже бачили, це може бути зроблено за допомогою програми <g id='298'>Gparted</g>, яку включено в Salix Live і яка доступна безпосередньо з робочого столу."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1535,7 +1534,7 @@ msgstr "PiTiVi є легким редактором відео."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "PiTiVi's user interface is carefully designed to suit both the newcomer and the professional, to be efficient and intuitive."
-msgstr ""
+msgstr "Інтерфейс PiTiVi ретельно розроблений з урахуванням можливостей новачків і професіоналів, щоб бути ефективним і інтуїтивно зрозумілим."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
