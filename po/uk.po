@@ -434,7 +434,7 @@ msgstr "Viewnior"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Whaaw!"
-msgstr "Ооов!"
+msgstr "Оооов!"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -1608,10 +1608,9 @@ msgid "Salix Live Installer"
 msgstr "Встановлювач Salix Live"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix OS 13.1"
-msgstr "Salix Live 13.1"
+msgstr "Salix OS 13.1"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1629,10 +1628,9 @@ msgid "Salix Live"
 msgstr "Salix Live"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix Live CD holds a <g id='346'>/salixlive/rootcopy/</g> directory."
-msgstr "Salix Live CD містить <g id='204'>/salixlive/rootcopy/</g> теку."
+msgstr "Salix Live CD містить <g id='346'>/salixlive/rootcopy/</g> теку."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1716,7 +1714,6 @@ msgid "Support"
 msgstr "Підтримка"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Support is available straight from Salix desktop:"
 msgstr "Підтримка доступна безпосередньо з робочого столу Salix:"
@@ -1973,10 +1970,9 @@ msgid "You can also crop images before saving them."
 msgstr "Ви також можете обрізати зображення перед їх збереженням."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You can check that the module contains the unwanted packages by listing the <g id='337'>/mnt/hdxx/directoryx/var/log/packages/ directory.)</g>"
-msgstr "Ви можете перевірити, чи модуль містить непотрібний пакунок, переглядаючи теку <g id='193'>/mnt/hdxx/directoryx/var/log/packages/ .)</g>"
+msgstr "Ви можете перевірити, чи модуль містить непотрібний пакунок, переглядаючи теку <g id='337'>/mnt/hdxx/directoryx/var/log/packages/ .)</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
