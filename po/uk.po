@@ -379,7 +379,7 @@ msgstr "Програми"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Standard version"
-msgstr "Стандартне видання"
+msgstr "Стандартна версія"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -1449,12 +1449,12 @@ msgstr "Зауважте, що Вам потрібно створити ще р�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Of course, Gslapt package manager, and its command line equivalent slapt-get, are available to install extra software from Slackware and Salix repositories, with complete support for dependency resolution."
-msgstr ""
+msgstr "Зрозуміло, що менеджер пакетів Gslapt і його командний еквівалент slapt-get зможуть встановити додаткові програми зі сховищ Slackaware і Salix з повною підтримкою залежностей між пакетами."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Of course, this is also the case with the <g id='377'>installation</g> and <g id='378'>customization</g> of Salix LXDE Live."
-msgstr ""
+msgstr "Звмчайно, цк є вибір <g id='377'>встановлення</g> і <g id='378'>зміни</g> Salix LXDE Live."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1584,7 +1584,7 @@ msgstr "Пам’ятайте, що існуючий розділ підкачк
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix LXDE Live is the Live version of Salix LXDE edition and thus includes the same choice of software plus, just like Salix XFCE Live, the full set of <x id='371'/><g id='372'>Salix Live tools</g>."
-msgstr ""
+msgstr "Salix LXDE Live є Live версія видання Salix LXDE і тому включає ті самі програми, як і Salix XFCE Live, тобто повний набір <x id='371'/><g id='372'>знарядь Salix Live</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
