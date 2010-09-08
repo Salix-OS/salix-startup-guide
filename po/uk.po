@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: ttt\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-09-05 09:09+CET\n"
-"PO-Revision-Date: 2010-07-16 02:34+0100\n"
+"PO-Revision-Date: 2010-09-08 18:48+0100\n"
 "Last-Translator: Cyrille Pontvieux <jrd@enialis.net>\n"
 "Language-Team: Ukrainian <translation@linux.org.ua>\n"
 "MIME-Version: 1.0\n"
@@ -1399,7 +1399,7 @@ msgstr "Флешка Live USB"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Live version"
-msgstr ""
+msgstr "Версія Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1689,7 +1689,7 @@ msgstr "Може виникнути ситуація, коли все що Ви 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Standard version"
-msgstr ""
+msgstr "Стандартна версія"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1929,7 +1929,7 @@ msgstr "Ми рекомендуємо відформатувати Ваші ро
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Whaaw!"
-msgstr ""
+msgstr "Oooв!"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2197,105 +2197,106 @@ msgid "Salix Live Startup Guide"
 msgstr "Помічник встановлення Salix Live"
 
 #~ msgctxt "heading"
+
 #~ msgid "Viewer)"
 #~ msgstr "Viewnior"
-
 #~ msgctxt "paragraph"
+
 #~ msgid "<g id='154'>A disk device can be subdivided into one or more partitions</g>."
 #~ msgstr "<g id='154'>Пристрій диску може бути поділений на один або більше розділів</g>."
-
 #~ msgctxt "paragraph"
+
 #~ msgid "<g id='84'>Slapt-get</g> is a CLI tool providing an APT‑like system for Slackware package management."
 #~ msgstr "<g id='84'>Slapt-get</g> є інструментом CLI, який забезпечує подібну на APT систему для керуванням пакунками Slackware."
-
 #~ msgctxt "paragraph"
+
 #~ msgid "Document Viewer is a a very lightweight, simple PDF document viewer."
 #~ msgstr "Переглядач документів є дуже легким і простим переглядачем документів PDF."
-
 #~ msgctxt "paragraph"
+
 #~ msgid "Graphical applications include the <g id='56'>Gimp</g>, <g id='57'>Viewnior</g> and <g id='58'>Simple Scan</g>"
 #~ msgstr "Графічні програми містять <g id='56'>Gimp</g>, <g id='57'>Viewnior</g> і <g id='58'>Просте сканування</g>"
-
 #~ msgctxt "paragraph"
+
 #~ msgid "Gslapt is the GUI version of <g id='85'>Slapt-get</g>."
 #~ msgstr "Gslapt є GUI версією <g id='85'>Slapt-get</g>."
-
 #~ msgctxt "paragraph"
+
 #~ msgid "If you do however, you might want to modify the default qwebircxxx login to something more personal and human readable."
 #~ msgstr "Якщо тим не менше ви зробите, то Вам потрібно змінити типову назву користувача qwebircxxx на якусь більш особисту і читабельну."
-
 #~ msgctxt "paragraph"
+
 #~ msgid "Just by dragging your video clips, you can create your own film clips."
 #~ msgstr "Переносячи Ваші відео-кліпи, Ви можете створити Ваш власний фільм."
-
 #~ msgctxt "paragraph"
+
 #~ msgid "On the first boot from a USB key, an advanced bootloader will be installed (grub2) and the system will reboot once, this process is normal and only happens once."
 #~ msgstr "Під час першого завантаження з USB флешки встановиться розширений менеджер завантаження (grub2) і система один раз перезавантажиться. Це є нормально і стається тільки раз."
-
 #~ msgctxt "paragraph"
+
 #~ msgid "Once the installation process is completed, You will be given the choice to launch <g id='160'>Lilo Setup</g> to configure your LILO bootloader."
 #~ msgstr "Як тільки закінчиться Ваше встановлення, Вам запропонують запустити <g id='160'>Встановлювач Lilo</g> для налаштування Вашого завантажувача LILO."
-
 #~ msgctxt "paragraph"
+
 #~ msgid "Our <g id='87'>Wiki</g> and <g id='88'>Forum</g> will be two other important sources of information."
 #~ msgstr "Наша <g id='87'>Wiki</g> і <g id='88'>Форум</g> є двома іншими інформаційними ресурсами."
-
 #~ msgctxt "paragraph"
+
 #~ msgid "Parole Media Player is a media player (audio and video) which utilizes the GStreamer framework for playback."
 #~ msgstr "Parole Media Player є медіа програвачем (аудіо і відео), який використовує GStreamer для програвання."
-
 #~ msgctxt "paragraph"
+
 #~ msgid "The desktop link, Salix Online, will bring you to the Salix <g id='86'>Homepage</g>."
 #~ msgstr "Це посилання на робочому столі перенаправить Вас до <g id='86'>Домашньої сторінки</g> Salix."
-
 #~ msgctxt "paragraph"
+
 #~ msgid "The interface is intuitive to most."
 #~ msgstr "Інтерфейс є інтуїтивним для більшості користувачів."
-
 #~ msgctxt "paragraph"
+
 #~ msgid "The search option of the forum will quickly show you if the question you have in mind has already been posted by a member of the community and if it has been answered."
 #~ msgstr "Можливість пошуку по форуму допоможе Вам швидко знайти відповідь на Ваше запитання, якщо воно вже кимось було заданим і хтось відповів на нього."
-
 #~ msgctxt "paragraph"
+
 #~ msgid "This is ideal for advanced users who would like to install a lightweight Xfce and add their own choice of applications."
 #~ msgstr "Це ідеально для досвідчених користувачів, які бажають встановити легке Xfce і додати свій власний набір програм."
-
 #~ msgctxt "paragraph"
+
 #~ msgid "You will be greeted by a reminder that all the necessary partitions have to be created first."
 #~ msgstr "Вас привітає нагадування про те, що всі необхідні розділи повинні бути створені на початку."
-
 #~ msgctxt "heading"
+
 #~ msgid "Ristretto"
 #~ msgstr "Ristretto"
-
 #~ msgctxt "heading"
+
 #~ msgid "Totem"
 #~ msgstr "Totem"
-
 #~ msgctxt "heading"
+
 #~ msgid "XSane"
 #~ msgstr "XSane"
-
 #~ msgctxt "paragraph"
+
 #~ msgid "4- Run \"bootinst.sh\" if you are on Linux or Unix, \"bootinst.bat\" if you're on Windows."
 #~ msgstr "4- Запустіть \"bootinst.sh\" якщо Ви знаходитися в Linux або Unix, \"bootinst.bat\" якщо Ви у Windows."
-
 #~ msgctxt "paragraph"
+
 #~ msgid "Alternatively, you can run \"install-on-USB\" if you're on Linux and have grub2 installed;"
 #~ msgstr "Альтернативно Ви можете запустити \"встановити-на-USB\", якщо Ви зараз на Linux і маєте встановлений grub2;"
-
 #~ msgctxt "paragraph"
+
 #~ msgid "XSane is a GUI scanning utility which uses the SANE library to communicate with scanners."
 #~ msgstr "XSane є графічною утилітою, яка використовує бібліотеку SANE для зв’язку з сканерами."
-
 #~ msgctxt "paragraph"
+
 #~ msgid "this will prevent the first \"reboot on first boot\" operation."
 #~ msgstr "це дозволить запобігти першій операції \"перезавантажити при першому завантаженні\"."
-
 #~ msgctxt "heading"
+
 #~ msgid "Introduc"
 #~ msgstr "Вступ"
-
 #~ msgctxt "heading"
+
 #~ msgid "Presentation"
 #~ msgstr "Презентація"
