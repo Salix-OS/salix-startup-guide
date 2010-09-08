@@ -1454,7 +1454,7 @@ msgstr "Зрозуміло, що менеджер пакетів Gslapt і йо�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Of course, this is also the case with the <g id='377'>installation</g> and <g id='378'>customization</g> of Salix LXDE Live."
-msgstr "Звмчайно, цк є вибір <g id='377'>встановлення</g> і <g id='378'>зміни</g> Salix LXDE Live."
+msgstr "Звичайно, це є вибір <g id='377'>встановлення</g> і <g id='378'>зміни</g> Salix LXDE Live."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
