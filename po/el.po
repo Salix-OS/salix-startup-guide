@@ -13,9 +13,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: GREECE\n"
 "X-Poedit-Language: Greek\n"
 "X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Country: GREECE\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -237,6 +237,7 @@ msgid "Live USB Flash Drive"
 msgstr "Συσκευή ζωντανού USB Flash"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Live version"
 msgstr "Live version"
@@ -387,6 +388,7 @@ msgid "Software"
 msgstr "Λογισμικό"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Standard version"
 msgstr "Βασική έκδοση"
@@ -443,6 +445,7 @@ msgid "Viewnior"
 msgstr "Viewnior"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Whaaw!"
 msgstr "Whaaw!"
