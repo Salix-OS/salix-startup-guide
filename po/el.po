@@ -13,9 +13,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Country: GREECE\n"
 "X-Poedit-Language: Greek\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-Poedit-Country: GREECE\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -237,7 +237,6 @@ msgid "Live USB Flash Drive"
 msgstr "Συσκευή ζωντανού USB Flash"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Live version"
 msgstr "Live version"
@@ -388,7 +387,6 @@ msgid "Software"
 msgstr "Λογισμικό"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Standard version"
 msgstr "Βασική έκδοση"
@@ -445,7 +443,6 @@ msgid "Viewnior"
 msgstr "Viewnior"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "heading"
 msgid "Whaaw!"
 msgstr "Whaaw!"
@@ -1610,7 +1607,6 @@ msgid "Parole features playback of local media files, including video with subti
 msgstr "Το Parole έχει χαρακτηριστικά, αναπαραγωγής, τοπικά, αρχείων πολυμέσων, συμπεριλαμβανομένων βίντεο με υπότιτλους υποστήριξη, DVD / CD και live streams."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Parole is also extensible via plugins, and it is shipped with a browser media player plugin."
 msgstr "το Parole είναι επεκτάσιμο μέσω plugins, και διατίθεται στην αγορά με ένα πρόσθετο ενημέρωσης αναπαραγωγής πολυμέσων."
@@ -1631,7 +1627,6 @@ msgid "PiTiVi is an easy to use video editor."
 msgstr "Το PiTiVi είναι μία εύχρηστη εφαρμογή επεξεργασίας βίντεο."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "PiTiVi's user interface is carefully designed to suit both the newcomer and the professional, to be efficient and intuitive."
 msgstr "Η διεπαφή χρήστη PiTiVi είναι προσεκτικά σχεδιασμένη για να ταιριάζει τόσο το νεοφερμένο και τον επαγγελματία, για να είναι αποτελεσματική και διαισθητική."
@@ -1682,13 +1677,11 @@ msgid "Remember that the existing swap partition will be automatically used by t
 msgstr "Θυμηθείτε ότι υπάρχον διαμέρισμα αντιμετάθεσης (swap) θα χρησιμοποιηθεί αυτόματα από τον εγκαταστάτη του Livecd χωρίς προτροπή σε σας."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix LXDE Live is the Live version of Salix LXDE edition and thus includes the same choice of software plus, just like Salix XFCE Live, the full set of <x id='371'/><g id='372'>Salix Live tools</g>."
 msgstr "Το Salix LXDE Live είναι η ζωντανή εκδοχή του Salix LXDE και επομένως περιλαμβάνει την ίδια επιλογή του λογισμικού συν, όπως και το Salix XFCE Live, το σύνολο των <x id='371'/><g id='372'> εργαλείων του Salix Live </g> ."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix LXDE edition features the Lightweight X11 Desktop Environment, “<g id='360'>an extremely fast-performing and energy-saving desktop environment</g>”, with a clean look and feel."
 msgstr "Η έκδοση Salix LXDE διαθέτει το ελαφρύ X11 περιβάλλον εργασίας, \" <g id='360'> που έχει εξαιρετικά γρήγορη απόδοση και εξοικονόμηση ενέργειας </g> », με μια καθαρή εικόνα και αίσθηση."
@@ -1757,7 +1750,6 @@ msgid "Simply click on a date to display or set the agenda for the day."
 msgstr "Απλά κάντε κλικ σε μια ημερομηνία για να εμφανίσετε ή να θέσετε τις επαφές σας (agenda) για μια μέρα."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Simply plug your Salix Live USB key in your computer and start it the usual way."
 msgstr "Απλά συνδέστε το Salix Live USB κλειδί σας στον υπολογιστή σας και δουλέψτε με τον συνηθισμένο τρόπο."
@@ -1778,7 +1770,6 @@ msgid "Software"
 msgstr "Λογισμικό"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Some of Salix XFCE standard application however are replaced by lighter counteparts."
 msgstr "Μερικές από τις βασικές εφαρμογές του Salix XFCE, ωστόσο, έχουν αντικατασταθεί από ελαφρύτερες εφαρμογές."
@@ -1825,7 +1816,6 @@ msgid "System Management"
 msgstr "Διαχείριση Συστήματος"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The Core installation mode is identical to the one you get from the XFCE edition while Basic will install a minimal LXDE desktop with only Midori and Gslapt installed as extra."
 msgstr "Ο Συμπαγής τρόπος εγκατάστασης είναι ταυτόσημος με εκείνον που παίρνετε από την έκδοση XFCE ενώ η Βασική θα εγκαταστήσει μια ελάχιστη επιφάνεια εργασίας LXDE και μόνο το Midori και το Gslapt θα εγκατασταθούν ως έξτρα."
@@ -1842,7 +1832,6 @@ msgid "The Linux Live Scripts come with the following useful commands:"
 msgstr "Τα Linux Live Scripts έρχονται με τα ακόλουθες χρήσιμες εντολές:"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The Office suite is managed by <x id='363'/><g id='364'>Abiword</g> and <g id='365'>Gnumeric</g> while <g id='366'>ePDFviewer</g> replaces Evince."
 msgstr "Η σουίτα του γραφείου περιλαμβάνει το <x id='363'/><g id='364'> AbiWord </g> και το <g id='365'> Gnumeric </g> ενώ <g id='366'> το ePDFviewer </g> αντικαθιστά το Evince."
@@ -1863,19 +1852,16 @@ msgid "The first screen to greet you will enable you to select your language."
 msgstr "Η πρώτη οθόνη καλοσωρίσματος θα σας επιτρέψει να επιλέξετε την γλώσσας σας."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The full set of <x id='361'/><g id='362'>Salix system tools</g> are of course included in this release as well as many of the applications used in Salix XFCE standard edition."
 msgstr "Η πλήρης σειρά των <x id='361'/><g id='362'> εργαλείων συστήματος Salix  </g> φυσικά συμπεριλαμβάνονται σε αυτήν την έκδοση, καθώς και πολλές από τις εφαρμογές που χρησιμοποιούνται στη βασική έκδοση του Salix XFCE."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The goal of Gnumeric is to be the best possible spreadsheet."
 msgstr "Ο στόχος του Gnumeric είναι να είναι η όσο το δυνατό καλύτερη εφαρμογή λογιστικών φύλλων."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The interface is intuitive, you can create your own film clips with a simple drag and drop."
 msgstr "Η διεπαφή είναι διαισθητική, μπορείτε να δημιουργήσετε το δικά αποσπάσματα ταινιών με ένα απλό drag and drop."
@@ -1891,19 +1877,16 @@ msgid "The resulting CD must not contain the .iso file, or you have made a mista
 msgstr "Το παραγόμενο CD δεν πρέπει να περιέχει το αρχείο .iso, διαφορετικά έχετε κάνει λάθος στη διαδικασία."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Therefore all the instructions that apply to <g id='376'>Salix XFCE Live</g> are equally applicable to Salix LXDE Live."
 msgstr "Συνεπώς, όλες οι οδηγίες που ισχύουν για το <g id='376'> Salix XFCE Live </g> ισχύουν εξίσου και για το Salix LXDE Live."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "These features come in very handy when scanning books and multi-page documents."
 msgstr "Αυτά τα χαρακτηριστικά είναι πολύ πρακτικό κατά τη σάρωση βιβλίων και πολυσέλιδων εγγράφων."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "This can be particularly interesting if you regularly perform installations at friends/family/neigbours/schools/etc and you generally like to add your personnal touch/preferences to those installations."
 msgstr "Αυτό μπορεί να είναι ιδιαίτερα ενδιαφέρον αν κάνετε τακτικά εγκαταστάσεις σε φίλους / οικογένεια / neigbours / σχολές / κλπ και εσείς γενικά θα θέλατε να προσθέσετε τη προσωπική σας αφή  / προτιμήσεις στις εν λόγω εγκαταστάσεις."
@@ -2055,7 +2038,6 @@ msgid "While instructions below the Salix Live Boot menu will give you access t
 msgstr "Ενώ οι οδηγίες κάτω από το μενού Εκκίνησης του Salix Live θα σας δώσει πρόσβαση στις ειδικές επιλογές εκκίνησης του 'εγχειριδίου' του Salix Live."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "While not attempting to clone existing applications, Gnumeric can however read files saved with other spreadsheets and offers a customizable feel that attempts to minimize the costs of transition."
 msgstr "Αν και δεν προσπαθεί να κλωνοποιήσει υπάρχουσες εφαρμογές, το Gnumeric μπορεί να διαβάσει αρχεία που είναι αποθηκευμένα όμως με άλλα υπολογιστικά φύλλα και προσφέρει μια προσαρμόσιμη αίσθηση ότι προσπαθεί να ελαχιστοποιήσει το κόστος της μετάβασης."
@@ -2071,13 +2053,11 @@ msgid "Xfce is a lightweight desktop environment for various Unix/Linux systems.
 msgstr "Το Xfce είναι ένα ελαφρύ περιβάλλον εργασίας για ποικίλα Unix/Linux συστήματα."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You can also crop images before saving them."
 msgstr "Μπορείτε να περικόψετε και εικόνες πριν από την αποθήκευση τους."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You can check that the module contains the unwanted packages by listing the <g id='337'>/mnt/hdxx/directoryx/var/log/packages/ directory.)</g>"
 msgstr "Μπορείτε να ελέγξετε ότι το άρθρωμα που περιέχει τα ανεπιθύμητα πακέτα έχει σε λίστα το <g id='193'>/mnt/hdxx/directoryx/var/log/packages/ κατάλογο.)</g>"
@@ -2088,7 +2068,6 @@ msgid "You can fully customize the content of a module by removing or adding app
 msgstr "Μπορείτε πλήρως να τροποποιήσετε τα περιεχόμενα ενός αρθρώματος αφαιρώντας ή προσθέτοντας εφαρμογές και διαγράφοντας, διορθώνοντας ή προσθέτοντας νέα αρχεία μέσα σε αυτό."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You can now easily produce your very own mini distro with the help of LiveClone and you are all set to deploy it on multiple computers."
 msgstr "Μπορείτε τώρα εύκολα να παράγετε την δική σας μικρο διανομή με τη βοήθεια του LiveClone και τα έχετε όλα έτοιμα για τη χρησιμοποίησή της σε πολλούς υπολογιστές."
@@ -2099,7 +2078,6 @@ msgid "You can use Asunder to save tracks from an Audio CD as any of WAV, MP3, O
 msgstr "Μπορείτε να χρησιμοποιήσετε το Asunder για να αποθηκεύσετε tracks από ένα CD ήχου ως οποιοδήποτε τύπο WAV, MP3, OGG, FLAC, WavPack, Musepack, AAC, και Monkey's Audio αρχείων ήχου."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You must open an ISO file of Salix Live (for example the one you downloaded) and then add to and/or remove from the modules situated in <g id='347'>/salixlive/base</g>, <g id='348'>/salixlive/modules</g> or <g id='349'>/salixlive/optional</g>."
 msgstr "Πρέπει να ανοίξτε ένα αρχείο ISO του Salix Live (για παράδειγμα αυτό που κατεβάσατε) και στη συνέχεια να προσθέσετε ή και να αφαιρέστε σε αυτό αρθρώματα που βρίσκονται στα <g id='205'>/salixlive/base</g>, <g id='206'>/salixlive/modules</g> ή <g id='207'>/salixlive/optional</g>."
@@ -2115,7 +2093,6 @@ msgid "Your computer must be set to boot on the optical drive first before defau
 msgstr "Ο υπολογιστή σας πρέπει να ρυθμιστεί να εκκινεί πρώτα από τον οπτικό δίσκο πριν από το εξ΄ορισμού εσωτερικό σκληρό δίσκο."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "a 200MHz CPU and 16MB of free RAM)."
 msgstr "μια 200MHz CPU και 16MB ελεύθερης RAM)."
@@ -2318,6 +2295,7 @@ msgid "rm /mnt/hdxx/custom_live/base/unwanted_module"
 msgstr "rm /mnt/hdxx/custom_live/base/unwanted_module"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "title"
 msgid "Salix Live Startup Guide"
 msgstr "Salix Live Startup Guide"
