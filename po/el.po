@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: salix-startup-guide\n"
 "POT-Creation-Date: 2010-09-05 09:09+CET\n"
-"PO-Revision-Date: 2010-09-10 16:54+0200\n"
+"PO-Revision-Date: 2010-09-11 20:03+0300\n"
 "Last-Translator: Dimitris Tzemos <djemos@slackel.gr>\n"
 "Language-Team: Greek\n"
 "MIME-Version: 1.0\n"
@@ -595,7 +595,7 @@ msgstr "2- Εγκαθιστά όλα τα πακέτα λογισμικού χρ
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Open up the module you want to customize under the working directory:"
-msgstr "2- Ανοίγει το άρθρωμα που θέλετε να τροποποιήσετε κάτω από κατάλογο εργασίας:"
+msgstr "2- Ανοίγει το άρθρωμα που θέλετε να τροποποιήσετε κάτω από τον κατάλογο εργασίας:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -620,7 +620,7 @@ msgstr "3- Αφαίρεση όλων των περιττών αρχείων:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Remove the packages from the working directory:"
-msgstr "3- Αφαίρεση των πακέτων από το κατάλογο εργασίας:"
+msgstr "3- Αφαίρεση των πακέτων από τον κατάλογο εργασίας:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1368,7 +1368,7 @@ msgstr "Δεν θα τροποποιήσει κανένα λειτουργικό
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Lilo Setup"
-msgstr "Ρύθμιση Λίλο"
+msgstr "Ρύθμιση του Lilo"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2073,7 +2073,7 @@ msgstr "dir2lzm directoryx modulex.lzm"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "ePDFView is a lightweight PDF document viewer that only uses the GTK+ and Poppler libraries."
-msgstr "Το ePDFView είναι ένα ελαφρύ θεατής εγγράφων PDF που χρησιμοποιεί μόνο το GTK + και Poppler βιβλιοθήκες."
+msgstr "Το ePDFView είναι ένας ελαφρύς θεατής εγγράφων PDF που χρησιμοποιεί μόνο το GTK + και Poppler βιβλιοθήκες."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2173,7 +2173,7 @@ msgstr "mkdir /mnt/hdxx/custom_live"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mtPaint is a painting program designed to easily create pixel art and manipulate digital photos."
-msgstr "Το mtPaint είναι ένα πρόγραμμα ζωγραφικής σχεδιασμένο για να δημιουργήσετε εύκολα pixel art και να χειριστείτε τις ψηφιακές φωτογραφίες."
+msgstr "Το mtPaint είναι ένα πρόγραμμα ζωγραφικής σχεδιασμένο για να δημιουργήσετε εύκολα pixel art γραφικά και να χειριστείτε τις ψηφιακές φωτογραφίες."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
