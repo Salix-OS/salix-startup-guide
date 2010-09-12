@@ -13,8 +13,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: Swedish\n"
 "X-Poedit-Country: SWEDEN\n"
+"X-Poedit-Language: Swedish\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -419,7 +419,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Useful boot parameters"
-msgstr ""
+msgstr "Användbara uppstartsparametrar"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -432,29 +432,30 @@ msgid "Viewnior"
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
 msgid "Whaaw!"
-msgstr ""
+msgstr "Whaaw!"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "What are the Live Tools?"
-msgstr ""
+msgstr "Vad är Live Tools?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "What is a Live CD?"
-msgstr ""
+msgstr "Vad är en Live CD?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "What is an ISO image?"
-msgstr ""
+msgstr "Vad är en ISO-avbild?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Which module contains application XXX?"
-msgstr ""
+msgstr "Vilken modul innehåller program XXX?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -489,37 +490,37 @@ msgstr "procedur"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(Starts bash several times during boot."
-msgstr ""
+msgstr "(Startar bash flera gånger under uppstart."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(TIP:"
-msgstr ""
+msgstr "(TIPS:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(This cheatcode is already included in Salix Live boot menu and the Persistence Wizard can assist you in creating a persistent file that will be automatically managed by Salix Live.)"
-msgstr ""
+msgstr "(Cheatcode finns redan i Salix Live uppstartsmeny och Bestående guiden kan hjälpa dig att skapa en bestående fil som automatiskt kommer att förvaltas av Salix Live.)"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(You can use full module name (module.lzm) or you can skip the extension.)"
-msgstr ""
+msgstr "(Du kan använda hela modulens namn (module.lzm) eller så kan du hoppa över filändelsen.)"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Add or remove files and directories to/from a CD image."
-msgstr ""
+msgstr "* Lägg till eller ta bort filer och kataloger till / från en cd-avbild."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Create an ISO image from scratch."
-msgstr ""
+msgstr "* Skapa en ISO bild från scratch."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Create bootable CDs using various boot record types."
-msgstr ""
+msgstr "* Skapa startbar CD-skivor med olika typer Boot Record."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -559,42 +560,42 @@ msgstr "/usr/bin/txz2lzm"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a work directory:"
-msgstr ""
+msgstr "1 - Skapa en arbetskatalog:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a working directory"
-msgstr ""
+msgstr "1 - Skapa en arbetskatalog"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a working directory:"
-msgstr ""
+msgstr "1 - Skapa en arbetskatalog:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Open the .iso file using a software archiver (file-roller, xarchiver, 7-zip, iso-master, …)."
-msgstr ""
+msgstr "1 - Öppna. Iso fil med ett program (file-roller, xarchiver, 7-zip, iso-master, ...)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Copy Salix Live's CD content to your working directory:"
-msgstr ""
+msgstr "2 - Kopiera Salix Live CD innehåll till arbetskatalog:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Extract all files and folders (boot, packages and salixlive) to your USB root directory."
-msgstr ""
+msgstr "2 - Extrahera alla filer och mappar (boot, paket och salixlive) till ditt USB-rotkatalogen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Install all software packages using this directory as root:"
-msgstr ""
+msgstr "2 - Installera alla mjukvarupaket som använder den här katalogen som root:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Open up the module you want to customize under the working directory:"
-msgstr ""
+msgstr "2 - Öppna upp modulen du vill anpassa under arbetskatalogen:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -604,57 +605,57 @@ msgstr "3"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Add or remove modules or files as needed:"
-msgstr ""
+msgstr "3 - Lägg till eller ta bort moduler eller filer som behövs:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Go to the \"boot\" directory on the USB key."
-msgstr ""
+msgstr "3 - Gå till \"boot\" katalog på USB-minnet."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Remove all unneeded files:"
-msgstr ""
+msgstr "3 - Ta bort alla onödiga filer:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Remove the packages from the working directory:"
-msgstr ""
+msgstr "3 - Ta bort paket från arbetskatalogen:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- If you're running on Unix (Linux, BSD, Mac OS X), simply execute the file called “install-on-USB.sh”."
-msgstr ""
+msgstr "4 - Om du kör på Unix (Linux, BSD, Mac OS X), kör helt enkelt filen som heter \"install-on-USB.sh\"."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Install new packages to the working directory:"
-msgstr ""
+msgstr "4 - Installera nya paket till arbetskatalogen:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Make any modifications you want:"
-msgstr ""
+msgstr "4 - Gör de ändringar du vill ha:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Rebuild the CD image:"
-msgstr ""
+msgstr "4 - Återskapa avbild på CD:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "5- Build the module:"
-msgstr ""
+msgstr "5 - Bygg-modulen:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "5- Rebuild the module:"
-msgstr ""
+msgstr "5 - Bygg om modulen:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "6- Replace the original module with your new module, rebuild the ISO image and reburn the CD."
-msgstr ""
+msgstr "6 - Sätt tillbaka den ursprungliga modulen med den nya modulen, återuppbygga ISO bild och reburn CD-skivan."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
