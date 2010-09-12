@@ -2,12 +2,12 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: salix-live-startup-guide\n"
 "POT-Creation-Date: 2010-09-05 09:09+CET\n"
-"PO-Revision-Date: 2010-09-11 15:57+0100\n"
+"PO-Revision-Date: 2010-09-12 14:16+0100\n"
 "Last-Translator: Ingemar Karlsson <ingemar@ingk.se>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -49,7 +49,7 @@ msgstr "Avancerade Uppstart Alternativ"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Asunder"
-msgstr ""
+msgstr "Asunder"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -239,7 +239,7 @@ msgstr "Live-version"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "LiveClone"
-msgstr ""
+msgstr "LiveClone"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -254,7 +254,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Management"
-msgstr ""
+msgstr "Hantering"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -289,7 +289,7 @@ msgstr "Orage"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Other System Utilities"
-msgstr ""
+msgstr "Andra System Verktyg"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -299,17 +299,17 @@ msgstr "Pakethanterare"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Parole Media Player"
-msgstr ""
+msgstr "Parole Media Spelare"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Partition Management"
-msgstr ""
+msgstr "Partitions Hanterare"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Personalizing Modules"
-msgstr ""
+msgstr "Anpassnings Moduler"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -324,27 +324,27 @@ msgstr "Pidgin"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Rebuild Icon Cache"
-msgstr ""
+msgstr "Återskapa Ikon Cache"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "SCIM"
-msgstr ""
+msgstr "SCIM"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Codec Installer"
-msgstr ""
+msgstr "Salix Codec Installer"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live Installer"
-msgstr ""
+msgstr "Salix Live Installerare"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live Scripts"
-msgstr ""
+msgstr "Salix Live Skript"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -354,7 +354,7 @@ msgstr "Salix Verktyg"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live"
-msgstr ""
+msgstr "Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -364,7 +364,7 @@ msgstr "Salix OS"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Simple Scan"
-msgstr ""
+msgstr "Enkel Scan"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -384,7 +384,7 @@ msgstr "Standard version"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Startup Services"
-msgstr ""
+msgstr "Uppstarts Tjänster"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -399,7 +399,7 @@ msgstr "System"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "System Clock"
-msgstr ""
+msgstr "System Klocka"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -414,7 +414,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Transmission"
-msgstr ""
+msgstr "Transmission"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -429,7 +429,7 @@ msgstr "Användar Profil"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Viewnior"
-msgstr ""
+msgstr "Viewnior"
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
@@ -915,12 +915,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "A graphical environment is not provided."
-msgstr ""
+msgstr "En grafisk miljö ingår inte."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "A new bootable ISO image will be created with all your modifications."
-msgstr ""
+msgstr "En ny bottbar ISO avbild kommer att skapas med alla dina ändringar."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -945,12 +945,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Advanced Boot Options"
-msgstr ""
+msgstr "Avancerade Uppstarts Alternativ"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "All your modifications will be applied instantly if you press on the OK button and will not necessitate a reboot."
-msgstr ""
+msgstr "Alla dina ändringar verkställs direkt när du trycker på OK knappen och behöver inte en omstart."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -960,7 +960,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "An ISO image is an archive file of an optical disc."
-msgstr ""
+msgstr "En ISO avbild är en arkiv fil av en optisk skiva."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -975,7 +975,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "As long as it is supported by the GStreamer Multimedia Framework, PiTiVi will handle any format you throw at it."
-msgstr ""
+msgstr "Så länge som GStreamer Multimedia Ramverk stödjer formatet kommer PiTiVi hantera alla format som du skickar till den."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1000,7 +1000,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Asunder is an Audio CD ripper and encoder for Linux."
-msgstr ""
+msgstr "Asunder är en Audio CD Ripper och kodare för Linux."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1080,12 +1080,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Copyright © SalixOS.org 2010"
-msgstr ""
+msgstr "Copyright © SalixOS.org 2010"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Customizing Salix Live"
-msgstr ""
+msgstr "Anpassa Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1125,7 +1125,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "File Roller is an archive manager."
-msgstr ""
+msgstr "File Roller är en arkiv hanterare."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1220,7 +1220,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Important!"
-msgstr ""
+msgstr "Viktigt!"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1245,12 +1245,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Installing Salix OS"
-msgstr ""
+msgstr "Installerar Salix OS"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Introduction"
-msgstr ""
+msgstr "Introduction"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1365,7 +1365,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Lilo Setup"
-msgstr ""
+msgstr "Lilo Setup"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1395,7 +1395,7 @@ msgstr "Live Verktyg"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Live USB Key"
-msgstr ""
+msgstr "Live USB minne"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1410,12 +1410,12 @@ msgstr "LXDE version"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Make a module out of a directory:"
-msgstr ""
+msgstr "Skapa en modul av en katalog:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Make a module out of a package:"
-msgstr ""
+msgstr "Skapa en modul av ett paket:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1430,12 +1430,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Modifications are applied instantly."
-msgstr ""
+msgstr "Ändringar träder i kraft direkt."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Mousepad is a simple text editor with printing support."
-msgstr ""
+msgstr "Mousepad är en enkel textredigerare med utskrifts support."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1505,7 +1505,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Package Management"
-msgstr ""
+msgstr "Pakethanterare"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1525,12 +1525,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Personalizing Modules"
-msgstr ""
+msgstr "Anpassa Moduler"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "PiTiVi is an easy to use video editor."
-msgstr ""
+msgstr "PiTiVi är en enkel att använda video redigerare."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1565,22 +1565,22 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "ROOT=/mnt/hdxx/directoryx removepkg packagex"
-msgstr ""
+msgstr "ROOT=/mnt/hdxx/directoryx removepkg packagex"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "ROOT=/mnt/hdxx/directoryx removepkg packagey"
-msgstr ""
+msgstr "ROOT=/mnt/hdxx/directoryx removepkg packagey"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "ROOT=/mnt/hdxx/directoryx removepkg packagez"
-msgstr ""
+msgstr "ROOT=/mnt/hdxx/directoryx removepkg packagez"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Remember that the existing swap partition will be automatically used by the Live installer without any prompting on your part."
-msgstr ""
+msgstr "Kom ihåg att en existerande swap partition automatisk kommer att användas av Live Installeraren utan att du behöver göra något."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1605,7 +1605,7 @@ msgstr "Salix OS 13.1"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix is usually installed with one of the following sets of software:"
-msgstr ""
+msgstr "Salix är normalt installerad med följande program:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1625,12 +1625,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live Installer is very easy to use."
-msgstr ""
+msgstr "Salix Live Installerare är enkel att använda."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live root password is:"
-msgstr ""
+msgstr "Salix Live root lösenord är:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1640,7 +1640,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix OS"
-msgstr ""
+msgstr "Salix OS"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1670,7 +1670,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Software"
-msgstr ""
+msgstr "Program"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1690,7 +1690,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Standard version"
-msgstr ""
+msgstr "Standard version"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1715,7 +1715,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "System Management"
-msgstr ""
+msgstr "System Hantering"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1830,12 +1830,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This utility will configure your computer clock."
-msgstr ""
+msgstr "Detta verktyg konfigurerar din dators klocka."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Time, Keyboard, Locale, Partitions, Users and Software."
-msgstr ""
+msgstr "Tid, Tangentbord, Språk, Partitioner, Användare och Program."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1995,12 +1995,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "a 200MHz CPU and 16MB of free RAM)."
-msgstr ""
+msgstr "en 200MHz CPU och 16MB ledigt RAM)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "basic and scientific mode."
-msgstr ""
+msgstr "enkel och vetenskaps läge."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2015,42 +2015,42 @@ msgstr "cd /mnt/hdxx/custom_live"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/dev/device"
-msgstr ""
+msgstr "ändringar=/dev/device"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/dev/device/file"
-msgstr ""
+msgstr "ändringar=/dev/device/file"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/dev/device/path/"
-msgstr ""
+msgstr "ändringar=/dev/device/path/"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/path/"
-msgstr ""
+msgstr "ändringar=/path/"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/path/file"
-msgstr ""
+msgstr "ändringar=/path/file"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=file"
-msgstr ""
+msgstr "ändringar=file"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "cp -ra /mnt/live/mnt/hdc/* /mnt/hdxx/custom_live"
-msgstr ""
+msgstr "cp -ra /mnt/live/mnt/hdc/* /mnt/hdxx/custom_live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "cp new_module /mnt/hdxx/custom_live/base"
-msgstr ""
+msgstr "cp ny_modul /mnt/hdxx/custom_live/base"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2060,139 +2060,140 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "dir2lzm directory1 module1.lzm"
-msgstr ""
+msgstr "dir2lzm directory1 module1.lzm"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "dir2lzm directoryx modulex.lzm"
-msgstr ""
+msgstr "dir2lzm directoryx modulex.lzm"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "ePDFView is a lightweight PDF document viewer that only uses the GTK+ and Poppler libraries."
-msgstr ""
+msgstr "ePDFView är en lätt PDF dokument läsare som endast använder GTK+ och Poppler bibliotek."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "echo \"whatever\" > /mnt/hdxx/directory1/foo/bar"
-msgstr ""
+msgstr "echo \"vadsomhelst\" > /mnt/hdxx/directory1/foo/bar"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "etc."
-msgstr ""
+msgstr "etc."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "from=/dev/device/salixlive-version.iso"
-msgstr ""
+msgstr "från=/dev/device/salixlive-version.iso"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "from=path/to/exploded/salixlive-version.iso"
-msgstr ""
+msgstr "från=path/to/exploded/salixlive-version.iso"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "from=path/to/salixlive-version.iso"
-msgstr ""
+msgstr "från=path/to/salixlive-version.iso"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "gFTP aims to be simple to use yet powerful."
-msgstr ""
+msgstr "gFTP försöker att vara enkel att använda men ändå kraftfull."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "gFTP is an FTP client with both a text and a GUI interface."
-msgstr ""
+msgstr "gFTP är en FTP klient med både text och GUI interface."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg --root=/mnt/hdxx/directory1 packagea-x.x.x.txz"
-msgstr ""
+msgstr "installpkg --root=/mnt/hdxx/directory1 packagea-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directory1 packageb-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directory1 packageb-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directory1 packagec-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directory1 packagec-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directoryx package1-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directoryx package1-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directoryx package2-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directoryx package2-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "installpkg –-root=/mnt/hdxx/directoryx package3-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directoryx package3-x.x.x.txz"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "live"
-msgstr ""
+msgstr "live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "load=module"
-msgstr ""
+msgstr "load=module"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "lzm2dir /mnt/hdc/salixlive/base/modulex.lzm /mnt/hdxx/directoryx"
-msgstr ""
+msgstr "lzm2dir /mnt/hdc/salixlive/base/modulex.lzm /mnt/hdxx/directoryx"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mkdir -p /mnt/hdxx/directory1"
-msgstr ""
+msgstr "mkdir -p /mnt/hdxx/directory1"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mkdir -p /mnt/hdxx/directoryx"
-msgstr ""
+msgstr "mkdir -p /mnt/hdxx/directoryx"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mkdir /mnt/hdxx/custom_live"
-msgstr ""
+msgstr "mkdir /mnt/hdxx/custom_live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "mtPaint is a painting program designed to easily create pixel art and manipulate digital photos."
-msgstr ""
+msgstr "mtPaint är ett ritprogram designat för att enkelt skapa pixel art och ändra digitala foto."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "passwd=ask"
-msgstr ""
+msgstr "passwd=fråga"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "passwd=somepass"
-msgstr ""
+msgstr "passwd=något lösenord"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "rm -rf /mnt/hdxx/directory1/usr/doc/*"
-msgstr ""
+msgstr "rm -rf /mnt/hdxx/directory1/usr/doc/*"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "rm /mnt/hdxx/custom_live/base/unwanted_module"
-msgstr ""
+msgstr "rm /mnt/hdxx/custom_live/base/unwanted_module"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "title"
 msgid "Salix Live Startup Guide"
-msgstr ""
+msgstr "Salix Live Startup Guide"
+
