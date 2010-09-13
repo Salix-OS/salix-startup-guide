@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: salix-live-startup-guide\n"
 "POT-Creation-Date: 2010-09-13 13:09+CET\n"
-"PO-Revision-Date: 2010-09-13 21:12+0100\n"
+"PO-Revision-Date: 2010-09-13 21:57+0100\n"
 "Last-Translator: Pierrick Le Brun <akuna~at~free~dot~fr>\n"
 "Language-Team: Transifex\n"
 "MIME-Version: 1.0\n"
@@ -570,7 +570,7 @@ msgstr "1- Créer un répertoire de travail:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a working directory"
-msgstr "1- Créer un répertoire de travail"
+msgstr "1- Créer un répertoire de travail:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -800,7 +800,7 @@ msgstr "<g id='257'>Gparted est inclus dans Salix Live pour vous aider à </g><
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='261'>LiveClone generates a Live CD/DVD iso image (which you can burn as an image on a CD/DVD with a CD/DVD burner) or a Live USB key. This means that you can create your very own customized Live CD/DVD/USB which will be based either on SalixLive or on your modified running environment. In the case of a Live USB Key generation, you will be offered to make your USB key with “</g><g id='262'><g id='263'>persistence</g></g><g id='264'>”.</g>"
-msgstr "<g id='261'>LiveClone génère une image ISO d'un Live CD/DVD (que vous pouvez graver comme une image sur un CD/DVD avec un graveur) ou une clé USB Live. Cela signifie qu'il crée sur mesure votre environnement Live qui sera basé soit sur votre Salix Live ou sur votre système actuel.  Dans le cas d'une génération d'un clé USB Live, il vous sera proposé de créer votre clé USB avec une gestion de la “</g><g id='262'><g id='263'>persistance</g></g><g id='264'>”.</g>"
+msgstr "<g id='261'>LiveClone permet de générer une image ISO de Live CD/DVD (que vous pouvez ensuite graver en tant qu'image sur un CD/DVD à l'aide d'un graveur) ou une clé USB Live. Cela signifie que vous pouvez créer votre propre Live CD/DVD/USB personnalisé qui sera basé soit sur votre Salix Live ou sur votre système actuel.  Dans le cas d'une génération d'un clé USB Live, il vous sera proposé de créer votre clé USB avec une gestion de la “</g><g id='262'><g id='263'>persistance</g></g><g id='264'>”.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1125,7 +1125,7 @@ msgstr "Exaile est un gestionnaire de musique qui intègre la récupération aut
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Explode a module to a directory"
-msgstr "Extraire un module vers un répertoire"
+msgstr "Extraire un module vers un répertoire:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1580,7 +1580,7 @@ msgstr "ROOT=/mnt/hdxx/directoryx removepkg packagez"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Remember that any existing swap partition will be automatically used by the Live installer without any prompting on your part."
-msgstr "Rappelez-vous que toute partition de swap existante sera automatiquement utilisée par l'installateur Live sans aucun confirmation de votre part."
+msgstr "Rappelez-vous que toute partition de swap existante sera automatiquement utilisée par l'installateur Live sans aucune confirmation de votre part."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1800,7 +1800,7 @@ msgstr "Ces caractéristiques sont très utiles pour scanner des livres ou docum
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This can be particularly interesting if you regularly perform installations at friends/family/neigbours/schools/etc and you generally like to add your personnal touch/preferences/languages to those installations."
-msgstr "Cela peut être particulièrement intéressant si vous effectuez régulièrement des installations chez des amis/voisins/écoles/famille/etc et que généralement vous souhaitez ajouter votre touche personnalle/préférences/langage à ces installations."
+msgstr "Cela peut être particulièrement intéressant si vous effectuez régulièrement des installations chez des amis/voisins/écoles/famille/etc et que généralement vous souhaitez ajouter votre touche personnelle/préférence/langage à ces installations."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
