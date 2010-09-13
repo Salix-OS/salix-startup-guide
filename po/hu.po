@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: salix-live-startup\n"
-"POT-Creation-Date: 2010-09-05 09:09+CET\n"
+"POT-Creation-Date: 2010-09-13 15:09+CET\n"
 "PO-Revision-Date: 2010-07-28 17:57+0100\n"
 "Last-Translator: Peter Polonkai <polesz@nedudu.hu>\n"
 "Language-Team: Nedudu Team <nedudu@nedudu.hu>\n"
@@ -187,8 +187,9 @@ msgid "How to install Salix Live on a USB key?"
 msgstr "Hogyan telepítsük a Salix Live USB eszközre?"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
-msgid "Installing Salix OS"
+msgid "Installing Salix "
 msgstr "Salix OS telepítése"
 
 #: SalixStartupGuide-en.odt:2
@@ -280,6 +281,11 @@ msgstr "Mousepad"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
+msgid "OS"
+msgstr ""
+
+#: SalixStartupGuide-en.odt:2
+msgctxt "heading"
 msgid "OpenOffice"
 msgstr "OpenOffice"
 
@@ -349,8 +355,9 @@ msgid "Salix Live Scripts"
 msgstr "Salix Live Szkriptek"
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "heading"
-msgid "Salix Tools"
+msgid "Salix System Tools"
 msgstr "Salix Eszközök"
 
 #: SalixStartupGuide-en.odt:2
@@ -726,16 +733,16 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='166'>Transmission is a </g><g id='167'><g id='168'>BitTorrent</g></"
-"g><g id='169'> client that is simple, lean and powerful.</g>"
+"<g id='165'>Transmission is a </g><g id='166'><g id='167'>BitTorrent</g></"
+"g><g id='168'> client that is simple, lean and powerful.</g>"
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='170'>Parole is a modern simple media player based on the </g><g "
-"id='171'><g id='172'>GStreamer</g></g><g id='173'> framework and written to "
-"fit well in the </g><g id='174'><g id='175'>Xfce</g></g><g id='176'> "
+"<g id='169'>Parole is a modern simple media player based on the </g><g "
+"id='170'><g id='171'>GStreamer</g></g><g id='172'> framework and written to "
+"fit well in the </g><g id='173'><g id='174'>Xfce</g></g><g id='175'> "
 "desktop. Parole is designed with simplicity, speed and resource usage in "
 "mind. </g>"
 msgstr ""
@@ -744,22 +751,22 @@ msgstr ""
 #, fuzzy
 msgctxt "paragraph"
 msgid ""
-"<g id='177'>All system management in Salix OS can be done the usual (</g><g "
-"id='178'><g id='179'>manual</g></g><g id='180'>) Slackware way.</g>"
+"<g id='176'>All system management in Salix OS can be done the usual (</g><g "
+"id='177'><g id='178'>manual</g></g><g id='179'>) Slackware way.</g>"
 msgstr "Gslapt a a <g id='83'>Slapt-get</g> grafikus frontendje."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='181'>Most Salix tools (except Lilo Setup) have an ncurse counterpart "
-"which can be used in a non-graphical environment (</g><g id='182'><g "
-"id='183'>runlevel 3</g></g><g id='184'>).</g>"
+"<g id='181'>Most Salix system tools (except Lilo Setup) have an ncurse "
+"counterpart which can be used in a non-graphical environment (</g><g "
+"id='182'><g id='183'>runlevel 3</g></g><g id='184'>).</g>"
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
 msgctxt "paragraph"
-msgid "<g id='187'>To execute it in runlevel 3, simply type localesetup</g>."
+msgid "<g id='185'>To execute it in runlevel 3, simply type localesetup</g>."
 msgstr ""
 "A segédprogram futtatása 3-as futási szinten, egyszerűen gépelje be: "
 "usersetup."
@@ -767,7 +774,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
 msgctxt "paragraph"
-msgid "<g id='188'>To execute it in runlevel 3, simply type clocksetup</g>."
+msgid "<g id='186'>To execute it in runlevel 3, simply type clocksetup</g>."
 msgstr ""
 "A segédprogram futtatása 3-as futási szinten, egyszerűen gépelje be: "
 "usersetup."
@@ -775,8 +782,8 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='189'>In Unix/Linux, all users and groups of users are given certain </"
-"g><g id='190'><g id='191'>permissions and access rights</g></g><g id='192'> "
+"<g id='187'>In Unix/Linux, all users and groups of users are given certain </"
+"g><g id='188'><g id='189'>permissions and access rights</g></g><g id='190'> "
 "to some part of the system in order to control their ability to access and "
 "change it.</g>"
 msgstr ""
@@ -784,7 +791,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='193'><g id='194'>Slapt-get</g></g><g id='195'> is a CLI tool "
+"<g id='191'><g id='192'>Slapt-get</g></g><g id='193'> is a CLI tool "
 "providing an APT‑like system for Slackware package management. It allows one "
 "to search Slackware/Salix mirrors and third party sources for packages, "
 "compare them with installed packages, install new packages, or upgrade all "
@@ -795,17 +802,17 @@ msgstr ""
 #, fuzzy
 msgctxt "paragraph"
 msgid ""
-"<g id='196'>Gslapt is the GUI version of </g><g id='197'><g id='198'>Slapt-"
-"get</g></g><g id='199'>.</g>"
+"<g id='194'>Gslapt is the GUI version of </g><g id='195'><g id='196'>Slapt-"
+"get</g></g><g id='197'>.</g>"
 msgstr "Gslapt a a <g id='83'>Slapt-get</g> grafikus frontendje."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='200'>The desktop link, Salix Online, will bring you to the Salix </"
-"g><g id='201'><g id='202'>Homepage</g></g><g id='203'>. Our </g><g "
-"id='204'><g id='205'>Wiki</g></g><g id='206'> and </g><g id='207'><g "
-"id='208'>Forum</g></g><g id='209'> will be two other important sources of "
+"<g id='198'>The desktop link, Salix Online, will bring you to the Salix </"
+"g><g id='199'><g id='200'>Homepage</g></g><g id='201'>. Our </g><g "
+"id='202'><g id='203'>Wiki</g></g><g id='204'> and </g><g id='205'><g "
+"id='206'>Forum</g></g><g id='207'> will be two other important sources of "
 "information. The search option of the forum will quickly show you if the "
 "question you have in mind has already been posted by a member of the "
 "community and if it has been answered.</g>"
@@ -814,8 +821,8 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='210'>You could also use the </g><g id='211'><g id='212'>IRC link</g></"
-"g><g id='213'> above to be in live communication with some member of the "
+"<g id='208'>You could also use the </g><g id='209'><g id='210'>IRC link</g></"
+"g><g id='211'> above to be in live communication with some member of the "
 "community and get instant help if necessary. If you do however, you might "
 "want to modify the default qwebircxxx login to something more personal and "
 "human readable.</g>"
@@ -824,11 +831,11 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='214'>Salix Live is the Live CD version of </g><g id='215'><g "
-"id='216'>Salix OS</g></g><g id='217'>. You can therefore safely use it to "
+"<g id='212'>Salix Live is the Live CD version of </g><g id='213'><g "
+"id='214'>Salix OS</g></g><g id='215'>. You can therefore safely use it to "
 "'test drive' Salix OS without having to install anything on your computer. "
-"You will thus be able to determine wheter and to what extent S</g><g "
-"id='218'>alix OS is compatible with your particular hardware configuration "
+"You will thus be able to determine wheter and to what extent </g><g "
+"id='216'>Salix OS is compatible with your particular hardware configuration "
 "and if it suits your personal tastes.</g>"
 msgstr ""
 
@@ -836,16 +843,16 @@ msgstr ""
 #, fuzzy
 msgctxt "paragraph"
 msgid ""
-"<g id='219'>The latest Salix OS or Salix Live releases are freely and easily "
-"available as ISO image files from Salix OS </g><g id='220'><g "
-"id='221'>download page</g></g><g id='222'>.</g>"
+"<g id='217'>The latest Salix OS or Salix Live releases are freely and easily "
+"available as ISO image files from Salix OS </g><g id='218'><g "
+"id='219'>download page</g></g><g id='220'>.</g>"
 msgstr "Gslapt a a <g id='83'>Slapt-get</g> grafikus frontendje."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='223'>If necessary, you can verify the integrity of your downloaded "
-"file by comparing its </g><g id='224'><g id='225'>md5sum</g></g><g id='226'> "
+"<g id='221'>If necessary, you can verify the integrity of your downloaded "
+"file by comparing its </g><g id='222'><g id='223'>md5sum</g></g><g id='224'> "
 "file with the original one uploaded besides the corresponding ISO image file "
 "by Salix OS.</g>"
 msgstr ""
@@ -854,15 +861,15 @@ msgstr ""
 #, fuzzy
 msgctxt "paragraph"
 msgid ""
-"<g id='227'>You can also explode the Salix Live ISO image onto a </g><g "
-"id='228'><g id='229'>USB key</g></g><g id='230'>.</g>"
+"<g id='225'>You can also uncompress Salix Live ISO image onto a </g><g "
+"id='226'><g id='227'>USB key</g></g><g id='228'>.</g>"
 msgstr "Gslapt a a <g id='83'>Slapt-get</g> grafikus frontendje."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='231'>If that is not the case, which is very rare, you will need to "
-"first enter the </g><g id='232'><g id='233'>BIOS</g></g><g id='234'> setup, "
+"<g id='229'>If that is not the case, which is quite rare, you will need to "
+"first enter the </g><g id='230'><g id='231'>BIOS</g></g><g id='232'> setup, "
 "usually by pressing the Del‑key or the F2‑key (or some other key "
 "combinations depending on your machine…). Once in the BIOS, find the \"boot "
 "menu\" and set the order of the boot devices properly, with your optical "
@@ -873,60 +880,60 @@ msgstr ""
 #, fuzzy
 msgctxt "paragraph"
 msgid ""
-"<g id='235'>You also have the possibility to </g><g id='236'><g "
-"id='237'>modify most default boot settings</g></g><g id='238'>.</g>"
+"<g id='233'>You also have the possibility to </g><g id='234'><g "
+"id='235'>modify most default boot settings</g></g><g id='236'>.</g>"
 msgstr "Gslapt a a <g id='83'>Slapt-get</g> grafikus frontendje."
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
 msgctxt "paragraph"
 msgid ""
-"<g id='239'>Simply press Enter on the default menu entry: Start Salix Live "
-"and a moment later you will enter </g><g id='240'><g id='241'>Xfce desktop</"
-"g></g><g id='242'>.</g>"
+"<g id='237'>Simply press Enter on the default menu entry: Start Salix Live "
+"and a moment later you will enter </g><g id='238'><g id='239'>Xfce desktop</"
+"g></g><g id='240'>.</g>"
 msgstr "Gslapt a a <g id='83'>Slapt-get</g> grafikus frontendje."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='243'>Salix Live is configured with autologin, which means that you "
+"<g id='241'>Salix Live is configured with autologin, which means that you "
 "will not need to identify yourself before entering the Live session. If for "
 "any reason, the automated login was not working or you had to restart a new "
 "session for whatever reason, you will need to know that the standard user "
-"login is: </g><g id='244'>one</g><g id='245'> and it doesn't have a password."
+"login is: </g><g id='242'>one</g><g id='243'> and it doesn't have a password."
 "</g>"
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='246'>All Live Tools require </g><g id='247'><g "
-"id='248'>administrator's right</g></g><g id='249'> and will ask you for the "
-"(root) password. </g>"
+"<g id='244'>All Live Tools require </g><g id='245'><g "
+"id='246'>administrator's right</g></g><g id='247'> and will ask you for the "
+"root password. </g>"
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
 msgctxt "paragraph"
 msgid ""
-"<g id='251'>Salix Live comes with all the default </g><g id='252'><g "
-"id='253'>software</g></g><g id='254'> included in Salix OS.</g>"
+"<g id='249'>Salix Live comes with all the default </g><g id='250'><g "
+"id='251'>software</g></g><g id='252'> included in Salix OS.</g>"
 msgstr "Gslapt a a <g id='83'>Slapt-get</g> grafikus frontendje."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='255'>Some of the Live Tools are graphical utilities that can be "
+"<g id='253'>Some of the Live Tools are graphical utilities that can be "
 "accessed directly on the desktop while some Live Tools, reserved for "
 "advanced users can only be executed in a Terminal, from the command line (</"
-"g><g id='256'><g id='257'>CLI</g></g><g id='258'>).</g>"
+"g><g id='254'><g id='255'>CLI</g></g><g id='256'>).</g>"
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='259'>Gparted is included in Salix Live to assist you in </g><g "
-"id='260'><g id='261'>managing your partitions</g></g><g id='262'> if it is "
+"<g id='257'>Gparted is included in Salix Live to assist you in </g><g "
+"id='258'><g id='259'>managing your partitions</g></g><g id='260'> if it is "
 "necessary for you to do so before performing the installation of Salix OS.</"
 "g>"
 msgstr ""
@@ -934,64 +941,65 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='263'>LiveClone generates a Live CD/DVD iso image (which you can burn "
+"<g id='261'>LiveClone generates a Live CD/DVD iso image (which you can burn "
 "as an image on a CD/DVD with a CD/DVD burner) or a Live USB key. This means "
-"that you can create your very own customized live CD/DVD/USB <x id='264'/"
-">which will be based either on SalixLive or your modified running "
-"environment."
+"that you can create your very own customized Live CD/DVD/USB which will be "
+"based either on SalixLive or on your modified running environment. In the "
+"case of a Live USB Key generation, you will be offered to make your USB key "
+"with “</g><g id='262'><g id='263'>persistence</g></g><g id='264'>”.</g>"
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='269'>To remove any changes and come back to the default settings, "
-"simply delete the persistent file (slxsave.xfs) from the </g><g id='270'><g "
-"id='271'>mount point</g></g><g id='272'> it was initially created on.</g>"
+"<g id='266'>To remove any changes and come back to the default settings, "
+"simply delete the persistent file (slxsave.xfs) from the </g><g id='267'><g "
+"id='268'>mount point</g></g><g id='269'> it was initially created on.</g>"
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
 msgctxt "paragraph"
 msgid ""
-"<g id='273'>Salix Live Installer will enable you to </g><g id='274'><g "
-"id='275'>install Salix OS</g></g><g id='276'> from the comfort of Salix Live "
+"<g id='270'>Salix Live Installer will enable you to </g><g id='271'><g "
+"id='272'>install Salix OS</g></g><g id='273'> from the comfort of Salix Live "
 "graphical environment.</g>"
 msgstr "Gslapt a a <g id='83'>Slapt-get</g> grafikus frontendje."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='277'>Like most Live CDs based on Slackware, Salix Live is relying on "
-"the </g><g id='278'><g id='279'>Linux Live Scripts</g></g><g id='280'> "
+"<g id='274'>Like most Live CDs based on Slackware, Salix Live is relying on "
+"the </g><g id='275'><g id='276'>Linux Live Scripts</g></g><g id='277'> "
 "technology. Some of the shell scripts it includes will enable an advanced "
-"user to fully </g><g id='281'><g id='282'>customize and re-master</g></g><g "
-"id='283'>  <x id='284'/>Salix Live to better suit his or her own needs.</g>"
+"user to fully </g><g id='278'><g id='279'>customize and re-master</g></g><g "
+"id='280'>  <x id='281'/>Salix Live to better suit his or her own needs.</g>"
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='285'>In order to bypass certain limitations or to complement some of "
+"<g id='282'>In order to bypass certain limitations or to complement some of "
 "the third-party technology it uses, Salix developed its own set of patches "
 "and scripts which for the most part need no user interaction while some can "
-"be executed, for instance to facilitate the creation of a </g><g id='286'><g "
-"id='287'>Salix Live USB Flash Disk</g></g><g id='288'>. <x id='289'/></g>"
+"be executed, for instance to facilitate the creation of a </g><g id='283'><g "
+"id='284'>Salix Live USB Flash Disk</g></g><g id='285'>. <x id='286'/></g>"
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='290'><g id='291'>A disk device can be subdivided into one or more "
-"partitions</g></g><g id='292'>. Before executing Salix Live Installer, you "
+"<g id='287'><g id='288'>A disk device can be subdivided into one or more "
+"partitions</g></g><g id='289'>. Before executing Salix Live Installer, you "
 "should already have the necessary partitions available on your system.</g>"
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='293'>If you do not already have the necessary partitions ready, you "
-"may want to use Gparted to create them first. </g><g id='294'><g "
-"id='295'>Gparted</g></g><g id='296'> will enable you to change the partition "
+"<g id='290'>If you do not already have the necessary partitions ready, you "
+"may want to use Gparted to create them first. </g><g id='291'><g "
+"id='292'>Gparted</g></g><g id='293'> will enable you to change the partition "
 "organization on a disk device while preserving the contents of the "
 "partitions.</g>"
 msgstr ""
@@ -999,19 +1007,19 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='297'>You will be greeted by a reminder that all the necessary "
+"<g id='294'>You will be greeted by a reminder that all the necessary "
 "partitions have to be created first. As we have seen, this can be done "
-"simply with the help of </g><g id='298'><g id='299'>Gparted</g></g><g "
-"id='300'>, which is included in Salix Live and is available directly on the "
+"simply with the help of </g><g id='295'><g id='296'>Gparted</g></g><g "
+"id='297'>, which is included in Salix Live and is available directly on the "
 "desktop.</g>"
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='301'>Once the installation process is completed, You will be given "
-"the choice to launch </g><g id='302'><g id='303'>Lilo Setup</g></g><g "
-"id='304'> to configure your LILO bootloader. Most of the time this is what "
+"<g id='298'>Once the installation process is completed, you will be given "
+"the choice to launch </g><g id='299'><g id='300'>Lilo Setup</g></g><g "
+"id='301'> to configure your LILO bootloader. Most of the time this is what "
 "you will want to do although occasionally, it might be preferable not to, "
 "for example if you want to use Grub instead or if you want to simply "
 "incorporate Salix in an existing bootloader configured from another "
@@ -1021,15 +1029,23 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='356'>If you have a Salix LiveCD, you can simply use </g><g "
-"id='357'><g id='358'>LiveClone</g></g><g id='359'> from a Live session. </g>"
+"<g id='353'>If you have a Salix LiveCD, you can simply use </g><g "
+"id='354'><g id='355'>LiveClone</g></g><g id='356'> from a Live session. </g>"
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"<g id='367'>Midori</g> is the web browser, <x id='368'/><g id='369'>Whaaw! "
-"MediaPlayer</g> plays multimedia contents and <g id='370'>mtPaint</g> offers "
+"<g id='358'>LiveClone</g> is a new GUI utility which offers yet another "
+"alternative and very simple way to create a customized Salix Live CD/DVD or "
+"Live USB key."
+msgstr ""
+
+#: SalixStartupGuide-en.odt:2
+msgctxt "paragraph"
+msgid ""
+"<g id='365'>Midori</g> is the web browser, <x id='366'/><g id='367'>Whaaw! "
+"MediaPlayer</g> plays multimedia contents and <g id='368'>mtPaint</g> offers "
 "graphic and photo editing."
 msgstr ""
 
@@ -1061,8 +1077,7 @@ msgctxt "paragraph"
 msgid ""
 "<g id='62'>However, while in the </g><g id='63'><g id='64'>KISS</g></g><g "
 "id='65'> principle that Slackware adheres to, \"Simple\" refers to the "
-"viewpoint of system design, Salix OS also applies it to the viewpoint of the "
-"end user.</g>"
+"system design, Salix OS also applies it to its daily use.</g>"
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
@@ -1086,10 +1101,10 @@ msgstr ""
 msgctxt "paragraph"
 msgid ""
 "<g id='77'>Salix OS package management uses the proven </g><g id='78'><g "
-"id='79'>slapt‑get/gslapt</g></g><g id='80'> combination includes dependency "
-"from both the original Slackware repositories and the complementary and ever-"
-"increasing Salix OS </g><g id='81'><g id='82'>repository</g></g><g id='83'>."
-"</g>"
+"id='79'>slapt‑get/gslapt</g></g><g id='80'> combination which includes "
+"dependency resolution from both the original Slackware repositories and the "
+"complementary and ever-increasing Salix OS </g><g id='81'><g "
+"id='82'>repository</g></g><g id='83'>.</g>"
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
@@ -1160,11 +1175,6 @@ msgstr "AIM, ICQ, Google Talk, Jabber/XMPP, MSN Messenger, Yahoo, stb."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
-msgid "ALSA Sound Card manages the system sound card configuration."
-msgstr ""
-
-#: SalixStartupGuide-en.odt:2
-msgctxt "paragraph"
 msgid ""
 "AbiWord is a word processing program suitable for a wide variety of word "
 "processing tasks."
@@ -1190,8 +1200,8 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"Alternatively, you can use any one of the Salix System Tools which you will "
-"find under the System section of the Menu."
+"Alternatively, you can use any one of <x id='180'/>Salix system tools which "
+"you will find under the System section of the Menu."
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
@@ -1228,9 +1238,9 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"As the name indicates, Rebuild Icon Cache re-connects some icons that are "
-"not displayed after updating your system / installing some new program, and "
-"makes them appear again on your menu bar."
+"As the name indicates, the 'Rebuild Icon Cache' utility re-connects some "
+"icons that are not displayed after updating your system / installing some "
+"new program, and makes them show up again on your menu."
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
@@ -1295,8 +1305,8 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"Both LiveCDs share the same <g id='373'>login</g>, <g id='374'>root "
-"passwords</g>, <g id='375'>cheatcodes</g>, etc."
+"Both LiveCDs share the same <g id='371'>login</g>, <g id='372'>root "
+"password</g>, <g id='373'>cheatcodes</g>, etc."
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
@@ -1414,7 +1424,7 @@ msgstr "File Roller az archívum kezelő."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"Finally, Salix OS strives to provide a localized system which is usable "
+"Finally, Salix OS strives to provide a localized system which is functional "
 "around the globe and can easily be used by non‑English speakers."
 msgstr ""
 
@@ -1470,11 +1480,6 @@ msgctxt "paragraph"
 msgid ""
 "Here, only the minimum software essential for a console system to start is "
 "included."
-msgstr ""
-
-#: SalixStartupGuide-en.odt:2
-msgctxt "paragraph"
-msgid "Host names manages the host names used by your computer."
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
@@ -1556,41 +1561,20 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"In the case of a Live USB Key generation, you will be offered to make your "
-"USB key with “</g><g id='265'><g id='266'>persistence</g></g><g id='267'>”.</"
-"g>"
-msgstr ""
-
-#: SalixStartupGuide-en.odt:2
-msgctxt "paragraph"
-msgid ""
 "In the same manner that you boot from the optical drive, you must ensure "
 "that the BIOS is set to boot from a USB device before other devices."
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
+#, fuzzy
 msgctxt "paragraph"
-msgid "Installing Salix OS"
+msgid "Installing Salix OS from the LiveCD"
 msgstr "Salix OS telepítése"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Introduction"
 msgstr "Bemutatkozás"
-
-#: SalixStartupGuide-en.odt:2
-msgctxt "paragraph"
-msgid ""
-"It <x id='185'/>will display available sound cards in your system and let "
-"you select the card you want to use in preference."
-msgstr ""
-
-#: SalixStartupGuide-en.odt:2
-msgctxt "paragraph"
-msgid ""
-"It <x id='186'/>will display a possible course of action for each new "
-"configuration file found in the system."
-msgstr ""
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1711,6 +1695,20 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
+"It will display a possible course of action for each new configuration file "
+"found in the system."
+msgstr ""
+
+#: SalixStartupGuide-en.odt:2
+msgctxt "paragraph"
+msgid ""
+"It will display available sound cards in your system and let you select the "
+"card you want to use in preference."
+msgstr ""
+
+#: SalixStartupGuide-en.odt:2
+msgctxt "paragraph"
+msgid ""
 "It will not modify any operating system or data present on its host computer "
 "and will leave no trace after shutdown."
 msgstr ""
@@ -1776,7 +1774,8 @@ msgstr "Modul készítése a csomagból:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
-msgid "Media Player will play any audio/video files which gstreamer can play."
+msgid ""
+"Media Player will play any audio/video files which GStreamer can manage."
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
@@ -1813,7 +1812,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"Of course, Gslapt package manager, and its command line equivalent slapt-"
+"Of course, Gslapt package manager, and its command line counterpart slapt-"
 "get, are available to install extra software from Slackware and Salix "
 "repositories, with complete support for dependency resolution."
 msgstr ""
@@ -1821,8 +1820,8 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"Of course, this is also the case with the <g id='377'>installation</g> and "
-"<g id='378'>customization</g> of Salix LXDE Live."
+"Of course, this is also the case with the <g id='375'>installation</g> and "
+"<g id='376'>customization</g> of Salix LXDE Live."
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
@@ -1868,9 +1867,8 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"OpenOffice.org 3 is the leading open-source office software suite <x "
-"id='165'/>for word processing, spreadsheets, presentations, graphics, "
-"databases and more."
+"OpenOffice.org 3 is the leading open-source office software suite for word "
+"processing, spreadsheets, presentations, graphics, databases and more."
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
@@ -1883,6 +1881,11 @@ msgctxt "paragraph"
 msgid ""
 "Orage provides a calendar which integrates nicely into the Xfce Desktop "
 "Environment."
+msgstr ""
+
+#: SalixStartupGuide-en.odt:2
+msgctxt "paragraph"
+msgid "PS:"
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
@@ -1952,8 +1955,8 @@ msgstr ""
 msgctxt "paragraph"
 msgid ""
 "Pressing 'e' while 'Start Salix Live' is selected opens up the following "
-"display, enabling you to modify some of the booting options for example in "
-"order to enter a boot parameter."
+"display, enabling you to modify some of the booting options, for example to "
+"enter a boot parameter."
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
@@ -1974,7 +1977,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"Remember that the existing swap partition will be automatically used by the "
+"Remember that any existing swap partition will be automatically used by the "
 "Live installer without any prompting on your part."
 msgstr ""
 
@@ -1983,14 +1986,14 @@ msgctxt "paragraph"
 msgid ""
 "Salix LXDE Live is the Live version of Salix LXDE edition and thus includes "
 "the same choice of software plus, just like Salix XFCE Live, the full set of "
-"<x id='371'/><g id='372'>Salix Live tools</g>."
+"<x id='369'/><g id='370'>Salix Live tools</g>."
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
 "Salix LXDE edition features the Lightweight X11 Desktop Environment, “<g "
-"id='360'>an extremely fast-performing and energy-saving desktop environment</"
+"id='359'>an extremely fast-performing and energy-saving desktop environment</"
 "g>”, with a clean look and feel."
 msgstr ""
 
@@ -2025,7 +2028,7 @@ msgstr "Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
-msgid "Salix Live CD holds a <g id='346'>/salixlive/rootcopy/</g> directory."
+msgid "Salix Live CD holds a <g id='343'>/salixlive/rootcopy/</g> directory."
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
@@ -2094,7 +2097,7 @@ msgstr "Szoftverek"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"Some of Salix XFCE standard application however are replaced by lighter "
+"Some of Salix XFCE standard applications however are replaced by lighter "
 "counteparts."
 msgstr ""
 
@@ -2147,6 +2150,17 @@ msgstr "Rendszer kezelés"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
+"The 'ALSA Sound Card' utility manages the system sound card configuration."
+msgstr ""
+
+#: SalixStartupGuide-en.odt:2
+msgctxt "paragraph"
+msgid "The 'Host Names' utility manages the host names used by your computer."
+msgstr ""
+
+#: SalixStartupGuide-en.odt:2
+msgctxt "paragraph"
+msgid ""
 "The Core installation mode is identical to the one you get from the XFCE "
 "edition while Basic will install a minimal LXDE desktop with only Midori and "
 "Gslapt installed as extra."
@@ -2155,7 +2169,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"The Full mode installs a complete, yet wickedly fast, Graphic Desktop "
+"The Full mode installs a complete, yet wickedly fast, graphic desktop "
 "environment with all the software one would need for daily use, while still "
 "following the \"one application per task\" rationale."
 msgstr ""
@@ -2168,8 +2182,8 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"The Office suite is managed by <x id='363'/><g id='364'>Abiword</g> and <g "
-"id='365'>Gnumeric</g> while <g id='366'>ePDFviewer</g> replaces Evince."
+"The Office suite is managed by <g id='362'>Abiword</g> and <g "
+"id='363'>Gnumeric</g> while <g id='364'>ePDFviewer</g> replaces Evince."
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
@@ -2195,7 +2209,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"The full set of <x id='361'/><g id='362'>Salix system tools</g> are of "
+"The full set of <x id='360'/><g id='361'>Salix system tools</g> are of "
 "course included in this release as well as many of the applications used in "
 "Salix XFCE standard edition."
 msgstr ""
@@ -2229,7 +2243,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"Therefore all the instructions that apply to <g id='376'>Salix XFCE Live</g> "
+"Therefore all the instructions that apply to <g id='374'>Salix XFCE Live</g> "
 "are equally applicable to Salix LXDE Live."
 msgstr ""
 
@@ -2245,7 +2259,7 @@ msgctxt "paragraph"
 msgid ""
 "This can be particularly interesting if you regularly perform installations "
 "at friends/family/neigbours/schools/etc and you generally like to add your "
-"personnal touch/preferences to those installations."
+"personnal touch/preferences/languages to those installations."
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
@@ -2258,7 +2272,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid ""
-"This is particularly useful when you have a multiple sound cards in your "
+"This is particularly useful when you have multiple sound cards in your "
 "system, and you would like to assign a sound card for your system other than "
 "the one automatically picked during installation/start-up."
 msgstr ""
@@ -2311,8 +2325,8 @@ msgstr ""
 msgctxt "paragraph"
 msgid ""
 "To do this however, you must first create a special \"persistent file\" on "
-"your hard drive, which will have a pre-decided fixed-size and will be "
-"formatted as a Linux file system."
+"your hard drive, or on an attached USB key, which will have a pre-decided "
+"fixed-size and will be formatted as a Linux file system."
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
@@ -2457,7 +2471,7 @@ msgstr ""
 msgctxt "paragraph"
 msgid ""
 "You can check that the module contains the unwanted packages by listing the "
-"<g id='337'>/mnt/hdxx/directoryx/var/log/packages/ directory.)</g>"
+"<g id='334'>/mnt/hdxx/directoryx/var/log/packages/ directory.)</g>"
 msgstr ""
 
 #: SalixStartupGuide-en.odt:2
@@ -2488,8 +2502,8 @@ msgstr ""
 msgctxt "paragraph"
 msgid ""
 "You must open an ISO file of Salix Live (for example the one you downloaded) "
-"and then add to and/or remove from the modules situated in <g id='347'>/"
-"salixlive/base</g>, <g id='348'>/salixlive/modules</g> or <g id='349'>/"
+"and then add to and/or remove from the modules situated in <g id='344'>/"
+"salixlive/base</g>, <g id='345'>/salixlive/modules</g> or <g id='346'>/"
 "salixlive/optional</g>."
 msgstr ""
 
