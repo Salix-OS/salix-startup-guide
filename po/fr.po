@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: salix-live-startup-guide\n"
 "POT-Creation-Date: 2010-09-13 13:09+CET\n"
-"PO-Revision-Date: 2010-09-13 17:40+0100\n"
+"PO-Revision-Date: 2010-09-13 21:12+0100\n"
 "Last-Translator: Pierrick Le Brun <akuna~at~free~dot~fr>\n"
 "Language-Team: Transifex\n"
 "MIME-Version: 1.0\n"
@@ -115,7 +115,7 @@ msgstr "Dotnew"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Evince (Document Viewer)"
-msgstr "Visualiseur de documents (Evince)"
+msgstr "Visionneur de documents (Evince)"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -520,7 +520,7 @@ msgstr "* Ajouter ou supprimer des fichiers et des répertoires de/à une image 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Create an ISO image from scratch."
-msgstr "* Créer une image ISO depuis le départ."
+msgstr "* Créer une image ISO en partant de rien."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -690,7 +690,7 @@ msgstr "<g id='165'>Transmission est un client </g><g id='166'><g id='167'>BitTo
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='169'>Parole is a modern simple media player based on the </g><g id='170'><g id='171'>GStreamer</g></g><g id='172'> framework and written to fit well in the </g><g id='173'><g id='174'>Xfce</g></g><g id='175'> desktop. Parole is designed with simplicity, speed and resource usage in mind. </g>"
-msgstr "<g id='169'>Parole est un simple lecteur multimédia moderne basée sur le framework </g><g id='170'><g id='171'>GStreamer</g></g><g id='172'> et conçu pour s'intégrer avec le bureau </g><g id='173'><g id='174'>Xfce</g></g><g id='175'>. Parole a été conçu dans un souci de simplicité, de rapidité et d'un bon usage des ressources. </g>"
+msgstr "<g id='169'>Parole est un simple lecteur multimédia moderne basé sur le framework </g><g id='170'><g id='171'>GStreamer</g></g><g id='172'> et conçu pour s'intégrer avec le bureau </g><g id='173'><g id='174'>Xfce</g></g><g id='175'>. Parole a été conçu dans un souci de simplicité, de rapidité et d'un bon usage des ressources. </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -720,7 +720,7 @@ msgstr "<g id='187'>Sous Unix/Linux, à tous les utilisateurs et groupes d'utili
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='191'><g id='192'>Slapt-get</g></g><g id='193'> is a CLI tool providing an APT‑like system for Slackware package management. It allows one to search Slackware/Salix mirrors and third party sources for packages, compare them with installed packages, install new packages, or upgrade all installed packages. </g>"
-msgstr "<g id='191'><g id='192'>Slapt-get</g></g><g id='193'> est un utilitaire en ligne de commande offrant un système de type APT adapté à la gestion des paquets logiciel de Slackware. Il permet de chercher des paquets dans les miroirs de Slackware/Salix ou de tierces parties, de les comparer avec les paquets installés, d'installer de nouveaux logiciels, ou mettre à jour tous les logiciels installés. </g>"
+msgstr "<g id='191'><g id='192'>Slapt-get</g></g><g id='193'> est un utilitaire en ligne de commande offrant un système de type APT adapté à la gestion des paquets logiciels de Slackware. Il permet de chercher des paquets dans les miroirs de Slackware/Salix ou de tierces parties, de les comparer avec les paquets installés, d'installer de nouveaux logiciels, ou mettre à jour tous les logiciels installés. </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -745,7 +745,7 @@ msgstr "<g id='212'>Salix Live est la version Live CD de </g><g id='213'><g id
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='217'>The latest Salix OS or Salix Live releases are freely and easily available as ISO image files from Salix OS </g><g id='218'><g id='219'>download page</g></g><g id='220'>.</g>"
-msgstr "<g id='217'>Les dernières versions de Salix OS ou de Salix Live sont facilement et gratuitement disponibles en image ISO depuis </g><g id='218'><g id='219'>la page de téléchargement</g></g><g id='220'>.</g> de Salix OS."
+msgstr "<g id='217'>Les dernières versions de Salix OS ou de Salix Live sont facilement et gratuitement disponibles en image ISO depuis </g><g id='218'><g id='219'>la page de téléchargement</g></g><g id='220'></g> de Salix OS."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -885,7 +885,7 @@ msgstr "<g id='66'>Pour ce faire, Salix OS a choisi le bureau </g><g id='67'><g
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='70'>Salix OS also provides all the necessary </g><g id='71'><g id='72'>GUI</g></g><g id='73'> utilities to assist </g><g id='74'><g id='75'>system management</g></g><g id='76'>.</g>"
-msgstr "<g id='70'>Salix OS fournit également toutes les </g><g id='71'><g id='72'>interfaces graphiques</g></g><g id='73'> nécessaire pour </g><g id='74'><g id='75'>la configuration du système</g></g><g id='76'>.</g>"
+msgstr "<g id='70'>Salix OS fournit également toutes les </g><g id='71'><g id='72'>interfaces graphiques</g></g><g id='73'> nécessaires pour </g><g id='74'><g id='75'>la configuration du système</g></g><g id='76'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -900,7 +900,7 @@ msgstr "<g id='84'>Le Mode de Base est construit sur le Mode Essentiel avec l'aj
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='88'>The Office applications are composed of the full </g><g id='89'><g id='90'>OpenOffice productivity suite</g></g><g id='91'>, and </g><g id='92'><g id='93'>Orage agenda</g></g><g id='94'>.</g>"
-msgstr "<g id='88'>Les logiciels bureautiques sont composées de </g><g id='89'><g id='90'>la suite complète OpenOffice</g></g><g id='91'>, et de </g><g id='92'><g id='93'>l'agenda Orage</g></g><g id='94'>.</g>"
+msgstr "<g id='88'>Les logiciels bureautiques sont composés de </g><g id='89'><g id='90'>la suite complète OpenOffice</g></g><g id='91'>, et de </g><g id='92'><g id='93'>l'agenda Orage</g></g><g id='94'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1025,7 +1025,7 @@ msgstr "Avant de pouvoir utiliser toutes les applications multimédias, vous pou
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Besides scanning, Simple Scan has some intelligent features, like saving files as image sequences and pdf files."
-msgstr "Outre la numérisation, Simple Scan a des fonctions intelligentes, comme l'enregistrement de fichiers en séquences d'images et en fichiers PDF."
+msgstr "Outre la numérisation, 'Numérisation Simple' a des fonctions intelligentes, comme l'enregistrement de fichiers en séquences d'images et en fichier PDF."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1115,7 +1115,7 @@ msgstr "Même si lancé depuis un CD/DVD, Salix Live vous donne la possibilité
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Evince is a document viewer for multiple document formats."
-msgstr "Evince est un visionneur de documents gérant de multiple formats de documents."
+msgstr "Evince est un visionneur de documents gérant de multiples formats de documents."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1435,7 +1435,7 @@ msgstr "Mousepad est un éditeur de texte simple avec support de l'impression."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Mozilla Firefox is a free and open source web browser with tabbed browsing, spell checking, incremental find, private browsing and numerous plugins."
-msgstr "Mozilla Firefox est un navigateur libre et gratuit permettant une navigation par onglets, la vérification orthographique, la recherche progressive, la navigation privée et contenant de nombreux greffons."
+msgstr "Mozilla Firefox est un navigateur libre et gratuit qui comporte la navigation par onglets, la vérification orthographique, la recherche progressive, la navigation privée et de nombreux greffons."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1530,7 +1530,7 @@ msgstr "Personnalisation des modules"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "PiTiVi is an easy to use video editor."
-msgstr "PiTiVi est éditeur de vidéos facile à utiliser."
+msgstr "PiTiVi est un éditeur de vidéos simple à utiliser."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1635,7 +1635,7 @@ msgstr "Le mot de passe administrateur (root) de Salix Live est:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live will also come in handy as a mobile solution if you wish to carry Salix OS everywhere you go or if you need to perform some basic rescue operation such as fixing an ailing LILO bootloader with Lilo Setup, configuring some partitions with Gparted, etc."
-msgstr "Salix Live sera également utile en tant que solution mobile si vous désirez avoir Salix OS partout où vous allez ou si vous avez besoin d'effectuer certaines opérations de secours de base telles que la réparation du chargeur de démarrage LILO avec Lilo Setup, ou encore la configuration des partitions avec Gparted, etc."
+msgstr "Salix Live sera également utile en tant que solution mobile si vous désirez avoir Salix OS partout où vous allez ou si vous avez besoin d'effectuer certaines opérations de secours de base telles que la réparation du gestionnaire d'amorçage LILO avec Lilo Setup, ou encore la configuration des partitions avec Gparted, etc."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1645,7 +1645,7 @@ msgstr "Salix OS"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Simple Scan allows you to scan your documents/photos with your scanner or even with your webcam!"
-msgstr "Simple Scan vous permet de numériser vos documents/photos avec votre scanner ou même avec votre webcam!"
+msgstr "L'application 'Numérisation Simple' vous permet de numériser vos documents/photos avec votre scanner ou même avec votre webcam!"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1795,7 +1795,7 @@ msgstr "Par conséquent, toutes les instructions qui s'appliquent à <g id='374'
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "These features come in very handy when scanning books and multi-page documents."
-msgstr "Ces caractéristiques sont très utiles pour scanner des livres ou documents avec de multiple pages."
+msgstr "Ces caractéristiques sont très utiles pour scanner des livres ou documents avec de multiples pages."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1810,7 +1810,7 @@ msgstr "C'est idéal si vous êtes un utilisateur expérimenté et que vous souh
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This is particularly useful when you have multiple sound cards in your system, and you would like to assign a sound card for your system other than the one automatically picked during installation/start-up."
-msgstr "Ceci est particulièrement utile lorsque vous avez une plusieurs cartes son dans votre système, et que vous souhaitez affecter une carte son pour votre système autre que celui choisi automatiquement durant l'installation ou le démarrage."
+msgstr "Ceci est particulièrement utile lorsque vous avez une ou plusieurs cartes son dans votre système, et que vous souhaitez affecter une carte son pour votre système autre que celle choisie automatiquement durant l'installation ou le démarrage."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1820,27 +1820,27 @@ msgstr "Ce dernier mode est construit sur le Mode de Base et y ajoute une gamme 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This tool facilitates defining / overviewing host names used while setting up your machine as a server."
-msgstr "Cet outil facilite la définition/modifications des noms d'hôtes utilisés lors de la configuration de votre machine comme serveur."
+msgstr "Cet outil facilite la définition/modification des noms d'hôtes utilisés lors de la configuration de votre machine comme serveur."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This utility manages the creation, deletion and properties of all the system users and groups of users."
-msgstr "Cet utilitaire gère la création, la suppression et les priopriétés de tous les utilisateurs et groupes du système."
+msgstr "Cet utilitaire gère la création, la suppression et les propriétés de tous les utilisateurs et groupes du système."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This utility will configure the keyboard disposition being used both in the graphical and non-graphical environments."
-msgstr "Cet utilitaire configurera la disposition du clavier utilisée aussi bien en environnement graphique que non-graphique."
+msgstr "Cet utilitaire permet de configurer la disposition du clavier utilisée aussi bien en environnement graphique que non-graphique."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This utility will configure the language of your system."
-msgstr "Cet utilitaire va configurer la langue de votre système."
+msgstr "Cet utilitaire permet de configurer la langue de votre système."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This utility will configure your computer clock."
-msgstr "Cet utilitaire configurera l'heure de votre ordinateur."
+msgstr "Cet utilitaire permet de configurer l'heure de votre ordinateur."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1925,7 +1925,7 @@ msgstr "L'annulation est disponible et aucun des paramètres ne sera appliqué t
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Unlike other system tools, Wicd is located under the Internet Menu."
-msgstr "Contrairement aux outils d'autres systèmes, Wicd est situé dans le menu Internet."
+msgstr "Contrairement aux autres outils de configuration du système, Wicd est situé dans le menu Internet."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1955,7 +1955,7 @@ msgstr "Bien que n'essayant pas de cloner les applications existantes, Gnumeric 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Wicd is an open source wired and wireless network manager for Linux which aims to provide a simple interface to connect to networks with a wide variety of settings."
-msgstr "Wicd est un logiciel libre de gestion réseau filaire et sans fil pour Linux qui a pour but de fournir une interface simple pour se connecter à des réseaux avec une grande variété de paramètres."
+msgstr "Wicd est un logiciel libre de gestion de réseau filaire et sans fil pour Linux qui a pour but de fournir une interface de connexion simple avec une grande variété de paramètres."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2080,7 +2080,7 @@ msgstr "dir2lzm directoryx modulex.lzm"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "ePDFView is a lightweight PDF document viewer that only uses the GTK+ and Poppler libraries."
-msgstr "ePDFView est un visualiseur léger de documents PDF qui utilise seulement les bibliothèques GTK+ et Poppler."
+msgstr "ePDFView est un visionneur léger de documents PDF qui utilise seulement les bibliothèques GTK+ et Poppler."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
