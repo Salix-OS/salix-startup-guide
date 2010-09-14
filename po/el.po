@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: salix-startup-guide\n"
 "POT-Creation-Date: 2010-09-13 15:09+CET\n"
-"PO-Revision-Date: 2010-09-15 00:34+0300\n"
+"PO-Revision-Date: 2010-09-15 00:52+0200\n"
 "Last-Translator: Dimitris Tzemos <djemos@slackel.gr>\n"
 "Language-Team: Greek\n"
 "MIME-Version: 1.0\n"
@@ -305,7 +305,7 @@ msgstr "Διαχείριση Πακέτων"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Parole Media Player"
-msgstr "Parole Player Media"
+msgstr "Αναπαραγωγέας Πολυμέσων Parole"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -690,7 +690,7 @@ msgstr "<g id='165'> Το Transmission είναι μια εφαρμογή </g><g
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='169'>Parole is a modern simple media player based on the </g><g id='170'><g id='171'>GStreamer</g></g><g id='172'> framework and written to fit well in the </g><g id='173'><g id='174'>Xfce</g></g><g id='175'> desktop. Parole is designed with simplicity, speed and resource usage in mind. </g>"
-msgstr "<g id='169'> το Parole είναι ένα απλός αναπαραγωγέας  πολυμέσων με βάση το </g><g id='170'><g id='171'> GStreamer </g></g><g id='172'> πλαίαιο και γράφτηκε για να ταιριάζει καλά στην </g><g id='173'><g id='174'> Xfce </g></g><g id='175'> επιφάνεια εργασίας. Το Parole είναι σχεδιασμένο με σκοπό την απλότητα, την ταχύτητα και τη χρήση πόρων. </g>"
+msgstr "<g id='169'>Το Parole είναι ένα απλός αναπαραγωγέας  πολυμέσων με βάση το </g><g id='170'><g id='171'> GStreamer </g></g><g id='172'> πλαίαιο και γράφτηκε για να ταιριάζει καλά στην </g><g id='173'><g id='174'> Xfce </g></g><g id='175'> επιφάνεια εργασίας. Το Parole είναι σχεδιασμένο με σκοπό την απλότητα, την ταχύτητα και τη χρήση πόρων. </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -855,7 +855,7 @@ msgstr "<g id='358'>LiveClone</g> είναι ένας μια νέα διεπαφ
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='365'>Midori</g> is the web browser, <x id='366'/><g id='367'>Whaaw! MediaPlayer</g> plays multimedia contents and <g id='368'>mtPaint</g> offers graphic and photo editing."
-msgstr "<g id='365'> Το Midori </g> είναι ο web browser, <x id='366'/><g id='367'>το Whaaw! MediaPlayer</g> παίζει το περιεχόμενο πολυμέσων και <g id='368'>το mtPaint</g> προσφέρει γραφικά και φωτογραφία μοντάζ."
+msgstr "<g id='365'> Το Midori </g> είναι ο web browser, <x id='366'/><g id='367'>ο αναπαραγωγέας πολυμέσων Whaaw!</g> παίζει το περιεχόμενο πολυμέσων και <g id='368'>το mtPaint</g> προσφέρει γραφικά και φωτογραφία μοντάζ."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1515,7 +1515,7 @@ msgstr "Το Parole έχει χαρακτηριστικά, αναπαραγωγ�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Parole is also extensible via plugins, and it is shipped with a browser media player plugin."
-msgstr "το Parole είναι επεκτάσιμο μέσω plugins, και διατίθεται στην αγορά με ένα πρόσθετο ενημέρωσης αναπαραγωγής πολυμέσων."
+msgstr "Το Parole είναι επεκτάσιμο μέσω plugins, και διατίθεται στην αγορά με ένα πρόσθετο ενημέρωσης αναπαραγωγής πολυμέσων."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
