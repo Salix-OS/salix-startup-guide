@@ -1715,7 +1715,6 @@ msgid "Software"
 msgstr "Software"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Some of Salix XFCE standard applications however are replaced by lighter counteparts."
 msgstr "Sommige van de Salix XFCE standaard applicaties zijn echter vervangen door lichtere tegenhangers."
@@ -1761,16 +1760,14 @@ msgid "System Management"
 msgstr "Systeembeheer"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The 'ALSA Sound Card' utility manages the system sound card configuration."
-msgstr "ALSA Sound Card beheert de configuratie van de systeemgeluidskaart."
+msgstr "De 'ALSA Sound Card' tool beheert de configuratie van de systeemgeluidskaart."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The 'Host Names' utility manages the host names used by your computer."
-msgstr "Host names beheert de hostnamen die worden gebruikt door uw computer."
+msgstr "De 'Host Names' tool beheert de hostnamen die worden gebruikt door uw computer."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1778,7 +1775,6 @@ msgid "The Core installation mode is identical to the one you get from the XFCE 
 msgstr "De Core installatiemodus is identiek aan die van de XFCE editie, terwijl Basic een minimale LXDE desktop met alleen Midori en Gslapt als extra zal installeren."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The Full mode installs a complete, yet wickedly fast, graphic desktop environment with all the software one would need for daily use, while still following the \"one application per task\" rationale."
 msgstr "De Full modus installeert een complete, maar onvoorstelbaar snelle grafische Desktop met alle software welke dagelijks nodig zou kunnen zijn, maar nog steeds de \"een aanvraag per taak\" logica volgend."
@@ -1847,10 +1843,9 @@ msgid "These features come in very handy when scanning books and multi-page docu
 msgstr "Deze functies zijn zeer handig bij het scannen van boeken en documenten met meerdere pagina's."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "This can be particularly interesting if you regularly perform installations at friends/family/neigbours/schools/etc and you generally like to add your personnal touch/preferences/languages to those installations."
-msgstr "Dit kan vooral handig zijn als u regelmatig installaties uitvoert bij vrienden/familie/neigbours/scholen/etc en u over het algemeen uw persoonlijke touch/voorkeuren aan deze installaties wilt toevoegen."
+msgstr "Dit kan vooral handig zijn als u regelmatig installaties uitvoert bij vrienden/familie/buren/scholen/etc en u over het algemeen uw persoonlijke inbreng/voorkeuren aan deze installaties wilt toevoegen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1858,7 +1853,6 @@ msgid "This is ideal if you are an experienced user and want to customize your i
 msgstr "Dit is ideaal als u een ervaren gebruiker bent en u wilt uw installatie aanpassen voor een specifiek doel, zoals een webserver, bestandsserver, enz."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "This is particularly useful when you have multiple sound cards in your system, and you would like to assign a sound card for your system other than the one automatically picked during installation/start-up."
 msgstr "Dit is vooral handig wanneer u meerdere geluidskaarten in uw systeem hebt, en u wilt een andere geluidskaart voor uw systeem toewijzen dan degene automatisch gekozen tijdens de installatie/start-up."
@@ -1899,10 +1893,9 @@ msgid "Time, Keyboard, Locale, Partitions, Users and Software."
 msgstr "Tijd, Toetsenbord, Landinstelling, Partitities, Gebruikers en Software."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "To do this however, you must first create a special \"persistent file\" on your hard drive, or on an attached USB key, which will have a pre-decided fixed-size and will be formatted as a Linux file system."
-msgstr "Om dit te doen, moet u een speciale \"persistent bestand\" aanmaken welke een vooraf gekozen grootte is en zal worden geformatteerd als een linux bestandssysteem."
+msgstr "Om dit te doen, moet u een speciaal \"persistent bestand\" aanmaken welke een vooraf gekozen grootte is en zal worden geformatteerd als een linux bestandssysteem."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
