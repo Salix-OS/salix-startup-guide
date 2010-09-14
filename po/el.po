@@ -1990,7 +1990,7 @@ msgstr "Μπορείτε να χρησιμοποιήσετε το Asunder για
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You must open an ISO file of Salix Live (for example the one you downloaded) and then add to and/or remove from the modules situated in <g id='344'>/salixlive/base</g>, <g id='345'>/salixlive/modules</g> or <g id='346'>/salixlive/optional</g>."
-msgstr "Πρέπει να ανοίξετε ένα αρχείο ISO του Salix Live (για παράδειγμα αυτό που κατεβάσατε) και στη συνέχεια να προσθέσετε ή και να αφαιρέστε σε αυτό αρθρώματα που βρίσκονται στα <g id='344'>/salixlive/base</g>, <g id='345'>/salixlive/modules</g> ή <g id='346'>/salixlive/optional</g>."
+msgstr "Πρέπει να ανοίξετε ένα αρχείο ISO του Salix Live (για παράδειγμα αυτό που κατεβάσατε) και στη συνέχεια να προσθέσετε ή και να αφαιρέσετε σε αυτό αρθρώματα που βρίσκονται στα <g id='344'>/salixlive/base</g>, <g id='345'>/salixlive/modules</g> ή <g id='346'>/salixlive/optional</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
