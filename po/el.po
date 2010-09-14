@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: salix-startup-guide\n"
 "POT-Creation-Date: 2010-09-13 15:09+CET\n"
-"PO-Revision-Date: 2010-09-14 15:50+0300\n"
+"PO-Revision-Date: 2010-09-14 16:21+0200\n"
 "Last-Translator: Dimitris Tzemos <djemos@slackel.gr>\n"
 "Language-Team: Greek\n"
 "MIME-Version: 1.0\n"
@@ -180,12 +180,12 @@ msgstr "Πως να εκκινήσω από το Salix Live CD/DVD;"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "How to boot from a Salix Live USB key?"
-msgstr "Πως να εκκινήσω από ένα Salix Live USB key"
+msgstr "Πως να εκκινήσω από ένα δίσκο Salix Live USB;"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "How to install Salix Live on a USB key?"
-msgstr "Πως να εγκαταστήσω το Salix Live σε ένα USB key;"
+msgstr "Πως να εγκαταστήσω το Salix Live σε ένα δίσκο USB;"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -615,7 +615,7 @@ msgstr "3- Προσθήκη ή αφαίρεση αρθρωμάτων ή αρχε
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Go to the \"boot\" directory on the USB key."
-msgstr "3- Μετάβαση στο \"boot\" κατάλογο στο USB key"
+msgstr "3- Μετάβαση στο \"boot\" κατάλογο στο δίσκο USB."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -630,7 +630,7 @@ msgstr "3- Αφαίρεση των πακέτων από τον κατάλογο
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- If you're running on Unix (Linux, BSD, Mac OS X), simply execute the file called “install-on-USB.sh”."
-msgstr "4- Αν βρίσκεστε σε περιβάλλον Unix (Linux, BSD, Mac OS X), απλά εκτελέστε το αρχείο \"install-on-USB.sh\"."
+msgstr "4- Αν βρίσκεστε σε περιβάλλον Unix (Linux, BSD, Mac OS X), απλά εκτελέστε το αρχείο “install-on-USB.sh”."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -755,7 +755,7 @@ msgstr "<g id='221'> Εάν είναι αναγκαίο, μπορείτε να �
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='225'>You can also uncompress Salix Live ISO image onto a </g><g id='226'><g id='227'>USB key</g></g><g id='228'>.</g>"
-msgstr "<g id='225'> Μπορείτε επίσης να αποσυμπιέσετε την εικόνα ISO του Salix Live σε μια </g><g id='226'><g id='227'> συσκευή αποθήκευσης USB </g></g><g id='228'>.</g>"
+msgstr "<g id='225'> Μπορείτε επίσης να αποσυμπιέσετε την εικόνα ISO του Salix Live σε ένα </g><g id='226'><g id='227'>δίσκο USB</g></g><g id='228'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -800,7 +800,7 @@ msgstr "<g id='257'>Το Gparted περιλαμβάνεται στο Salix Live 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='261'>LiveClone generates a Live CD/DVD iso image (which you can burn as an image on a CD/DVD with a CD/DVD burner) or a Live USB key. This means that you can create your very own customized Live CD/DVD/USB which will be based either on SalixLive or on your modified running environment. In the case of a Live USB Key generation, you will be offered to make your USB key with “</g><g id='262'><g id='263'>persistence</g></g><g id='264'>”.</g>"
-msgstr "<g id='261'> Το LiveClone δημιουργεί ένα Live CD / DVD αρχείο εικόνας ISO (το οποίο μπορείτε να κάψετε ως εικόνα σε ένα CD / DVD με ένα CD / DVD burner) ή σε Live USB key. Αυτό σημαίνει ότι μπορείτε να δημιουργήσετε το δικό σας προσαρμοσμένο live CD / DVD / USB που θα βασίζεται είτε στο SalixLive ή στο τροποποιημένο τρέχον περιβάλλον σας. Στη περίπτωση δημιουργίας Live USB Key, θα σας δοθεί η δυνατότητα να κάνετε το USB Key “</g><g id='262'><g id='263'>μόνιμων αλλαγών</g></g><g id='264'>”.</g>"
+msgstr "<g id='261'> Το LiveClone δημιουργεί ένα Live CD / DVD αρχείο εικόνας ISO (το οποίο μπορείτε να κάψετε ως εικόνα σε ένα CD / DVD με ένα CD / DVD burner) ή σε δίσκο Live USB. Αυτό σημαίνει ότι μπορείτε να δημιουργήσετε το δικό σας προσαρμοσμένο live CD / DVD / USB που θα βασίζεται είτε στο SalixLive ή στο τροποποιημένο τρέχον περιβάλλον σας. Στη περίπτωση δημιουργίας δίσκου Live USB, θα σας δοθεί η δυνατότητα να κάνετε το δίσκο USB “</g><g id='262'><g id='263'>μόνιμων αλλαγών</g></g><g id='264'>”.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -850,7 +850,7 @@ msgstr "<g id='353'> Αν έχετε μια έκδοση Salix LiveCD, μπορ�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='358'>LiveClone</g> is a new GUI utility which offers yet another alternative and very simple way to create a customized Salix Live CD/DVD or Live USB key."
-msgstr "<g id='358'>LiveClone</g> είναι ένας μια νέα διεπαφή χρήστη που προσφέρει ένα ακόμη εναλλακτικό και πολύ απλό τρόπο για να δημιουργήσετε ένα βελτιστοποιημένο Salix Live CD/DVD ή  Live USB key."
+msgstr "<g id='358'>LiveClone</g> είναι ένας μια νέα διεπαφή χρήστη που προσφέρει ένα ακόμη εναλλακτικό και πολύ απλό τρόπο για να δημιουργήσετε ένα βελτιστοποιημένο Salix Live CD/DVD ή  δίσκο Live USB."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1215,7 +1215,7 @@ msgstr "Αν έχετε μόνο μια εικόνα iso του Salix Live, ακ
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "If you're on Windows, execute the file called “install-on-USB.cmd” instead."
-msgstr "Αν είστε σε Windows, εκτελέστε το αρχείο που ονομάζεται \"install-on-USB.cmd\" αντ 'αυτού."
+msgstr "Αν είστε σε Windows, εκτελέστε το αρχείο που ονομάζεται “install-on-USB.cmd” αντ' αυτού."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1290,7 +1290,7 @@ msgstr "Σκοπός της είναι να αποτελέσει ένα βασι
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It is interesting to note that when you produce your own customized Live CD/DVD/USB with the help of LiveClone, Salix Live Installer will still be fully functionable with it."
-msgstr "Είναι ενδιαφέρον να σημειωθεί ότι όταν δημιουργήσετε τη δική σας προσαρμοσμένη εκδοχή Live CD / DVD / USB με τη βοήθεια του LiveClone, ο Salix Live Installer θα εξακολουθεί να είναι πλήρως λειτουργικός με αυτή."
+msgstr "Είναι ενδιαφέρον να σημειωθεί ότι όταν δημιουργήσετε τη δική σας προσαρμοσμένη εκδοχή Live CD/DVD/USB με τη βοήθεια του LiveClone, ο εγκαταστάτης του Salix Live θα εξακολουθεί να είναι πλήρως λειτουργικός με αυτή."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1390,7 +1390,7 @@ msgstr "Live Εργαλεία"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Live USB Key"
-msgstr "Live USB Key"
+msgstr "Δίσκος Live USB"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1655,7 +1655,7 @@ msgstr "Απλά κάντε κλικ σε μια ημερομηνία για ν�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Simply plug your Salix Live USB key in your computer and start it the usual way."
-msgstr "Απλά συνδέστε το Salix Live USB κλειδί σας στον υπολογιστή σας και δουλέψτε με τον συνηθισμένο τρόπο."
+msgstr "Απλά συνδέστε το δίσκο σας Salix Live USB στον υπολογιστή σας και δουλέψτε με τον συνηθισμένο τρόπο."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1850,7 +1850,7 @@ msgstr "Ώρα, Πληκτρολόγιο, Εθνικότητα, Διαμερίσ
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To do this however, you must first create a special \"persistent file\" on your hard drive, or on an attached USB key, which will have a pre-decided fixed-size and will be formatted as a Linux file system."
-msgstr "Ωστόσο για να γίνει αυτό, πρέπει να δημιουργήσετε ένα ειδικό \"αρχείο μόνιμων αλλαγών\" στο σκληρό σας δίσκο, ή σε ένα προσαρτημένο USB Key, το οποίο θα έχει ένα προαποφασισμένο καθορισμένο μέγεθος και θα διαμορφωθεί σαν σύστημα αρχείων του Linux."
+msgstr "Ωστόσο για να γίνει αυτό, πρέπει να δημιουργήσετε ένα ειδικό \"αρχείο μόνιμων αλλαγών\" στο σκληρό σας δίσκο, ή σε ένα προσαρτημένο δίσκο USB, το οποίο θα έχει ένα προαποφασισμένο καθορισμένο μέγεθος και θα διαμορφωθεί σαν σύστημα αρχείων του Linux."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
