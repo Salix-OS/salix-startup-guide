@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: salix-startup-guide\n"
 "POT-Creation-Date: 2010-09-13 15:09+CET\n"
-"PO-Revision-Date: 2010-09-14 15:48+0300\n"
+"PO-Revision-Date: 2010-09-14 15:50+0300\n"
 "Last-Translator: Dimitris Tzemos <djemos@slackel.gr>\n"
 "Language-Team: Greek\n"
 "MIME-Version: 1.0\n"
@@ -280,7 +280,7 @@ msgstr "Mousepad"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "OS"
-msgstr ""
+msgstr "OS"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
