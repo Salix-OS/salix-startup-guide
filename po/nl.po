@@ -1479,7 +1479,6 @@ msgid "Note that you need to recreate the full directory hierarchy for the patch
 msgstr "Merk op dat de volledige folder hierarchie opnieuw gemaakt moet worden om patches correct te laten werken."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Of course, Gslapt package manager, and its command line counterpart slapt-get, are available to install extra software from Slackware and Salix repositories, with complete support for dependency resolution."
 msgstr "Natuurlijk, Gslapt package manager, en haar gelijkwaardige command line equivalent slapt-get, zijn beschikbaar om extra software van Slackware en Salix repositories te installeren, met volledige ondersteuning voor dependency oplossingen."
@@ -1538,7 +1537,7 @@ msgstr "Orage biedt een kalender welke mooi integreert in de Xfce Desktop omgevi
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "PS:"
-msgstr ""
+msgstr "PS:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
