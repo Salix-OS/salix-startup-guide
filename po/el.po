@@ -670,7 +670,7 @@ msgstr "<g id='108'> Οι εφαρμογές πολυμέσων περιλαμβ
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='131'>Graphical applications include the <x id='132'/></g><g id='133'><g id='134'>Evince (Document Viewer)</g></g><g id='135'>, </g><g id='136'><g id='137'>Gimp</g></g><g id='138'>, </g><g id='139'><g id='140'>Simple Scan</g></g><g id='141'> et </g><g id='142'><g id='143'>Viewnior</g></g><g id='144'>. <x id='145'/></g>"
-msgstr "<g id='131'> Οι γραφικές εφαρμογές περιλαμβάνουν την <x id='132'/></g><g id='133'><g id='134'> Evince (Document Viewer) </g></g><g id='135'> , </g><g id='136'><g id='137'> Gimp </g></g><g id='138'> , </g><g id='139'><g id='140'> Απλή Σάρωση </g></g><g id='141'> et </g><g id='142'><g id='143'> Viewnior </g></g><g id='144'> . <x id='145'/></g>"
+msgstr "<g id='131'>Οι γραφικές εφαρμογές περιλαμβάνουν τα <x id='132'/></g><g id='133'><g id='134'>Evince (Θεατής Εγγράφων)</g></g><g id='135'>, </g><g id='136'><g id='137'>Gimp</g></g><g id='138'> , </g><g id='139'><g id='140'>Simple Scan</g></g><g id='141'> και </g><g id='142'><g id='143'>Viewnior</g></g><g id='144'>. <x id='145'/></g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -680,7 +680,7 @@ msgstr "<g id='146'><g id='147'> Το Geany </g></g><g id='148'> βρίσκετ�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='149'>Finally, Accessories applications include a variety of small, useful utilities among which are </g><g id='150'><g id='151'>Galculator</g></g><g id='152'>, </g><g id='153'><g id='154'>Mousepad</g></g><g id='155'>, </g><g id='156'><g id='157'>Catfish</g></g><g id='158'>, </g><g id='159'><g id='160'>File Roller</g></g><g id='161'>, </g><g id='162'><g id='163'>SCIM</g></g><g id='164'>, etc.</g>"
-msgstr "<g id='149'> Τέλος, οι εφαρμογές Εργαλείων περιλαμβάνουν μια ποικιλία από μικρά, χρήσιμα βοηθητικά προγράμματα μεταξύ των οποίων είναι </g><g id='150'><g id='151'> Galculator </g></g><g id='152'> , </g><g id='153'><g id='154'> Mousepad </g></g><g id='155'> , </g><g id='156'><g id='157'>Catfish</g></g><g id='158'> , </g><g id='159'><g id='160'> File Roller </g></g><g id='161'>, </g><g id='162'><g id='163'> SCIM </g></g><g id='164'>, κλπ.</g>"
+msgstr "<g id='149'>Τέλος, οι εφαρμογές Εργαλείων περιλαμβάνουν μια ποικιλία από μικρά, χρήσιμα βοηθητικά προγράμματα μεταξύ των οποίων είναι τα </g><g id='150'><g id='151'>Galculator</g></g><g id='152'>, </g><g id='153'><g id='154'>Mousepad</g></g><g id='155'>, </g><g id='156'><g id='157'>Catfish</g></g><g id='158'> , </g><g id='159'><g id='160'>File Roller</g></g><g id='161'>, </g><g id='162'><g id='163'>SCIM</g></g><g id='164'>, κλπ.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -835,7 +835,7 @@ msgstr "<g id='290'>Εάν δεν έχετε ήδη έτοιμα τα αναγκ
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='294'>You will be greeted by a reminder that all the necessary partitions have to be created first. As we have seen, this can be done simply with the help of </g><g id='295'><g id='296'>Gparted</g></g><g id='297'>, which is included in Salix Live and is available directly on the desktop.</g>"
-msgstr "<g id='294'> Θα σας επισημανθεί ότι όλες οι απαραίτητες κατατμήσεις πρέπει να δημιουργηθούν πρώτα. Όπως είδαμε, αυτό μπορεί να γίνει απλά με τη βοήθεια του </g><g id='295'><g id='296'> GParted </g></g><g id='297'>, που περιλαμβάνεται στο Salix Live και είναι διαθέσιμο άμεσα στην επιφάνεια εργασίας.</g>"
+msgstr "<g id='294'> Θα σας επισημανθεί ότι όλες οι απαραίτητες κατατμήσεις πρέπει να δημιουργηθούν πρώτα. Όπως είδαμε, αυτό μπορεί να γίνει απλά με τη βοήθεια του </g><g id='295'><g id='296'>GParted</g></g><g id='297'>, που περιλαμβάνεται στο Salix Live και είναι διαθέσιμο άμεσα στην επιφάνεια εργασίας.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
