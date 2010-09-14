@@ -993,10 +993,9 @@ msgid "All your modifications will be applied instantly if you press on the OK b
 msgstr "Al uw wijzigingen zullen direct worden toegepast als u op de OK knop drukt. Een reboot zal niet noodzakelijk zijn."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Alternatively, you can use any one of <x id='180'/>Salix system tools which you will find under the System section of the Menu."
-msgstr "Als alternatief kunt u gebruik maken van een van de Salix Systeem Tools welke u vindt onder de sectie Systeem van het menu."
+msgstr "Als alternatief kunt u van een van de <x id='180'/>Salix Systeemtools gebruik maken welke onder de sectie Systeem van het menu vindt."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1024,10 +1023,9 @@ msgid "As previously stated Salix relies on the excellent slapt-get/Gslapt combi
 msgstr "Zoals eerder vermeld is Salix gebaseerd op de uitstekende combinatie slapt-get/Gslapt voor haar software pakket beheer."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "As the name indicates, the 'Rebuild Icon Cache' utility re-connects some icons that are not displayed after updating your system / installing some new program, and makes them show up again on your menu."
-msgstr "Zoals de naam al aangeeft, zal Rebuild Icon Cache een aantal icoontjes die niet worden weergegeven na het updaten van uw systeem of installeren van een nieuw programma, opnieuw aansluiten en laat ze weer verschijnen op uw menubalk."
+msgstr "Zoals de naam al aangeeft, zal 'Rebuild Icon Cache' een aantal icoontjes die niet worden weergegeven na het updaten van uw systeem of na installeren van een nieuw programma, opnieuw aansluiten en laat ze weer verschijnen op uw menubalk."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
