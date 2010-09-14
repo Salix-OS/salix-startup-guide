@@ -882,7 +882,7 @@ msgstr "<g id='382'>Als u een Salix LiveCD heeft, kunt u eenvoudig </g><g id='38
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='358'>LiveClone</g> is a new GUI utility which offers yet another alternative and very simple way to create a customized Salix Live CD/DVD or Live USB key."
-msgstr ""
+msgstr "<g id='358'>LiveClone</g> is een nieuwe GUI tool welke nog een andere en zeer eenvoudige manier levert om een aangepaste Salix Live CD/DVD of Live USB key te maken."
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
@@ -1169,10 +1169,9 @@ msgid "File Roller is an archive manager."
 msgstr "File Roller is een archief bestand manager."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Finally, Salix OS strives to provide a localized system which is functional around the globe and can easily be used by non‑English speakers."
-msgstr "Ten slotte, Salix OS streeft ernaar om een gelokaliseerd systeem te leveren dat geschikt is voor gebruik over de hele wereld en makkelijk kan worden gebruikt door niet-Engels sprekenden."
+msgstr "Ten slotte, Salix OS streeft ernaar om een gelokaliseerd systeem te leveren dat geschikt is voor gebruik wereldwijd en makkelijk kan worden gebruikt door niet-engels sprekenden."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1275,10 +1274,9 @@ msgid "In the same manner that you boot from the optical drive, you must ensure 
 msgstr "Net als wordt opgestart vanaf de optische drive, moet u er ook voor zorgen dat het BIOS is ingesteld om te booten vanaf een USB device voor de andere devices."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Installing Salix OS from the LiveCD"
-msgstr "Salix OS installeren"
+msgstr "Salix OS installeren van de LiveCD"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
