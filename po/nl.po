@@ -1521,10 +1521,9 @@ msgid "Only when all the sections have been completed will the 'Launch Salix Ins
 msgstr "Pas als alle delen zijn afgerond zal de 'Start de Salix Installatie' knop worden geactiveerd."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "OpenOffice.org 3 is the leading open-source office software suite for word processing, spreadsheets, presentations, graphics, databases and more."
-msgstr "OpenOffice.org 3 is de toonaangevende open-source office software suite <x id='165'/>voor tekstverwerking, spreadsheets, presentaties, grafieken, databases en meer."
+msgstr "OpenOffice.org 3 is de toonaangevende open-source office software suite voor tekstverwerking, spreadsheets, presentaties, grafieken, databases en meer."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
