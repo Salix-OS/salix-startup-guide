@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: salix-startup-guide\n"
 "POT-Creation-Date: 2010-09-13 15:09+CET\n"
-"PO-Revision-Date: 2010-09-15 00:52+0200\n"
+"PO-Revision-Date: 2010-09-15 01:09+0200\n"
 "Last-Translator: Dimitris Tzemos <djemos@slackel.gr>\n"
 "Language-Team: Greek\n"
 "MIME-Version: 1.0\n"
@@ -665,7 +665,7 @@ msgstr "6- Αντικαταστήστε το αυθεντικό άρθρωμα �
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='108'>Multimedia applications include </g><g id='109'><g id='110'>Asunder</g></g><g id='111'>, </g><g id='112'><g id='113'>Brasero</g></g><g id='114'>, </g><g id='115'><g id='116'>Exaile</g></g><g id='117'>, </g><g id='118'><g id='119'>Iso Master</g></g><g id='120'>, <x id='121'/></g><g id='122'><g id='123'>Parole Media Player</g></g><g id='124'>, </g><g id='125'><g id='126'>PiTiVi Video Editor</g></g><g id='127'> and </g><g id='128'><g id='129'>Salix Codec Installer</g></g><g id='130'>.</g>"
-msgstr "<g id='108'> Οι εφαρμογές πολυμέσων περιλαμβάνουν </g><g id='109'><g id='110'>Asunder</g></g><g id='111'> , </g><g id='112'><g id='113'> Brasero </g></g><g id='114'> , </g><g id='115'><g id='116'> Exaile </g></g><g id='117'> , </g><g id='118'><g id='119'> Iso Master </g></g><g id='120'> , <x id='121'/></g><g id='122'><g id='123'> Parole Player Media </g></g><g id='124'> , </g><g id='125'><g id='126'> PiTiVi Editor Βίντεο </g></g><g id='127'> και </g><g id='128'><g id='129'> Salix Codec Installer </g></g><g id='130'> . </g>"
+msgstr "<g id='108'> Οι εφαρμογές πολυμέσων περιλαμβάνουν τα </g><g id='109'><g id='110'>Asunder</g></g><g id='111'>, </g><g id='112'><g id='113'> Brasero </g></g><g id='114'> , </g><g id='115'><g id='116'> Exaile </g></g><g id='117'> , </g><g id='118'><g id='119'> Iso Master </g></g><g id='120'>, <x id='121'/></g><g id='122'><g id='123'> Parole Media Player </g></g><g id='124'> , </g><g id='125'><g id='126'> PiTiVi Video Editor </g></g><g id='127'> και </g><g id='128'><g id='129'> Salix Codec Installer </g></g><g id='130'> . </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1285,7 +1285,7 @@ msgstr "Είναι πλήρως διαμορφώσιμο και υποστηρί
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It is intended to be a basic media player with little dependencies."
-msgstr "Σκοπός της είναι να αποτελέσει ένα βασικό αναπαραγωγέα πολυμέσων με μικρές εξαρτήσεις."
+msgstr "Σκοπός του είναι να αποτελέσει ένα βασικό αναπαραγωγέα πολυμέσων με μικρές εξαρτήσεις."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1415,7 +1415,7 @@ msgstr "Δημιουργεί ένα άρθρωμα από ένα πακέτο:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Media Player will play any audio/video files which GStreamer can manage."
-msgstr "Ο Media Player θα παίξει οποιαδήποτε audio / video αρχείο που ο gstreamer μπορεί να παίξει."
+msgstr "Ο Media Player θα παίξει οποιαδήποτε audio/video αρχείο που ο gstreamer μπορεί να παίξει."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1515,7 +1515,7 @@ msgstr "Το Parole έχει χαρακτηριστικά, αναπαραγωγ�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Parole is also extensible via plugins, and it is shipped with a browser media player plugin."
-msgstr "Το Parole είναι επεκτάσιμο μέσω plugins, και διατίθεται στην αγορά με ένα πρόσθετο ενημέρωσης αναπαραγωγής πολυμέσων."
+msgstr "Το Parole είναι επίσης επεκτάσιμο μέσω plugins, και διατίθεται στην αγορά με ένα πρόσθετο ενημέρωσης αναπαραγωγής πολυμέσων."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
