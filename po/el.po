@@ -670,7 +670,7 @@ msgstr "<g id='108'> Οι εφαρμογές πολυμέσων περιλαμβ
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='131'>Graphical applications include the <x id='132'/></g><g id='133'><g id='134'>Evince (Document Viewer)</g></g><g id='135'>, </g><g id='136'><g id='137'>Gimp</g></g><g id='138'>, </g><g id='139'><g id='140'>Simple Scan</g></g><g id='141'> et </g><g id='142'><g id='143'>Viewnior</g></g><g id='144'>. <x id='145'/></g>"
-msgstr "<g id='131'>Οι γραφικές εφαρμογές περιλαμβάνουν τα <x id='132'/></g><g id='133'><g id='134'>Evince (Θεατής Εγγράφων)</g></g><g id='135'>, </g><g id='136'><g id='137'>Gimp</g></g><g id='138'> , </g><g id='139'><g id='140'>Simple Scan</g></g><g id='141'> και </g><g id='142'><g id='143'>Viewnior</g></g><g id='144'>. <x id='145'/></g>"
+msgstr "<g id='131'>Οι γραφικές εφαρμογές περιλαμβάνουν τα <x id='132'/></g><g id='133'><g id='134'>Evince (Εφαρμογή προβολής εγγράφων)</g></g><g id='135'>, </g><g id='136'><g id='137'>Gimp</g></g><g id='138'> , </g><g id='139'><g id='140'>Simple Scan</g></g><g id='141'> και </g><g id='142'><g id='143'>Viewnior</g></g><g id='144'>. <x id='145'/></g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
