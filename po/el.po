@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: salix-startup-guide\n"
 "POT-Creation-Date: 2010-09-13 15:09+CET\n"
-"PO-Revision-Date: 2010-09-15 02:15+0200\n"
+"PO-Revision-Date: 2010-09-15 02:27+0200\n"
 "Last-Translator: Dimitris Tzemos <djemos@slackel.gr>\n"
 "Language-Team: Greek\n"
 "MIME-Version: 1.0\n"
@@ -845,12 +845,12 @@ msgstr "<g id='298'>Μόλις τελειώσει η εγκατάσταση, θ�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='353'>If you have a Salix LiveCD, you can simply use </g><g id='354'><g id='355'>LiveClone</g></g><g id='356'> from a Live session. </g>"
-msgstr "<g id='353'> Αν έχετε μια έκδοση Salix LiveCD, μπορείτε απλά να χρησιμοποιήσετε το </g><g id='354'><g id='355'> LiveClone </g></g><g id='356'> από μια Live συνεδρία. </g>"
+msgstr "<g id='353'> Αν έχετε μια έκδοση Salix LiveCD, μπορείτε απλά να χρησιμοποιήσετε το </g><g id='354'><g id='355'>LiveClone</g></g><g id='356'> από μια Live συνεδρία. </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='358'>LiveClone</g> is a new GUI utility which offers yet another alternative and very simple way to create a customized Salix Live CD/DVD or Live USB key."
-msgstr "<g id='358'>LiveClone</g> είναι ένας μια νέα διεπαφή χρήστη που προσφέρει ένα ακόμη εναλλακτικό και πολύ απλό τρόπο για να δημιουργήσετε ένα βελτιστοποιημένο Salix Live CD/DVD ή  δίσκο Live USB."
+msgstr "<g id='358'>Το LiveClone</g> είναι μια νέα εφαρμογή διεπαφής χρήστη που προσφέρει ένα ακόμη εναλλακτικό και πολύ απλό τρόπο για να δημιουργήσετε ένα βελτιστοποιημένο Salix Live CD/DVD ή δίσκο Live USB."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1235,7 +1235,7 @@ msgstr "Σε αυτή τη περίπτωση δεν χρειάζεται να �
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "In the same manner that you boot from the optical drive, you must ensure that the BIOS is set to boot from a USB device before other devices."
-msgstr "Κατά τον ίδιο τρόπο που εκκινείτε από το οπτική συσκευή, πρέπει να σιγουρευτείτε ότι το BIOS έχει ρυθμιστεί να εκκινεί από μια USB συσκευή πριν από τις άλλες συσκευές."
+msgstr "Κατά τον ίδιο τρόπο που εκκινείτε από την οπτική συσκευή, πρέπει να σιγουρευτείτε ότι το BIOS έχει ρυθμιστεί να εκκινεί από μια USB συσκευή πριν από τις άλλες συσκευές."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
