@@ -815,7 +815,7 @@ msgstr "<g id='270'>Ο εγκαταστάτης του Salix Live σας δίν�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='274'>Like most Live CDs based on Slackware, Salix Live is relying on the </g><g id='275'><g id='276'>Linux Live Scripts</g></g><g id='277'> technology. Some of the shell scripts it includes will enable an advanced user to fully </g><g id='278'><g id='279'>customize and re-master</g></g><g id='280'>  <x id='281'/>Salix Live to better suit his or her own needs.</g>"
-msgstr "<g id='274'>Όπως τα περισσότερα Live CDs βασισμένα στο Slackware, το Salix Live βασίζεται στη χρήση των </g><g id='275><g id='276'>Linux Live Scripts</g></g><g id='277'>. Μερικά από τα προγράμματα που περιέχει θα δώσουν τη δυνατότητα σε ένα προχωρημένο χρήστη να </g><g id='278'><g id='279'>τροποποιήσει και να επαναδημιουργήσει</g></g><g id='280'> <x id='281'/>το Salix Live για να ταιριάζει στις προσωπικές του ανάγκες.</g>"
+msgstr "<g id='274'>Όπως τα περισσότερα Live CDs βασισμένα στο Slackware, το Salix Live βασίζεται στη χρήση των </g><g id='275'><g id='276'>Linux Live Scripts</g></g><g id='277'>. Μερικά από τα προγράμματα που περιέχει θα δώσουν τη δυνατότητα σε ένα προχωρημένο χρήστη να </g><g id='278'><g id='279'>τροποποιήσει και να επαναδημιουργήσει</g></g><g id='280'> <x id='281'/>το Salix Live για να ταιριάζει στις προσωπικές του ανάγκες.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1745,7 +1745,7 @@ msgstr "Τα Linux Live Scripts έρχονται με τα ακόλουθες χ
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Office suite is managed by <g id='362'>Abiword</g> and <g id='363'>Gnumeric</g> while <g id='364'>ePDFviewer</g> replaces Evince."
-msgstr "Η σουίτα του γραφείου περιλαμβάνει το <x id='362'/><g id='363'>AbiWord</g> και το <g id='363'>Gnumeric</g> ενώ <g id='366'>το ePDFviewer</g> αντικαθιστά το Evince."
+msgstr "Η σουίτα του γραφείου περιλαμβάνει το <x id='362'/><g id='363'>AbiWord</g> και το <g id='363'>Gnumeric</g> ενώ <g id='364'>το ePDFviewer</g> αντικαθιστά το Evince."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
