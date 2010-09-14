@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: salix-startup-guide\n"
 "POT-Creation-Date: 2010-09-13 15:09+CET\n"
-"PO-Revision-Date: 2010-09-15 02:08+0200\n"
+"PO-Revision-Date: 2010-09-15 02:15+0200\n"
 "Last-Translator: Dimitris Tzemos <djemos@slackel.gr>\n"
 "Language-Team: Greek\n"
 "MIME-Version: 1.0\n"
@@ -720,7 +720,7 @@ msgstr "<g id='187'> Στο Unix / Linux, σε όλους τους χρήστε�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='191'><g id='192'>Slapt-get</g></g><g id='193'> is a CLI tool providing an APT‑like system for Slackware package management. It allows one to search Slackware/Salix mirrors and third party sources for packages, compare them with installed packages, install new packages, or upgrade all installed packages. </g>"
-msgstr "<g id='191'><g id='192'> Το Slapt-get </g></g><g id='193'> είναι ένα εργαλείο  CLI που παρέχει ένα APT τύπου σύστημα για τη διαχείριση των πακέτων Slackware. Επιτρέπει σε κάποιον να αναζητήσει καθρέπτες λογισμικού (mirrors) του Slackware/Salix και πηγές πακέτων τρίτων, συγκρίνοντάς τα με εγκατεστημένα πακέτα, να εγκαταστήσει νέα πακέτα ή να αναβαθμίσει νέα πακέτα. </g>"
+msgstr "<g id='191'><g id='192'> Το Slapt-get </g></g><g id='193'> είναι ένα εργαλείο γραμμής εντολών (CLI) που παρέχει ένα APT τύπου σύστημα για τη διαχείριση των πακέτων Slackware. Επιτρέπει σε κάποιον να αναζητήσει καθρέπτες λογισμικού (mirrors) του Slackware/Salix και πηγές πακέτων τρίτων, συγκρίνοντάς τα με εγκατεστημένα πακέτα, να εγκαταστήσει νέα πακέτα ή να αναβαθμίσει νέα πακέτα. </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -790,7 +790,7 @@ msgstr "<g id='249'>Το Salix Live έρχεται με όλα τα εξ' ορι
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='253'>Some of the Live Tools are graphical utilities that can be accessed directly on the desktop while some Live Tools, reserved for advanced users can only be executed in a Terminal, from the command line (</g><g id='254'><g id='255'>CLI</g></g><g id='256'>).</g>"
-msgstr "<g id='253'>Μερικά από τα Live Tools είναι γραφικές εφαρμογές που μπορεί να προσπελαστούν άμεσα στο γραφικό περιβάλλον ενώ μερικά Live Tools, δεσμευμένα για προχωρημένους χρήστες μπορούν να εκτελεστούν μόνο σε ένα Τερματικό, από τη γραμμή εντολών ( </g><g id='254'><g id='255'> CLI </g></g><g id='256'> ).</g>"
+msgstr "<g id='253'>Μερικά από τα Live Tools είναι γραφικές εφαρμογές που μπορεί να προσπελαστούν άμεσα στο γραφικό περιβάλλον ενώ μερικά Live Tools, δεσμευμένα για προχωρημένους χρήστες μπορούν να εκτελεστούν μόνο σε ένα Τερματικό, από τη γραμμή εντολών (</g><g id='254'><g id='255'> CLI </g></g><g id='256'>).</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1490,7 +1490,7 @@ msgstr "Το OpenOffice.org 3 είναι η κορυφαία σουίτα γρα
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Or alternatively in CLI:"
-msgstr "Ή εναλλακτικά στο CLI:"
+msgstr "Ή εναλλακτικά στη γραμμή εντολών (CLI):"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
