@@ -1379,16 +1379,14 @@ msgid "It will connect to wired (Ethernet only, no PPPoE/DSL support yet) and wi
 msgstr "Het kan verbinden met bekabelde (Ethernet, nog geen PPPoE/DSL-ondersteuning) en draadloze netwerken."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It will display a possible course of action for each new configuration file found in the system."
-msgstr "Het <x id='209'/> zal een keuze tonen voor elk nieuw gevonden configuratie bestand in het systeem."
+msgstr "Het zal een keuze tonen voor elk nieuw gevonden configuratiebestand in het systeem."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It will display available sound cards in your system and let you select the card you want to use in preference."
-msgstr "Het <x id='208'/> zal beschikbare geluidskaarten tonen in uw systeem en laat u de kaart die u wilt gebruiken kiezen."
+msgstr "Het zal beschikbare geluidskaarten tonen in uw systeem en laat u de kaart kiezen die u wilt gebruiken."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1451,10 +1449,9 @@ msgid "Make a module out of a package:"
 msgstr "Maak een module vanuit een pakket:"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Media Player will play any audio/video files which GStreamer can manage."
-msgstr "Media Player zal alle audio/video bestanden afspelen die gstreamer kan afspelen."
+msgstr "Media Player zal alle audio/video bestanden afspelen die GStreamer kan afspelen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
