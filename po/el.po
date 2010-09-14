@@ -1745,7 +1745,7 @@ msgstr "Τα Linux Live Scripts έρχονται με τα ακόλουθες χ
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Office suite is managed by <g id='362'>Abiword</g> and <g id='363'>Gnumeric</g> while <g id='364'>ePDFviewer</g> replaces Evince."
-msgstr "Η σουίτα του γραφείου περιλαμβάνει το <x id='362'/><g id='363'>AbiWord</g> και το <g id='363'>Gnumeric</g> ενώ <g id='364'>το ePDFviewer</g> αντικαθιστά το Evince."
+msgstr "Η σουίτα του γραφείου περιλαμβάνει το <g id='362'>AbiWord</g> και το <g id='363'>Gnumeric</g> ενώ <g id='364'>το ePDFviewer</g> αντικαθιστά το Evince."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
