@@ -1410,10 +1410,9 @@ msgid "Make a module out of a package:"
 msgstr "Ein Modul aus einem Paket erzeugen:"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Media Player will play any audio/video files which GStreamer can manage."
-msgstr "Der Medien-Abspieler kann alle von gstreamer unterstützten Audio/Video Dateien abspielen."
+msgstr "Der Medien-Abspieler kann alle von Gstreamer unterstützten Audio/Video Dateien abspielen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1441,16 +1440,14 @@ msgid "Note that you need to recreate the full directory hierarchy for the patch
 msgstr "Beachten Sie, dass die komplette Verzeichnis-Hierarchie hergestellt werden muss, damit die Patches wie gewünscht funktionieren."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Of course, Gslapt package manager, and its command line counterpart slapt-get, are available to install extra software from Slackware and Salix repositories, with complete support for dependency resolution."
 msgstr "Selbstverständlich sind der Gslapt Paketmanager und sein Konsolen-Äquivalent slapt-get verfügbar um weitere Software aus den Slackware und Salix Repositories zu installieren, Abhängigkeitsauflösung wird vollständig unterstützt."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Of course, this is also the case with the <g id='375'>installation</g> and <g id='376'>customization</g> of Salix LXDE Live."
-msgstr "Dies ist natürlich auch der Fall bei der <g id='377'>Installation</g> und <g id='378'>Anpassung</g> von Salix LXDE Live."
+msgstr "Dies ist natürlich auch der Fall bei der <g id='375'>Installation</g> und <g id='376'>Anpassung</g> von Salix LXDE Live."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1483,10 +1480,9 @@ msgid "Only when all the sections have been completed will the 'Launch Salix Ins
 msgstr "Sobald alle Abschnitte fertiggestellt sind, wird der Button zum Installieren aktiviert."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "OpenOffice.org 3 is the leading open-source office software suite for word processing, spreadsheets, presentations, graphics, databases and more."
-msgstr "OpenOffice.org 3 ist die führende Open-Source Bürosoftware <x id='165'/>für Textverarbeitung, Tabellenkalkulationen, Präsentationen, Graphik, Datenbanken und mehr."
+msgstr "OpenOffice.org 3 ist die führende Open-Source Bürosoftware für Textverarbeitung, Tabellenkalkulationen, Präsentationen, Graphik, Datenbanken und mehr."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1501,7 +1497,7 @@ msgstr "Orage stellt einen Kalender zur Verfügung, der sich in die Xfce Desktop
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "PS:"
-msgstr ""
+msgstr "PS:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1559,10 +1555,9 @@ msgid "Pressing 'c' gives you access to the Grub shell."
 msgstr "Das Drücken von 'c' gibt Ihnen Zugriff auf die Grub Shell."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Pressing 'e' while 'Start Salix Live' is selected opens up the following display, enabling you to modify some of the booting options, for example to enter a boot parameter."
-msgstr "Das Drücken von 'e' während der Auswahl von 'Start Salix Live' öffnet den folgenden Bildschirm, der es Ihnen ermöglicht, Bootoptionen zu ändern, z.B. Bootparameter einzugeben."
+msgstr "Das Drücken von 'e' während der Auswahl von 'Salix Live starten' öffnet den folgenden Bildschirm, der es Ihnen ermöglicht, Bootoptionen zu ändern, z.B. Bootparameter einzugeben."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1580,22 +1575,19 @@ msgid "ROOT=/mnt/hdxx/directoryx removepkg packagez"
 msgstr "ROOT=/mnt/hdxx/directoryx removepkg packagez"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Remember that any existing swap partition will be automatically used by the Live installer without any prompting on your part."
 msgstr "Eine existierende Swap Partition wird automatisch und ohne Nachfrage von Live Installer verwendet."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix LXDE Live is the Live version of Salix LXDE edition and thus includes the same choice of software plus, just like Salix XFCE Live, the full set of <x id='369'/><g id='370'>Salix Live tools</g>."
-msgstr "Salix LXDE Live ist die Liveversion der Salix LXDE Edition und beinhaltet daher dieselbe Software sowie zusätzlich (wie auch Salix XFCE Live) die kompletten <x id='371'/><g id='372'>Salix Live Werkzeuge</g>."
+msgstr "Salix LXDE Live ist die Liveversion der Salix LXDE Edition und beinhaltet daher dieselbe Software sowie zusätzlich (wie auch Salix XFCE Live) die kompletten <x id='369'/><g id='370'>Salix Live Werkzeuge</g>."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix LXDE edition features the Lightweight X11 Desktop Environment, “<g id='359'>an extremely fast-performing and energy-saving desktop environment</g>”, with a clean look and feel."
-msgstr "Salix LXDE Edition verwendet die Lightweight X11 Desktop Environment, “<g id='360'>eine sehr schnelle und sparsame Desktopumgebung</g>” mit einem sauberen Look&Feel."
+msgstr "Salix LXDE Edition verwendet die Lightweight X11 Desktop Environment, “<g id='359'>eine sehr schnelle und sparsame Desktopumgebung</g>” mit einem sauberen Look&Feel."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1623,10 +1615,9 @@ msgid "Salix Live"
 msgstr "Salix Live"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix Live CD holds a <g id='343'>/salixlive/rootcopy/</g> directory."
-msgstr "Die Salix Live CD enthält ein <g id='346'>/salixlive/rootcopy/</g> Verzeichnis."
+msgstr "Die Salix Live CD enthält ein <g id='343'>/salixlive/rootcopy/</g> Verzeichnis."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1679,7 +1670,6 @@ msgid "Software"
 msgstr "Software"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Some of Salix XFCE standard applications however are replaced by lighter counteparts."
 msgstr "Einige der Anwendungen der Salix XFCE Version sind durch schlankere Gegenstücke ersetzt worden."
@@ -1725,16 +1715,14 @@ msgid "System Management"
 msgstr "Systemverwaltung"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The 'ALSA Sound Card' utility manages the system sound card configuration."
-msgstr "ALSA Soundkarte verwaltet Ihre System Soundkarten-Konfiguration."
+msgstr "'ALSA Soundkarte' verwaltet Ihre System Soundkarten-Konfiguration."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The 'Host Names' utility manages the host names used by your computer."
-msgstr "Hostnamen verwaltet die von Ihrem Computer verwendeten Hostnamen."
+msgstr "'Hostnamen' verwaltet die von Ihrem Computer verwendeten Hostnamen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1742,10 +1730,9 @@ msgid "The Core installation mode is identical to the one you get from the XFCE 
 msgstr "Die Core Installation ist identisch zu jener der XFCE Edition, während im Basic Modus der minimale LXDE Desktop nur mit Midori und Gslapt installiert wird."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The Full mode installs a complete, yet wickedly fast, graphic desktop environment with all the software one would need for daily use, while still following the \"one application per task\" rationale."
-msgstr "Der Full Modus installiert eine graphische Desktopumgebung mit einem vollen Sortiment an Anwendungen, die im täglichen Betrieb nützlich sind, ausgewählt nach dem \"Eine Anwendung pro Zweck\" Prinzip."
+msgstr "Der Full Modus installiert eine vollständige graphische Desktopumgebung mit einem vollen Sortiment an Anwendungen, die im täglichen Betrieb nützlich sind, ausgewählt nach dem \"Eine Anwendung pro Zweck\" Prinzip."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1753,10 +1740,9 @@ msgid "The Linux Live Scripts come with the following useful commands:"
 msgstr "Die Linux Live Skripte kommen mit den folgenden nützlichen Kommandos:"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The Office suite is managed by <g id='362'>Abiword</g> and <g id='363'>Gnumeric</g> while <g id='364'>ePDFviewer</g> replaces Evince."
-msgstr "Die Büroumgebung besteht aus <x id='363'/><g id='364'>Abiword</g> und <g id='365'>Gnumeric</g> während <g id='366'>ePDFviewer</g> Evince ersetzt."
+msgstr "Die Büroumgebung besteht aus <x id='362'/><g id='363'>Abiword</g> und <g id='365'>Gnumeric</g> während <g id='364'>ePDFviewer</g> Evince ersetzt."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1774,10 +1760,9 @@ msgid "The first screen to greet you will enable you to select your language."
 msgstr "Der erste, sie begrüßende Bildschirm ermöglicht Ihnen die Wahl Ihrer Sprache."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The full set of <x id='360'/><g id='361'>Salix system tools</g> are of course included in this release as well as many of the applications used in Salix XFCE standard edition."
-msgstr "Die kompletten <x id='361'/><g id='362'>Salix System-Werkzeuge</g> sind selbstverständlich enthalten wie auch einige weitere Anwendungen der Salix XFCE Standardversion."
+msgstr "Die kompletten <x id='360'/><g id='361'>Salix System-Werkzeuge</g> sind selbstverständlich enthalten wie auch einige weitere Anwendungen der Salix XFCE Standardversion."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1800,10 +1785,9 @@ msgid "The resulting CD must not contain the .iso file, or you have made a mista
 msgstr "Die erzeugte CD darf nicht die .iso Datei enthalten, sonst haben Sie bei dem Vorgang einen Fehler gemacht."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Therefore all the instructions that apply to <g id='374'>Salix XFCE Live</g> are equally applicable to Salix LXDE Live."
-msgstr "Daher sind alle Anweisungen die für <g id='376'>Salix XFCE Live</g> gelten, genauso auf Salix LXDE Live anwendbar."
+msgstr "Daher sind alle Anweisungen die für <g id='374'>Salix XFCE Live</g> gelten, genauso auf Salix LXDE Live anwendbar."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1811,10 +1795,9 @@ msgid "These features come in very handy when scanning books and multi-page docu
 msgstr "Dieses Feature ist sehr nützlich beim Einscannen von Büchern und mehrseitigen Dokumenten."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "This can be particularly interesting if you regularly perform installations at friends/family/neigbours/schools/etc and you generally like to add your personnal touch/preferences/languages to those installations."
-msgstr "Dies ist interessant wenn Sie Installationen bei Freunden/Familie/Nachbarn/Schulen/etc durchführen und Sie dem System persönliche Anpassungen oder eine persönliche Note verpassen vollen."
+msgstr "Dies ist interessant, wenn Sie Installationen bei Freunden/Familie/Nachbarn/Schulen/etc durchführen und Sie dem System persönliche Anpassungen oder eine persönliche Note verpassen wollen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1822,7 +1805,6 @@ msgid "This is ideal if you are an experienced user and want to customize your i
 msgstr "Dies ist Ideal, wenn Sie ein erfahrener Benutzer sind und Ihre Installation für einen speziellen Zweck, z.B. einen Webserver oder einen Dateiserver anpassen möchten."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "This is particularly useful when you have multiple sound cards in your system, and you would like to assign a sound card for your system other than the one automatically picked during installation/start-up."
 msgstr "Dies ist sehr nützlich, wenn Ihr System mehrere Soundkarten besitzt und Sie eine andere als die standardmäßig ausgewählte Soundkarte verwenden möchten."
@@ -1863,7 +1845,6 @@ msgid "Time, Keyboard, Locale, Partitions, Users and Software."
 msgstr "Zeit, Tastatur, Lokalisierung, Partitionen, Benutzer und Software."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "To do this however, you must first create a special \"persistent file\" on your hard drive, or on an attached USB key, which will have a pre-decided fixed-size and will be formatted as a Linux file system."
 msgstr "Um dies zu tun müssen Sie zuerst eine spezielle \"persistente Datei\" auf Ihrer Festplatte erstellen, welche eine voreingestelle Größe hat und als Linux Dateisystem formatiert wird."
