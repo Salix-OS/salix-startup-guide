@@ -765,46 +765,39 @@ msgid "<g id='233'>You also have the possibility to </g><g id='234'><g id='235'>
 msgstr "<g id='233'>Sie haben außerdem die Möglichkeit, </g><g id='234'><g id='235'>die meisten standardmäßigen Booteinstellungen zu ändern</g></g><g id='236'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='237'>Simply press Enter on the default menu entry: Start Salix Live and a moment later you will enter </g><g id='238'><g id='239'>Xfce desktop</g></g><g id='240'>.</g>"
-msgstr "<g id='239'>Drücken Sie einfach Enter auf dem Standard-Booteintrag: Salix Live starten und einen Moment später bekommen Sie den </g><g id='240'><g id='241'>Xfce Desktop</g></g><g id='242'>.</g>"
+msgstr "<g id='237'>Drücken Sie einfach Enter auf dem Standard-Booteintrag: Salix Live starten und einen Moment später bekommen Sie den </g><g id='238'><g id='239'>Xfce Desktop</g></g><g id='240'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='241'>Salix Live is configured with autologin, which means that you will not need to identify yourself before entering the Live session. If for any reason, the automated login was not working or you had to restart a new session for whatever reason, you will need to know that the standard user login is: </g><g id='242'>one</g><g id='243'> and it doesn't have a password.</g>"
-msgstr "<g id='243'>Salix Live ist für automatischen Login konfiguriert, weshalb Sie sich für eine Livesitzung identifizieren müssen. Sollte dies dennoch notwendig sein, so benötigen Sie den Standard-Login: </g><g id='244'>one</g><g id='245'>, ein Passwort existiert nicht.</g>"
+msgstr "<g id='241'>Salix Live ist für automatischen Login konfiguriert, weshalb Sie sich für eine Livesitzung identifizieren müssen. Sollte dies dennoch notwendig sein, so benötigen Sie den Standard-Login: </g><g id='242'>one</g><g id='243'>, ein Passwort existiert nicht.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='244'>All Live Tools require </g><g id='245'><g id='246'>administrator's right</g></g><g id='247'> and will ask you for the root password. </g>"
-msgstr "<g id='246'>Alle Live Tools benötigen </g><g id='247'><g id='248'>Administratorrechte</g></g><g id='249'> und fragen Sie nach dem (Root-) Passwort. </g>"
+msgstr "<g id='244'>Alle Live Tools benötigen </g><g id='245'><g id='246'>Administratorrechte</g></g><g id='247'> und fragen Sie nach dem (Root-) Passwort. </g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='249'>Salix Live comes with all the default </g><g id='250'><g id='251'>software</g></g><g id='252'> included in Salix OS.</g>"
-msgstr "<g id='251'>Salix Live kommt mit jeglicher </g><g id='252'><g id='253'>Software,</g></g><g id='254'> welche in Salix OS integriert ist.</g>"
+msgstr "<g id='249'>Salix Live kommt mit jeglicher </g><g id='250'><g id='251'>Software,</g></g><g id='252'> welche in Salix OS integriert ist.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='253'>Some of the Live Tools are graphical utilities that can be accessed directly on the desktop while some Live Tools, reserved for advanced users can only be executed in a Terminal, from the command line (</g><g id='254'><g id='255'>CLI</g></g><g id='256'>).</g>"
-msgstr "<g id='255'>Einige der Live Werkzeuge sind graphische Anwendungen welche direkt über den Desktop erreicht werden können, während andere für erfahrene Benutzer gedachte Live Werkzeuge nur in einem Terminal über die Kommandozeile (</g><g id='256'><g id='257'>CLI</g></g><g id='258'>) ausgeführt werden können.</g>"
+msgstr "<g id='253'>Einige der Live Werkzeuge sind graphische Anwendungen welche direkt über den Desktop erreicht werden können, während andere für erfahrene Benutzer gedachte Live Werkzeuge nur in einem Terminal über die Kommandozeile (</g><g id='254'><g id='255'>CLI</g></g><g id='256'>) ausgeführt werden können.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='257'>Gparted is included in Salix Live to assist you in </g><g id='258'><g id='259'>managing your partitions</g></g><g id='260'> if it is necessary for you to do so before performing the installation of Salix OS.</g>"
-msgstr "<g id='259'>Gparted ist in Salix Live integriert um Sie beim </g><g id='260'><g id='261'>Verwalten Ihrer Partitionen zu untersützen,</g></g><g id='262'> falls dies vor der Installation von Salix OS notwendig ist.</g>"
+msgstr "<g id='257'>Gparted ist in Salix Live integriert um Sie beim </g><g id='258'><g id='259'>Verwalten Ihrer Partitionen zu untersützen,</g></g><g id='260'> falls dies vor der Installation von Salix OS notwendig ist.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='261'>LiveClone generates a Live CD/DVD iso image (which you can burn as an image on a CD/DVD with a CD/DVD burner) or a Live USB key. This means that you can create your very own customized Live CD/DVD/USB which will be based either on SalixLive or on your modified running environment. In the case of a Live USB Key generation, you will be offered to make your USB key with “</g><g id='262'><g id='263'>persistence</g></g><g id='264'>”.</g>"
-msgstr "<g id='263'>LiveClone erzeugt ein Live CD/DVD ISO Abbild (welches mit einem CD/DVD Brenner auf eine CD/DVD gebrannt werden kann) oder einen Live USB Stick. Dies bedeutet, dass sie Ihr eigenes Livesystem (CD/DVD/USB) erzeugen können, <x id='264'/>welches entweder auf SalixLive oder Ihrer laufenden Umgebung basiert."
+msgstr "<g id='261'>LiveClone erzeugt ein Live CD/DVD ISO Abbild (welches Sie als Abbild auf CD/DVD brennen können) oder einen Live USB Stick. Dies bedeutet, dass Sie Ihr eigenes, angepasstes Live CD/DVD/USB System sowohl auf SalixLive als auch auf Ihrem laufenden System aufbauen können. Falls Sie einen Live USB Stick erzeugen, können Sie Ihren USB Stick mit “</g><g id='262'><g id='263'>Persistenz</g></g><g id='264'>” erstellen.</g>"
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
