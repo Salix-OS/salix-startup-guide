@@ -767,100 +767,84 @@ msgid "<g id='233'>You also have the possibility to </g><g id='234'><g id='235'>
 msgstr "<g id='233'>Ви також маєте можливість </g><g id='234'><g id='235'>змінити більшість налаштувань завантаження</g></g><g id='236'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='237'>Simply press Enter on the default menu entry: Start Salix Live and a moment later you will enter </g><g id='238'><g id='239'>Xfce desktop</g></g><g id='240'>.</g>"
-msgstr "<g id='239'>Просто натисніть Enter на типовий пункт меню: Запустити Salix Live і трішки пізніше Ви ввійдете </g><g id='240'><g id='241'>в робочий стіл Xfce</g></g><g id='242'>.</g>"
+msgstr "<g id='237'>Просто натисніть Enter на типовий пункт меню: Запустити Salix Live і трішки пізніше Ви ввійдете </g><g id='238'><g id='238'>в робочий стіл Xfce</g></g><g id='239'></g><g id='240'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='241'>Salix Live is configured with autologin, which means that you will not need to identify yourself before entering the Live session. If for any reason, the automated login was not working or you had to restart a new session for whatever reason, you will need to know that the standard user login is: </g><g id='242'>one</g><g id='243'> and it doesn't have a password.</g>"
-msgstr "<g id='243'>Salix Live сконфігурований з авто-входом.  Якщо ж з якоїсь причини авто-вхід не працює, або Вам потрібно перезавантажити сесію, Вам потрібно знати стандартний логін користувача: </g><g id='244'>one</g><g id='245'> без паролю.</g>"
+msgstr "<g id='241'>Salix Live сконфігурований з авто-входом.  Якщо ж з якоїсь причини авто-вхід не працює, або Вам потрібно перезавантажити сесію, Вам потрібно знати стандартний логін користувача: </g><g id='242'>one</g><g id='243'> без паролю.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='244'>All Live Tools require </g><g id='245'><g id='246'>administrator's right</g></g><g id='247'> and will ask you for the root password. </g>"
-msgstr "<g id='246'>Всі Інструменти Live вимагають </g><g id='247'><g id='248'>привілеїв адміністратора</g></g><g id='2249'> і Вас запитають про пароль root'а. </g>"
+msgstr "<g id='244'>Всі Інструменти Live вимагають </g><g id='245'><g id='246'>привілеїв адміністратора</g></g><g id='247'> і Вас запитають про пароль root'а. </g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='249'>Salix Live comes with all the default </g><g id='250'><g id='251'>software</g></g><g id='252'> included in Salix OS.</g>"
-msgstr "<g id='251'>Salix Live має типове програмне </g><g id='252'><g id='253'>забезпечення, </g></g><g id='254'> включене в Salix OS.</g>"
+msgstr "<g id='249'>Salix Live має типове програмне </g><g id='250'><g id='250'>забезпечення, </g></g><g id='252'> включене в Salix OS.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='253'>Some of the Live Tools are graphical utilities that can be accessed directly on the desktop while some Live Tools, reserved for advanced users can only be executed in a Terminal, from the command line (</g><g id='254'><g id='255'>CLI</g></g><g id='256'>).</g>"
-msgstr "<g id='255'>Деякі Інструменти Live є графічними утилітами, до яких є безпосередній доступ з робочого столу, тоді як деякі Інструменти Live можна запустити тільки з командної стрічки терміналу (</g><g id='256'><g id='257'>CLI</g></g><g id='258'>) і зарезервовані для досвідчених користувачів.</g>"
+msgstr "<g id='253'>Деякі Інструменти Live є графічними утилітами, до яких є безпосередній доступ з робочого столу, тоді як деякі Інструменти Live можна запустити тільки з командної стрічки терміналу (</g><g id='254'><g id='255'>CLI</g></g><g id='256'>) і зарезервовані для досвідчених користувачів.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='257'>Gparted is included in Salix Live to assist you in </g><g id='258'><g id='259'>managing your partitions</g></g><g id='260'> if it is necessary for you to do so before performing the installation of Salix OS.</g>"
-msgstr "<g id='259'>Gparted включений в Salix Live і допоможе Вам у </g><g id='260'><g id='261'>керуванні Вашими розділами</g></g><g id='262'> якщо Вам буде необхідно зробити це перед запуском встановлення Salix OS.</g>"
+msgstr "<g id='257'>Gparted включений в Salix Live і допоможе Вам у </g><g id='258'><g id='259'>керуванні Вашими розділами</g></g><g id='260'> якщо Вам буде необхідно зробити це перед запуском встановлення Salix OS.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='261'>LiveClone generates a Live CD/DVD iso image (which you can burn as an image on a CD/DVD with a CD/DVD burner) or a Live USB key. This means that you can create your very own customized Live CD/DVD/USB which will be based either on SalixLive or on your modified running environment. In the case of a Live USB Key generation, you will be offered to make your USB key with “</g><g id='262'><g id='263'>persistence</g></g><g id='264'>”.</g>"
-msgstr "<g id='263'> LiveClone генерує Live CD/DVD ISO-образ (який можна записати як образ на CD/DVD за допомогою CD/DVD випалювача) або Live USB. Це означає, що Ви можете створювати свої власні індивідуальні Live CD/DVD/USB <x id='264'/>, які будуть грунтуватися або на SalixLive або на Вашому власному середовищі."
+msgstr "<g id='261'> LiveClone генерує Live CD/DVD ISO-образ (який можна записати як образ на CD/DVD за допомогою CD/DVD випалювача) або Live USB. Це означає, що Ви можете створювати свої власні індивідуальні Live CD/DVD/USB, які будуть грунтуватися або на SalixLive або на Вашому власному середовищі. У випадку Live USB пам’яті флеш Вам запропонують створити її з “</g><g id='262'><g id='263'>збереженням</g></g><g id='264'>”.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='266'>To remove any changes and come back to the default settings, simply delete the persistent file (slxsave.xfs) from the </g><g id='267'><g id='268'>mount point</g></g><g id='269'> it was initially created on.</g>"
-msgstr "<g id='269'>Для видалення будь-яких змін і повернення назад до типових налаштувань просто вилучіть файл запису змін (slxsave.xfs) з </g><g id='270'><g id='271'>точки монтування</g></g><g id='272'> на якій він був створений.</g>"
+msgstr "<g id='266'>Для видалення будь-яких змін і повернення назад до типових налаштувань просто вилучіть файл запису змін (slxsave.xfs) з </g><g id='267'><g id='268'>точки монтування</g></g><g id='269'> на якій він був створений.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='270'>Salix Live Installer will enable you to </g><g id='271'><g id='272'>install Salix OS</g></g><g id='273'> from the comfort of Salix Live graphical environment.</g>"
-msgstr "<g id='273'>Встановлювач Salix Live дозволить Вам </g><g id='274'><g id='275'>встановити Salix OS</g></g><g id='276'> з комфортного графічного середовища Salix Live.</g>"
+msgstr "<g id='270'>Встановлювач Salix Live дозволить Вам </g><g id='271'><g id='272'>встановити Salix OS</g></g><g id='273'> з комфортного графічного середовища Salix Live.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='274'>Like most Live CDs based on Slackware, Salix Live is relying on the </g><g id='275'><g id='276'>Linux Live Scripts</g></g><g id='277'> technology. Some of the shell scripts it includes will enable an advanced user to fully </g><g id='278'><g id='279'>customize and re-master</g></g><g id='280'>  <x id='281'/>Salix Live to better suit his or her own needs.</g>"
-msgstr "<g id='277'>Подібно більшості Live CD, що базуються на Slackware, Salix Live збудовано на технології</g><g id='278'><g id='279'>Скриптів Linux Live</g></g><g id='280'>. Деякі з шел-скриптів, які входять до неї, дозволяють досвідченим користувачам повністю </g><g id='281'><g id='282'>змінювати і перебудовувати</g></g><g id='283'>  <x id='284'/>Salix Live для кращої відповідності їхнім власним бажанням.</g>"
+msgstr "<g id='274'>Подібно більшості Live CD, що базуються на Slackware, Salix Live збудовано на технології</g><g id='275'><g id='276'>Скриптів Linux Live</g></g><g id='277'>. Деякі з шел-скриптів, які входять до неї, дозволяють досвідченим користувачам повністю </g><g id='278'><g id='279'>змінювати і перебудовувати</g></g><g id='280'>  <x id='281'/>Salix Live для кращої відповідності їхнім власним бажанням.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='282'>In order to bypass certain limitations or to complement some of the third-party technology it uses, Salix developed its own set of patches and scripts which for the most part need no user interaction while some can be executed, for instance to facilitate the creation of a </g><g id='283'><g id='284'>Salix Live USB Flash Disk</g></g><g id='285'>. <x id='286'/></g>"
-msgstr "<g id='285'>Для того, щоб обійти деякі обмеження або доповнити деякі технології 'третіх сторін', які використовуються, Salix розробив свій власний набір патчів і скриптів, які здебільшого не вимагають взаємодії з користувачем, хоча деякі можуть бути використані, наприклад, для полегшення створення </g><g id='286'><g id='287'>диску USB флеш з Salix Live</g></g><g id='288'>. <x id='289'/></g>"
+msgstr "<g id='282'>Для того, щоб обійти деякі обмеження або доповнити деякі технології 'третіх сторін', які використовуються, Salix розробив свій власний набір патчів і скриптів, які здебільшого не вимагають взаємодії з користувачем, хоча деякі можуть бути використані, наприклад, для полегшення створення </g><g id='283'><g id='284'>диску USB флеш з Salix Live</g></g><g id='285'>. <x id='286'/></g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='287'><g id='288'>A disk device can be subdivided into one or more partitions</g></g><g id='289'>. Before executing Salix Live Installer, you should already have the necessary partitions available on your system.</g>"
-msgstr "<g id='290'><g id='291'>Пристрій диску може бути розділений на один або більше розділів</g></g><g id='292'>.Перед запуском Встановлювача Salix Live Вам потрібно мати у Вашій системі необхідні розділи диску.</g>"
+msgstr "<g id='287'><g id='288'>Пристрій диску може бути розділений на один або більше розділів</g></g><g id='289'>.Перед запуском Встановлювача Salix Live Вам потрібно мати у Вашій системі необхідні розділи диску.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='290'>If you do not already have the necessary partitions ready, you may want to use Gparted to create them first. </g><g id='291'><g id='292'>Gparted</g></g><g id='293'> will enable you to change the partition organization on a disk device while preserving the contents of the partitions.</g>"
-msgstr "<g id='293'>Якщо Ви ще не маєте приготованих необхідних  розділів диску, то Ви можете їх створити за допомогою Gparted. </g><g id='294'><g id='295'>Gparted</g></g><g id='296'> дозволить Вам змінити розподіл диску, зберігаючи при цьому вміст розділів.</g>"
+msgstr "<g id='290'>Якщо Ви ще не маєте приготованих необхідних  розділів диску, то Ви можете їх створити за допомогою Gparted. </g><g id='291'><g id='292'>Gparted</g></g><g id='293'> дозволить Вам змінити розподіл диску, зберігаючи при цьому вміст розділів.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='294'>You will be greeted by a reminder that all the necessary partitions have to be created first. As we have seen, this can be done simply with the help of </g><g id='295'><g id='296'>Gparted</g></g><g id='297'>, which is included in Salix Live and is available directly on the desktop.</g>"
-msgstr "<g id='297'> Появиться нагадування, що всі необхідні розділи повинні бути створені на початку. Як ми вже бачили, це може бути зроблено за допомогою програми <g id='298'>Gparted</g>, яку включено в Salix Live і яка доступна безпосередньо з робочого столу."
+msgstr "<g id='294'> Появиться нагадування, що всі необхідні розділи повинні бути створені на початку. Як ми вже бачили, це може бути зроблено за допомогою програми</g><g id='295'><g id='296'>Gparted</g></g><g id='297'>,  яку включено в Salix Live і яка доступна безпосередньо з робочого столу."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='298'>Once the installation process is completed, you will be given the choice to launch </g><g id='299'><g id='300'>Lilo Setup</g></g><g id='301'> to configure your LILO bootloader. Most of the time this is what you will want to do although occasionally, it might be preferable not to, for example if you want to use Grub instead or if you want to simply incorporate Salix in an existing bootloader configured from another distribution in a multiple boot setup.</g>"
-msgstr "<g id='301'>Як тільки процес інсталяції завершиться, Вам запропонують запустити </g><g id='302'><g id='303'>Налаштування Lilo</g></g><g id='304'> для встановлення завантажувача LILO. У більшості випадків це те, що Вам потрібно буде робити час від часу, хоча іноді краще не робити, наприклад, якщо Ви хочете використовувати Grub, або якщо Ви хочете, щоб просто включити Salix до існуючого завантажувача, налаштованого іншим дистрибутивом, до списку операційних систем.</g>"
+msgstr "<g id='298'>Як тільки процес інсталяції завершиться, Вам запропонують запустити </g><g id='299'><g id='300'>Налаштування Lilo</g></g><g id='301'> для встановлення завантажувача LILO. У більшості випадків це те, що Вам потрібно буде робити час від часу, хоча іноді краще не робити, наприклад, якщо Ви хочете використовувати Grub, або якщо Ви хочете, щоб просто включити Salix до існуючого завантажувача, налаштованого іншим дистрибутивом, до списку операційних систем.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='353'>If you have a Salix LiveCD, you can simply use </g><g id='354'><g id='355'>LiveClone</g></g><g id='356'> from a Live session. </g>"
-msgstr "<g id='356'>Якщо Ви маєте Salix LiveCD, може використати </g><g id='357'><g id='358'>LiveClone</g></g><g id='359'> з сесії Live.</g>"
+msgstr "<g id='353'>Якщо Ви маєте Salix LiveCD, може використати </g><g id='354'><g id='355'>LiveClone</g></g><g id='356'> з сесії Live.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -868,10 +852,9 @@ msgid "<g id='358'>LiveClone</g> is a new GUI utility which offers yet another a
 msgstr "<g id='358'>LiveClone</g> є нова графічна утиліта, яка пропонує новий альтернативний і простий шлях для створення Salix Live CD/DVD або Live USB пам’яті флеш."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='365'>Midori</g> is the web browser, <x id='366'/><g id='367'>Whaaw! MediaPlayer</g> plays multimedia contents and <g id='368'>mtPaint</g> offers graphic and photo editing."
-msgstr "<g id='367'>Midori</g> є переглядачкою тенет, <x id='368'/><g id='369'>Whaaw! MediaPlayer</g> програє мультимедіа і <g id='370'>mtPaint</g> дозволяє редагувати графіку і фото."
+msgstr "<g id='365'>Midori</g> є переглядачкою тенет, <x id='366'/><g id='367'>Whaaw! MediaPlayer</g> програє мультимедіа і <g id='368'>mtPaint</g> дозволяє редагувати графіку і фото."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -889,7 +872,6 @@ msgid "<g id='55'>Salix OS is a </g><g id='56'><g id='57'>Linux Distribution</g
 msgstr "<g id='55'> Salix OS є </g><g id='56'><g id='57'>дистрибутивом Linux</g></g><g id='58'>,  що базується на </g><g id='59'><g id='60'>Slackware</g></g><g id='61'> і  зберігає повну сумісність з ним.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='62'>However, while in the </g><g id='63'><g id='64'>KISS</g></g><g id='65'> principle that Slackware adheres to, \"Simple\" refers to the system design, Salix OS also applies it to its daily use.</g>"
 msgstr "<g id='62'>Salix OS, так само як і Slackware, дотримується принципу \"Простота\" </g><g id='63'><g id='64'>KISS</g></g><g id='65'> і застосовує його з думкою про кінцевого користувача.</g>"
@@ -905,10 +887,9 @@ msgid "<g id='70'>Salix OS also provides all the necessary </g><g id='71'><g id
 msgstr " <g id='70'>Salix OS також забезпечує всі необхідні </g><g id='71'><g id='72'>GUI</g></g><g id='73'> утиліти для </g><g id='74'><g id='75'>керування системою</g></g><g id='76'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='77'>Salix OS package management uses the proven </g><g id='78'><g id='79'>slapt‑get/gslapt</g></g><g id='80'> combination which includes dependency resolution from both the original Slackware repositories and the complementary and ever-increasing Salix OS </g><g id='81'><g id='82'>repository</g></g><g id='83'>.</g>"
-msgstr "<g id='77'>Для керування пакетами Salix OS використовує випробувану комбінацію </g><g id='78'><g id='79'>slapt‑get/gslapt</g></g><g id='80'>, включаючи залежності від оринігальних репозитаріїв Slackware і від додаткових зростаючих </g><g id='81'><g id='82'>репозитаріїв</g></g><g id='83'> Salix OS.</g>"
+msgstr "<g id='77'>Для керування пакетами Salix OS використовує випробувану комбінацію </g><g id='78'><g id='79'>slapt‑get/gslapt</g></g><g id='80'>, включаючи залежності від оригінальних сховищ Slackware і від додаткових </g><g id='81'><g id='82'>сховищ</g></g><g id='83'> Salix OS.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -976,10 +957,9 @@ msgid "All your modifications will be applied instantly if you press on the OK b
 msgstr "Всі Ваші зміни будуть застосовані негайно, якщо Ви натиснете кнопку ОК і без необхідності перезавантаження системи."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Alternatively, you can use any one of <x id='180'/>Salix system tools which you will find under the System section of the Menu."
-msgstr "Альтернативно Ви можете використати один з Інструментів Системи Salix, які можна знайти в меню в секції Система."
+msgstr "Альтернативно Ви можете використати один з <x id='180'/>Системних Інструментів Salix, які можна знайти в меню в секції Система."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
