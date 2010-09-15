@@ -175,17 +175,17 @@ msgstr "Noms d'hôtes"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "How to boot from Salix Live CD/DVD?"
-msgstr "Comment faire pour démarrer à partir d'un CD/DVD Salix Live?"
+msgstr "Comment faire pour démarrer à partir d'un CD/DVD Salix Live ?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "How to boot from a Salix Live USB key?"
-msgstr "Comment faire pour démarrer depuis une clé USB Salix Live?"
+msgstr "Comment faire pour démarrer depuis une clé USB Salix Live ?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "How to install Salix Live on a USB key?"
-msgstr "Comment faire pour installer Salix Live sur une clé USB?"
+msgstr "Comment faire pour installer Salix Live sur une clé USB ?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -445,22 +445,22 @@ msgstr "Whaaw!"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "What are the Live Tools?"
-msgstr "Que sont les Outils Live?"
+msgstr "Que sont les Outils Live ?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "What is a Live CD?"
-msgstr "Qu'est-ce qu'un Live CD?"
+msgstr "Qu'est-ce qu'un Live CD ?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "What is an ISO image?"
-msgstr "Qu'est-ce qu'une image ISO?"
+msgstr "Qu'est-ce qu'une image ISO ?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Which module contains application XXX?"
-msgstr "Quel module contient l'application XXX?"
+msgstr "Quel module contient l'application XXX ?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -500,7 +500,7 @@ msgstr "(Démarre bash plusieurs fois durant le boot."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(TIP:"
-msgstr "(Astuce:"
+msgstr "(Astuce :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -565,17 +565,17 @@ msgstr "/usr/bin/txz2lzm"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a work directory:"
-msgstr "1- Créer un répertoire de travail:"
+msgstr "1- Créer un répertoire de travail :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a working directory"
-msgstr "1- Créer un répertoire de travail:"
+msgstr "1- Créer un répertoire de travail :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Create a working directory:"
-msgstr "1- Créer un répertoire de travail:"
+msgstr "1- Créer un répertoire de travail :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -585,7 +585,7 @@ msgstr "1 - Ouvrir l'image ISO en utilisant un logiciel d'archivage (file-roller
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Copy Salix Live's CD content to your working directory:"
-msgstr "2- Copier le contenu du CD de Salix Live dans votre répertoire de travail:"
+msgstr "2- Copier le contenu du CD de Salix Live dans votre répertoire de travail :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -595,12 +595,12 @@ msgstr "2- Extraire tous les fichiers et dossiers (boot, docs, packages et salix
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Install all software packages using this directory as root:"
-msgstr "2- Installer les paquets logiciels en utilisant ce répertoire comme racine:"
+msgstr "2- Installer les paquets logiciels en utilisant ce répertoire comme racine :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Open up the module you want to customize under the working directory:"
-msgstr "2- Extraire le module que vous souhaitez personnaliser dans le répertoire de travail:"
+msgstr "2- Extraire le module que vous souhaitez personnaliser dans le répertoire de travail :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -610,7 +610,7 @@ msgstr "3"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Add or remove modules or files as needed:"
-msgstr "3- Ajouter ou supprimer des modules ou des fichiers selon les besoins:"
+msgstr "3- Ajouter ou supprimer des modules ou des fichiers selon les besoins :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -620,12 +620,12 @@ msgstr "3- Aller dans le répertoire \"boot\" sur la clé USB."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Remove all unneeded files:"
-msgstr "3- Supprimer tous les fichiers inutiles:"
+msgstr "3- Supprimer tous les fichiers inutiles :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Remove the packages from the working directory:"
-msgstr "3- Enlevez des paquets logiciels du répertoire de travail:"
+msgstr "3- Enlevez des paquets logiciels du répertoire de travail :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -635,27 +635,27 @@ msgstr "4 - Si vous êtes sous Unix (Linux, BSD, Mac OS X), il suffit d'exécute
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Install new packages to the working directory:"
-msgstr "4- Installer des nouveaux logiciels dans le répertoire de travail:"
+msgstr "4- Installer des nouveaux logiciels dans le répertoire de travail :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Make any modifications you want:"
-msgstr "4- Effectuer toutes les modifications désirées:"
+msgstr "4- Effectuer toutes les modifications désirées :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "4- Rebuild the CD image:"
-msgstr "4- Reconstruire l'image du CD:"
+msgstr "4- Reconstruire l'image du CD :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "5- Build the module:"
-msgstr "5- Construire le module:"
+msgstr "5- Construire le module :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "5- Rebuild the module:"
-msgstr "5- Reconstruire le module:"
+msgstr "5- Reconstruire le module :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -775,7 +775,7 @@ msgstr "<g id='237'>Il suffit d'appuyer sur Entrée sur le choix du menu par dé
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='241'>Salix Live is configured with autologin, which means that you will not need to identify yourself before entering the Live session. If for any reason, the automated login was not working or you had to restart a new session for whatever reason, you will need to know that the standard user login is: </g><g id='242'>one</g><g id='243'> and it doesn't have a password.</g>"
-msgstr "<g id='241'>Salix Live est configuré avec une auto-identification, ce qui signifie que vous n'aurez pas besoin de vous identifier avant d'entrer dans la session Live. Si pour une raison quelconque, la connexion automatique ne fonctionnait pas ou vous avez eu à redémarrer une nouvelle session, vous aurez besoin de savoir que l'identifiant de l'utilisateur standard est:  </g><g id='242'>one</g><g id='243'> et qu'il n'a pas de mot de passe.</g>"
+msgstr "<g id='241'>Salix Live est configuré avec une auto-identification, ce qui signifie que vous n'aurez pas besoin de vous identifier avant d'entrer dans la session Live. Si pour une raison quelconque, la connexion automatique ne fonctionnait pas ou vous avez eu à redémarrer une nouvelle session, vous aurez besoin de savoir que l'identifiant de l'utilisateur standard est :  </g><g id='242'>one</g><g id='243'> et qu'il n'a pas de mot de passe.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -945,7 +945,7 @@ msgstr "Abiword est un programme de traitement de texte adapté à une grande va
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Adding/Removing modules on the fly:"
-msgstr "Ajout/Suppression de modules à la volée:"
+msgstr "Ajout/Suppression de modules à la volée :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1125,7 +1125,7 @@ msgstr "Exaile est un gestionnaire de musique qui intègre la récupération aut
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Explode a module to a directory"
-msgstr "Extraire un module vers un répertoire:"
+msgstr "Extraire un module vers un répertoire :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1155,7 +1155,7 @@ msgstr "GIMP (GNU Image Manipulation Program) est un outil de retouche et d'édi
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Galculator is a calculator featuring two user modes:"
-msgstr "Galculator est une calculatrice avec deux modes d'utilisation:"
+msgstr "Galculator est une calculatrice avec deux modes d'utilisation :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1210,7 +1210,7 @@ msgstr "Si vous êtes tout nouveau soit à Salix, Slackware ou encore à Linux e
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "If you only have an iso image of Salix Live, follow the instructions below:"
-msgstr "Si vous avez seulement une image ISO de Salix Live, veuillez suivre les instructions ci-dessous:"
+msgstr "Si vous avez seulement une image ISO de Salix Live, veuillez suivre les instructions ci-dessous :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1220,7 +1220,7 @@ msgstr "Si vous êtes sous Windows, il suffit d'exécuter le fichier install-on-
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Important!"
-msgstr "Important!"
+msgstr "Important !"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1405,12 +1405,12 @@ msgstr "Édition Lxde"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Make a module out of a directory:"
-msgstr "Faire un module à partir d'un répertoire:"
+msgstr "Faire un module à partir d'un répertoire :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Make a module out of a package:"
-msgstr "Faire un module à partir d'un paquet logiciel:"
+msgstr "Faire un module à partir d'un paquet logiciel :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1460,7 +1460,7 @@ msgstr "Dans le menu suivant, vous aurez la possibilité de changer votre dispos
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "On the left side of the application, you will notice the different sections that must be configured before launching the installation process:"
-msgstr "Sur le côté gauche de l'application, vous verrez les différentes sections qui doivent être configurées avant de lancer le processus d'installation:"
+msgstr "Sur le côté gauche de l'application, vous verrez les différentes sections qui doivent être configurées avant de lancer le processus d'installation :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1490,7 +1490,7 @@ msgstr "OpenOffice.org 3 est la suite bureautique libre phare qui comporte un t
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Or alternatively in CLI:"
-msgstr "Ou encore en ligne de commandes:"
+msgstr "Ou encore en ligne de commandes :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1500,7 +1500,7 @@ msgstr "Orage offre un calendrier qui s'intègre parfaitement dans l'environneme
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "PS:"
-msgstr "PS:"
+msgstr "PS :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1545,7 +1545,7 @@ msgstr "Pidgin est un client de messagerie instantanée, gratuit et facile à ut
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Pidgin is compatible with numerous chat networks out of the box:"
-msgstr "Pidgin est compatible avec de nombreux réseaux de messagerie:"
+msgstr "Pidgin est compatible avec de nombreux réseaux de messagerie :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1605,7 +1605,7 @@ msgstr "Salix OS 13.1"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix is usually installed with one of the following sets of software:"
-msgstr "Salix est généralement installé avec l'un des ensembles de logiciels suivants:"
+msgstr "Salix est généralement installé avec l'un des ensembles de logiciels suivants :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1630,7 +1630,7 @@ msgstr "Salix Live Installer est très facile à utiliser."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live root password is:"
-msgstr "Le mot de passe administrateur (root) de Salix Live est:"
+msgstr "Le mot de passe administrateur (root) de Salix Live est :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1645,7 +1645,7 @@ msgstr "Salix OS"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Simple Scan allows you to scan your documents/photos with your scanner or even with your webcam!"
-msgstr "L'application 'Numérisation Simple' vous permet de numériser vos documents/photos avec votre scanner ou même avec votre webcam!"
+msgstr "L'application 'Numérisation Simple' vous permet de numériser vos documents/photos avec votre scanner ou même avec votre webcam !"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1705,7 +1705,7 @@ msgstr "Support"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Support is available straight from Salix desktop:"
-msgstr "Le support est disponible directement depuis le bureau Salix:"
+msgstr "Le support est disponible directement depuis le bureau Salix :"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1735,7 +1735,7 @@ msgstr "Le mode Essentiel est identique à celui que vous obtenez avec l'éditio
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Full mode installs a complete, yet wickedly fast, graphic desktop environment with all the software one would need for daily use, while still following the \"one application per task\" rationale."
-msgstr "Le Mode complet installe un environnement graphique de bureau complet comprenant une gamme extensive d'applications utilisables au quotidien tout en suivant le principe: \"une application par tâche\"."
+msgstr "Le Mode complet installe un environnement graphique de bureau complet comprenant une gamme extensive d'applications utilisables au quotidien tout en suivant le principe : \"une application par tâche\"."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1815,7 +1815,7 @@ msgstr "Ceci est particulièrement utile lorsque vous avez une ou plusieurs cart
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This last mode is build on the Basic Mode and offers a full range of useful software applications one could need on a daily basis while following the \"one application per task\" rationale."
-msgstr "Ce dernier mode est construit sur le Mode de Base et y ajoute une gamme complète d'applications utilisables au quotidien tout en suivant le principe: \"une application par tâche\"."
+msgstr "Ce dernier mode est construit sur le Mode de Base et y ajoute une gamme complète d'applications utilisables au quotidien tout en suivant le principe : \"une application par tâche\"."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
