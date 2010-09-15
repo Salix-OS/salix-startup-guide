@@ -1965,10 +1965,9 @@ msgid "You can also crop images before saving them."
 msgstr "Sie können Fotos vor dem Speichern auch zuschneiden."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You can check that the module contains the unwanted packages by listing the <g id='334'>/mnt/hdxx/directoryx/var/log/packages/ directory.)</g>"
-msgstr "Sie können Überprüfen ob das Modul unerwünschte Pakete enthält durch Auflisten des <g id='337'>/mnt/hdxx/directoryx/var/log/packages/ Verzeichnisses.)</g>"
+msgstr "Sie können überprüfen ob das Modul unerwünschte Pakete enthält durch Auflisten des <g id='334'>/mnt/hdxx/directoryx/var/log/packages/ Verzeichnisses.)</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1986,10 +1985,9 @@ msgid "You can use Asunder to save tracks from an Audio CD as any of WAV, MP3, O
 msgstr "Sie können Asunder verwenden um Tracks von einer Audio CD als WAV, MP3, OGG, FLAC, WavPack, Musepack, AAC oder Monkey's Audio Datei zu speichern."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You must open an ISO file of Salix Live (for example the one you downloaded) and then add to and/or remove from the modules situated in <g id='344'>/salixlive/base</g>, <g id='345'>/salixlive/modules</g> or <g id='346'>/salixlive/optional</g>."
-msgstr "Sie müssen eine ISO-Datei von Salix Live (zum Beispiel die, die Sie heruntergeladen haben) öffnen und dann Module in <g id='347'>/salixlive/base</g>, <g id='348'>/salixlive/modules</g> oder <g id='349'>/salixlive/optional</g> hinzufügen und/oder entfernen."
+msgstr "Sie müssen eine ISO-Datei von Salix Live (zum Beispiel die, die Sie heruntergeladen haben) öffnen und dann Module in <g id='344'>/salixlive/base</g>, <g id='345'>/salixlive/modules</g> oder <g id='346'>/salixlive/optional</g> hinzufügen und/oder entfernen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
