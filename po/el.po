@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: salix-startup-guide\n"
 "POT-Creation-Date: 2010-09-13 15:09+CET\n"
-"PO-Revision-Date: 2010-09-15 02:34+0200\n"
+"PO-Revision-Date: 2010-09-15 12:21+0200\n"
 "Last-Translator: Dimitris Tzemos <djemos@slackel.gr>\n"
 "Language-Team: Greek\n"
 "MIME-Version: 1.0\n"
@@ -695,7 +695,7 @@ msgstr "<g id='169'>Το Parole είναι ένα απλός αναπαραγω�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='176'>All system management in Salix OS can be done the usual (</g><g id='177'><g id='178'>manual</g></g><g id='179'>) Slackware way.</g>"
-msgstr "<g id='176'> Το σύνολο της διαχείρισης του συστήματος Salix OS μπορεί να γίνει με το συνήθη ( </g><g id='177'><g id='178'> χειροκίνητο τρόπο του  </g></g><g id='179'> ) Slackware. </g>"
+msgstr "<g id='176'> Το σύνολο της διαχείρισης του συστήματος Salix OS μπορεί να γίνει με τον συνήθη ( </g><g id='177'><g id='178'> χειροκίνητο τρόπο του  </g></g><g id='179'> ) Slackware. </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1795,7 +1795,7 @@ msgstr "Συνεπώς, όλες οι οδηγίες που ισχύουν γι�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "These features come in very handy when scanning books and multi-page documents."
-msgstr "Αυτά τα χαρακτηριστικά είναι πολύ πρακτικό κατά τη σάρωση βιβλίων και πολυσέλιδων εγγράφων."
+msgstr "Αυτά τα χαρακτηριστικά είναι πολύ βολικά κατά τη σάρωση βιβλίων και πολυσέλιδων εγγράφων."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2010,7 +2010,7 @@ msgstr "μια 200MHz CPU και 16MB ελεύθερης RAM)."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "basic and scientific mode."
-msgstr "βασικός και επιστημονικός τρόπος"
+msgstr "βασικός και επιστημονικός τρόπος."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
