@@ -865,7 +865,7 @@ msgstr "<g id='356'>Якщо Ви маєте Salix LiveCD, може викори
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='358'>LiveClone</g> is a new GUI utility which offers yet another alternative and very simple way to create a customized Salix Live CD/DVD or Live USB key."
-msgstr ""
+msgstr "<g id='358'>LiveClone</g> є нова графічна утиліта, яка пропонує новий альтернативний і простий шлях для створення Salix Live CD/DVD або Live USB пам’яті флеш."
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
@@ -1529,7 +1529,7 @@ msgstr "Orage забезпечує календар, який чудово ін�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "PS:"
-msgstr ""
+msgstr "PS:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
