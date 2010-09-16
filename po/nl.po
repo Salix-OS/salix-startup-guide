@@ -792,52 +792,44 @@ msgid "<g id='253'>Some of the Live Tools are graphical utilities that can be a
 msgstr "<g id='253'>Sommige van de Live Tools zijn grafische tools welke meteen toegankelijk zijn op de desktop, terwijl sommige Live Tools bestemd zijn voor gevorderde gebruikers en kunnen alleen worden uitgevoerd in een terminal, vanaf de command line (</g><g id='254'><g id='255'>CLI</g></g><g id='256'>).</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='257'>Gparted is included in Salix Live to assist you in </g><g id='258'><g id='259'>managing your partitions</g></g><g id='260'> if it is necessary for you to do so before performing the installation of Salix OS.</g>"
-msgstr "<g id='283'>GParted is beschikbaar in Salix Live om te helpen bij </g><g id='284'><g id='285'>het beheer van uw partities</g></g><g id='286'> indien dat nodig is voordat de installatie van OS Salix wordt uitgevoerd.</g>"
+msgstr "<g id='257'>GParted is beschikbaar in Salix Live om te helpen bij </g><g id='258'><g id='259'>het beheer van uw partities</g></g><g id='260'> indien dat nodig is voordat de installatie van OS Salix wordt uitgevoerd.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='261'>LiveClone generates a Live CD/DVD iso image (which you can burn as an image on a CD/DVD with a CD/DVD burner) or a Live USB key. This means that you can create your very own customized Live CD/DVD/USB which will be based either on SalixLive or on your modified running environment. In the case of a Live USB Key generation, you will be offered to make your USB key with “</g><g id='262'><g id='263'>persistence</g></g><g id='264'>”.</g>"
-msgstr "<g id='287'>LiveClone genereert een Live CD/DVD iso image (welke op een CD/DVD kan worden gebrand met een CD/DVD brander) of een Live USB-stick. Dit houdt in dat het uw eigen aangepaste live CD/DVD/USB Key kan maken <x id='288'/>welke op uw SalixLive of eigen draaiende systeem is gebaseerd."
+msgstr "<g id='261'>LiveClone genereert een Live CD/DVD iso image (welke op een CD/DVD kan worden gebrand met een CD/DVD brander) of een Live USB-stick. Dit houdt in dat het uw eigen aangepaste live CD/DVD/USB Key kan maken welke op uw SalixLive of eigen draaiende systeem is gebaseerd. In het geval van een Live USB-stick, zal er gevraagd worden om deze te maken met \"</g><g id='262'><g id='263'>persistentie</g></g><g id='264'>”.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='266'>To remove any changes and come back to the default settings, simply delete the persistent file (slxsave.xfs) from the </g><g id='267'><g id='268'>mount point</g></g><g id='269'> it was initially created on.</g>"
-msgstr "<g id='293'>Voor het verwijderen van wijzigingen en terug te keren naar de standaardinstellingen, verwijder dan eenvoudigweg het persistente bestand (slxsave.xfs) van het </g><g id='294'><g id='295'>mountpoint</g></g><g id='296'> waar het in eerste instantie op aangemaakt was.</g>"
+msgstr "<g id='266'>Voor het verwijderen van wijzigingen en terug te keren naar de standaardinstellingen, verwijder dan eenvoudigweg het persistente bestand (slxsave.xfs) van het </g><g id='267'><g id='268'>mountpoint</g></g><g id='269'> waar het in eerste instantie op aangemaakt was.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='270'>Salix Live Installer will enable you to </g><g id='271'><g id='272'>install Salix OS</g></g><g id='273'> from the comfort of Salix Live graphical environment.</g>"
-msgstr "<g id='297'>Salix Live Installer maakt het mogelijk om </g><g id='298'><g id='299'>Salix OS te installeren</g></g><g id='300'> vanuit het comfort van de Salix Live grafische omgeving.</g>"
+msgstr "<g id='270'>Salix Live Installer maakt het mogelijk om </g><g id='271'><g id='272'>Salix OS te installeren</g></g><g id='273'> vanuit het comfort van de Salix Live grafische omgeving.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='274'>Like most Live CDs based on Slackware, Salix Live is relying on the </g><g id='275'><g id='276'>Linux Live Scripts</g></g><g id='277'> technology. Some of the shell scripts it includes will enable an advanced user to fully </g><g id='278'><g id='279'>customize and re-master</g></g><g id='280'>  <x id='281'/>Salix Live to better suit his or her own needs.</g>"
-msgstr "<g id='303'>Zoals de meeste Live CDs gebaseerd op Slackware, is Salix Live afhankelijk van de </g><g id='304'><g id='305'>Linux Live Scripts</g></g><g id='306'> technologie. Sommige van de aanwezige shell scripts zullen een gevorderde gebruiker in staat stellen Salix Live volledig</g><g id='307'><g id='308'> aan te passen en remasteren</g></g><g id='309'>  <x id='310'/>zodat het beter aansluit op zijn of haar eigen wensen.</g>"
+msgstr "<g id='274'>Zoals de meeste Live CDs gebaseerd op Slackware, is Salix Live afhankelijk van de  </g><g id='275'><g id='276'>Linux Live Scripts</g></g><g id='277'>technologie. Sommige van de aanwezige shell scripts zullen een gevorderde gebruiker in staat stellen Salix Live volledig</g><g id='278'><g id='279'> aan te passen en remasteren</g></g><g id='280'>  <x id='281'/>zodat het beter aansluit op zijn of haar eigen wensen.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='282'>In order to bypass certain limitations or to complement some of the third-party technology it uses, Salix developed its own set of patches and scripts which for the most part need no user interaction while some can be executed, for instance to facilitate the creation of a </g><g id='283'><g id='284'>Salix Live USB Flash Disk</g></g><g id='285'>. <x id='286'/></g>"
-msgstr "<g id='311'>Om bepaalde beperkingen te omzeilen of om een deel van de technologie welke van derden wordt gebruikt aan te vullen, ontwikkelde Salix zijn eigen set patches en scripts die merendeels geen gebruikersinteractie nodig hebben. Sommige scripts kunnen worden uitgevoerd om bijvoorbeeld het opstellen van een </g><g id='312'><g id='313'>Salix Live USB Flash Disk</g></g><g id='314'> te vergemakkelijken.<x id='315'/></g>"
+msgstr "<g id='282'>Om bepaalde beperkingen te omzeilen of om een deel van de technologie welke van derden wordt gebruikt aan te vullen, ontwikkelde Salix zijn eigen set patches en scripts die merendeels geen gebruikersinteractie nodig hebben. Sommige scripts kunnen worden uitgevoerd om bijvoorbeeld het opstellen van een </g><g id='283'><g id='284'>Salix Live USB Flash Disk</g></g><g id='285'> te vergemakkelijken.<x id='286'/></g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='287'><g id='288'>A disk device can be subdivided into one or more partitions</g></g><g id='289'>. Before executing Salix Live Installer, you should already have the necessary partitions available on your system.</g>"
-msgstr "<g id='316'><g id='317'>Een diskdevice kan onderverdeeld worden in een of meerdere partities</g></g><g id='318'>. Alvorens Salix Live Installer te starten, moet u al de benodigde partities op uw systeem beschikbaar hebben.</g>"
+msgstr "<g id='287'><g id='288'>Een diskdevice kan onderverdeeld worden in een of meerdere partities</g></g><g id='289'>. Alvorens Salix Live Installer te starten, moet u al de benodigde partities op uw systeem beschikbaar hebben.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='290'>If you do not already have the necessary partitions ready, you may want to use Gparted to create them first. </g><g id='291'><g id='292'>Gparted</g></g><g id='293'> will enable you to change the partition organization on a disk device while preserving the contents of the partitions.</g>"
-msgstr "<g id='319'>Als u nog niet de nodige partities gereed hebt, kunt u GParted eerst gebruiken om ze aan te maken. </g><g id='320'><g id='321'>Gparted</g></g><g id='322'> geeft de mogelijkheid om de partitie organisatie op een disk device te veranderen met behoud van de inhoud van de partities.</g>"
+msgstr "<g id='290'>Als u nog niet de nodige partities gereed hebt, kunt u GParted eerst gebruiken om ze aan te maken. </g><g id='291'><g id='292'>Gparted</g></g><g id='293'> geeft de mogelijkheid om de partitie organisatie op een disk device te veranderen met behoud van de inhoud van de partities.</g>"
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
