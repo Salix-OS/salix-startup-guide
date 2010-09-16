@@ -987,7 +987,6 @@ msgid "As previously stated Salix relies on the excellent slapt-get/Gslapt combi
 msgstr "Так як вже було сказано, Salix опирається на комбінацію slapt-get/Gslapt для керування пакунками програм."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "As the name indicates, the 'Rebuild Icon Cache' utility re-connects some icons that are not displayed after updating your system / installing some new program, and makes them show up again on your menu."
 msgstr "Як показує назва, Перебудова Кешу Іконок відновлює деякі іконки, які були втрачені після оновлення системи / встановлення нових програм, і показує їх знову на панелі меню."
@@ -1038,10 +1037,9 @@ msgid "Booting parameters or cheatcodes, are used to manipulate the booting proc
 msgstr "Параметри завантаження або cheatcodes, використовуються для управління процесом завантаження Linux."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Both LiveCDs share the same <g id='371'>login</g>, <g id='372'>root password</g>, <g id='373'>cheatcodes</g>, etc."
-msgstr "Обидва LiveCDs мають той самий <g id='373'>логін</g>, <g id='374'>пароль root’а </g>, <g id='375'>cheatcodes</g>, етс."
+msgstr "Обидва LiveCDs мають ту саму назву <g id='373'>користувача</g>, <g id='374'>пароль root’а </g>, <g id='375'>cheatcodes</g>, етс."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1134,7 +1132,6 @@ msgid "File Roller is an archive manager."
 msgstr "File Roller є менеджером архівів."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Finally, Salix OS strives to provide a localized system which is functional around the globe and can easily be used by non‑English speakers."
 msgstr "Нарешті, Salix OS прагне забезпечити локалізовану систему, яку можна використовувати у всьому світі і яка легко може бути використана не тільки англомовними користувачами."
@@ -1240,10 +1237,9 @@ msgid "In the same manner that you boot from the optical drive, you must ensure 
 msgstr "Таким самим чином, як  Ви завантажились з оптичного приводу, Ви повинні пересвідчитись, що у BIOS встановлено завантаження з USB на першому місці."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Installing Salix OS from the LiveCD"
-msgstr "Встановлення Salix OS"
+msgstr "Встановлення Salix OS з LiveCD"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1346,16 +1342,14 @@ msgid "It will connect to wired (Ethernet only, no PPPoE/DSL support yet) and wi
 msgstr "Ви зможете з’єднуватися з дротовими (тільки Ethernet, PPPoE/DSL ще не підтримується) і бездротовими мережами."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It will display a possible course of action for each new configuration file found in the system."
-msgstr "<x id='186'/>Показує можливі дії для кожного нового файлу налаштувань, знайденого у системі."
+msgstr "Показує можливі дії для кожного нового файлу налаштувань, знайденого у системі."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "It will display available sound cards in your system and let you select the card you want to use in preference."
-msgstr "<x id='185'/>Показує доступні звукові карти у Вашій системі і дозволяє вибрати карту, яку Ви бажаєте використовувати."
+msgstr "Покаже доступні звукові карти у Вашій системі і дозволить вибрати карту, яку Ви бажаєте використовувати."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1418,7 +1412,6 @@ msgid "Make a module out of a package:"
 msgstr "Створити модуль поза пакунком:"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Media Player will play any audio/video files which GStreamer can manage."
 msgstr "Програвач Медіа програє аудіо/відео файли, які підтримуються через gstreamer."
@@ -1449,16 +1442,14 @@ msgid "Note that you need to recreate the full directory hierarchy for the patch
 msgstr "Зауважте, що Вам потрібно створити ще раз повну структуру ієрархії тек для того, щоб патчі працювали як потрібно."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Of course, Gslapt package manager, and its command line counterpart slapt-get, are available to install extra software from Slackware and Salix repositories, with complete support for dependency resolution."
 msgstr "Зрозуміло, що менеджер пакетів Gslapt і його командний еквівалент slapt-get зможуть встановити додаткові програми зі сховищ Slackaware і Salix з повною підтримкою залежностей між пакетами."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Of course, this is also the case with the <g id='375'>installation</g> and <g id='376'>customization</g> of Salix LXDE Live."
-msgstr "Звичайно, це є вибір <g id='377'>встановлення</g> і <g id='378'>зміни</g> Salix LXDE Live."
+msgstr "Звичайно, це є вибір <g id='375'>встановлення</g> і <g id='376'>зміни</g> Salix LXDE Live."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1491,10 +1482,9 @@ msgid "Only when all the sections have been completed will the 'Launch Salix Ins
 msgstr "Тільки після закінчення всіх секцій буде активована кнопка 'Запустити встановлення Salix'."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "OpenOffice.org 3 is the leading open-source office software suite for word processing, spreadsheets, presentations, graphics, databases and more."
-msgstr "OpenOffice.org 3 є провідною офісною програмою <x id='165'/> для обробки текстів, калькуляційних аркушів, презентацій, графіки, баз даних і навіть більше."
+msgstr "OpenOffice.org 3 є провідною офісною програмою для обробки текстів, калькуляційних аркушів, презентацій, графіки, баз даних і навіть більше."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1567,10 +1557,9 @@ msgid "Pressing 'c' gives you access to the Grub shell."
 msgstr "Натискання 'c' дасть Вам доступ до Grub shell."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Pressing 'e' while 'Start Salix Live' is selected opens up the following display, enabling you to modify some of the booting options, for example to enter a boot parameter."
-msgstr "Натискання 'e', коли вибраний 'Запустити Salix Live', відкриває екран, який дозволить Вам змінити деякі опції завантаження, наприклад ввести специфічні параметри завантаження."
+msgstr "Натискання 'e', коли вибрано 'Запустити Salix Live', відкриває екран, який дозволить Вам змінити деякі опції завантаження, наприклад ввести специфічні параметри завантаження."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1588,22 +1577,19 @@ msgid "ROOT=/mnt/hdxx/directoryx removepkg packagez"
 msgstr "ROOT=/mnt/hdxx/directoryx removepkg packagez"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Remember that any existing swap partition will be automatically used by the Live installer without any prompting on your part."
 msgstr "Пам’ятайте, що існуючий розділ підкачки буде автоматично використаний встановлювачем Live без будь-якого запитування у Вас."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix LXDE Live is the Live version of Salix LXDE edition and thus includes the same choice of software plus, just like Salix XFCE Live, the full set of <x id='369'/><g id='370'>Salix Live tools</g>."
-msgstr "Salix LXDE Live є Live версія видання Salix LXDE і тому включає ті самі програми, як і Salix XFCE Live, тобто повний набір <x id='371'/><g id='372'>знарядь Salix Live</g>."
+msgstr "Salix LXDE Live є Live версія видання Salix LXDE і тому включає ті самі програми, як і Salix XFCE Live, тобто повний набір <x id='369'/><g id='370'>існтументів Salix Live</g>."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix LXDE edition features the Lightweight X11 Desktop Environment, “<g id='359'>an extremely fast-performing and energy-saving desktop environment</g>”, with a clean look and feel."
-msgstr "Видання Salix LXDE пропонує графічне середовище, “<g id='360'>що є неймовірно швидким і ресурсозберігальним середовищем</g>”, з дуже простим виглядом."
+msgstr "Видання Salix LXDE пропонує графічне середовище, “<g id='359'>що є неймовірно швидким і ресурсозберігальним середовищем</g>”, з дуже простим виглядом."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1631,10 +1617,9 @@ msgid "Salix Live"
 msgstr "Salix Live"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix Live CD holds a <g id='343'>/salixlive/rootcopy/</g> directory."
-msgstr "Salix Live CD містить <g id='346'>/salixlive/rootcopy/</g> теку."
+msgstr "Salix Live CD містить теку <g id='343'>/salixlive/rootcopy/</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1687,7 +1672,6 @@ msgid "Software"
 msgstr "Програми"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Some of Salix XFCE standard applications however are replaced by lighter counteparts."
 msgstr "Деякі за стандартних програм Salix XFCE замінені їхніми легшими відповідниками."
@@ -1733,13 +1717,11 @@ msgid "System Management"
 msgstr "Керування системою"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The 'ALSA Sound Card' utility manages the system sound card configuration."
 msgstr "Звукова карта ALSA управляє конфігурацією системної звукової карти."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The 'Host Names' utility manages the host names used by your computer."
 msgstr "Назви Серверів управляє назвами серверів, які використовує Ваш комп’ютер."
@@ -1750,7 +1732,6 @@ msgid "The Core installation mode is identical to the one you get from the XFCE 
 msgstr "Основний режим встановлення є ідентичним до такого ж з видання XFCE, тоді як базовий встановлює мінімальне середовище робочого столу LXDE тільки з Midori і Gslapt в якості додаткових програм."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The Full mode installs a complete, yet wickedly fast, graphic desktop environment with all the software one would need for daily use, while still following the \"one application per task\" rationale."
 msgstr "Повний режим встановлює повну графічну оболонку з усім набором програм, потрібним для щоденного вжитку, дотримуючись принципу \"одна програма для одного завдання\""
@@ -1761,10 +1742,9 @@ msgid "The Linux Live Scripts come with the following useful commands:"
 msgstr "У скрипти Linux Live входять наступні корисні команди:"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The Office suite is managed by <g id='362'>Abiword</g> and <g id='363'>Gnumeric</g> while <g id='364'>ePDFviewer</g> replaces Evince."
-msgstr "Офісні програми включають <x id='363'/><g id='364'>Abiword</g> і <g id='365'>Gnumeric</g>, а <g id='366'>ePDFviewer</g> заміняє Evince."
+msgstr "Офісні програми включають <g id='362'>Abiword</g> and <g id='363'>Gnumeric</g>, а <g id='364'>ePDFviewer</g> заміняє Evince."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1782,10 +1762,9 @@ msgid "The first screen to greet you will enable you to select your language."
 msgstr "На першому екрані Вам запропонують вибрати Вашу мову."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The full set of <x id='360'/><g id='361'>Salix system tools</g> are of course included in this release as well as many of the applications used in Salix XFCE standard edition."
-msgstr "Повний набір <x id='361'/><g id='362'>Системних знарядь Salix </g>, звичайно, включено в це видання, так само як і багато програм, що використовуються в стандартному виданні Salix XFCE."
+msgstr "Повний набір <x id='360'/><g id='361'>Системних знарядь Salix </g>, звичайно, включено в це видання, так само як і багато програм, що використовуються в стандартному виданні Salix XFCE."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1808,10 +1787,9 @@ msgid "The resulting CD must not contain the .iso file, or you have made a mista
 msgstr "В результаті кінцевий CD не повинен містити файл .iso, інакше Ви допустили помилку в процесі."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Therefore all the instructions that apply to <g id='374'>Salix XFCE Live</g> are equally applicable to Salix LXDE Live."
-msgstr "Таким чином, всі інструкції, які відносяться до <g id='376'> Salix XFCE Live </g>, так само застосовуються до Salix LXDE Live."
+msgstr "Таким чином, всі інструкції, які відносяться до <g id='374'> Salix XFCE Live </g>, так само застосовуються до Salix LXDE Live."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1819,7 +1797,6 @@ msgid "These features come in very handy when scanning books and multi-page docu
 msgstr "Ці властивості дуже пригодяться при сканування книжок і багатосторінкових документів."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "This can be particularly interesting if you regularly perform installations at friends/family/neigbours/schools/etc and you generally like to add your personnal touch/preferences/languages to those installations."
 msgstr "Це може бути корисним, якщо Ви встановлюєте друзям/родині/сусідам/школі/де-небудь і бажаєте додати Ваші особисті налаштування до цього встановлення."
@@ -1830,10 +1807,9 @@ msgid "This is ideal if you are an experienced user and want to customize your i
 msgstr "Це ідеально для досвідчених користувачів, які бажають змінити встановлення для певних специфічних цілей, таких як веб-сервер, файловий сервер та інших."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "This is particularly useful when you have multiple sound cards in your system, and you would like to assign a sound card for your system other than the one automatically picked during installation/start-up."
-msgstr "Це особливо корисно, коли Ви маєте кілька звукових карт у Вашій системі, і Ви бажаєте приписати іншу звукову карту для системи, ніж та що була вибрана автоматично під час встановлення/запуску."
+msgstr "Це особливо корисно, коли Ви маєте кілька звукових карт у Вашій системі, і Ви бажаєте використовувати іншу звукову карту для системи, ніж ту, що була вибрана автоматично під час встановлення/запуску."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1992,10 +1968,9 @@ msgid "You can also crop images before saving them."
 msgstr "Ви також можете обрізати зображення перед їх збереженням."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You can check that the module contains the unwanted packages by listing the <g id='334'>/mnt/hdxx/directoryx/var/log/packages/ directory.)</g>"
-msgstr "Ви можете перевірити, чи модуль містить непотрібний пакунок, переглядаючи теку <g id='337'>/mnt/hdxx/directoryx/var/log/packages/ .)</g>"
+msgstr "Ви можете перевірити, чи модуль містить непотрібний пакунок, переглядаючи теку <g id='334'>/mnt/hdxx/directoryx/var/log/packages/ .)</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2013,10 +1988,9 @@ msgid "You can use Asunder to save tracks from an Audio CD as any of WAV, MP3, O
 msgstr "Ви можете використовувати Asunder для збереження треків з аудіо CD як файли у форматі WAV, MP3, OGG, FLAC, WavPack, Musepack, AAC і Monkey Audio ."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You must open an ISO file of Salix Live (for example the one you downloaded) and then add to and/or remove from the modules situated in <g id='344'>/salixlive/base</g>, <g id='345'>/salixlive/modules</g> or <g id='346'>/salixlive/optional</g>."
-msgstr "Ви повинні відкрити ISO файл Salix Live (для прикладу один з тих, що Ви завантажили) і тоді додати і/або вилучити з модулів, що містяться в <g id='347'>/salixlive/base</g>, <g id='348'>/salixlive/modules</g> або <g id='349'>/salixlive/optional</g>."
+msgstr "Ви повинні відкрити ISO файл Salix Live (для прикладу один з тих, що Ви завантажили) і тоді додати і/або вилучити з модулів, що містяться в <g id='344'>/salixlive/base</g>, <g id='345'>/salixlive/modules</g> або <g id='346'>/salixlive/optional</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
