@@ -832,22 +832,19 @@ msgid "<g id='290'>If you do not already have the necessary partitions ready, yo
 msgstr "<g id='290'>Als u nog niet de nodige partities gereed hebt, kunt u GParted eerst gebruiken om ze aan te maken. </g><g id='291'><g id='292'>Gparted</g></g><g id='293'> geeft de mogelijkheid om de partitie organisatie op een disk device te veranderen met behoud van de inhoud van de partities.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='294'>You will be greeted by a reminder that all the necessary partitions have to be created first. As we have seen, this can be done simply with the help of </g><g id='295'><g id='296'>Gparted</g></g><g id='297'>, which is included in Salix Live and is available directly on the desktop.</g>"
-msgstr "<g id='323'>U zult worden begroet met een herinnering dat alle benodigde partities eerst moeten worden aangemaakt. Zoals we gezien hebben, kan dit eenvoudig worden gedaan met behulp van </g><g id='324'><g id='325'>Gparted</g></g><g id='326'>, welke aanwezig is in Salix Live en direct beschikbaar is op het bureaublad."
+msgstr "<g id='294'>U zult worden begroet met een herinnering dat alle benodigde partities eerst moeten worden aangemaakt. Zoals we gezien hebben, kan dit eenvoudig worden gedaan met behulp van </g><g id='295'><g id='296'>Gparted</g></g><g id='297'>, welke aanwezig is in Salix Live en direct beschikbaar is op het bureaublad.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='298'>Once the installation process is completed, you will be given the choice to launch </g><g id='299'><g id='300'>Lilo Setup</g></g><g id='301'> to configure your LILO bootloader. Most of the time this is what you will want to do although occasionally, it might be preferable not to, for example if you want to use Grub instead or if you want to simply incorporate Salix in an existing bootloader configured from another distribution in a multiple boot setup.</g>"
-msgstr "<g id='327'>Zodra het installatieproces is beeindigd, zal de keus worden gegeven om </g><g id='328'><g id='329'>Lilo Setup</g></g><g id='330'>te starten om uw LILO bootloader in te stellen. Meestal is dit wenselijk, maar soms niet, bijvoorbeeld als u Grub wilt gebruiken of gewoon Salix wilt toevoegen in een bestaande bootloader van een andere distributie.</g>"
+msgstr "<g id='298'>Zodra het installatieproces is beeindigd, zal de keus worden gegeven om </g><g id='299'><g id='300'>Lilo Setup</g></g><g id='301'> te starten om uw LILO bootloader in te stellen. Meestal is dit wenselijk, maar soms niet, bijvoorbeeld als u Grub wilt gebruiken of gewoon Salix wilt toevoegen in een bestaande bootloader van een andere distributie.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='353'>If you have a Salix LiveCD, you can simply use </g><g id='354'><g id='355'>LiveClone</g></g><g id='356'> from a Live session. </g>"
-msgstr "<g id='382'>Als u een Salix LiveCD heeft, kunt u eenvoudig </g><g id='383'><g id='384'>LiveClone</g></g><g id='385'> gebruiken vanaf een Live sessie. </g>"
+msgstr "<g id='353'>Als u een Salix LiveCD heeft, kunt u eenvoudig </g><g id='354'><g id='355'>LiveClone</g></g><g id='356'> gebruiken vanaf een Live sessie. </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -855,10 +852,9 @@ msgid "<g id='358'>LiveClone</g> is a new GUI utility which offers yet another a
 msgstr "<g id='358'>LiveClone</g> is een nieuwe GUI tool welke nog een andere en zeer eenvoudige manier levert om een aangepaste Salix Live CD/DVD of Live USB key te maken."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='365'>Midori</g> is the web browser, <x id='366'/><g id='367'>Whaaw! MediaPlayer</g> plays multimedia contents and <g id='368'>mtPaint</g> offers graphic and photo editing."
-msgstr "<g id='393'>Midori</g> is de browser, <x id='394'/><g id='395'>Whaaw! MediaPlayer</g> speelt multimediabestanden af en <g id='396'>mtPaint</g> levert grafische- en fotobewerkingsmogelijkheden."
+msgstr "<g id='365'>Midori</g> is de browser, <x id='366'/><g id='367'>Whaaw! MediaPlayer</g> speelt multimediabestanden af en <g id='368'>mtPaint</g> levert grafische- en fotobewerkingsmogelijkheden."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -876,10 +872,9 @@ msgid "<g id='55'>Salix OS is a </g><g id='56'><g id='57'>Linux Distribution</g
 msgstr "<g id='55'>Salix OS is een </g><g id='56'><g id='57'>Linux Distribution</g></g><g id='58'> gebaseerd op </g><g id='59'><g id='60'>Slackware</g></g><g id='61'> welke volledig terugwaarts compatible blijft met zijn illustere voorvader.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='62'>However, while in the </g><g id='63'><g id='64'>KISS</g></g><g id='65'> principle that Slackware adheres to, \"Simple\" refers to the system design, Salix OS also applies it to its daily use.</g>"
-msgstr "<g id='62'>Terwijl Slackware in principe voldoet aan het </g><g id='63'><g id='64'>KISS</g></g><g id='65'>, \"Simpel\" verwijst bij hen naar het standpunt van systeemontwerp. Salix OS is echter ook van toepassing is voor het standpunt van de eindgebruiker.</g>"
+msgstr "<g id='62'>Terwijl Slackware in principe voldoet aan </g><g id='63'><g id='64'>KISS</g></g><g id='65'>, \"Simpel\" verwijst bij hen naar het standpunt van systeemontwerp. Bij Salix OS is het echter ook van toepassing voor het dagelijks gebruik.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -892,10 +887,9 @@ msgid "<g id='70'>Salix OS also provides all the necessary </g><g id='71'><g id
 msgstr "<g id='70'>Salix OS biedt ook alle nodige </g><g id='71'><g id='72'>GUI</g></g><g id='73'>tools om </g><g id='74'><g id='75'>systeembeheer</g></g><g id='76'> te vergemakkelijken.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='77'>Salix OS package management uses the proven </g><g id='78'><g id='79'>slapt‑get/gslapt</g></g><g id='80'> combination which includes dependency resolution from both the original Slackware repositories and the complementary and ever-increasing Salix OS </g><g id='81'><g id='82'>repository</g></g><g id='83'>.</g>"
-msgstr "<g id='77'>Salix OS package management maakt gebruik van de bewezen </g><g id='78'><g id='79'>slapt‑get/gslapt</g></g><g id='80'> combinatie en omvat afhankelijkheid van zowel de originele Slackware repositories en de complementaire en de steeds toenemende Salix OS </g><g id='81'><g id='82'>repository</g></g><g id='83'>.</g>"
+msgstr "<g id='77'>Salix OS package management maakt gebruik van de bewezen </g><g id='78'><g id='79'>slapt‑get/gslapt</g></g><g id='80'> combinatie en is afhankelijkheid van zowel de originele Slackware repositories en de complementaire, groeiende Salix OS </g><g id='81'><g id='82'>repository</g></g><g id='83'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1043,10 +1037,9 @@ msgid "Booting parameters or cheatcodes, are used to manipulate the booting proc
 msgstr "Boot parameters of cheatcodes worden toegepast om het opstartproces van Linux te manipuleren."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Both LiveCDs share the same <g id='371'>login</g>, <g id='372'>root password</g>, <g id='373'>cheatcodes</g>, etc."
-msgstr "Beide LiveCDs delen dezelfde <g id='410'>login</g>, <g id='411'>root wachtwoorden</g>, <g id='412'>cheatcodes</g>, etc."
+msgstr "Beide LiveCDs delen dezelfde <g id='371'>login</g>, <g id='372'>root wachtwoord</g>, <g id='373'>cheatcodes</g>, etc."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1454,10 +1447,9 @@ msgid "Of course, Gslapt package manager, and its command line counterpart slapt
 msgstr "Natuurlijk, Gslapt package manager, en haar gelijkwaardige command line equivalent slapt-get, zijn beschikbaar om extra software van Slackware en Salix repositories te installeren, met volledige ondersteuning voor dependency oplossingen."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Of course, this is also the case with the <g id='375'>installation</g> and <g id='376'>customization</g> of Salix LXDE Live."
-msgstr "Natuurlijk is dit ook het geval met de <g id='414'>installatie</g> en <g id='415'>aanpassing</g> van Salix LXDE Live."
+msgstr "Natuurlijk is dit ook het geval met de <g id='375'>installatie</g> en <g id='376'>aanpassing</g> of Salix LXDE Live."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1565,10 +1557,9 @@ msgid "Pressing 'c' gives you access to the Grub shell."
 msgstr "Door op 'c' te drukken krijgt u toegang to de Grub shell."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Pressing 'e' while 'Start Salix Live' is selected opens up the following display, enabling you to modify some of the booting options, for example to enter a boot parameter."
-msgstr "Door op 'e' te drukken, terwijl 'Start Salix Live' is geselecteerd zal het volgende scherm worden geopend, waardoor u de opties voor bijvoorbeeld het opstarten kan aanpassen door een boot parameter in te voeren."
+msgstr "Door op 'e' te drukken, terwijl 'Start Salix Live' is geselecteerd zal het volgende scherm worden geopend, waardoor u de opties voor het opstarten kan aanpassen, bijvoorbeeld door een boot parameter in te voeren."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1586,22 +1577,19 @@ msgid "ROOT=/mnt/hdxx/directoryx removepkg packagez"
 msgstr "ROOT=/mnt/hdxx/directoryx removepkg packagez"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Remember that any existing swap partition will be automatically used by the Live installer without any prompting on your part."
-msgstr "Vergeet niet dat de bestaande swap-partitie automatisch gebruikt zal worden door de Live Installer zonder enige tussenkomst van u."
+msgstr "Vergeet niet dat een bestaande swap-partitie automatisch gebruikt zal worden door de Live Installer zonder enige melding hiervan."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix LXDE Live is the Live version of Salix LXDE edition and thus includes the same choice of software plus, just like Salix XFCE Live, the full set of <x id='369'/><g id='370'>Salix Live tools</g>."
-msgstr "Salix LXDE Live is de Live versie van de Salix LXDE editie en bevat derhalve dezelfde keus aan software en, net als Salix XFCE Live, de volledige set aan <x id='408'/><g id='409'>Salix Live tools</g>."
+msgstr "Salix LXDE Live is de Live versie van de Salix LXDE editie en bevat derhalve dezelfde keus aan software en, net als Salix XFCE Live, de volledige set aan <x id='369'/><g id='370'>Salix Live tools</g>."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix LXDE edition features the Lightweight X11 Desktop Environment, “<g id='359'>an extremely fast-performing and energy-saving desktop environment</g>”, with a clean look and feel."
-msgstr "Salix LXDE editie bevat de Lightweight X11 Desktop Environment \"<g id='386'>een extreem snel presterende en energiebesparende desktop omgeving </g>\", met een simpele look en feel."
+msgstr "Salix LXDE editie bevat de Lightweight X11 Desktop Environment, \"<g id='359'>een extreem snel presterende en energiebesparende desktop omgeving </g>\", met een simpele look en feel."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1629,10 +1617,9 @@ msgid "Salix Live"
 msgstr "Salix Live"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Salix Live CD holds a <g id='343'>/salixlive/rootcopy/</g> directory."
-msgstr "Salix Live CD bevat een <g id='372'>/salixlive/rootcopy/</g>  folder."
+msgstr "Salix Live CD bevat een <g id='343'>/salixlive/rootcopy/</g>  folder."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1755,10 +1742,9 @@ msgid "The Linux Live Scripts come with the following useful commands:"
 msgstr "De Linux Live Scripts worden geleverd met de volgende handige commando's:"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The Office suite is managed by <g id='362'>Abiword</g> and <g id='363'>Gnumeric</g> while <g id='364'>ePDFviewer</g> replaces Evince."
-msgstr "Het Office pakket bevat <x id='389'/><g id='390'>Abiword</g> and <g id='391'>Gnumeric</g> en <g id='392'>ePDFviewer</g> vervangt Evince."
+msgstr "Het Office pakket bevat <g id='362'>Abiword</g> en <g id='363'>Gnumeric</g> en <g id='364'>ePDFviewer</g> vervangt Evince."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1776,10 +1762,9 @@ msgid "The first screen to greet you will enable you to select your language."
 msgstr "Het welkomstscherm geeft de mogelijkheid om uw taal te selecteren."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "The full set of <x id='360'/><g id='361'>Salix system tools</g> are of course included in this release as well as many of the applications used in Salix XFCE standard edition."
-msgstr "De volledige set van de <x id='387'/><g id='388'> Salix systeem tools </g> zijn uiteraard opgenomen in deze release, evenals veel toepassingen welke gebruikt worden in de Salix XFCE standaard editie."
+msgstr "De volledige set van de <x id='360'/><g id='361'>Salix system tools</g> zijn uiteraard opgenomen in deze release, evenals veel toepassingen welke gebruikt worden in de Salix XFCE standaard editie."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1802,10 +1787,9 @@ msgid "The resulting CD must not contain the .iso file, or you have made a mista
 msgstr "De resulterende CD moet niet het .iso bestand bevatten. of u heeft een fout gemaakt in het proces."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "Therefore all the instructions that apply to <g id='374'>Salix XFCE Live</g> are equally applicable to Salix LXDE Live."
-msgstr "Zodoende moeten alle instructies die van toepassing zijn op<g id='413'> Salix XFCE Live </g> eveneens van toepassing zijn op Salix LXDE Live."
+msgstr "Zodoende moeten alle instructies die van toepassing zijn op<g id='374'> Salix XFCE Live </g> eveneens van toepassing zijn op Salix LXDE Live."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1983,10 +1967,9 @@ msgid "You can also crop images before saving them."
 msgstr "U kunt ook afbeeldingen bijsnijden voordat ze worden opgeslagen."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You can check that the module contains the unwanted packages by listing the <g id='334'>/mnt/hdxx/directoryx/var/log/packages/ directory.)</g>"
-msgstr "U kunt controleren dat de module de ongewenste pakketten bevat door de folder<g id='363'>/mnt/hdxx/directoryx/var/log/packages/ op te vragen.)</g>"
+msgstr "U kunt controleren dat de module de ongewenste pakketten bevat door de folder<g id='334'>/mnt/hdxx/directoryx/var/log/packages/ op te vragen.)</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2004,10 +1987,9 @@ msgid "You can use Asunder to save tracks from an Audio CD as any of WAV, MP3, O
 msgstr "U kunt gebruik maken van Asunder om tracks op te slaan van een audio CD naar een bestand als WAV, MP3, OGG, FLAC, WavPack, Musepack, AAC en Monkey's Audio."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "You must open an ISO file of Salix Live (for example the one you downloaded) and then add to and/or remove from the modules situated in <g id='344'>/salixlive/base</g>, <g id='345'>/salixlive/modules</g> or <g id='346'>/salixlive/optional</g>."
-msgstr "U moet een ISO bestand van Salix Live openen (bijvoorbeeld degene welke u heeft gedownload) en vervolgens toevoegen en/of verwijderen van de modules in <g id='373'>/salixlive/base</g>, <g id='374'>/salixlive/modules</g> or <g id='375'>/salixlive/optional</g>."
+msgstr "U moet een ISO bestand van Salix Live openen (bijvoorbeeld degene welke u heeft gedownload) en vervolgens toevoegen en/of verwijderen van de modules in <g id='344'>/salixlive/base</g>, <g id='345'>/salixlive/modules</g> of <g id='346'>/salixlive/optional</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
