@@ -757,28 +757,24 @@ msgid "<g id='225'>You can also uncompress Salix Live ISO image onto a </g><g i
 msgstr "<g id='225'>U kunt de Salix Live ISO image ook op een </g><g id='226'><g id='227'>USB-stick</g></g><g id='228'>zetten.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='229'>If that is not the case, which is quite rare, you will need to first enter the </g><g id='230'><g id='231'>BIOS</g></g><g id='232'> setup, usually by pressing the Del‑key or the F2‑key (or some other key combinations depending on your machine…). Once in the BIOS, find the \"boot menu\" and set the order of the boot devices properly, with your optical drive in first position. Save your changes and reboot your computer.</g>"
-msgstr "<g id='255'>Als dat niet het geval is, wat zeer zeldzaam is, moet u eerst de </g><g id='256'><g id='257'>BIOS</g></g><g id='258'> instellen, meestal door op de Del-toets of de F2-toets (of een andere toets-combinatie, afhankelijk van uw PC...). In de BIOS vindt u het \"boot menu\", zet de volgorde van de boot devices goed met uw optische drive in de eerste positie. Sla de wijzigingen op en herstart uw computer.</g>"
+msgstr "<g id='229'>Als dat niet het geval is, wat zeer zeldzaam is, moet u eerst de </g><g id='230'><g id='231'>BIOS</g></g><g id='232'> instellen, meestal door op de Del-toets of de F2-toets (of een andere toets-combinatie, afhankelijk van uw PC...). In de BIOS vindt u het \"boot menu\", zet de volgorde van de boot devices goed met uw optische drive in de eerste positie. Sla de wijzigingen op en herstart uw computer.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='233'>You also have the possibility to </g><g id='234'><g id='235'>modify most default boot settings</g></g><g id='236'>.</g>"
-msgstr "<g id='259'>U heeft ook de mogelijkheid om </g><g id='260'><g id='261'>de meeste standaard boot-instellingen te wijzigen</g></g><g id='262'>.</g>"
+msgstr "<g id='233'>U heeft ook de mogelijkheid om </g><g id='234'><g id='235'>de meeste standaard boot-instellingen te wijzigen</g></g><g id='236'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='237'>Simply press Enter on the default menu entry: Start Salix Live and a moment later you will enter </g><g id='238'><g id='239'>Xfce desktop</g></g><g id='240'>.</g>"
-msgstr "<g id='263'>Druk op het standaard menu-item: Start Salix Live en even later komt u in de </g><g id='264'><g id='265'>Xfce desktop</g></g><g id='266'>.</g>"
+msgstr "<g id='237'>Druk op het standaard menu-item: Start Salix Live en even later komt u in de </g><g id='238'><g id='239'>Xfce desktop</g></g><g id='240'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='241'>Salix Live is configured with autologin, which means that you will not need to identify yourself before entering the Live session. If for any reason, the automated login was not working or you had to restart a new session for whatever reason, you will need to know that the standard user login is: </g><g id='242'>one</g><g id='243'> and it doesn't have a password.</g>"
-msgstr "<g id='267'>Salix Live is met autologin geconfigureerd, wat betekent dat u zich niet hoeft te identificeren bij het starten van een Live sessie. Indien op eniger wijze de autlogin niet heeft gewerkt of u moest een nieuwe sessie starten, zult u moeten weten dat de standaard gebruikerslogin is: </g><g id='268'>one</g><g id='269'> en deze bevat geen wachtwoord.</g>"
+msgstr "<g id='241'>Salix Live is met autologin geconfigureerd, wat betekent dat u zich niet hoeft te identificeren bij het starten van een Live sessie. Indien op eniger wijze de autlogin niet heeft gewerkt of u moest een nieuwe sessie starten, zult u moeten weten dat de standaard gebruikerslogin is: </g><g id='242'>one</g><g id='243'> en deze bevat geen wachtwoord.</g>"
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
