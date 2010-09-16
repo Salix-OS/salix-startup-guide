@@ -682,94 +682,79 @@ msgid "<g id='149'>Finally, Accessories applications include a variety of small,
 msgstr "<g id='149'>Ten slotte, Accessoires omvat een scala van kleine, handige programmaatjes waaronder </g><g id='150'><g id='151'>Galculator</g></g><g id='152'>, </g><g id='153'><g id='154'>Mousepad</g></g><g id='155'>, </g><g id='156'><g id='157'>Catfish</g></g><g id='158'>, </g><g id='159'><g id='160'>File Roller</g></g><g id='161'>, </g><g id='162'><g id='163'>SCIM</g></g><g id='164'>, etc.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='165'>Transmission is a </g><g id='166'><g id='167'>BitTorrent</g></g><g id='168'> client that is simple, lean and powerful.</g>"
-msgstr "<g id='168'>Transmission is een </g><g id='169'><g id='170'>BitTorrent</g></g><g id='171'> client welke eenvoudig, slank en krachtig is.</g>"
+msgstr "<g id='165'>Transmission is een </g><g id='166'><g id='167'>BitTorrent</g></g><g id='168'> client welke eenvoudig, slank en krachtig is.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='169'>Parole is a modern simple media player based on the </g><g id='170'><g id='171'>GStreamer</g></g><g id='172'> framework and written to fit well in the </g><g id='173'><g id='174'>Xfce</g></g><g id='175'> desktop. Parole is designed with simplicity, speed and resource usage in mind. </g>"
-msgstr "<g id='174'>Parole is a moderne simpele media player gebaseerd op het </g><g id='175'><g id='176'>GStreamer</g></g><g id='177'> framework and geschreven om goed in de </g><g id='178'><g id='179'>Xfce</g></g><g id='180'> desktop te passen. Parole is ontworpen met de gedachte van  eenvoud, snelheid en minimaal gebruik van resources. </g>"
+msgstr "<g id='169'>Parole is a moderne simpele media player gebaseerd op het </g><g id='170'><g id='171'>GStreamer</g></g><g id='172'> framework and geschreven om goed in de </g><g id='173'><g id='174'>Xfce</g></g><g id='175'> desktop te passen. Parole is ontworpen met de gedachte van  eenvoud, snelheid en minimaal gebruik van resources. </g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='176'>All system management in Salix OS can be done the usual (</g><g id='177'><g id='178'>manual</g></g><g id='179'>) Slackware way.</g>"
-msgstr "<g id='200'>Al het systeembeheer in Salix OS kan worden gedaan op de gebruikelijke (</g><g id='201'><g id='202'>handmatige</g></g><g id='203'>) Slackware wijze.</g>"
+msgstr "<g id='176'>Al het systeembeheer in Salix OS kan worden gedaan op de gebruikelijke (</g><g id='177'><g id='178'>handmatige</g></g><g id='179'>) Slackware wijze.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='181'>Most Salix system tools (except Lilo Setup) have an ncurse counterpart which can be used in a non-graphical environment (</g><g id='182'><g id='183'>runlevel 3</g></g><g id='184'>).</g>"
-msgstr "<g id='204'>De meeste Salix tools (behalve Lilo Setup) hebben een ncurse tegenhanger die gebruikt kan worden in een niet-grafische omgeving (</g><g id='205'><g id='206'>runlevel 3</g></g><g id='207'>).</g>"
+msgstr "<g id='181'>De meeste Salix tools (behalve Lilo Setup) hebben een ncurse tegenhanger die gebruikt kan worden in een niet-grafische omgeving (</g><g id='182'><g id='183'>runlevel 3</g></g><g id='184'>).</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='185'>To execute it in runlevel 3, simply type localesetup</g>."
-msgstr "<g id='210'>Voor het uitvoeren in runlevel 3, typt u localesetup</g>."
+msgstr "<g id='185'>Voor het uitvoeren in runlevel 3, typt u localesetup</g>."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='186'>To execute it in runlevel 3, simply type clocksetup</g>."
-msgstr "<g id='211'>Voor het uitvoeren in runlevel 3, typt u clocksetup</g>."
+msgstr "<g id='186'>Voor het uitvoeren in runlevel 3, typt u clocksetup</g>."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='187'>In Unix/Linux, all users and groups of users are given certain </g><g id='188'><g id='189'>permissions and access rights</g></g><g id='190'> to some part of the system in order to control their ability to access and change it.</g>"
-msgstr "<g id='212'>In Unix/Linux hebben alle gebruikers en groepen gebruikers bepaalde </g><g id='213'><g id='214'>machtigingen en toegangsrechten</g></g><g id='215'> voor een deel van het systeem om hun eigen rechten en toegang te wijzigen.</g>"
+msgstr "<g id='187'>In Unix/Linux hebben alle gebruikers en groepen gebruikers bepaalde </g><g id='188'><g id='189'>machtigingen en toegangsrechten</g></g><g id='190'> voor een deel van het systeem om hun eigen rechten en toegang te wijzigen.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='191'><g id='192'>Slapt-get</g></g><g id='193'> is a CLI tool providing an APT‑like system for Slackware package management. It allows one to search Slackware/Salix mirrors and third party sources for packages, compare them with installed packages, install new packages, or upgrade all installed packages. </g>"
-msgstr "<g id='216'><g id='217'>Slapt-get</g></g><g id='218'> is een CLI tool welke een APT‑achtig systeem voor het Slackware paketmanagement levert. Men kan Slackware/Salix mirrors zoeken en third party sources voor packages, vergelijk ze met reeds geinstalleerde packages, installeer nieuwe packages, of upgrade alle geinstalleerde packages. </g>"
+msgstr "<g id='191'><g id='192'>Slapt-get</g></g><g id='193'> is een CLI tool welke een APT‑achtig systeem voor het Slackware paketmanagement levert. Men kan Slackware/Salix mirrors zoeken en third party sources voor packages, vergelijk ze met reeds geinstalleerde packages, installeer nieuwe packages, of upgrade alle geinstalleerde packages. </g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='194'>Gslapt is the GUI version of </g><g id='195'><g id='196'>Slapt-get</g></g><g id='197'>.</g>"
-msgstr "<g id='219'>Gslapt is de GUI versie van </g><g id='220'><g id='221'>Slapt-get</g></g><g id='222'>.</g>"
+msgstr "<g id='194'>Gslapt is de GUI versie van </g><g id='195'><g id='196'>Slapt-get</g></g><g id='197'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='198'>The desktop link, Salix Online, will bring you to the Salix </g><g id='199'><g id='200'>Homepage</g></g><g id='201'>. Our </g><g id='202'><g id='203'>Wiki</g></g><g id='204'> and </g><g id='205'><g id='206'>Forum</g></g><g id='207'> will be two other important sources of information. The search option of the forum will quickly show you if the question you have in mind has already been posted by a member of the community and if it has been answered.</g>"
-msgstr "<g id='223'>De link op de desktop, Salix Online, stuurt u naar de Salix </g><g id='224'><g id='225'>Thuispagina</g></g><g id='226'>. Onze </g><g id='227'><g id='228'>Wiki</g></g><g id='229'> en </g><g id='230'><g id='231'>Forum</g></g><g id='232'> zijn twee andere bronnen van belang voor informatie. De zoekoptie in het forum zult u snel tonen of uw vraag reeds eerder gesteld is door een community lid en of deze vraag al is beantwoord.</g>"
+msgstr "<g id='198'>De link op de desktop, Salix Online, stuurt u naar de Salix </g><g id='199'><g id='200'>Thuispagina</g></g><g id='201'>. Onze </g><g id='202'><g id='203'>Wiki</g></g><g id='204'> en </g><g id='205'><g id='206'>Forum</g></g><g id='207'> zijn twee andere bronnen van belang voor informatie. De zoekoptie in het forum zult u snel tonen of uw vraag reeds eerder gesteld is door een community lid en of deze vraag al is beantwoord.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='208'>You could also use the </g><g id='209'><g id='210'>IRC link</g></g><g id='211'> above to be in live communication with some member of the community and get instant help if necessary. If you do however, you might want to modify the default qwebircxxx login to something more personal and human readable.</g>"
-msgstr "<g id='233'>U kunt ook gebruik maken van de </g><g id='234'><g id='235'>IRC link</g></g><g id='236'>  hierboven om live met een aantal leden van de gemeenschap te communiceren en direct hulp te krijgen. Indien u dit doet, wilt u wellicht de standaard login qwebircxxx wijzigen naar iets persoonlijks en meer menselijk leesbaar.</g>"
+msgstr "<g id='208'>U kunt ook gebruik maken van de </g><g id='209'><g id='210'>IRC link</g></g><g id='211'> hierboven om live met een aantal leden van de gemeenschap te communiceren en direct hulp te krijgen. Indien u dit doet, wilt u wellicht de standaard login qwebircxxx wijzigen naar iets persoonlijks en meer menselijk leesbaar.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='212'>Salix Live is the Live CD version of </g><g id='213'><g id='214'>Salix OS</g></g><g id='215'>. You can therefore safely use it to 'test drive' Salix OS without having to install anything on your computer. You will thus be able to determine wheter and to what extent </g><g id='216'>Salix OS is compatible with your particular hardware configuration and if it suits your personal tastes.</g>"
-msgstr "<g id='237'>Salix Live is de Live CD versie van </g><g id='238'><g id='239'>Salix OS</g><g id='240'>. U kunt dus veilig een 'proefrit' maken met Salix OS zonder iets te hoeven installeren op uw computer. U zult in staat zijn om te bepalen in hoeverre S</g><g id='241'>alix OS compatibel is met uw specifieke hardware configuratie en of het past bij uw persoonlijke voorkeur.</g>"
+msgstr "<g id='212'>Salix Live is de Live CD versie van </g><g id='213'><g id='214'>Salix OS</g></g><g id='215'>. U kunt dus veilig een 'proefrit' maken met Salix OS zonder iets te hoeven installeren op uw computer. U zult in staat zijn om te bepalen in hoeverre </g><g id='216'>Salix OS compatibel is met uw specifieke hardware configuratie en of het past bij uw persoonlijke voorkeur.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='217'>The latest Salix OS or Salix Live releases are freely and easily available as ISO image files from Salix OS </g><g id='218'><g id='219'>download page</g></g><g id='220'>.</g>"
-msgstr "<g id='243'>De nieuwste Salix OS of Salix Live releases zijn gratis en gemakkelijk verkrijgbaar als ISO image bestanden van de Salix OS </g><g id='244'><g id='245'>download pagina</g></g><g id='246'>.</g>"
+msgstr "<g id='217'>De nieuwste Salix OS of Salix Live releases zijn gratis en gemakkelijk verkrijgbaar als ISO image bestanden van de Salix OS </g><g id='218'><g id='219'>download pagina</g></g><g id='220'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='221'>If necessary, you can verify the integrity of your downloaded file by comparing its </g><g id='222'><g id='223'>md5sum</g></g><g id='224'> file with the original one uploaded besides the corresponding ISO image file by Salix OS.</g>"
-msgstr "<g id='247'>Indien nodig, kunt u de integriteit van uw gedownloade bestand controleren door het </g><g id='248'><g id='249'>md5sum</g></g><g id='250'> bestand te vergelijken met de originele bij het overeenkomstige ISO bestand geüpload door Salix OS.</g>"
+msgstr "<g id='221'>Indien nodig, kunt u de integriteit van uw gedownloade bestand controleren door het </g><g id='222'><g id='223'>md5sum</g></g><g id='224'> bestand te vergelijken met de originele bij het overeenkomstige ISO bestand geüpload door Salix OS.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='225'>You can also uncompress Salix Live ISO image onto a </g><g id='226'><g id='227'>USB key</g></g><g id='228'>.</g>"
-msgstr "<g id='251'>U kunt de Salix Live ISO image ook op een </g><g id='252'><g id='253'>USB-stick</g></g><g id='254'>zetten.</g>"
+msgstr "<g id='225'>U kunt de Salix Live ISO image ook op een </g><g id='226'><g id='227'>USB-stick</g></g><g id='228'>zetten.</g>"
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
