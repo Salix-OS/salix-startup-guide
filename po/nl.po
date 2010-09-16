@@ -777,22 +777,19 @@ msgid "<g id='241'>Salix Live is configured with autologin, which means that you
 msgstr "<g id='241'>Salix Live is met autologin geconfigureerd, wat betekent dat u zich niet hoeft te identificeren bij het starten van een Live sessie. Indien op eniger wijze de autlogin niet heeft gewerkt of u moest een nieuwe sessie starten, zult u moeten weten dat de standaard gebruikerslogin is: </g><g id='242'>one</g><g id='243'> en deze bevat geen wachtwoord.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='244'>All Live Tools require </g><g id='245'><g id='246'>administrator's right</g></g><g id='247'> and will ask you for the root password. </g>"
-msgstr "<g id='270'>Alle Live Tools vereisen </g><g id='271'><g id='272'>administrator rechten</g></g><g id='273'>en zullen u voor het (root) wachtwoord vragen. </g>"
+msgstr "<g id='244'>Alle Live Tools vereisen </g><g id='245'><g id='246'>administrator rechten</g></g><g id='247'>en zullen u voor het (root) wachtwoord vragen. </g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='249'>Salix Live comes with all the default </g><g id='250'><g id='251'>software</g></g><g id='252'> included in Salix OS.</g>"
-msgstr "<g id='275'>Salix Live wordt geleverd met alle standaard </g><g id='276'><g id='277'>software</g></g><g id='278'> opgenomen in Salix OS.</g>"
+msgstr "<g id='249'>Salix Live wordt geleverd met alle standaard </g><g id='250'><g id='251'>software</g></g><g id='252'> opgenomen in Salix OS.</g>"
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "<g id='253'>Some of the Live Tools are graphical utilities that can be accessed directly on the desktop while some Live Tools, reserved for advanced users can only be executed in a Terminal, from the command line (</g><g id='254'><g id='255'>CLI</g></g><g id='256'>).</g>"
-msgstr "<g id='279'>Sommige van de Live Tools zijn grafische tools welke meteen toegankelijk zijn op de desktop, terwijl sommige Live Tools bestemd zijn voor gevorderde gebruikers en kunnen alleen worden uitgevoerd in een terminal, vanaf de command line (</g><g id='280'><g id='281'>CLI</g></g><g id='282'>).</g>"
+msgstr "<g id='253'>Sommige van de Live Tools zijn grafische tools welke meteen toegankelijk zijn op de desktop, terwijl sommige Live Tools bestemd zijn voor gevorderde gebruikers en kunnen alleen worden uitgevoerd in een terminal, vanaf de command line (</g><g id='254'><g id='255'>CLI</g></g><g id='256'>).</g>"
 
 #: SalixStartupGuide-en.odt:2
 #, fuzzy
