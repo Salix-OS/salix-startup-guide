@@ -1847,10 +1847,9 @@ msgid "Time, Keyboard, Locale, Partitions, Users and Software."
 msgstr "Час, клавіатура, розділи диску, користувачі і програмне забезпечення."
 
 #: SalixStartupGuide-en.odt:2
-#, fuzzy
 msgctxt "paragraph"
 msgid "To do this however, you must first create a special \"persistent file\" on your hard drive, or on an attached USB key, which will have a pre-decided fixed-size and will be formatted as a Linux file system."
-msgstr "Щоб зробити це, Вам однак потрібно спочатку створити спеціальний \"файл змін\" на Вашому твердому диску, який матиме наперед визначений фіксований розмір і буде відформатований як файлова система Linux."
+msgstr "Щоб зробити це, Вам потрібно спочатку створити спеціальний \"файл змін\" на Вашому твердому диску, який матиме наперед визначений фіксований розмір і буде відформатований як файлова система Linux."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
