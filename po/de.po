@@ -1587,7 +1587,7 @@ msgstr "Salix LXDE Live ist die Liveversion der Salix LXDE Edition und beinhalte
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix LXDE edition features the Lightweight X11 Desktop Environment, “<g id='359'>an extremely fast-performing and energy-saving desktop environment</g>”, with a clean look and feel."
-msgstr "Salix LXDE Edition verwendet die Lightweight X11 Desktop Environment, “<g id='359'>eine sehr schnelle und sparsame Desktopumgebung</g>” mit einem sauberen Look&Feel."
+msgstr "Salix LXDE Edition verwendet die Lightweight X11 Desktop Environment, “<g id='359'>eine sehr schnelle und sparsame Desktopumgebung</g>” mit einem sauberen Look &amp; Feel."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1742,7 +1742,7 @@ msgstr "Die Linux Live Skripte kommen mit den folgenden nützlichen Kommandos:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Office suite is managed by <g id='362'>Abiword</g> and <g id='363'>Gnumeric</g> while <g id='364'>ePDFviewer</g> replaces Evince."
-msgstr "Die Büroumgebung besteht aus <x id='362'/><g id='363'>Abiword</g> und <g id='365'>Gnumeric</g> während <g id='364'>ePDFviewer</g> Evince ersetzt."
+msgstr "Die Büroumgebung besteht aus <x id='362'/><g id='363'>Abiword</g> und <g id='363'>Gnumeric</g> während <g id='364'>ePDFviewer</g> Evince ersetzt."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"

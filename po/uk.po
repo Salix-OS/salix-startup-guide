@@ -719,7 +719,7 @@ msgstr "<g id='187'>В Unix/Linux, всім користувачам і груп
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='191'><g id='192'>Slapt-get</g></g><g id='193'> is a CLI tool providing an APT‑like system for Slackware package management. It allows one to search Slackware/Salix mirrors and third party sources for packages, compare them with installed packages, install new packages, or upgrade all installed packages. </g>"
-msgstr "<g id='191'><g id='192'>Slapt-get</g></g><g id='193'> є програмою, що запускається з командного рядка, і з функціями як у APT-подібної системи пакетів як у Slackware. Це дозволяє шукати Slackware/Salix дзеркала і треті джерела пакунків, порівнювати їх з вже встановленими пакунками, встановлювати нові пакунки або оновлювати всі встановлені пакунки."
+msgstr "<g id='191'><g id='192'>Slapt-get</g></g><g id='193'> є програмою, що запускається з командного рядка, і з функціями як у APT-подібної системи пакетів як у Slackware. Це дозволяє шукати Slackware/Salix дзеркала і треті джерела пакунків, порівнювати їх з вже встановленими пакунками, встановлювати нові пакунки або оновлювати всі встановлені пакунки.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -834,7 +834,7 @@ msgstr "<g id='290'>Якщо Ви ще не маєте приготованих 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='294'>You will be greeted by a reminder that all the necessary partitions have to be created first. As we have seen, this can be done simply with the help of </g><g id='295'><g id='296'>Gparted</g></g><g id='297'>, which is included in Salix Live and is available directly on the desktop.</g>"
-msgstr "<g id='294'> Появиться нагадування, що всі необхідні розділи повинні бути створені на початку. Як ми вже бачили, це може бути зроблено за допомогою програми</g><g id='295'><g id='296'>Gparted</g></g><g id='297'>,  яку включено в Salix Live і яка доступна безпосередньо з робочого столу."
+msgstr "<g id='294'> Появиться нагадування, що всі необхідні розділи повинні бути створені на початку. Як ми вже бачили, це може бути зроблено за допомогою програми</g><g id='295'><g id='296'>Gparted</g></g><g id='297'>,  яку включено в Salix Live і яка доступна безпосередньо з робочого столу.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1039,7 +1039,7 @@ msgstr "Параметри завантаження або cheatcodes, вико�
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Both LiveCDs share the same <g id='371'>login</g>, <g id='372'>root password</g>, <g id='373'>cheatcodes</g>, etc."
-msgstr "Обидва LiveCDs мають ту саму назву <g id='373'>користувача</g>, <g id='374'>пароль root’а </g>, <g id='375'>cheatcodes</g>, етс."
+msgstr "Обидва LiveCDs мають ту саму назву <g id='371'>користувача</g>, <g id='372'>пароль root’а </g>, <g id='373'>cheatcodes</g>, етс."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
