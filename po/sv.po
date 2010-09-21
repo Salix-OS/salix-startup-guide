@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: salix-live-startup-guide\n"
 "POT-Creation-Date: 2010-09-13 15:09+CET\n"
-"PO-Revision-Date: 2010-09-20 19:40+0100\n"
+"PO-Revision-Date: 2010-09-21 17:45+0100\n"
 "Last-Translator: Ingemar Karlsson <ingemar@ingk.se>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -909,12 +909,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "A Live CD is a CD-ROM holding a self-contained bootable and fully functional operating system."
-msgstr ""
+msgstr "En Live CD är en CD-ROM innehållande en bootbar och fult fungerande operativ system."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "A Live USB flash drive is similar to a Live CD, but it can have the added functionality of automatically and transparently writing changes back to its bootable medium."
-msgstr ""
+msgstr "En Live USB-minne liknar en Live CD, men den har möjlighet till att skriva ändringar på mediet."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -939,12 +939,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "AbiWord is a word processing program suitable for a wide variety of word processing tasks."
-msgstr ""
+msgstr "AbiWord är en ordbehandlare lämplig för ordbehandling."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Adding/Removing modules on the fly:"
-msgstr ""
+msgstr "Lägg till/Ta bort moduler."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -959,7 +959,7 @@ msgstr "Alla dina ändringar verkställs direkt när du trycker på OK knappen o
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Alternatively, you can use any one of <x id='180'/>Salix system tools which you will find under the System section of the Menu."
-msgstr ""
+msgstr "Alternativt, kan du använda en av <x id='180'/>Salix system verktyg som du finner under System sektionen i Menyn."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1029,12 +1029,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Boot procedure"
-msgstr ""
+msgstr "Uppstarts procedur"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Booting parameters or cheatcodes, are used to manipulate the booting process of Linux."
-msgstr ""
+msgstr "Uppstarts parametrar eller cheatckodes används för att ändra uppstarts processen av Linux."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1044,7 +1044,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Brasero is an application to burn CD/DVD."
-msgstr ""
+msgstr "Brasero är ett program för att bränna CD/DVD."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1059,12 +1059,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Catfish is a handy file searching tool which provides a unified, lightweight and simple interface for different search engines such as find, (s)locate, doodle, tracker and beagle."
-msgstr ""
+msgstr "Catfish är ett filsöknings verktyg som ger ett enhetligt, enkelt gränssnitt åt olika sökmotorer som t.ex. find, (s)locate, doodle, tracker och beagle."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Claws Mail is an open source email and news client."
-msgstr ""
+msgstr "Claws Mail är en öppen källkods e-post och nyhets klient."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1114,7 +1114,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Evince is a document viewer for multiple document formats."
-msgstr ""
+msgstr "Evince är en dokument visare för ett flertal olika format."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1144,27 +1144,27 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Functionalities:"
-msgstr ""
+msgstr "Funktionalitet:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "GIMP (GNU Image Manipulation Program) is an image retouching and editing tool."
-msgstr ""
+msgstr "GIMP (GNU Image Manipulation Program) är ett bilbehandlings program."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Galculator is a calculator featuring two user modes:"
-msgstr ""
+msgstr "Galculator är ett miniräknar program med två läge:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Geany is a small and lightweight Integrated Development Environment which only has a few dependencies and is independent of any particular Desktop Environment."
-msgstr ""
+msgstr "Geany är ett litet och lättviktigt Integrated Development Enviroment som endast har ett fåtal beroende och är oberoende av skrivbordsmiljö."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Gigolo is a frontend to easily manage connections to remote filesystems using GIO/GVfs."
-msgstr ""
+msgstr "Gigolo är program som enkelt hanterar anslutningar till fjärr filsystem genom GIO/GVFS."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1184,7 +1184,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "ISO Master is an application for creating and modifying ISO9660 files (ISO images)."
-msgstr ""
+msgstr "ISO Master är ett program för att skapa och redigera ISO9660 filer (ISO avbilder)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1369,12 +1369,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Lilo Setup is also very easy to use."
-msgstr ""
+msgstr "Lilo Setup är också väldigt enkelt att använda."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Lilo Setup will install a new LILO bootloader on your computer."
-msgstr ""
+msgstr "Lilo Setup installerar en ny LILO uppstartsladdare på din dator."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1414,12 +1414,12 @@ msgstr "Skapa en modul av ett paket:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Media Player will play any audio/video files which GStreamer can manage."
-msgstr ""
+msgstr "Media Player spelar upp alla audio/video som GStreamer kan hantera."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Midori (Japanese for green) is a web browser that aims to be lightweight and fast."
-msgstr ""
+msgstr "Midori (Japanska för grön) är ett webbläsar program vars mål är att vara lättviktig och snabb."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1434,7 +1434,7 @@ msgstr "Mousepad är en enkel textredigerare med utskrifts support."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Mozilla Firefox is a free and open source web browser with tabbed browsing, spell checking, incremental find, private browsing and numerous plugins."
-msgstr ""
+msgstr "Mozilla Firefox är en fri och öppen källkods webbläsare med flikar, rättstavning, sökning, privat bläddring och många plugin."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1484,22 +1484,22 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "OpenOffice.org 3 is the leading open-source office software suite for word processing, spreadsheets, presentations, graphics, databases and more."
-msgstr ""
+msgstr "OpenOffice.org 3 är den ledande öppen-källkods kontors mjukvara för ordbehandling, calkyl, grafik, databas m.m."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Or alternatively in CLI:"
-msgstr ""
+msgstr "Eller alternativt i CLI:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Orage provides a calendar which integrates nicely into the Xfce Desktop Environment."
-msgstr ""
+msgstr "Orage är en kalender som integrerar bra med Xfce Skrivbordsmiljö."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "PS:"
-msgstr ""
+msgstr "PS:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1519,7 +1519,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Partition Management"
-msgstr ""
+msgstr "Partitions Hanterare"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1609,7 +1609,7 @@ msgstr "Salix är normalt installerad med följande program:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix needs, at the very minimum, one swap partition (which will be automatically used by the Live Installer without any user intervention) and one Linux partition to hold its main directory tree."
-msgstr ""
+msgstr "Salix behöver, som minimum en swap partition (som automatiskt kommer att användas av Live Installeraren) och en Linux partiton innehållande root katalogträd."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1619,7 +1619,7 @@ msgstr "Salix Live"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix Live CD holds a <g id='343'>/salixlive/rootcopy/</g> directory."
-msgstr ""
+msgstr "Salix Live CD innehåller <g id='343'>/salixlive/rootcopy/</g> katalog."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1644,7 +1644,7 @@ msgstr "Salix OS"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Simple Scan allows you to scan your documents/photos with your scanner or even with your webcam!"
-msgstr ""
+msgstr "Simple Scan tillåter dig att skanna dina dokument/bilder med din skanner eller till och med din webbkamera!"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1694,17 +1694,17 @@ msgstr "Standard version"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Startup Guide"
-msgstr ""
+msgstr "Uppstarts guide."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Support"
-msgstr ""
+msgstr "Support"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Support is available straight from Salix desktop:"
-msgstr ""
+msgstr "Support är tillgängligt direkt från Salix skrivbord:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1914,7 +1914,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Type help to view all available commands."
-msgstr ""
+msgstr "Skriv in help för att visa tillgängliga kommando."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
