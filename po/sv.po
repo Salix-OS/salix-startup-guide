@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: salix-live-startup-guide\n"
 "POT-Creation-Date: 2010-09-13 15:09+CET\n"
-"PO-Revision-Date: 2010-09-21 19:53+0100\n"
+"PO-Revision-Date: 2010-09-22 20:23+0100\n"
 "Last-Translator: Ingemar Karlsson <ingemar@ingk.se>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -739,7 +739,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='212'>Salix Live is the Live CD version of </g><g id='213'><g id='214'>Salix OS</g></g><g id='215'>. You can therefore safely use it to 'test drive' Salix OS without having to install anything on your computer. You will thus be able to determine wheter and to what extent </g><g id='216'>Salix OS is compatible with your particular hardware configuration and if it suits your personal tastes.</g>"
-msgstr ""
+msgstr "<g id='212'>Salix Live är en Live CD version av </g><g id='213'><g id='214'>Salix OS</g></g><g id='215'>. Du kan därför säker testköra Salix OS utan att installera något på din dator. Du kan därför avgöra om </g><g id='216'>Salix OS är kompatibel med din hårdvarukonfiguration och om den passa din personliga smak.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -769,12 +769,12 @@ msgstr "<g id='233'>Du har också möjlighet att </g><g id='234'><g id='235'>än
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='237'>Simply press Enter on the default menu entry: Start Salix Live and a moment later you will enter </g><g id='238'><g id='239'>Xfce desktop</g></g><g id='240'>.</g>"
-msgstr ""
+msgstr "<g id='237'>Tryck helt enkelt Enter på standard meny val: Starta Salix Live och en stund senare får du tillträde till </g><g id='238'><g id='239'>Xfce desktop</g></g><g id='240'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='241'>Salix Live is configured with autologin, which means that you will not need to identify yourself before entering the Live session. If for any reason, the automated login was not working or you had to restart a new session for whatever reason, you will need to know that the standard user login is: </g><g id='242'>one</g><g id='243'> and it doesn't have a password.</g>"
-msgstr ""
+msgstr "<g id='241'>Salix Live är konfigurerad med autoinloggning, vilket betyder att du inte behöver identifiera dig själv för att komma åt Live sessionen. Om av någon anledning, den automatiska inloggningen inte fungerade eller du var tvungen att starta en ny session av någon anledning, behöver du veta vad standard användar inloggning är: </g><g id='242'>one</g><g id='243'> och att den inte har något lösenord.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -789,12 +789,12 @@ msgstr "<g id='249'>Salix Live kommer med alla standard </g><g id='250'><g id='
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='253'>Some of the Live Tools are graphical utilities that can be accessed directly on the desktop while some Live Tools, reserved for advanced users can only be executed in a Terminal, from the command line (</g><g id='254'><g id='255'>CLI</g></g><g id='256'>).</g>"
-msgstr ""
+msgstr "<g id='253'>Några av Live verktygen är grafiska verktyg som man klan komma åt direkt på skrivbordet medans andra Live verktyg, är  reserverad för avancerade användare endast kan startas i en Terminal, från kommando rad (</g><g id='254'><g id='255'>CLI</g></g><g id='256'>).</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='257'>Gparted is included in Salix Live to assist you in </g><g id='258'><g id='259'>managing your partitions</g></g><g id='260'> if it is necessary for you to do so before performing the installation of Salix OS.</g>"
-msgstr ""
+msgstr "<g id='257'>Gparted är inkluderad i Salix Live för att hjälpa dig </g><g id='258'><g id='259'>hantera dina partitioner</g></g><g id='260'> om det är nödvändigt att göra så före en installation av Salix OS.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -844,17 +844,17 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='353'>If you have a Salix LiveCD, you can simply use </g><g id='354'><g id='355'>LiveClone</g></g><g id='356'> from a Live session. </g>"
-msgstr ""
+msgstr "<g id='353'>Om du har en Salix LiveCD, kan du enkelt använda </g><g id='354'><g id='355'>LiveClone</g></g><g id='356'> från en  Live session. </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='358'>LiveClone</g> is a new GUI utility which offers yet another alternative and very simple way to create a customized Salix Live CD/DVD or Live USB key."
-msgstr ""
+msgstr "<g id='358'>LiveClone</g> är ett nytt GUI verktyg som erbjuder ännu ett alternativ att väldigt enkelt sätt att skapa en anpassad Salix Live CD/DVD eller Live USB-minne."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='365'>Midori</g> is the web browser, <x id='366'/><g id='367'>Whaaw! MediaPlayer</g> plays multimedia contents and <g id='368'>mtPaint</g> offers graphic and photo editing."
-msgstr ""
+msgstr "<g id='365'>Midori</g> är webbläsaren, <x id='366'/><g id='367'>Whaaw! MediaPlayer</g> spelar multimedia innehåll och <g id='368'>mtPaint</g> erbjuder grafisk och foto behandling."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -974,7 +974,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "As it is an application for everyday use, it launches itself in the background and can be accessed using the Orage Clock plugin for the panel."
-msgstr ""
+msgstr "Eftersom det är ett program för daglig användning, startar den sig själv i bakgrunden och kan öppnas genom Orage plugin för panelen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1134,7 +1134,7 @@ msgstr "File Roller är en arkiv hanterare."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Finally, Salix OS strives to provide a localized system which is functional around the globe and can easily be used by non‑English speakers."
-msgstr ""
+msgstr "Slutligen, Salix OS strävar efter att ge ett system som fungerar runt om i världen och kan användas av icke-Engelsk språkliga."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1214,7 +1214,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "If you're on Windows, execute the file called “install-on-USB.cmd” instead."
-msgstr ""
+msgstr "Om du kör Widows, starta filen som heter “install-on-USB.cmd” istället."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1269,7 +1269,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It is available in many languages and works on all common computers."
-msgstr ""
+msgstr "Den är tillgänglig på många språk och fungerar på alla vanliga datorer."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1284,7 +1284,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It is intended to be a basic media player with little dependencies."
-msgstr ""
+msgstr "Den är avsedd att vara en enkel mediaspelare med få beroende."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1299,7 +1299,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It loads into memory using only data provided on the CD."
-msgstr ""
+msgstr "Den laddas i minnet och använder endast data som finns på CD`n."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1309,7 +1309,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It opens PDF files, save copies of documents, and has support for printing using CUPS."
-msgstr ""
+msgstr "Den öppnar PDF filer, sparar kopior på dokument och har stöd för utskrift via CUPS."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1329,17 +1329,17 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It uses the WebKit rendering engine."
-msgstr ""
+msgstr "Den använder WebKit renderingsmotor."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It warns you with pop‑up or audible alarms."
-msgstr ""
+msgstr "Den varnar dig med pop-upp eller ljudligt larm."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It will connect to wired (Ethernet only, no PPPoE/DSL support yet) and wireless networks."
-msgstr ""
+msgstr "Den ansluter dig till kabel (Ethernet endast, ingen PPPoE/DSL stöd ännu) och trådlösa nätverk."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1469,12 +1469,12 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Once you are done, save the modified ISO to your hard drive and use Brasero to burn it on a CD-ROM."
-msgstr ""
+msgstr "När du är klar, spara den modifierade ISO filen till din hårddisk och använd Brasero för att bränna den till en CD-ROM."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Once you have selected your language, simply press on the Enter key to activate your choice."
-msgstr ""
+msgstr "När du har valt ditt språk, tryck på Enter tangenten för att aktivera ditt val."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1674,7 +1674,7 @@ msgstr "Program"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Some of Salix XFCE standard applications however are replaced by lighter counteparts."
-msgstr ""
+msgstr "Några av Salix XFCE standard program har ersatts av lättare motsvarigheter."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1739,7 +1739,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Linux Live Scripts come with the following useful commands:"
-msgstr ""
+msgstr "Linux Live Script kommer med följande användbara kommandon:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1769,7 +1769,7 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The goal of Gnumeric is to be the best possible spreadsheet."
-msgstr ""
+msgstr "Målet för Gnumeric är att bli den bästa möjliga kalkyl program."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1824,17 +1824,17 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This utility manages the creation, deletion and properties of all the system users and groups of users."
-msgstr ""
+msgstr "Detta verktyg hanterar skapandet, borttagning av systemet alla användare och grupper av användare."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This utility will configure the keyboard disposition being used both in the graphical and non-graphical environments."
-msgstr ""
+msgstr "Detta verktyg konfigurerar tangentbordet för grafisk och icke-grafisk miljö."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This utility will configure the language of your system."
-msgstr ""
+msgstr "Detta verktyg konfigurerar systemets språk."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1864,22 +1864,22 @@ msgstr ""
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To execute it in runlevel 3, simply type usersetup."
-msgstr ""
+msgstr "För att köra det i körnivå 3, skriv helt enkelt in usersetup."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To execute this utility in runlevel 3, simply type dotnew."
-msgstr ""
+msgstr "För att köra det i körnivå 3, skriv helt enkelt in dornew."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To execute this utility in runlevel 3, simply type keyboardsetup."
-msgstr ""
+msgstr "För att köra det i körnivå 3, skriv helt enkelt in keyboardsetup."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To execute this utility in runlevel 3, simply type servicesetup."
-msgstr ""
+msgstr "För att köra det i körnivå 3, skriv helt enkelt in servicesetup."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
