@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: salix-live-startup-guide\n"
 "POT-Creation-Date: 2010-09-13 15:09+CET\n"
-"PO-Revision-Date: 2010-09-25 20:49+0100\n"
+"PO-Revision-Date: 2010-09-26 11:40+0100\n"
 "Last-Translator: Ingemar Karlsson <ingemar@ingk.se>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -64,7 +64,7 @@ msgstr "Uppstart"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Boot Parameters"
-msgstr "Uppstarts parametrar"
+msgstr "Uppstartsparametrar"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -89,7 +89,7 @@ msgstr "Claws-mail"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Core Mode"
-msgstr "Core läge"
+msgstr "Kärn läge"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -174,7 +174,7 @@ msgstr "Värdnamn"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "How to boot from Salix Live CD/DVD?"
-msgstr "Hur man startar upp från Salix Live CD / DVD?"
+msgstr "Hur man startar upp från Salix Live CD/DVD?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -229,7 +229,7 @@ msgstr "Live Verktyg"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Live USB Flash Drive"
-msgstr "Live USB Flash Drive"
+msgstr "Live USB-minne"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -304,7 +304,7 @@ msgstr "Pakethanterare"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Parole Media Player"
-msgstr "Parole Media Spelare"
+msgstr "Parole Mediaspelare"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -339,7 +339,7 @@ msgstr "SCIM"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Codec Installer"
-msgstr "Salix Codec Installer"
+msgstr "Salix Codec Installerare"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -504,7 +504,7 @@ msgstr "(TIPS:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "(This cheatcode is already included in Salix Live boot menu and the Persistence Wizard can assist you in creating a persistent file that will be automatically managed by Salix Live.)"
-msgstr "(Cheatcode finns redan i Salix Live uppstartsmeny och Bestående guiden kan hjälpa dig att skapa en bestående fil som automatiskt kommer att förvaltas av Salix Live.)"
+msgstr "(Cheatcode finns redan i Salix Live uppstartsmeny och Permanent guiden kan hjälpa dig att skapa en permanent fil som automatiskt kommer att hanteras av Salix Live.)"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -514,17 +514,17 @@ msgstr "(Du kan använda hela modulens namn (module.lzm) eller så kan du hoppa 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Add or remove files and directories to/from a CD image."
-msgstr "* Lägg till eller ta bort filer och kataloger till / från en cd-avbild."
+msgstr "* Lägg till eller ta bort filer och kataloger till/från en CD-avbild."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Create an ISO image from scratch."
-msgstr "* Skapa en ISO bild från scratch."
+msgstr "* Skapa en ISO avbild från scratch."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "* Create bootable CDs using various boot record types."
-msgstr "* Skapa startbar CD-skivor med olika typer Boot Record."
+msgstr "* Skapa startbar CD-skivor med olika boot Poster."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -579,7 +579,7 @@ msgstr "1 - Skapa en arbetskatalog:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Open the .iso file using a software archiver (file-roller, xarchiver, 7-zip, iso-master, …)."
-msgstr "1 - Öppna. Iso fil med ett program (file-roller, xarchiver, 7-zip, iso-master, ...)."
+msgstr "1 - Öppna Iso fil med ett program (file-roller, xarchiver, 7-zip, iso-master, ...)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -659,7 +659,7 @@ msgstr "5- Bygg om modulen:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "6- Replace the original module with your new module, rebuild the ISO image and reburn the CD."
-msgstr "6- Sätt tillbaka den ursprungliga modulen med den nya modulen, återuppbygg ISO avbild och bränn CD-skivan."
+msgstr "6- Sätt tillbaka den ursprungliga modulen med den nya modulen, återbygg ISO avbild och bränn CD-skivan."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1254,7 +1254,7 @@ msgstr "Det gör att du snabbt ansluter/monterar ett fjärr-filsystem och blädd
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It can be easily rendered or burned to a DVD or CD by using media authoring or disc burning software."
-msgstr ""
+msgstr "Det kan lätt brännas på en DVD eller CD med hjälp av media authoring eller skivbrännar program."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1389,7 +1389,7 @@ msgstr "Live Verktyg"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Live USB Key"
-msgstr "Live USB minne"
+msgstr "Live USB-minne"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1439,7 +1439,7 @@ msgstr "Mozilla Firefox är en fri och öppen källkods webbläsare med flikar, 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Note that you need to recreate the full directory hierarchy for the patches to work as desired."
-msgstr "Observera att du måste återskapa hela katalogstrukturen för patchar att fungerade som önskat."
+msgstr "Observera att du måste återskapa hela katalogstrukturen för patchar att fungera som önskat."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1479,12 +1479,12 @@ msgstr "När du har valt ditt språk, tryck på Enter tangenten för att aktiver
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Only when all the sections have been completed will the 'Launch Salix Install' button be activated."
-msgstr "Först när alla avsnitt är klara kommer 'Launch Salix Install' knappen aktiveras."
+msgstr "Först när alla avsnitt är klara kommer 'Starta Salix Install' knappen aktiveras."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "OpenOffice.org 3 is the leading open-source office software suite for word processing, spreadsheets, presentations, graphics, databases and more."
-msgstr "OpenOffice.org 3 är den ledande öppen-källkods kontors mjukvara för ordbehandling, calkyl, grafik, databas m.m."
+msgstr "OpenOffice.org 3 är den ledande öppen-källkods kontors mjukvara för ordbehandling, kalkyl, grafik, databas m.m."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1514,7 +1514,7 @@ msgstr "Parole hanterar uppspelning av lokala media filer, inklusive video med u
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Parole is also extensible via plugins, and it is shipped with a browser media player plugin."
-msgstr ""
+msgstr "Parole är också utbyggbart via plugins, och levereras med en bläddrar mediaspelare plugin."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1589,7 +1589,7 @@ msgstr "Salix LXDE Live är Live versionen av Salix LXDE versionen och innehåll
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Salix LXDE edition features the Lightweight X11 Desktop Environment, “<g id='359'>an extremely fast-performing and energy-saving desktop environment</g>”, with a clean look and feel."
-msgstr "Salix LXDE Edition har Lightweight X11 Desktop Environment, \"<g id='359'>en extremt snabb prestanda och energibesparande skrivbordsmiljö</g>\", Med ett rent utseende och känsla."
+msgstr "Salix LXDE Edition har Lightweight X11 Desktop Environment, \"<g id='359'>en extremt snabb och energibesparande skrivbordsmiljö</g>\", Med ett rent utseende och känsla."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1644,7 +1644,7 @@ msgstr "Salix OS"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Simple Scan allows you to scan your documents/photos with your scanner or even with your webcam!"
-msgstr "Simple Scan tillåter dig att skanna dina dokument/bilder med din skanner eller till och med din webbkamera!"
+msgstr "Simple Scan tillåter dig att läsa in dina dokument/bilder med din scanner eller till och med din webbkamera!"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1724,17 +1724,17 @@ msgstr "\"ALSA Ljudkort\" verktyget förvaltar systemets ljudkorts konfiguration
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The 'Host Names' utility manages the host names used by your computer."
-msgstr "\"Host Names\" verktyget hanterar värdnamn som används av datorn."
+msgstr "\"Värdnamns\" verktyget hanterar värdnamn som används av datorn."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Core installation mode is identical to the one you get from the XFCE edition while Basic will install a minimal LXDE desktop with only Midori and Gslapt installed as extra."
-msgstr "Core installation är identisk med den man får från XFCE upplaga medan Basic kommer att installera en minimal LXDE skrivbord med endast Midori och Gslapt installerad som extra."
+msgstr "Kärn installation är identisk med den man får från XFCE upplaga medan Basic kommer att installera en minimal LXDE skrivbord med endast Midori och Gslapt installerad som extra."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The Full mode installs a complete, yet wickedly fast, graphic desktop environment with all the software one would need for daily use, while still following the \"one application per task\" rationale."
-msgstr "Full-läge installerar ett komplett, men ändå Ursnabb, grafisk skrivbordsmiljö med all programvara som man kan behöva för dagligt bruk, men ändå efter \"ett program per uppgift\" grunden."
+msgstr "Full-läge installerar ett komplett, men ändå ursnabb, grafisk skrivbordsmiljö med all programvara som man kan behöva för dagligt bruk, men ändå efter \"ett program per uppgift\" grunden."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1754,7 +1754,7 @@ msgstr "Smart Common Input Method plattform (SCIM) är en X inmatningsmetod (XIM
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The content of this directory is copied to the root filesystem each time you boot, preserving all directories."
-msgstr "Innehållet i denna katalog kopieras till rotfilsystemet varje gång du startar, och bevarar alla kataloger."
+msgstr "Innehållet i denna katalog kopieras till root filsystemet varje gång du startar, och bevarar alla kataloger."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1769,7 +1769,7 @@ msgstr "Den fullständiga uppsättningen av <x id='360'/><g id='361'>Salix syste
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The goal of Gnumeric is to be the best possible spreadsheet."
-msgstr "Målet för Gnumeric är att bli den bästa möjliga kalkyl program."
+msgstr "Målet för Gnumeric är att bli den bästa möjliga kalkylprogrammet."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1784,12 +1784,12 @@ msgstr "Syftet med denna handbok är att du ska kunna dra full nytta av de mång
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "The resulting CD must not contain the .iso file, or you have made a mistake in the process."
-msgstr "Den resulterade CD'n får inte innehålla. Iso-filen, eller har du har gjort ett misstag i processen."
+msgstr "Den resulterade CD'n får inte innehålla. Iso-filen, annars har du har gjort ett misstag i processen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Therefore all the instructions that apply to <g id='374'>Salix XFCE Live</g> are equally applicable to Salix LXDE Live."
-msgstr "Därför alla de instruktioner som gäller för <g id='374'>Salix XFCE Live</g> är lika tillämpliga på Salix LXDE Live."
+msgstr "Därför är alla de instruktioner som gäller för <g id='374'>Salix XFCE Live</g> är tillämpliga på Salix LXDE Live."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1819,7 +1819,7 @@ msgstr "Detta sista läge är att bygga på den grundläggande läget och erbjud
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This tool facilitates defining / overviewing host names used while setting up your machine as a server."
-msgstr ""
+msgstr "Detta verktyg underlättar att definiera / se över värdnamn som används medan du ställer in din maskin som en server."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1849,7 +1849,7 @@ msgstr "Tid, Tangentbord, Språk, Partitioner, Användare och Program."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To do this however, you must first create a special \"persistent file\" on your hard drive, or on an attached USB key, which will have a pre-decided fixed-size and will be formatted as a Linux file system."
-msgstr "För att göra detta måste du skapa ett särskilt \"persistent fil\" på hårddisken eller på ett anslutet USB-minne som kommer att ha ett redan förbestämt fast storlek och formateras som ett Linux-filsystem."
+msgstr "För att göra detta måste du skapa ett särskilt \"permanent fil\" på hårddisken eller på ett anslutet USB-minne som kommer att ha en redan förbestämt fast storlek och formateras som ett Linux-filsystem."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1919,7 +1919,7 @@ msgstr "Skriv in help för att visa tillgängliga kommando."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Undo options are available and none of the settings will be applied until you click on the 'Launch Salix Install' button."
-msgstr "Ångra alternativ är tillgängliga och ingen av inställningarna kommer att tillämpas förrän du klickar på \"Laubch Salix Install\" knappen."
+msgstr "Ångra alternativ är tillgängliga och ingen av inställningarna kommer att tillämpas förrän du klickar på \"Starta Salix Install\" knappen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1929,7 +1929,7 @@ msgstr "Till skillnad från andra system verktyg, är Wicd placerad under Intern
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Viewnior is a fast and lightweight picture viewer."
-msgstr "Viewnior är en snabb och lätt bildvisare."
+msgstr "Viewnior är en snabb och lättviktig bildvisare."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1959,7 +1959,7 @@ msgstr "Wicd är ett 'open source' trådbundet och trådlöst nätverkshanterare
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Xfce is a lightweight desktop environment for various Unix/Linux systems."
-msgstr "Xfce är en lätt skrivbordsmiljö för flera Unix/Linux system."
+msgstr "Xfce är en lättviktig skrivbordsmiljö för flera Unix/Linux system."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1974,7 +1974,7 @@ msgstr "Du kan kontrollera att modulen innehåller de oönskade paketen genom at
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You can fully customize the content of a module by removing or adding applications and by deleting, editing or adding new files inside it."
-msgstr ""
+msgstr "Du kan anpassa innehållet i en modul genom att ta bort eller lägga till applikationer och genom att ta bort, redigera eller lägga till nya filer i den."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1989,7 +1989,7 @@ msgstr "Du kan använda Asunder för att spara spår från en Audio CD som WAV, 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "You must open an ISO file of Salix Live (for example the one you downloaded) and then add to and/or remove from the modules situated in <g id='344'>/salixlive/base</g>, <g id='345'>/salixlive/modules</g> or <g id='346'>/salixlive/optional</g>."
-msgstr ""
+msgstr "Du måste öppna en ISO-fil av Salix Live (till exempel den du hämtade) och sedan lägga till och/eller ta bort från modulerna som finns i <g id='344'>/salixlive/base</g>, <g id='345'>/salixlive/modules</g> eller <g id='346'>/salixlive/optional</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2064,7 +2064,7 @@ msgstr "cp ny_modul /mnt/hdxx/custom_live/base"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "debug"
-msgstr ""
+msgstr "debug"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
