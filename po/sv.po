@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: salix-live-startup-guide\n"
 "POT-Creation-Date: 2010-09-13 15:09+CET\n"
-"PO-Revision-Date: 2010-09-26 11:40+0100\n"
+"PO-Revision-Date: 2010-09-26 16:23+0100\n"
 "Last-Translator: Ingemar Karlsson <ingemar@ingk.se>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -679,7 +679,7 @@ msgstr "<g id='146'><g id='147'>Geany</g></g><g id='148'> finns i Utvecklings pr
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='149'>Finally, Accessories applications include a variety of small, useful utilities among which are </g><g id='150'><g id='151'>Galculator</g></g><g id='152'>, </g><g id='153'><g id='154'>Mousepad</g></g><g id='155'>, </g><g id='156'><g id='157'>Catfish</g></g><g id='158'>, </g><g id='159'><g id='160'>File Roller</g></g><g id='161'>, </g><g id='162'><g id='163'>SCIM</g></g><g id='164'>, etc.</g>"
-msgstr "<g id='149'>Slutligen, Accessories program innehåller ett antal små, användbara program </g><g id='150'><g id='151'>Galculator</g></g><g id='152'>, </g><g id='153'><g id='154'>Mousepad</g></g><g id='155'>, </g><g id='156'><g id='157'>Catfish</g></g><g id='158'>, </g><g id='159'><g id='160'>File Roller</g></g><g id='161'>, </g><g id='162'><g id='163'>SCIM</g></g><g id='164'>, etc.</g>"
+msgstr "<g id='149'>Slutligen, Tillbehör program innehåller ett antal små, användbara program </g><g id='150'><g id='151'>Galculator</g></g><g id='152'>, </g><g id='153'><g id='154'>Mousepad</g></g><g id='155'>, </g><g id='156'><g id='157'>Catfish</g></g><g id='158'>, </g><g id='159'><g id='160'>File Roller</g></g><g id='161'>, </g><g id='162'><g id='163'>SCIM</g></g><g id='164'>, etc.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -899,7 +899,7 @@ msgstr "<g id='84'>Grundläget är byggd på Core-läge med tillägg av skrivbor
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='88'>The Office applications are composed of the full </g><g id='89'><g id='90'>OpenOffice productivity suite</g></g><g id='91'>, and </g><g id='92'><g id='93'>Orage agenda</g></g><g id='94'>.</g>"
-msgstr "<g id='88'>Office programmen består av hela </g><g id='89'><g id='90'>OpenOffice paketet</g></g><g id='91'> , Och </g><g id='92'><g id='93'> Orage dagordning </g></g><g id='94'>.</g>"
+msgstr "<g id='88'>Kontors programmen består av hela </g><g id='89'><g id='90'>OpenOffice paketet</g></g><g id='91'> , Och </g><g id='92'><g id='93'> Orage dagordning </g></g><g id='94'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1204,7 +1204,7 @@ msgstr "Om du är fullt nöjd med din Live upplevelse av Salix OS, kan du sedan 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "If you are still quite new to either Salix, Slackware or even Linux in general, then you should first of all take some time to study Salix Startup Guide as it is specifically aimed to be accessible to newcomers."
-msgstr "Om du är fortfarande ganska ny på antingen Salix, Slackware eller ens Linux i allmänhet, så bör man först av allt ta lite tid att studera Salix Startup Guide som är särskilt inriktad för att vara tillgänglig för nya användare."
+msgstr "Om du fortfarande är ganska ny på antingen Salix, Slackware eller ens Linux i allmänhet, så bör man först av allt ta lite tid att studera Salix Startup Guide som är särskilt inriktad för att vara tillgänglig för nya användare."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2024,32 +2024,32 @@ msgstr "cd /mnt/hdxx/custom_live"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/dev/device"
-msgstr "ändringar=/dev/device"
+msgstr "changes=/dev/device"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/dev/device/file"
-msgstr "ändringar=/dev/device/file"
+msgstr "changes=/dev/device/file"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/dev/device/path/"
-msgstr "ändringar=/dev/device/path/"
+msgstr "changes=/dev/device/path/"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/path/"
-msgstr "ändringar=/path/"
+msgstr "changes=/path/"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=/path/file"
-msgstr "ändringar=/path/file"
+msgstr "changes=/path/file"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "changes=file"
-msgstr "ändringar=file"
+msgstr "changes=file"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -2094,17 +2094,17 @@ msgstr "etc."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "from=/dev/device/salixlive-version.iso"
-msgstr "från=/dev/device/salixlive-version.iso"
+msgstr "from=/dev/device/salixlive-version.iso"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "from=path/to/exploded/salixlive-version.iso"
-msgstr "från=path/to/exploded/salixlive-version.iso"
+msgstr "from=path/to/exploded/salixlive-version.iso"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "from=path/to/salixlive-version.iso"
-msgstr "från=path/to/salixlive-version.iso"
+msgstr "from=path/to/salixlive-version.iso"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
