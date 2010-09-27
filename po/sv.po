@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: salix-live-startup-guide\n"
 "POT-Creation-Date: 2010-09-13 15:09+CET\n"
-"PO-Revision-Date: 2010-09-26 16:23+0100\n"
+"PO-Revision-Date: 2010-09-27 18:27+0100\n"
 "Last-Translator: Ingemar Karlsson <ingemar@ingk.se>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -669,7 +669,7 @@ msgstr "<g id='108'>Multimedia program </g><g id='109'><g id='110'>Asunder</g></
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='131'>Graphical applications include the <x id='132'/></g><g id='133'><g id='134'>Evince (Document Viewer)</g></g><g id='135'>, </g><g id='136'><g id='137'>Gimp</g></g><g id='138'>, </g><g id='139'><g id='140'>Simple Scan</g></g><g id='141'> et </g><g id='142'><g id='143'>Viewnior</g></g><g id='144'>. <x id='145'/></g>"
-msgstr "<g id='131'>Grafiska program <x id='132'/></g><g id='133'><g id='134'>Evince (Document Viewer)</g></g><g id='135'>, </g><g id='136'><g id='137'>Gimp</g></g><g id='138'>, </g><g id='139'><g id='140'>Simple Scan</g></g><g id='141'> et </g><g id='142'><g id='143'>Viewnior</g></g><g id='144'>. <x id='145'/></g>"
+msgstr "<g id='131'>Grafiska program <x id='132'/></g><g id='133'><g id='134'>Evince (Document Viewer)</g></g><g id='135'>, </g><g id='136'><g id='137'>Gimp</g></g><g id='138'>, </g><g id='139'><g id='140'>Simple Scan</g></g><g id='141'> och </g><g id='142'><g id='143'>Viewnior</g></g><g id='144'>. <x id='145'/></g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -679,7 +679,7 @@ msgstr "<g id='146'><g id='147'>Geany</g></g><g id='148'> finns i Utvecklings pr
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='149'>Finally, Accessories applications include a variety of small, useful utilities among which are </g><g id='150'><g id='151'>Galculator</g></g><g id='152'>, </g><g id='153'><g id='154'>Mousepad</g></g><g id='155'>, </g><g id='156'><g id='157'>Catfish</g></g><g id='158'>, </g><g id='159'><g id='160'>File Roller</g></g><g id='161'>, </g><g id='162'><g id='163'>SCIM</g></g><g id='164'>, etc.</g>"
-msgstr "<g id='149'>Slutligen, Tillbehör program innehåller ett antal små, användbara program </g><g id='150'><g id='151'>Galculator</g></g><g id='152'>, </g><g id='153'><g id='154'>Mousepad</g></g><g id='155'>, </g><g id='156'><g id='157'>Catfish</g></g><g id='158'>, </g><g id='159'><g id='160'>File Roller</g></g><g id='161'>, </g><g id='162'><g id='163'>SCIM</g></g><g id='164'>, etc.</g>"
+msgstr "<g id='149'>Slutligen, Tillbehörs programen innehåller ett antal små, användbara program </g><g id='150'><g id='151'>Galculator</g></g><g id='152'>, </g><g id='153'><g id='154'>Mousepad</g></g><g id='155'>, </g><g id='156'><g id='157'>Catfish</g></g><g id='158'>, </g><g id='159'><g id='160'>File Roller</g></g><g id='161'>, </g><g id='162'><g id='163'>SCIM</g></g><g id='164'>, etc.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -694,7 +694,7 @@ msgstr "<g id='169'>Parole är en modern enkel media spelare baserad på </g><g 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='176'>All system management in Salix OS can be done the usual (</g><g id='177'><g id='178'>manual</g></g><g id='179'>) Slackware way.</g>"
-msgstr "<g id='176'>All system hantering i Salix OS kan göras enligt standard (</g><g id='177'><g id='178'>manual</g></g><g id='179'>) Slackwares väg.</g>"
+msgstr "<g id='176'>All system hantering i Salix OS kan göras på (</g><g id='177'><g id='178'>manual</g></g><g id='179'>) Slackwares vanliga sätt.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -709,7 +709,7 @@ msgstr "<g id='185'>För att köra den i runlevel 3, skriv in localesetup</g>."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='186'>To execute it in runlevel 3, simply type clocksetup</g>."
-msgstr "<g id='186'>För att köra den i runlevel 3, sskriv in clocksetup</g>."
+msgstr "<g id='186'>För att köra den i runlevel 3, skriv in clocksetup</g>."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -789,7 +789,7 @@ msgstr "<g id='249'>Salix Live kommer med alla standard </g><g id='250'><g id='
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='253'>Some of the Live Tools are graphical utilities that can be accessed directly on the desktop while some Live Tools, reserved for advanced users can only be executed in a Terminal, from the command line (</g><g id='254'><g id='255'>CLI</g></g><g id='256'>).</g>"
-msgstr "<g id='253'>Några av Live verktygen är grafiska verktyg som man klan komma åt direkt på skrivbordet medans andra Live verktyg, är  reserverad för avancerade användare endast kan startas i en Terminal, från kommando rad (</g><g id='254'><g id='255'>CLI</g></g><g id='256'>).</g>"
+msgstr "<g id='253'>Några av Live verktygen är grafiska verktyg som man kan komma åt direkt på skrivbordet medans andra Live verktyg, är  reserverad för avancerade användare som endast kan startas i en Terminal, från kommando rad (</g><g id='254'><g id='255'>CLI</g></g><g id='256'>).</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -799,12 +799,12 @@ msgstr "<g id='257'>Gparted är inkluderad i Salix Live för att hjälpa dig </
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='261'>LiveClone generates a Live CD/DVD iso image (which you can burn as an image on a CD/DVD with a CD/DVD burner) or a Live USB key. This means that you can create your very own customized Live CD/DVD/USB which will be based either on SalixLive or on your modified running environment. In the case of a Live USB Key generation, you will be offered to make your USB key with “</g><g id='262'><g id='263'>persistence</g></g><g id='264'>”.</g>"
-msgstr "<g id='261'>LiveClone genererar en Live CD/DVD-avbild (som du kan bränna som en avbild på en CD/DVD med en CD/DVD-brännare) eller ett Live USB-minne. Detta innebär att du kan skapa din egna skräddarsydda Live CD/DVD/USB som kommer att baseras antingen på SalixLive eller på din modifierade körande miljö. Vid skapande av ett Live USB-minne, kommer du att erbjudas att göra ditt USB-minne med \" </g><g id='262'><g id='263'>persistens</g></g><g id='264'> \". </g>"
+msgstr "<g id='261'>LiveClone genererar en Live CD/DVD-avbild (som du kan bränna som en avbild på en CD/DVD med en CD/DVD-brännare) eller ett Live USB-minne. Detta innebär att du kan skapa din egna skräddarsydda Live CD/DVD/USB som kommer att baseras antingen på SalixLive eller på din modifierade körande miljön. Vid skapande av ett Live USB-minne, kommer du att erbjudas att göra ditt USB-minne med \" </g><g id='262'><g id='263'>permanent lagring</g></g><g id='264'> \". </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='266'>To remove any changes and come back to the default settings, simply delete the persistent file (slxsave.xfs) from the </g><g id='267'><g id='268'>mount point</g></g><g id='269'> it was initially created on.</g>"
-msgstr "<g id='266'>För att ta bort alla ändringar och komma tillbaka till standardinställningarna, radera helt enkelt filen (slxsave.xfs) från </g><g id='267'><g id='268'>monteringspunkten </g></g><g id='269'>den var ursprungligen skapad på.</g>"
+msgstr "<g id='266'>För att ta bort alla ändringar och komma tillbaka till standardinställningarna, radera helt enkelt filen (slxsave.xfs) från </g><g id='267'><g id='268'>monteringspunkten</g></g><g id='269'> den var ursprungligen skapad på.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -814,32 +814,32 @@ msgstr "<g id='270'>Salix Live Installerare kommer att möjligöra dig att </g>
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='274'>Like most Live CDs based on Slackware, Salix Live is relying on the </g><g id='275'><g id='276'>Linux Live Scripts</g></g><g id='277'> technology. Some of the shell scripts it includes will enable an advanced user to fully </g><g id='278'><g id='279'>customize and re-master</g></g><g id='280'>  <x id='281'/>Salix Live to better suit his or her own needs.</g>"
-msgstr "<g id='274'>Liksom de flesta Live-CD baserad på Slackware, förlitar Salix Live sig på </g><g id='275'><g id='276'> Linux Live Skripts </g></g><g id='277'> teknik. Några av de skalskript det innehåller kommer att möjliggöra en avancerad användare att till fullo </g><g id='278'><g id='279'> anpassa och återskapa </g></g><g id='280'><x id='281'/> Salix Live för att bättre passa hans eller hennes egna behov. </g>"
+msgstr "<g id='274'>Liksom de flesta Live-CD baserad på Slackware, förlitar Salix Live sig på </g><g id='275'><g id='276'> Linux Live Skripts</g></g><g id='277'> teknik. Några av de skalskript det innehåller kommer att möjliggöra en avancerad användare att till fullo </g><g id='278'><g id='279'>anpassa och återskapa /g></g><g id='280'> <x id='281'/>Salix Live för att bättre passa hans eller hennes egna behov.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='282'>In order to bypass certain limitations or to complement some of the third-party technology it uses, Salix developed its own set of patches and scripts which for the most part need no user interaction while some can be executed, for instance to facilitate the creation of a </g><g id='283'><g id='284'>Salix Live USB Flash Disk</g></g><g id='285'>. <x id='286'/></g>"
-msgstr "<g id='282'>För att kringgå vissa begränsningar eller som komplement till några av de tredje mans teknik som används, utvecklar Salix sin egen uppsättning patchar och skript som till största delen behöver ingen interaktion med användaren medan vissa kan genomföras, till exempel för att underlätta skapandet av ett </g><g id='283'><g id='284'> Salix Live USB-minne</g></g><g id='285'>. <x id='286'/></g>"
+msgstr "<g id='282'>För att kringgå vissa begränsningar eller som komplement till några av de tredje mans teknik som används, utvecklar Salix sin egen uppsättning patchar och skript som till största delen behöver ingen interaktion med användaren medan vissa kan genomföras, till exempel för att underlätta skapandet av ett </g><g id='283'><g id='284'>Salix Live USB-minne</g></g><g id='285'>. <x id='286'/></g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='287'><g id='288'>A disk device can be subdivided into one or more partitions</g></g><g id='289'>. Before executing Salix Live Installer, you should already have the necessary partitions available on your system.</g>"
-msgstr "<g id='287'><g id='288'>En diskenhet kan delas upp i en eller flera partitioner </g></g><g id='289'> . Före start av Salix Live Installer, bör du redan ha de nödvändiga partitionerna på ditt system. </g>"
+msgstr "<g id='287'><g id='288'>En diskenhet kan delas upp i en eller flera partitioner</g></g><g id='289'>. Före start av Salix Live Installer, bör du redan ha de nödvändiga partitionerna på ditt system. </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='290'>If you do not already have the necessary partitions ready, you may want to use Gparted to create them first. </g><g id='291'><g id='292'>Gparted</g></g><g id='293'> will enable you to change the partition organization on a disk device while preserving the contents of the partitions.</g>"
-msgstr "<g id='290'>Om du inte redan har de nödvändiga partitionerna klara, kan du använda Gparted för att skapa dem först. </g><g id='291'><g id='292'> Gparted </g></g><g id='293'> ger dig möjlighet att ändra partitionerna på en diskenhet samtidigt bevara innehållet av partitionerna. </g>"
+msgstr "<g id='290'>Om du inte redan har de nödvändiga partitionerna klara, kan du använda Gparted för att skapa dem först. </g><g id='291'><g id='292'>Gparted</g></g><g id='293'> ger dig möjlighet att ändra partitionerna på en diskenhet och samtidigt bevara innehållet av partitionerna.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='294'>You will be greeted by a reminder that all the necessary partitions have to be created first. As we have seen, this can be done simply with the help of </g><g id='295'><g id='296'>Gparted</g></g><g id='297'>, which is included in Salix Live and is available directly on the desktop.</g>"
-msgstr "<g id='294'>Du kommer att välkomnas av en påminnelse om att alla nödvändiga partitioner måste skapas först. Som vi har sett, kan detta göras enkelt med hjälp av </g><g id='295'><g id='296'>Gparted </g></g><g id='297'> , Vilket ingår i Salix Live och finns tillgängligt direkt på skrivbordet. </g>"
+msgstr "<g id='294'>Du kommer att välkomnas av en påminnelse om att alla nödvändiga partitioner måste skapas först. Som vi har sett, kan detta göras enkelt med hjälp av </g><g id='295'><g id='296'>Gparted</g></g><g id='297'>, vilket ingår i Salix Live och finns tillgängligt direkt på skrivbordet. </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='298'>Once the installation process is completed, you will be given the choice to launch </g><g id='299'><g id='300'>Lilo Setup</g></g><g id='301'> to configure your LILO bootloader. Most of the time this is what you will want to do although occasionally, it might be preferable not to, for example if you want to use Grub instead or if you want to simply incorporate Salix in an existing bootloader configured from another distribution in a multiple boot setup.</g>"
-msgstr "<g id='298'>När installationen är klar kommer du att få välja att starta </g><g id='299'><g id='300'>Lilo Setup </g></g><g id='301'> för att konfigurera lilo. För det mesta är det vad du vill göra men ibland kan det vara bättre att inte köra Lilo Setup, till exempel om du vill använda Grub i stället, eller om du vill helt enkelt införa Salix i en befintlig bootloader konfigureration från en annan distribution i en multipel uppstartsmeny. </g>"
+msgstr "<g id='298'>När installationen är klar kommer du att få välja att starta </g><g id='299'><g id='300'>Lilo Setup</g></g><g id='301'> för att konfigurera lilo. För det mesta är det vad du vill göra men ibland kan det vara bättre att inte köra Lilo Setup, till exempel om du vill använda Grub i stället, eller om du vill helt enkelt införa Salix i en befintlig bootloader konfigureration från en annan distribution i en multipel uppstartsmeny. </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -849,7 +849,7 @@ msgstr "<g id='353'>Om du har en Salix LiveCD, kan du enkelt använda </g><g id=
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='358'>LiveClone</g> is a new GUI utility which offers yet another alternative and very simple way to create a customized Salix Live CD/DVD or Live USB key."
-msgstr "<g id='358'>LiveClone</g> är ett nytt GUI verktyg som erbjuder ännu ett alternativ att väldigt enkelt sätt att skapa en anpassad Salix Live CD/DVD eller Live USB-minne."
+msgstr "<g id='358'>LiveClone</g> är ett nytt GUI verktyg som erbjuder ännu ett alternativ att på ett väldigt enkelt sätt skapa en anpassad Salix Live CD/DVD eller Live USB-minne."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -879,7 +879,7 @@ msgstr "<g id='62'>Men medan det i </g><g id='63'><g id='64'>KISS</g></g><g id='
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='66'>In order to do this, Salix OS has chosen the </g><g id='67'><g id='68'>Xfce</g></g><g id='69'> desktop, which offers a comprehensive full‑featured environment while managing to remain simple, unobstructive and highly responsive.</g>"
-msgstr "<g id='66'>För att göra detta har Salix OS valt </g><g id='67'><g id='68'>Xfce </g></g><g id='69'> skrivbordet, som erbjuder en omfattande fullfjädrad miljö samtidigt lyckas förbli enkelt, fri och mycket lyhörd. </g>"
+msgstr "<g id='66'>För att göra detta har Salix OS valt </g><g id='67'><g id='68'>Xfce</g></g><g id='69'> skrivbordet, som erbjuder en omfattande fullfjädrad miljö samtidigt lyckas förbli enkelt, fri och mycket lyhörd. </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -894,17 +894,17 @@ msgstr "<g id='77'>Salix OS pakethantering använder beprövade </g><g id='78'><
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='84'>The Basic Mode is built on the Core Mode with the addition of Xfce desktop environment, Firefox web browser and </g><g id='85'><g id='86'>Gslapt package manager</g></g><g id='87'>. This is ideal for advanced users who would like to install a lightweight Xfce and add their own choice of applications.</g>"
-msgstr "<g id='84'>Grundläget är byggd på Core-läge med tillägg av skrivbordsmiljön Xfce, webbläsaren Firefox och </g><g id='85'><g id='86'> Gslapt pakethanterare</g></g><g id='87'>. Detta är perfekt för avancerade användare som vill installera en lätt Xfce och lägga till egna val av program.</g>"
+msgstr "<g id='84'>Grundläget är byggd på Core-läge med tillägg av skrivbordsmiljön Xfce, webbläsaren Firefox och </g><g id='85'><g id='86'>Gslapt pakethanterare</g></g><g id='87'>. Detta är perfekt för avancerade användare som vill installera en lätt Xfce och lägga till egna val av program.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='88'>The Office applications are composed of the full </g><g id='89'><g id='90'>OpenOffice productivity suite</g></g><g id='91'>, and </g><g id='92'><g id='93'>Orage agenda</g></g><g id='94'>.</g>"
-msgstr "<g id='88'>Kontors programmen består av hela </g><g id='89'><g id='90'>OpenOffice paketet</g></g><g id='91'> , Och </g><g id='92'><g id='93'> Orage dagordning </g></g><g id='94'>.</g>"
+msgstr "<g id='88'>Kontors programmen består av hela </g><g id='89'><g id='90'>OpenOffice paketet</g></g><g id='91'> , Och </g><g id='92'><g id='93'>Orage dagordning</g></g><g id='94'>.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='95'>Besides Firefox, Network applications include </g><g id='96'><g id='97'>Claws‑mail</g></g><g id='98'>, </g><g id='99'><g id='100'>Pidgin</g></g><g id='101'>  </g><g id='102'><g id='103'>Transmission</g></g><g id='104'> and </g><g id='105'><g id='106'>gFTP</g></g><g id='107'>.</g>"
-msgstr "<g id='95'>Förutom Firefox, Nätverks tillämpningar är </g><g id='96'><g id='97'> Claws-mail </g></g><g id='98'> , </g><g id='99'><g id='100'> Pidgin </g></g><g id='101'></g><g id='102'><g id='103'> Transmission </g></g><g id='104'> och </g><g id='105'><g id='106'> gFTP </g></g><g id='107'> . </g>"
+msgstr "<g id='95'>Förutom Firefox, Är nätverks tillämpningarna </g><g id='96'><g id='97'>Claws-mail</g></g><g id='98'>, </g><g id='99'><g id='100'>Pidgin</g></g><g id='101'></g><g id='102'><g id='103'>Transmission</g></g><g id='104'> och </g><g id='105'><g id='106'>gFTP</g></g><g id='107'>inkluderade. </g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -989,7 +989,7 @@ msgstr "Som tidigare nämnts förlitar Salix sig på det utmärkta slapt-get/Gsl
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "As the name indicates, the 'Rebuild Icon Cache' utility re-connects some icons that are not displayed after updating your system / installing some new program, and makes them show up again on your menu."
-msgstr "Som namnet antyder, ansluter \"Rebuild Icon Cache\"-verktyget på nytt några ikoner som inte visas efter att ditt system uppdaterats eller installerat några nya program, och gör att dem dyker upp igen på menyn."
+msgstr "Som namnet antyder, \"Rebuild Icon Cache\" återskapar det på nytt ikoner som inte visas efter att ditt system uppdaterats eller vid installation av nya program, och gör att de dyker upp igen på menyn."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1039,7 +1039,7 @@ msgstr "Uppstarts parametrar eller cheatckodes används för att ändra uppstart
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Both LiveCDs share the same <g id='371'>login</g>, <g id='372'>root password</g>, <g id='373'>cheatcodes</g>, etc."
-msgstr "Båda Live-CD har samma <g id='371'> inloggning </g> , <g id='372'>root-lösenord</g> , <g id='373'>cheatcodes</g> Etc."
+msgstr "Båda Live-CD har samma <g id='371'>inloggning</g>, <g id='372'>root-lösenord</g>, <g id='373'>cheatcodes</g>, etc."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1139,7 +1139,7 @@ msgstr "Slutligen, Salix OS strävar efter att ge ett system som fungerar runt o
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "From then on, Salix Live will begin to monitor any changes you perform and will record them in the new persistent file."
-msgstr "Från och med då kommer Salix Live börja övervaka alla ändringar du gör och kommer att spela in dem i den nya bestående filen."
+msgstr "Från och med då kommer Salix Live börja övervaka alla ändringar du gör och kommer att spara  dem i den nya permanenta filen."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1164,7 +1164,7 @@ msgstr "Geany är ett litet och lättviktigt Integrated Development Enviroment s
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Gigolo is a frontend to easily manage connections to remote filesystems using GIO/GVfs."
-msgstr "Gigolo är program som enkelt hanterar anslutningar till fjärr filsystem genom GIO/GVFS."
+msgstr "Gigolo är ett program som enkelt hanterar anslutningar till fjärr filsystem genom GIO/GVFS."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1179,7 +1179,7 @@ msgstr "Här är endast ett minimum programvara nödvändig för en konsol som s
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "However due to its Live nature it also includes some extra utilities which are either needed or simply very useful in a Live session."
-msgstr "Men på grund av sin Live natur innehåller den också några extra verktyg som antingen behövs eller helt är enkelt mycket användbart i en Live session."
+msgstr "Men på grund av sin Live natur innehåller den också några extra verktyg som antingen behövs eller helt enkelt är mycket användbart i en Live session."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1254,12 +1254,12 @@ msgstr "Det gör att du snabbt ansluter/monterar ett fjärr-filsystem och blädd
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It can be easily rendered or burned to a DVD or CD by using media authoring or disc burning software."
-msgstr "Det kan lätt brännas på en DVD eller CD med hjälp av media authoring eller skivbrännar program."
+msgstr "Den kan lätt brännas på en DVD eller CD med hjälp av media authoring eller skivbrännar program."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It currently supports pdf, postscript, djvu, tiff and dvi."
-msgstr "Den stödjer för närvarande PDF, PostScript DjVu, tiff och DVI."
+msgstr "Den stödjer för närvarande pdf, postscript, djvu, tiff och dvi."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1294,7 +1294,7 @@ msgstr "Det är intressant att notera att när du producerar din egen anpassade 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "It is necessary to (re)configure the bootloader each time you install a new operating system on your computer."
-msgstr "Det är nödvändigt att (åter) konfigurera starthanteraren varje gång du installerar ett nytt operativsystem på din dator."
+msgstr "Det är nödvändigt att (åter)konfigurera starthanteraren varje gång du installerar ett nytt operativsystem på din dator."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1449,7 +1449,7 @@ msgstr "Naturligtvis Gslapt pakethanterare, och dess kommandorads motsvarighet s
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Of course, this is also the case with the <g id='375'>installation</g> and <g id='376'>customization</g> of Salix LXDE Live."
-msgstr "Naturligtvis är detta också fallet med <g id='375'>installation</g> och <g id='376'>kundanpassning</g> av Salix LXDE Live."
+msgstr "Naturligtvis är detta också fallet med <g id='375'>installation</g> och <g id='376'>anpassning</g> av Salix LXDE Live."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1464,7 +1464,7 @@ msgstr "På vänster sida av programmet kommer du att märka de olika sektioner 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Once this file has been created, it is necessary to reboot the Live CD."
-msgstr "När denna fil har skapats, är det nödvändigt att starta om Live CD."
+msgstr "När denna fil har skapats, är det nödvändigt att starta om Live CD'n."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1559,7 +1559,7 @@ msgstr "Genom att trycka på 'c' får du tillgång till GRUB skalet."
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Pressing 'e' while 'Start Salix Live' is selected opens up the following display, enabling you to modify some of the booting options, for example to enter a boot parameter."
-msgstr "Genom att trycka 'e' medan \"Start Salix Live\" är markerad öppnar upp följande display, så att du kan ändra vissa av uppstarts alternativ, exempelvis att ange en uppstartsparameter."
+msgstr "Genom att trycka 'e' medan \"Start Salix Live\" är markerad öppnas följande display, så att du kan ändra vissa av uppstarts alternativ, exempelvis att ange en uppstartsparameter."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1789,7 +1789,7 @@ msgstr "Den resulterade CD'n får inte innehålla. Iso-filen, annars har du har 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Therefore all the instructions that apply to <g id='374'>Salix XFCE Live</g> are equally applicable to Salix LXDE Live."
-msgstr "Därför är alla de instruktioner som gäller för <g id='374'>Salix XFCE Live</g> är tillämpliga på Salix LXDE Live."
+msgstr "Därför är alla de instruktioner som gäller för <g id='374'>Salix XFCE Live</g> tillämpliga på Salix LXDE Live."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1799,7 +1799,7 @@ msgstr "Dessa funktioner kommer väl till pass när du skannar böcker och flers
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This can be particularly interesting if you regularly perform installations at friends/family/neigbours/schools/etc and you generally like to add your personnal touch/preferences/languages to those installations."
-msgstr "Detta kan vara särskilt intressant om du regelbundet utför installationer till vänner/familj/grannars/skolor/etc och du generellt vill lägga dina personliga prägel/inställningar/språk till sådana installationer."
+msgstr "Detta kan vara särskilt intressant om du regelbundet utför installationer till vänner/familj/grannar/skolor/etc och du generellt vill lägga dina personliga prägel/inställningar/språk till sådana installationer."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1824,7 +1824,7 @@ msgstr "Detta verktyg underlättar att definiera / se över värdnamn som använ
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "This utility manages the creation, deletion and properties of all the system users and groups of users."
-msgstr "Detta verktyg hanterar skapandet, borttagning av systemet alla användare och grupper av användare."
+msgstr "Detta verktyg hanterar skapandet, borttagning av systemets alla användare och grupper av användare."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1859,7 +1859,7 @@ msgstr "För att aktivera debug-läge:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "To enter a cheatcode, you simply have to add it to the 'linux' line above (after changes=slxsave.xfs), ensuring a blank space separates it from the previous boot parameter."
-msgstr "För att ange en cheatcode, behöver du bara lägga till den i \"linux\" raden ovan (efter förändring = slxsave.xfs), se till att ett mellanslag skiljer den från tidigare uppstartsparameter."
+msgstr "För att ange en cheatcode, behöver du bara lägga till den i \"linux\" raden ovan (efter changes=slxsave.xfs), se till att ett mellanslag skiljer den från tidigare uppstartsparameter."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
