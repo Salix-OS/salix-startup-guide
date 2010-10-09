@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: salix-live-startup-guide\n"
 "POT-Creation-Date: 2010-09-13 15:09+CET\n"
-"PO-Revision-Date: 2010-09-27 18:27+0100\n"
-"Last-Translator: Ingemar Karlsson <ingemar@ingk.se>\n"
+"PO-Revision-Date: 2010-10-09 13:25+0100\n"
+"Last-Translator: Ingemar Karlsson <po@ingk.se>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -34,7 +34,7 @@ msgstr "Om denna manual..."
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Adding files to Salix Live"
-msgstr "Lägger till filer till Salix Live"
+msgstr "Lägga till filer till Salix Live"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -124,7 +124,7 @@ msgstr "Exaile"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "File Roller"
-msgstr "File Roller"
+msgstr "Arkivhanterare"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -184,7 +184,7 @@ msgstr "Hur startar man upp från ett Salix Live USB-minne?"
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "How to install Salix Live on a USB key?"
-msgstr "Hur installerar man Salix Live på ett USB-minne?"
+msgstr "Hur man installerar Salix Live på ett USB-minne?"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -579,17 +579,17 @@ msgstr "1 - Skapa en arbetskatalog:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "1- Open the .iso file using a software archiver (file-roller, xarchiver, 7-zip, iso-master, …)."
-msgstr "1 - Öppna Iso fil med ett program (file-roller, xarchiver, 7-zip, iso-master, ...)."
+msgstr "1 - Öppna Iso filen med ett program (arkivhanterare, xarchiver, 7-zip, iso-master, ...)."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Copy Salix Live's CD content to your working directory:"
-msgstr "2 - Kopiera Salix Live CD innehåll till arbetskatalog:"
+msgstr "2 - Kopiera Salix Live CD innehållet till arbetskatalogen:"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "2- Extract all files and folders (boot, packages and salixlive) to your USB root directory."
-msgstr "2 - Extrahera alla filer och mappar (boot, paket och salixlive) till ditt USB-rotkatalogen."
+msgstr "2 - Extrahera alla filer och kataloger (boot, packages och salixlive) till ditt USB-minnes rotkatalog."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -614,7 +614,7 @@ msgstr "3 - Lägg till eller ta bort moduler eller filer som behövs:"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "3- Go to the \"boot\" directory on the USB key."
-msgstr "3 - Gå till \"boot\" katalog på USB-minnet."
+msgstr "3 - Gå till \"boot\" katalogen på USB-minnet."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -679,7 +679,7 @@ msgstr "<g id='146'><g id='147'>Geany</g></g><g id='148'> finns i Utvecklings pr
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "<g id='149'>Finally, Accessories applications include a variety of small, useful utilities among which are </g><g id='150'><g id='151'>Galculator</g></g><g id='152'>, </g><g id='153'><g id='154'>Mousepad</g></g><g id='155'>, </g><g id='156'><g id='157'>Catfish</g></g><g id='158'>, </g><g id='159'><g id='160'>File Roller</g></g><g id='161'>, </g><g id='162'><g id='163'>SCIM</g></g><g id='164'>, etc.</g>"
-msgstr "<g id='149'>Slutligen, Tillbehörs programen innehåller ett antal små, användbara program </g><g id='150'><g id='151'>Galculator</g></g><g id='152'>, </g><g id='153'><g id='154'>Mousepad</g></g><g id='155'>, </g><g id='156'><g id='157'>Catfish</g></g><g id='158'>, </g><g id='159'><g id='160'>File Roller</g></g><g id='161'>, </g><g id='162'><g id='163'>SCIM</g></g><g id='164'>, etc.</g>"
+msgstr "<g id='149'>Slutligen, Tillbehörs programmen innehåller ett antal små, användbara program </g><g id='150'><g id='151'>Galculator</g></g><g id='152'>, </g><g id='153'><g id='154'>Mousepad</g></g><g id='155'>, </g><g id='156'><g id='157'>Catfish</g></g><g id='158'>, </g><g id='159'><g id='160'>Arkivhanterare</g></g><g id='161'>, </g><g id='162'><g id='163'>SCIM</g></g><g id='164'>, etc.</g>"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
@@ -1129,7 +1129,7 @@ msgstr "Expandera en modul till en katalog"
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "File Roller is an archive manager."
-msgstr "File Roller är en arkiv hanterare."
+msgstr "Arkivhanterare är en arkiv hanterare."
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
