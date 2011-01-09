@@ -2,19 +2,19 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: salix-live-startup\n"
+"Project-Id-Version: Salix\n"
 "POT-Creation-Date: 2010-09-13 15:09+CET\n"
-"PO-Revision-Date: 2010-11-05 21:03+0100\n"
-"Last-Translator: Peter Polonkai <polesz@nedudu.hu>\n"
-"Language-Team: Nedudu Team <nedudu@nedudu.hu>\n"
+"PO-Revision-Date: 2011-01-09 13:04+0000\n"
+"Last-Translator: gapan <vlahavas@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: Hungarian\n"
-"X-Poedit-Country: HUNGARY\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -191,6 +191,7 @@ msgctxt "heading"
 msgid "Installing Salix "
 msgstr "Salix telepítése"
 
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Introduction"
@@ -211,12 +212,12 @@ msgctxt "heading"
 msgid "LXDE Edition"
 msgstr "LXDE Kiadás"
 
-#: SalixStartupGuide-en.odt:2
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Lilo Setup"
 msgstr "Lilo beállítás"
 
-#: SalixStartupGuide-en.odt:2
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Linux Live Scripts"
 msgstr "Linux Live szkriptek"
@@ -341,7 +342,7 @@ msgctxt "heading"
 msgid "Salix Codec Installer"
 msgstr "Salix Kodek Telepítő"
 
-#: SalixStartupGuide-en.odt:2
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live Installer"
 msgstr "Salix Live Telepítő"
@@ -1241,6 +1242,7 @@ msgctxt "paragraph"
 msgid "Installing Salix OS from the LiveCD"
 msgstr "Salix OS telepítése LiveCD-ről"
 
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Introduction"
@@ -2011,7 +2013,7 @@ msgctxt "paragraph"
 msgid "basic and scientific mode."
 msgstr "alap és tudományos mód."
 
-#: SalixStartupGuide-en.odt:2
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "cd /mnt/hdxx/"
 msgstr "cd /mnt/hdxx/"
@@ -2086,6 +2088,7 @@ msgctxt "paragraph"
 msgid "echo \"whatever\" > /mnt/hdxx/directory1/foo/bar"
 msgstr "echo \"whatever\" > /mnt/hdxx/directory1/foo/bar"
 
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "etc."
@@ -2205,53 +2208,3 @@ msgstr "rm /mnt/hdxx/custom_live/base/unwanted_module"
 msgctxt "title"
 msgid "Salix Live Startup Guide"
 msgstr "Salix Live Kézikönyv"
-
-#, fuzzy
-#~ msgctxt "paragraph"
-
-#~ msgid "Document Viewer is a a very lightweight, simple PDF document viewer."
-#~ msgstr "ePDFView a pehelykönnyű, egyszerű PDF dokumentum néző."
-
-#, fuzzy
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "Graphical applications include the <g id='56'>Gimp</g>, <g "
-#~ "id='57'>Viewnior</g> and <g id='58'>Simple Scan</g>"
-#~ msgstr ""
-#~ "Grafikus alkalmazások: <g id='56'>Gimp</g>, <g id='57'>Ristretto</g> és "
-#~ "<g id='58'>XSane</g>"
-
-#, fuzzy
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "Parole Media Player is a media player (audio and video) which utilizes "
-#~ "the GStreamer framework for playback."
-#~ msgstr ""
-#~ "Totem a média lejátszó (audió és videó) a GStreamer keretrendszer "
-#~ "használatával."
-#~ msgctxt "heading"
-
-#~ msgid "Ristretto"
-#~ msgstr "Ristretto"
-#~ msgctxt "heading"
-
-#~ msgid "Totem"
-#~ msgstr "Totem"
-#~ msgctxt "heading"
-
-#~ msgid "XSane"
-#~ msgstr "XSane"
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "4- Run \"bootinst.sh\" if you are on Linux or Unix, \"bootinst.bat\" if "
-#~ "you're on Windows."
-#~ msgstr ""
-#~ "4- \"bootinst.sh\" futtatása Linux és Unix alatt, \"bootinst.bat\" "
-#~ "Windows alatt."
-#~ msgctxt "heading"
-
-#~ msgid "Presentation"
-#~ msgstr "Prezentáció"

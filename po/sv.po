@@ -2,19 +2,19 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: salix-live-startup-guide\n"
+"Project-Id-Version: Salix\n"
 "POT-Creation-Date: 2010-09-13 15:09+CET\n"
-"PO-Revision-Date: 2010-10-12 20:38+0100\n"
-"Last-Translator: Ingemar Karlsson <ingemar@ingk.se>\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2011-01-09 13:04+0000\n"
+"Last-Translator: gapan <vlahavas@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: SWEDEN\n"
-"X-Poedit-Language: Swedish\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -191,6 +191,7 @@ msgctxt "heading"
 msgid "Installing Salix "
 msgstr "Installera Salix"
 
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Introduction"
@@ -211,12 +212,12 @@ msgctxt "heading"
 msgid "LXDE Edition"
 msgstr "LXDE Edition"
 
-#: SalixStartupGuide-en.odt:2
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Lilo Setup"
 msgstr "Lilo Setup"
 
-#: SalixStartupGuide-en.odt:2
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Linux Live Scripts"
 msgstr "Linux Live Script"
@@ -341,7 +342,7 @@ msgctxt "heading"
 msgid "Salix Codec Installer"
 msgstr "Salix Codec Installerare"
 
-#: SalixStartupGuide-en.odt:2
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live Installer"
 msgstr "Salix Live Installerare"
@@ -1241,6 +1242,7 @@ msgctxt "paragraph"
 msgid "Installing Salix OS from the LiveCD"
 msgstr "Installera Salix OS från LiveCD"
 
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Introduction"
@@ -2011,7 +2013,7 @@ msgctxt "paragraph"
 msgid "basic and scientific mode."
 msgstr "enkel och vetenskaps läge."
 
-#: SalixStartupGuide-en.odt:2
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "cd /mnt/hdxx/"
 msgstr "cd /mnt/hdxx/"
@@ -2086,6 +2088,7 @@ msgctxt "paragraph"
 msgid "echo \"whatever\" > /mnt/hdxx/directory1/foo/bar"
 msgstr "echo \"vadsomhelst\" > /mnt/hdxx/directory1/foo/bar"
 
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "etc."
@@ -2205,4 +2208,3 @@ msgstr "rm /mnt/hdxx/custom_live/base/unwanted_module"
 msgctxt "title"
 msgid "Salix Live Startup Guide"
 msgstr "Salix Live Startup Guide"
-

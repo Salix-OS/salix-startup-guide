@@ -2,20 +2,19 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 msgid ""
 msgstr ""
-"Project-Id-Version: salix-live-startup-guide\n"
-"POT-Creation-Date: 2010-09-13 13:09+CET\n"
-"PO-Revision-Date: 2010-09-13 21:57+0100\n"
-"Last-Translator: Pierrick Le Brun <akuna~at~free~dot~fr>\n"
-"Language-Team: Transifex\n"
+"Project-Id-Version: Salix\n"
+"POT-Creation-Date: 2010-09-13 15:09+CET\n"
+"PO-Revision-Date: 2011-01-09 13:04+0000\n"
+"Last-Translator: gapan <vlahavas@gmail.com>\n"
+"Language-Team: French <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Country: FRANCE\n"
-"X-Poedit-Language: French\n"
-"X-Poedit-SourceCharset: utf-8\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
 
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
@@ -192,6 +191,7 @@ msgctxt "heading"
 msgid "Installing Salix "
 msgstr "Installation de Salix "
 
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 #: SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Introduction"
@@ -212,12 +212,12 @@ msgctxt "heading"
 msgid "LXDE Edition"
 msgstr "Édition LXDE"
 
-#: SalixStartupGuide-en.odt:2
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Lilo Setup"
 msgstr "Lilo Setup"
 
-#: SalixStartupGuide-en.odt:2
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Linux Live Scripts"
 msgstr "Linux Live Scripts"
@@ -342,7 +342,7 @@ msgctxt "heading"
 msgid "Salix Codec Installer"
 msgstr "Salix Codecs Installer"
 
-#: SalixStartupGuide-en.odt:2
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "heading"
 msgid "Salix Live Installer"
 msgstr "Salix Live Installer"
@@ -1242,6 +1242,7 @@ msgctxt "paragraph"
 msgid "Installing Salix OS from the LiveCD"
 msgstr "Installation de Salix OS à partir du LiveCD"
 
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "Introduction"
@@ -2012,7 +2013,7 @@ msgctxt "paragraph"
 msgid "basic and scientific mode."
 msgstr "un mode de base et un mode scientifique."
 
-#: SalixStartupGuide-en.odt:2
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "cd /mnt/hdxx/"
 msgstr "cd /mnt/hdxx/"
@@ -2087,6 +2088,7 @@ msgctxt "paragraph"
 msgid "echo \"whatever\" > /mnt/hdxx/directory1/foo/bar"
 msgstr "echo \"whatever\" > /mnt/hdxx/directory1/foo/bar"
 
+#: SalixStartupGuide-en.odt:2 SalixStartupGuide-en.odt:2
 #: SalixStartupGuide-en.odt:2
 msgctxt "paragraph"
 msgid "etc."
@@ -2206,208 +2208,3 @@ msgstr "rm /mnt/hdxx/custom_live/base/unwanted_module"
 msgctxt "title"
 msgid "Salix Live Startup Guide"
 msgstr "Guide de démarrage Salix"
-
-#, fuzzy
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "In the case of a Live USB Key generation, you will be offered to make "
-#~ "your USB key with “</g><g id='265'><g id='266'>persistence</g></g><g "
-#~ "id='267'>”.</g>"
-#~ msgstr ""
-#~ "Dans le cas d'une génération de clé USB Live, il vous sera proposé de "
-#~ "faire votre clé USB avec une gestion de la \"</g><g id='289'><g "
-#~ "id='290'>persistance</g></g><g id='291'>\".</g>"
-
-#, fuzzy
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "It <x id='185'/>will display available sound cards in your system and let "
-#~ "you select the card you want to use in preference."
-#~ msgstr ""
-#~ "Il permet d'afficher les cartes son disponibles dans votre système et "
-#~ "vous permettent de sélectionner la carte que vous souhaitez utiliser de "
-#~ "préférence."
-
-#, fuzzy
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "It <x id='186'/>will display a possible course of action for each new "
-#~ "configuration file found in the system."
-#~ msgstr ""
-#~ "Il affichera un plan d'action possible pour chaque nouveau fichier de "
-#~ "configuration dans le système."
-#~ msgctxt "heading"
-
-#~ msgid "Viewer)"
-#~ msgstr "Viewnior"
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "<g id='154'>A disk device can be subdivided into one or more partitions</"
-#~ "g>."
-#~ msgstr ""
-#~ "<g id='154'>Un disque peut être subdivisé en une ou plusieurs partitions."
-#~ "</g>"
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "<g id='84'>Slapt-get</g> is a CLI tool providing an APT‑like system for "
-#~ "Slackware package management."
-#~ msgstr ""
-#~ "<g id='84'>Slapt–get</g> est un outil en ligne de commande fournissant un "
-#~ "système de gestion des paquets type APT, pour Slackware."
-#~ msgctxt "paragraph"
-
-#~ msgid "Document Viewer is a a very lightweight, simple PDF document viewer."
-#~ msgstr ""
-#~ "Visionneur de documents est un afficheur simple et léger de documents PDF."
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "Graphical applications include the <g id='56'>Gimp</g>, <g "
-#~ "id='57'>Viewnior</g> and <g id='58'>Simple Scan</g>"
-#~ msgstr ""
-#~ "Les applications graphiques comprennent <g id='56'>Gimp</g>, <g "
-#~ "id='57'>Viewnior</g> et <g id='58'>Simple Scan</g>"
-#~ msgctxt "paragraph"
-
-#~ msgid "Gslapt is the GUI version of <g id='85'>Slapt-get</g>."
-#~ msgstr "Gslapt est la version graphique de <g id='85'>Slapt–get</g>."
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "If you do however, you might want to modify the default qwebircxxx login "
-#~ "to something more personal and human readable."
-#~ msgstr ""
-#~ "Si vous voulez, vous pourrez modifier le login par défaut qwebircxxx par "
-#~ "quelque chose de plus personnel et plus lisible."
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "Just by dragging your video clips, you can create your own film clips."
-#~ msgstr ""
-#~ "Juste en faisant glisser vos clips vidéo, vous pouvez créer vos propres "
-#~ "films."
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "On the first boot from a USB key, an advanced bootloader will be "
-#~ "installed (grub2) and the system will reboot once, this process is normal "
-#~ "and only happens once."
-#~ msgstr ""
-#~ "Lors du premier démarrage depuis une clé USB, un chargeur de démarrage "
-#~ "avancé (grub2) sera installé et le système va redémarrer une fois, ce "
-#~ "processus est normal et ne se produit qu'une seule fois."
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "Once the installation process is completed, You will be given the choice "
-#~ "to launch <g id='160'>Lilo Setup</g> to configure your LILO bootloader."
-#~ msgstr ""
-#~ "Une fois l'installation terminée, vous aurez le choix de lancer <g "
-#~ "id='160'>Lilo Setup</g> pour configurer votre chargeur de démarrage LILO."
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "Our <g id='87'>Wiki</g> and <g id='88'>Forum</g> will be two other "
-#~ "important sources of information."
-#~ msgstr ""
-#~ "Notre <g id='87'>Wiki</g> et notre <g id='88'>Forum</g> seront deux "
-#~ "autres sources importantes d'informations."
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "Parole Media Player is a media player (audio and video) which utilizes "
-#~ "the GStreamer framework for playback."
-#~ msgstr ""
-#~ "Le lecteur multimédia Parole est un lecteur multimédia (audio et vidéo) "
-#~ "qui utilise GStreamer pour la lecture."
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "The desktop link, Salix Online, will bring you to the Salix <g "
-#~ "id='86'>Homepage</g>."
-#~ msgstr ""
-#~ "Le lien sur le bureau, Salix Online, vous amènera sur la <g id='86'>Page "
-#~ "d'accueil</g> de Salix."
-#~ msgctxt "paragraph"
-
-#~ msgid "The interface is intuitive to most."
-#~ msgstr "L'interface est intuitive pour tout le monde."
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "The search option of the forum will quickly show you if the question you "
-#~ "have in mind has already been posted by a member of the community and if "
-#~ "it has been answered."
-#~ msgstr ""
-#~ "L'option de recherche du forum vous montrera rapidement si la question "
-#~ "que vous avez à l'esprit a déjà été envoyé par un membre de la communauté "
-#~ "et si elle a été répondue."
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "This is ideal for advanced users who would like to install a lightweight "
-#~ "Xfce and add their own choice of applications."
-#~ msgstr ""
-#~ "Cette fonction est idéale pour les utilisateurs avancés qui souhaitent "
-#~ "installer un Xfce léger et ajouter leur propre choix d'applications."
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "You will be greeted by a reminder that all the necessary partitions have "
-#~ "to be created first."
-#~ msgstr ""
-#~ "Vous serez accueillis par un rappel que toutes les partitions nécessaires "
-#~ "doivent d'abord être créées."
-#~ msgctxt "heading"
-
-#~ msgid "Ristretto"
-#~ msgstr "Ristretto"
-#~ msgctxt "heading"
-
-#~ msgid "Totem"
-#~ msgstr "Totem"
-#~ msgctxt "heading"
-
-#~ msgid "XSane"
-#~ msgstr "XSane"
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "4- Run \"bootinst.sh\" if you are on Linux or Unix, \"bootinst.bat\" if "
-#~ "you're on Windows."
-#~ msgstr ""
-#~ "4- Exécutez \"bootinst.sh\" si vous êtes sous Linux ou Unix, \"bootinst."
-#~ "bat\" si vous êtes sur Windows."
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "Alternatively, you can run \"install-on-USB\" if you're on Linux and have "
-#~ "grub2 installed;"
-#~ msgstr ""
-#~ "Autre alternative, vous pouvez exécuter \"install-on-USB\" si vous êtes "
-#~ "sous Linux et que grub2 est installé ;"
-#~ msgctxt "paragraph"
-
-#~ msgid ""
-#~ "XSane is a GUI scanning utility which uses the SANE library to "
-#~ "communicate with scanners."
-#~ msgstr ""
-#~ "XSane est une interface graphique pour scanner des documents. Elle "
-#~ "utilise la bibliothèque SANE pour communiquer avec les scanners."
-#~ msgctxt "paragraph"
-
-#~ msgid "this will prevent the first \"reboot on first boot\" operation."
-#~ msgstr "cela évitera la nécessité du \"redémarrage au premier démarrage\"."
-#~ msgctxt "heading"
-
-#~ msgid "Introduc"
-#~ msgstr "Introduction"
-#~ msgctxt "heading"
-
-#~ msgid "Presentation"
-#~ msgstr "Présentation"
