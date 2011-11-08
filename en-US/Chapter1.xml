@@ -1,0 +1,322 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Startup_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Startup_Guide-Salix_OS_at_a_Glance">
+	<title>Salix OS at a Glance</title>
+	 <para>
+
+	</para>
+	 <mediaobject>
+		<imageobject>
+			<imagedata fileref="./images/m61eb9d14.png" width="500" />
+		</imageobject>
+		 <textobject>
+			<phrase>Screenshot of SalixOS 13.37 default desktop</phrase>
+		</textobject>
+
+	</mediaobject>
+	 <para>
+
+	</para>
+	 <para>
+		Salix OS is a <ulink url="http://en.wikipedia.org/wiki/Linux_distro">Linux Distribution</ulink> based on <ulink url="http://en.wikipedia.org/wiki/Slackware">Slackware</ulink> that retains full backwards compatibility with its illustrious parent. However, while the <ulink url="http://en.wikipedia.org/wiki/KISS_principle">KISS</ulink> principle that Slackware adheres to refers to the viewpoint of system design, Salix OS also applies it to the viewpoint of the end user.
+	</para>
+	 <para>
+
+	</para>
+	 <section id="sect-Startup_Guide-Salix_OS_at_a_Glance-Salix_Features">
+		<title>Salix Features</title>
+		 <orderedlist>
+			<listitem>
+				<para>
+					One application per task rationale
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Fully backwards compatible with Slackware
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Optimised for desktop usage
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					With Salix tools to assist system management (See <xref linkend="sect-Startup_Guide-Your_Salix-Salix_Tools" />)
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					High quality package repositories with dependency support
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Simple and fully localised system administration tools
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Salix artwork
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Live CD / USB option
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Supports 32-bit and 64-bit architectures
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					Comes with a complete development environment
+				</para>
+
+			</listitem>
+
+		</orderedlist>
+		 <note>
+			<title>In Short, Salix OS is...</title>
+			 <para>
+				“Like a bonsai, Salix is small, light and the product of infinite care!”
+			</para>
+
+		</note>
+
+	</section>
+	
+	 <section id="sect-Startup_Guide-Salix_OS_at_a_Glance-Salix_Editions">
+		<title>Salix Editions</title>
+		 <para>
+			Salix OS comes in five different editions – Xfce, LXDE, KDE, Fluxbox and Ratpoison.
+		</para>
+		 <para>
+			The choice is yours: with a streamlined Xfce desktop environment, elegant KDE 4.5.5 accompanied by a very rich collection of KDE centric software, minimalistic Fluxbox window manager, wickedly fast LXDE desktop or “say good-bye to the rodent” Ratpoison, all with the Salix look and feel!
+		</para>
+		 <mediaobject>
+			<imageobject>
+				<imagedata fileref="./images/m2df8c4d5.jpg" width="500" />
+			</imageobject>
+			 <textobject>
+				<phrase>Screenshot of the different edition of SalixOS 13.37</phrase>
+			</textobject>
+
+		</mediaobject>
+		 <para>
+			For a list of applications available in each Edition, please refer to <xref linkend="appe-Startup_Guide-List_of_Applications" />.
+		</para>
+
+	</section>
+	
+	 <section id="sect-Startup_Guide-Salix_OS_at_a_Glance-Installation_Mode">
+		<title>Installation Mode</title>
+		 <para>
+			Salix offers three software installation options: Full, Basic and Core, to meet your demands!
+		</para>
+		 <para>
+
+		</para>
+		 <informaltable frame="all">
+			<tgroup cols="4">
+				<tbody>
+					<row>
+						<entry>
+							<para>
+								Installation Type
+							</para>
+
+						</entry>
+						 <entry>
+							<para>
+								Target Users
+							</para>
+
+						</entry>
+						 <entry>
+							<para>
+								Features
+							</para>
+
+						</entry>
+						 <entry>
+							<para>
+								Examples of Available Applications
+							</para>
+
+						</entry>
+
+					</row>
+					 <row>
+						<entry>
+							<para>
+								Full
+							</para>
+
+						</entry>
+						 <entry>
+							<para>
+								All users
+							</para>
+
+						</entry>
+						 <entry>
+							<para>
+								▫ Graphical environment
+							</para>
+							 <para>
+								▫ Full software installation
+							</para>
+
+						</entry>
+						 <entry>
+							<para>
+								▫ Libreoffice
+							</para>
+							 <para>
+								▫ Exaile
+							</para>
+							 <para>
+								▫ Firefox / Midori
+							</para>
+							 <para>
+								▫ Pidgin
+							</para>
+
+						</entry>
+
+					</row>
+					 <row>
+						<entry>
+							<para>
+								Basic
+							</para>
+
+						</entry>
+						 <entry>
+							<para>
+								Advanced users who would like to add their own choice of applications
+							</para>
+
+						</entry>
+						 <entry>
+							<para>
+								▫ Graphical environment
+							</para>
+							 <para>
+								▫ Minimum selection of software
+							</para>
+
+						</entry>
+						 <entry>
+							<para>
+								▫ Firefox / Midori
+							</para>
+							 <para>
+								▫ Gslapt
+							</para>
+							 <para>
+								▫ Desktop
+							</para>
+
+						</entry>
+
+					</row>
+					 <row>
+						<entry>
+							<para>
+								Core
+							</para>
+
+						</entry>
+						 <entry>
+							<para>
+								Advanced users who would like to run a console system
+							</para>
+							 <para>
+								Server maintainers
+							</para>
+
+						</entry>
+						 <entry>
+							<para>
+								▫ No graphical environment
+							</para>
+							 <para>
+								▫ Minimum number of software essential for a console system
+							</para>
+							 <para>
+
+							</para>
+
+						</entry>
+						 <entry>
+							<para>
+								▫ vi
+							</para>
+
+						</entry>
+
+					</row>
+
+				</tbody>
+
+			</tgroup>
+
+		</informaltable>
+		 <para>
+
+		</para>
+
+	</section>
+	
+	 <section id="sect-Startup_Guide-Salix_OS_at_a_Glance-Salix_Repositories_amp_Package_Management">
+		<title>Salix Repositories &amp; Package Management</title>
+		 <orderedlist>
+			<listitem>
+				<para>
+					slapt-get and its graphical interface Gslapt are used for package management, including slapt-src and Sourcery for even wider selection of software to choose from!
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					A wide range of packages from Slackware, Slackbuild and Salix repositories
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					The Salix repositories offer dependency resolution support and are the largest third party software package repositories for Slackware offered to date
+				</para>
+
+			</listitem>
+			 <listitem>
+				<para>
+					The Salix repositories are offered for both the 32-bit and 64-bit architectures
+				</para>
+
+			</listitem>
+
+		</orderedlist>
+
+	</section>
+	
+
+</chapter>
+

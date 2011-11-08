@@ -1,0 +1,635 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Startup_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Startup_Guide-Your_Salix">
+	<title>Your Salix</title>
+	 <para>
+
+	</para>
+	 <section id="sect-Startup_Guide-Your_Salix-Package_Management">
+		<title>Package Management</title>
+		 <para>
+			Installing applications (which roughly equates to “installing packages” as we say in Linux) is a fundamental part of the Linux experience. Superficially it is just an exercise using package managers such as Gslapt and its command line equivalent, slapt-get, for installing packages created by others. Soon you will start to see some packages you are interested in are not in the common repositories, and you will start creating your own packages. For some, this could be the very first time they see their build scripts working in the terminal, checking for configuration errors and chasing after some missing dependencies to compile a program. Some frustration may hit you initially, but then in good time, you will gather enough experience and as you start to see the inner workings of Linux, you will become more confident.
+		</para>
+		 <important>
+			<title>Reminder!</title>
+			 <para>
+				You have to be the superuser in order to install an application (see <xref linkend="sect-Startup_Guide-Introduction-Root_Password" />).
+			</para>
+
+		</important>
+		 <section id="sect-Startup_Guide-Package_Management-Gslapt">
+			<title>Gslapt</title>
+			 <para>
+				Gslapt is the GUI version of slapt-get (see <xref linkend="sect-Startup_Guide-Package_Management-slapt_get" />). It allows one to search Slackware/Salix mirrors and third party sources for packages. Before use you should first click on the <guibutton> Update</guibutton> button to ensure that the latest updates from the software repositories are known to Gslapt. The search field is there for you to search for a particular package. You can highlight with your left click and choose to install/uninstall/reinstall packages with a right click. Gslapt detects dependencies and will install all the dependency files for a package automatically. Installation/uninstallation/reinstallation will take place once you click on the <guibutton>Execute</guibutton> button. You can blacklist packages by adding their names to the blacklist found in <guimenuitem>Preferences</guimenuitem> under <guimenuitem>Edit</guimenuitem>.
+			</para>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="./images/m5f75e440.png" width="500" />
+				</imageobject>
+				 <textobject>
+					<phrase>Screenshot of Gslapt</phrase>
+				</textobject>
+
+			</mediaobject>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Package_Management-slapt_get">
+			<title>slapt-get</title>
+			 <para>
+				<ulink url="http://software.jaos.org/git/slapt-get/plain/FAQ.html">slapt-get</ulink> is a command line tool for Slackware package management. It allows one to search Slackware/Salix mirrors and third party sources for packages, compare them with installed packages, install new packages, or upgrade all installed packages.
+			</para>
+			 <para>
+				To use the application, open a Terminal window and issue the command <userinput>slapt-get -u</userinput> first to update the package database on your computer. Then <userinput>slapt-get -l</userinput> to list all the available packages, <userinput>slapt-get –search [package name]</userinput>; to search for a package, and <userinput>slapt-get -i [package name]</userinput> to install a package. For more command line instructions, please refer to <userinput>slapt-get –-help</userinput>.
+			</para>
+			 <para>
+				Here is a little exercise for you. Try installing <emphasis role="bold">w3m</emphasis> which is a terminal based web browser, by using slapt-get.
+			</para>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Package_Management-Sourcery">
+			<title>Sourcery</title>
+			 <para>
+				Sourcery is a new graphical frontend to slapt-src (see <xref linkend="sect-Startup_Guide-Package_Management-slapt_src" />), a utility to build and install packages from source using SlackBuilds and/or SLKBUILDs. Before use, you should first click on the <guibutton>Update</guibutton> button on the tool bar to ensure that the latest updates from the software repositories are known to Sourcery. The search field is there for you to search for a particular package, and installations, uninstallations or reinstallations of selected packages are done with right clicks on their status boxes.
+			</para>
+			 <para>
+
+			</para>
+			 <para>
+				Installation/uninstallation/reinstallation will take place once you click on the <guibutton>Execute</guibutton> button.
+			</para>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="./images/m7b675ef9.png" width="500" />
+				</imageobject>
+				 <textobject>
+					<phrase>Screenshot of Sourcery</phrase>
+				</textobject>
+
+			</mediaobject>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Package_Management-slapt_src">
+			<title>slapt-src</title>
+			 <para>
+				slapt-src is a command line tool that makes the process of downloading and building software packages from slackbuilds.org simple and easy. Slackbuilds.org keeps a large collection of build scripts for extra packages that are still not available from the official Salix / Slackware repositories. Thousands of extra packages are now available to users through this tool.
+			</para>
+			 <para>
+				To use the application, type in “slapt-src -u” first to update on your computer the list of build scripts available from Slackbuild.org. “slapt-src -l” shows you a list of available packages, and as in slapt-get, “slapt-src -i [package name]” will install a package. For more command line instructions, please refer to “slapt-src –help”.
+			</para>
+			 <para>
+				Another small exercise for you! Skype is a commonly used software to make voice calls over the Internet. It is not available from the common Salix / Slackware repository, but its build script is available from Slackbuilds.org. Try installing “skype” by using slapt-src. (If you do not wish to install it, you may just want to build the package. Note that the skype is 32-bit only, so if you are running a 64-bit system, please try out some other application).
+			</para>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Package_Management-spkg">
+			<title>spkg</title>
+			 <para>
+				An alternative way to install a package (which for Salix and many other slackware based distribution ends with the .tgz, .tlz or .txz extension) is to use the command line input “spkg -i [exact name of a package]”. This is a handy way of installing a package if you have just created your own package or if you have downloaded it from the Internet. Note that the name of the package must be exact to the last extension (as in xxxxx-i486-tt.txz).
+			</para>
+			 <para>
+				Removing a package is somewhat similar. You can remove a package by issuing “spkg -d [software name]”, e.g. “spkg -d skype”.
+			</para>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Package_Management-Making_a_Package_from_a_Source_File_with_SLKBUILD">
+			<title>Making a Package from a Source File with SLKBUILD</title>
+			 <para>
+				Installing a software from a source file is in most cases not difficult. You can compile a lot of software generally with the following commands.
+			</para>
+			 <orderedlist>
+				<listitem>
+					<para>
+						unpack a source file, move inside the folder
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						type in “./configure” on the terminal
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						type in “make”
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						type in “su”
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						type your root password
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						type in “make install”
+					</para>
+
+				</listitem>
+
+			</orderedlist>
+			 <para>
+				(Make sure to read accompanying files such as “README”, “INSTALL” and so on for installation instructions before compiling. These files may list dependency packages which you need to install prior to the configuration. ./configure --help or ./configure --help=short output should also help you with some configuration options).
+			</para>
+			 <para>
+				Although you should manage to install the software after the final command, it is essentially untracked and neither Gslapt nor slapt-get can see that the software is installed. A better way is to create a Salix package using SLKBUILD, which is a build script you can prepare before issuing “slkbuild -X” to create a Salix compatible package. For more on SLKBULD, please consult <ulink url="http://www.salixos.org/wiki/index.php/Building_packages_with_slkbuild">SLKBUILD</ulink>.
+			</para>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Package_Management-Salix_Packages_that_are_different_from_Slackware">
+			<title>Salix Packages, that are different from Slackware</title>
+			 <para>
+				Although the vast majority of packages found in the Salix repositories are complementary to the Slackware repositories, you will find that some packages are present both in the Salix repositories and in the Slackware repositories. These packages have been rebuilt for Salix OS for a number of good reasons, and a list of the packages as well as brief explanations as to why are found in <ulink url="http://www.salixos.org/wiki/index.php/Packages,_that_are_different_from_Slackware">this wiki entry</ulink>.
+			</para>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Package_Management-Upgrading_Salix_OS_to_a_Newer_Version">
+			<title>Upgrading Salix OS to a Newer Version</title>
+			 <para>
+				If you wish to upgrade an older version of Salix OS on your machine to the latest, please refer to the following link for upgrading your Salix OS.
+			</para>
+			 <orderedlist>
+				<listitem>
+					<para>
+						<ulink url="http://www.salixos.org/wiki/index.php/How_to_upgrade_Salix_13.0_to_13.1">Salix 13.0 to 13.1</ulink>
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						<ulink url="http://www.salixos.org/wiki/index.php/How_to_upgrade_Salix_13.1_to_13.37">Salix 13.1 to 13.37</ulink>
+					</para>
+
+				</listitem>
+
+			</orderedlist>
+
+		</section>
+		
+
+	</section>
+	
+	 <section id="sect-Startup_Guide-Your_Salix-Configuring_Your_Salix">
+		<title>Configuring Your Salix</title>
+		 <para>
+
+		</para>
+		 <section id="sect-Startup_Guide-Configuring_Your_Salix-Setting_up_the_Internet">
+			<title>Setting up the Internet</title>
+			 <para>
+				Network connections are managed by Wicd in Salix. It is an open source wired and wireless network manager for Linux which aims to provide a simple interface to connect to networks with a wide variety of settings.
+			</para>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="./images/m4a3f324d.png" />
+				</imageobject>
+				 <textobject>
+					<phrase>Screenshot of Wicd</phrase>
+				</textobject>
+
+			</mediaobject>
+			 <para>
+				It will connect to wired (Ethernet only, no PPPoE/DSL support yet) and wireless networks.
+			</para>
+			 <para>
+				Note that wicd and wireless must be activated in the startup services (see <xref linkend="sect-Startup_Guide-Salix_Tools-Startup_Services" />) in order to make wireless networks visible on Wicd.
+			</para>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Configuring_Your_Salix-Setting_up_a_Printer">
+			<title>Setting up a Printer</title>
+			 <para>
+				After writing a document, transferring photos from your camera, or creating your own images with GIMP, you would probably like to print them out with your printer. To do this, you need to have a printer already installed on your system. “Manage Printing”, which is found under “System” in the main application menu, handles the installation and general management of your printers. (Ensure that “CUPS” is enabled in the startup services (see <xref linkend="sect-Startup_Guide-Salix_Tools-Startup_Services" />), or Manage Printing will not start properly).
+			</para>
+			 <para>
+				If you are buying a new printer, it is recommended to check the availability of Linux drivers beforehand from the <ulink url="http://www.linuxfoundation.org/collaborate/workgroups/openprinting/database/databaseintro">Open Printing database</ulink> (or search on the Internet). Some companies offer printer drivers for Linux, but this is less common than desired, and often involves a lengthy installation process. For most Linux friendly printers, you have to install drivers such as gutenprint and HPIJS, both of which are available from the repositories.
+			</para>
+			 <orderedlist>
+				<listitem>
+					<para>
+						Select “Add Printers and Classes”
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						Under “Printers”, select “Add Printer”
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						Enter “root” as a username and your superuser password
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						Select your printer description and choose if you would like to share the printer
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						Select the correct driver from the list (Model) – see an example below. This is the important part. Or if you have a <ulink url="http://en.wikipedia.org/wiki/PostScript_Printer_Description">PPD</ulink> file instead, you can load it here.
+					</para>
+					 <mediaobject>
+						<imageobject>
+							<imagedata fileref="./images/m16f97de6.png" width="500" />
+						</imageobject>
+						 <textobject>
+							<phrase>Screenshot of Printer Configuration</phrase>
+						</textobject>
+
+					</mediaobject>
+
+				</listitem>
+				 <listitem>
+					<para>
+						Select Add Printer, and finish the process by configuring details of the printer.
+					</para>
+
+				</listitem>
+				 <listitem>
+					<para>
+						Now the printer should be usable on your computer
+					</para>
+					 <para>
+						For setting up a network printer, please consult the Salix <ulink url="http://www.salixos.org/wiki/index.php/How_to_share_a_printer_via_CUPS">wiki</ulink>.
+					</para>
+
+				</listitem>
+
+			</orderedlist>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Configuring_Your_Salix-Salix_Codecs_Installer">
+			<title>Salix Codecs Installer</title>
+			 <para>
+				Salix only includes, by default, software that are legally free to use in any country, and that means that proprietary media formats are not configured “out of the box”. Most commercial DVDs are encrypted, and that means that you need to install certain codecs to view them. This is legally permitted in most countries but not all. Please check and obtain legal advice if you are unsure whether a particular legal restriction applies to a media format and/or packages you wish to use in your country.
+			</para>
+			 <para>
+				Salix codecs installer can be found under “Multimedia” in the main application menu, and conveniently install those codecs to enhance your viewing experiences.
+			</para>
+			 <para>
+				For more information on what is actually installed, please see <ulink url="http://www.salixos.org/wiki/index.php/What_gets_installed_with_the_%22Install_multimedia_codecs%22_application?">here</ulink>.
+			</para>
+
+		</section>
+		
+
+	</section>
+	
+	 <section id="sect-Startup_Guide-Your_Salix-Salix_Tools">
+		<title>Salix Tools</title>
+		 <para>
+
+		</para>
+		 <section id="sect-Startup_Guide-Salix_Tools-What_are_the_Salix_Tools">
+			<title>What are the Salix Tools?</title>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="./images/3967a40f.png" />
+				</imageobject>
+				 <textobject>
+					<phrase>Screenshot of System Menu</phrase>
+				</textobject>
+
+			</mediaobject>
+			 <para>
+				Salix tools are a collection of utilities that are designed to manage every aspect of Salix configuration easily. You can find these tools under the System section of the application menu. Of course, system management in Salix OS can also be done the usual (<ulink url="http://www.slackbook.org/html/book.html">manual</ulink>) Slackware way.
+			</para>
+			 <para>
+				Please note that most Salix tools (except Lilo Setup) have an ncurses counterpart which can be used in a non-graphical environment (<ulink url="http://www.bilbos-stekkie.com/slack_init/en/init.html#SLACK-RUNLEVELS">runlevel 3</ulink>).
+			</para>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Salix_Tools-ALSA_Sound_Card">
+			<title>ALSA Sound Card</title>
+			 <para>
+				ALSA Sound Card manages the system sound card configuration. It will display available sound cards in your system and let you select the card you want to use in preference. This is particularly useful when you have multiple sound cards in your system, and you would like to assign a sound card for your system other than the one automatically picked during installation/start-up.
+			</para>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="./images/m2ef6b7d6.png" width="500" />
+				</imageobject>
+				 <textobject>
+					<phrase>Screenshot of Alsa configuration utility</phrase>
+				</textobject>
+
+			</mediaobject>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Salix_Tools-Rebuild_Icon_Cache">
+			<title>Rebuild Icon Cache</title>
+			 <para>
+				As the name indicates, Rebuild Icon Cache reconnects some icons that may have become lost after updating your system / installing some new program, and makes them appear again in the application menu.
+			</para>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Salix_Tools-Hostnames">
+			<title>Hostnames</title>
+			 <para>
+				Hostnames manages the host names used by your computer. This tool facilitates defining / overviewing host names used while setting up your machine as a server.
+			</para>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="./images/7926d3fa.png" width="500" />
+				</imageobject>
+				 <textobject>
+					<phrase>Screenshot of Hostname utility</phrase>
+				</textobject>
+
+			</mediaobject>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Salix_Tools-Dotnew">
+			<title>Dotnew</title>
+			 <para>
+				Dotnew manages the system configuration upgrades used by Slackware. It will display a possible course of action for each new configuration file found in the system.
+			</para>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="./images/3abe4f1a.jpg" width="500" />
+				</imageobject>
+				 <textobject>
+					<phrase>Screenshot of Dotnew setting utility</phrase>
+				</textobject>
+
+			</mediaobject>
+			 <para>
+				To execute this utility in runlevel 3, simply type dotnew.
+			</para>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Salix_Tools-Keyboard_Layout">
+			<title>Keyboard Layout</title>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="./images/m6e7eada0.png" width="500" />
+				</imageobject>
+				 <textobject>
+					<phrase>Screenshot of Keyboard Setup utility</phrase>
+				</textobject>
+
+			</mediaobject>
+			 <para>
+				This utility will configure the keyboard disposition being used both in the graphical and non-graphical environments. Modifications are applied instantly.
+			</para>
+			 <para>
+				Note that if you would like to activate Ibus (see <xref linkend="sect-Startup_Guide-Selected_Applications_found_in_Salix-Ibus" />) during the start up, you can do so by ticking the optional box.
+			</para>
+			 <para>
+				To execute this utility in runlevel 3, simply type keyboardsetup.
+			</para>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Salix_Tools-Lilo_Setup">
+			<title>Lilo Setup</title>
+			 <para>
+				Lilo Setup will install a new LILO bootloader on your computer.
+			</para>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="./images/1127e4be.png" width="500" />
+				</imageobject>
+				 <textobject>
+					<phrase>Screenshot of LiloSetup utility</phrase>
+				</textobject>
+
+			</mediaobject>
+			 <para>
+				A bootloader is required to load the main operating system of a computer and will initially display a boot menu if several operating systems are available on the same computer.
+			</para>
+			 <para>
+				It is necessary to (re)configure the bootloader each time you install a new operating system on your computer.
+			</para>
+			 <para>
+				Lilo Setup can also be useful in the process of a disaster recovery, in which case you may have to launch it from a Live CD if you have lost all other means to boot into your system.
+			</para>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Salix_Tools-Startup_Services">
+			<title>Startup Services</title>
+			 <para>
+				Here you will be able to select the services that should or shouldn't be activated in the background when your system starts.
+			</para>
+			 <para>
+				All your modifications will be applied instantly if you press on the OK button and will not necessitate a reboot.
+			</para>
+			 <para>
+				To execute this utility in runlevel 3, simply type servicesetup.
+			</para>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="./images/m266ffa76.png" width="500" />
+				</imageobject>
+				 <textobject>
+					<phrase>Screenshot of Services Setting utility</phrase>
+				</textobject>
+
+			</mediaobject>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Salix_Tools-System_Language">
+			<title>System Language</title>
+			 <para>
+				This utility will configure the language of your system.
+			</para>
+			 <para>
+				To execute it in runlevel 3, simply type localesetup.
+			</para>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Salix_Tools-System_Clock">
+			<title>System Clock</title>
+			 <para>
+				This utility will configure your computer clock.
+			</para>
+			 <para>
+				To execute it in runlevel 3, simply type clocksetup.
+			</para>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Salix_Tools-Users_Profile">
+			<title>Users Profile</title>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="./images/m11ed8757.png" width="500" />
+				</imageobject>
+				 <textobject>
+					<phrase>Screenshot of User Management utility</phrase>
+				</textobject>
+
+			</mediaobject>
+			 <para>
+				In Unix/Linux, all users and groups of users are given certain <ulink url="http://en.wikibooks.org/wiki/UNIX_Computing_Security/Access_authorization">permissions and access rights</ulink> to some part of the system in order to control their ability to access and change it.
+			</para>
+			 <para>
+				This utility manages the creation, deletion and properties of all the system users and groups of users.
+			</para>
+			 <para>
+				To execute it in runlevel 3, simply type usersetup.
+			</para>
+			 <para>
+
+			</para>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Salix_Tools-Salix_Update_Notifier">
+			<title>Salix-Update-Notifier</title>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="./images/14cd5caf.png" />
+				</imageobject>
+				 <textobject>
+					<phrase>Screenshot of Salix update notifier</phrase>
+				</textobject>
+
+			</mediaobject>
+			 <para>
+				Salix update notifier is a tool that periodically checks for available package updates and informs the user about them with the display of a non-intrusive tray icon, which can be used to launch the upgrade process with Gslapt.
+			</para>
+			 <para>
+
+			</para>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Salix_Tools-Salix_Live_Tools">
+			<title>Salix Live Tools</title>
+			 <para>
+
+			</para>
+			 <section id="sect-Startup_Guide-Salix_Live_Tools-What_are_the_Live_Tools">
+				<title>What are the Live Tools?</title>
+				 <para>
+					Salix Live comes with all the default software included in Salix OS (see <xref linkend="appe-Startup_Guide-List_of_Applications" />).
+				</para>
+				 <para>
+					However, due to its Live nature it also includes some extra utilities which are either needed or simply very useful in a Live session.
+				</para>
+				 <para>
+					Some of the Live Tools are graphical utilities that can be accessed directly on the desktop while some Live Tools, reserved for advanced users, can only be executed from the command line (<ulink url="http://en.wikipedia.org/wiki/Command-line_interface">CLI</ulink>).
+				</para>
+				 <mediaobject>
+					<imageobject>
+						<imagedata fileref="./images/ma1835ea.png" width="500" />
+					</imageobject>
+					 <textobject>
+						<phrase>Screenshot of Live Tools Icons on the desktop</phrase>
+					</textobject>
+
+				</mediaobject>
+
+			</section>
+			
+			 <section id="sect-Startup_Guide-Salix_Live_Tools-The_Persistence_Wizard">
+				<title>The Persistence Wizard</title>
+				 <para>
+					Even if run from a CD/DVD, Salix Live gives you the possibility to save any of your work or modification performed while in a Live session.
+				</para>
+				 <para>
+					To do this however, you must first create a special "persistence file" on your hard drive, which will have a predecided fixed-size and will be formatted as a Linux file system.
+				</para>
+				 <mediaobject>
+					<imageobject>
+						<imagedata fileref="./images/522d41e5.png" width="500" />
+					</imageobject>
+					 <textobject>
+						<phrase>Screenshot of Salix Live Persistence Wizard</phrase>
+					</textobject>
+
+				</mediaobject>
+				 <para>
+					Important! Once this file has been created, it is necessary to reboot the Live CD. From then on, Salix Live will begin to monitor any changes you perform and will record them in the new persistent file.
+				</para>
+				 <para>
+					To remove any changes and come back to the default settings, simply delete the persistent file (slxsave.xfs) from the <ulink url="http://www.linfo.org/mount_point.html">mount point</ulink> it was initially created on.
+				</para>
+
+			</section>
+			
+			 <section id="sect-Startup_Guide-Salix_Live_Tools-Gparted">
+				<title>Gparted</title>
+				 <para>
+					Gparted is included in Salix Live to assist you in managing your partitions if it is necessary for you to do so before performing the installation of Salix OS (see <xref linkend="sect-Startup_Guide-Preparing_Salix_Installation-Partition_Management" />).
+				</para>
+
+			</section>
+			
+			 <section id="sect-Startup_Guide-Salix_Live_Tools-Salix_Live_Installer">
+				<title>Salix Live Installer</title>
+				 <para>
+					Salix Live Installer will enable you to install Salix OS from the comfort of Salix Live graphical environment (see <xref linkend="sect-Startup_Guide-Starting_Up_Salix_OS-Installing_from_a_Live_CD_USB" />).
+				</para>
+
+			</section>
+			
+			 <section id="sect-Startup_Guide-Salix_Live_Tools-LiveClone">
+				<title>LiveClone</title>
+				 <mediaobject>
+					<imageobject>
+						<imagedata fileref="./images/2a661805.png" width="500" />
+					</imageobject>
+					 <textobject>
+						<phrase>Screenshot of Salix LiveClone</phrase>
+					</textobject>
+
+				</mediaobject>
+				 <para>
+					LiveClone generates a Live CD/DVD iso image (which you can burn as an image on a CD/DVD with a CD/DVD burner) or a Live USB key. This means that it creates your customized live environment which will be based either on your SalixLive or your running system. In the case of a Live USB Key generation, you will be offered to make your USB key with “persistence” (see <xref linkend="sect-Startup_Guide-Salix_Live_Tools-The_Persistence_Wizard" />).
+				</para>
+
+			</section>
+			
+			 <section id="sect-Startup_Guide-Salix_Live_Tools-_SaLT_Scripts">
+				<title> SaLT Scripts</title>
+				 <para>
+					Salix Live is build with a set of homegrown scripts called SaLT (from Salix Live Templates).
+				</para>
+				 <para>
+					While for the most part, these scripts need no user interaction, some can be executed, for instance to facilitate the creation of a Salix Live USB Flash Disk. They will also enable an advanced user to fully customize and re-master Salix Live to better suit his or her own needs.
+				</para>
+
+			</section>
+			
+
+		</section>
+		
+
+	</section>
+	
+
+</chapter>
+

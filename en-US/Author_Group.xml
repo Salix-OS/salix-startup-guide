@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE authorgroup PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Startup_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<authorgroup>
+	<author>
+		<firstname>Tomoki</firstname>
+		 <surname>Tsuchiya</surname>
+		 <affiliation>
+			<orgdiv>Author</orgdiv>
+
+		</affiliation>
+		 <email>hydrangea_and_snail@hotmail.com</email>
+
+	</author>
+	 <author>
+		<firstname>Pierrick</firstname>
+		 <surname>Le Brun</surname>
+		 <affiliation>
+			<orgdiv>Author</orgdiv>
+
+		</affiliation>
+		 <email>akuna@salixos.org</email>
+
+	</author>
+	 <author>
+		<firstname>Cyrille</firstname>
+		 <surname>Pontvieux</surname>
+		 <affiliation>
+			<orgdiv>Author</orgdiv>
+
+		</affiliation>
+		 <email>jrd@salixos.org</email>
+
+	</author>
+	 <author>
+		<firstname>Tim</firstname>
+		 <surname>Beech</surname>
+		 <affiliation>
+			<orgdiv>Author</orgdiv>
+
+		</affiliation>
+		 <email>tim.beech@gmail.com</email>
+
+	</author>
+	 <author>
+		<firstname>Max</firstname>
+		 <surname>Boon</surname>
+		 <affiliation>
+			<orgdiv>Editor</orgdiv>
+
+		</affiliation>
+		 <email>salimaximus@gmail.com</email>
+
+	</author>
+</authorgroup>
+

@@ -1,0 +1,301 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Startup_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<chapter id="chap-Startup_Guide-Advanced_Live_CD_Options">
+	<title>Advanced Live CD Options</title>
+	 <section id="sect-Startup_Guide-Advanced_Live_CD_Options-Advanced_Boot_Options">
+		<title>Advanced Boot Options</title>
+		 <para>
+			By selecting 'Change boot options' on the Salix Live Boot menu, you will be offered a choice of supplementary boot options
+		</para>
+		 <mediaobject>
+			<imageobject>
+				<imagedata fileref="./images/591e2837.png" width="500" />
+			</imageobject>
+			 <textobject>
+				<phrase>Instructions below the Salix Live Boot menu</phrase>
+			</textobject>
+
+		</mediaobject>
+		 <para>
+			The instructions below the Salix Live Boot menu will give you access to Salix Live 'manual' advanced Boot options.
+		</para>
+		 <mediaobject>
+			<imageobject>
+				<imagedata fileref="./images/m18637ec1.png" width="500" />
+			</imageobject>
+			 <textobject>
+				<phrase>Supplementary boot options</phrase>
+			</textobject>
+
+		</mediaobject>
+		 <para>
+			Pressing “c” gives you access to the Grub shell. Type help to view all available commands.
+		</para>
+		 <mediaobject>
+			<imageobject>
+				<imagedata fileref="./images/mfee8015.png" width="500" />
+			</imageobject>
+			 <textobject>
+				<phrase>Grub Shell</phrase>
+			</textobject>
+
+		</mediaobject>
+		 <section id="sect-Startup_Guide-Advanced_Boot_Options-Boot_Parameters">
+			<title>Boot Parameters</title>
+			 <para>
+				Pressing 'e' while 'Start Salix Live' is selected opens up the following display, enabling you to modify some of the booting options, for example, in order to enter a boot parameter. For instance, “nomodeset” for those who use older graphic cards and have problem booting up properly.
+			</para>
+			 <mediaobject>
+				<imageobject>
+					<imagedata fileref="./images/29a66be0.png" width="500" />
+				</imageobject>
+				 <textobject>
+					<phrase>Editing Salix default menu options</phrase>
+				</textobject>
+
+			</mediaobject>
+			 <para>
+				Booting parameters or cheatcodes, are used to manipulate the booting process of Linux. To enter a cheatcode, you simply have to add it to the 'linux' line above (after changes=slxsave.xfs), ensuring a blank space separates it from the previous boot parameter.
+			</para>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Advanced_Boot_Options-Useful_Boot_Parameters">
+			<title>Useful Boot Parameters</title>
+			 <para>
+				To load in console only without executing Xorg (runlevel 3)
+			</para>
+			 <para>
+				3
+			</para>
+			 <para>
+				To load Salix Live from a different location than the boot device:
+			</para>
+			 <para>
+				from=/dev/device/salixlive-version.iso
+			</para>
+			 <para>
+				from=path/to/salixlive-version.iso
+			</para>
+			 <para>
+				from=path/to/exploded/salixlive-version.iso
+			</para>
+			 <para>
+				To set root's password to "somepass", or ask for a new password:
+			</para>
+			 <para>
+				passwd=somepass
+			</para>
+			 <para>
+				passwd=ask
+			</para>
+			 <para>
+				To load optional modules from /optional/ directory on the CD:
+			</para>
+			 <para>
+				load=module
+			</para>
+			 <para>
+				(You can use the full module name (module.lzm) or you can skip the extension.)
+			</para>
+			 <para>
+
+			</para>
+			 <para>
+				To safeguard all changes made in a Salix Live session:
+			</para>
+			 <para>
+				changes=file
+			</para>
+			 <para>
+				changes=/dev/device
+			</para>
+			 <para>
+				changes=/dev/device/file
+			</para>
+			 <para>
+				changes=/path/
+			</para>
+			 <para>
+				changes=/path/file
+			</para>
+			 <para>
+				changes=/dev/device/path/
+			</para>
+			 <para>
+				(This cheatcode is already included in Salix Live boot menu and the Persistence Wizard can assist you in creating a persistent file that will be automatically managed by Salix Live.)
+			</para>
+			 <para>
+
+			</para>
+			 <para>
+				To enable debug mode:
+			</para>
+			 <para>
+				debug
+			</para>
+			 <para>
+				(Starts bash several times during boot. Press Ctrl+D to resume booting)
+			</para>
+			 <para>
+
+			</para>
+
+		</section>
+		
+
+	</section>
+	
+	 <section id="sect-Startup_Guide-Advanced_Live_CD_Options-Personalising_a_Module">
+		<title>Personalising a Module</title>
+		 <para>
+
+		</para>
+		 <section id="sect-Startup_Guide-Personalising_a_Module-Creating_a_module">
+			<title>Creating a module</title>
+			 <para>
+				1. Create a working directory
+			</para>
+			 <para>
+				mkdir -p /mnt/hdxx/directory1
+			</para>
+			 <para>
+				2. Install all software packages using this directory as root:
+			</para>
+			 <para>
+				installpkg --root=/mnt/hdxx/directory1 packagea-x.x.x.txz
+			</para>
+			 <para>
+				installpkg –-root=/mnt/hdxx/directory1 packageb-x.x.x.txz
+			</para>
+			 <para>
+				installpkg –-root=/mnt/hdxx/directory1 packagec-x.x.x.txz
+			</para>
+			 <para>
+				etc.
+			</para>
+			 <para>
+				3. Remove all unneeded files:
+			</para>
+			 <para>
+				rm -rf /mnt/hdxx/directory1/usr/doc/*
+			</para>
+			 <para>
+				4. Make any modifications you want:
+			</para>
+			 <para>
+				echo "whatever" &gt; /mnt/hdxx/directory1/foo/bar
+			</para>
+			 <para>
+				5. Build the module:
+			</para>
+			 <para>
+				cd /mnt/hdxx/
+			</para>
+			 <para>
+				dir2lzm directory1 module1.lzm
+			</para>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Personalising_a_Module-Customizing_a_module">
+			<title>Customizing a module</title>
+			 <para>
+				You can fully customize the content of a module by removing or adding applications and by deleting, editing or adding new files inside it.
+			</para>
+			 <para>
+				1. Create a working directory:
+			</para>
+			 <para>
+				mkdir -p /mnt/hdxx/directoryx
+			</para>
+			 <para>
+				2. Open up the module you want to customize under the working directory:
+			</para>
+			 <para>
+				lzm2dir /mnt/hdc/salixlive/base/modulex.lzm /mnt/hdxx/directoryx
+			</para>
+			 <para>
+				(TIP: You can check that the module contains the unwanted packages by listing the /mnt/hdxx/directoryx/var/log/packages/ directory.)
+			</para>
+			 <para>
+				3. Remove the packages from the working directory:
+			</para>
+			 <para>
+				ROOT=/mnt/hdxx/directoryx removepkg packagex
+			</para>
+			 <para>
+				ROOT=/mnt/hdxx/directoryx removepkg packagey
+			</para>
+			 <para>
+				ROOT=/mnt/hdxx/directoryx removepkg packagez
+			</para>
+			 <para>
+				etc.
+			</para>
+			 <para>
+				4. Install new packages to the working directory:
+			</para>
+			 <para>
+				installpkg –-root=/mnt/hdxx/directoryx package1-x.x.x.txz
+			</para>
+			 <para>
+				installpkg –-root=/mnt/hdxx/directoryx package2-x.x.x.txz
+			</para>
+			 <para>
+				installpkg –-root=/mnt/hdxx/directoryx package3-x.x.x.txz
+			</para>
+			 <para>
+				5. Rebuild the module:
+			</para>
+			 <para>
+				cd /mnt/hdxx/
+			</para>
+			 <para>
+				dir2lzm directoryx modulex.lzm
+			</para>
+			 <para>
+				6. Replace the original module with your new module, rebuild the ISO image and reburn the CD.
+			</para>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Personalising_a_Module-Which_module_contains_application_XXX">
+			<title>Which module contains application XXX?</title>
+			 <para>
+				By browsing /mnt/live/memory/images/xxx.lzm/, you can view the contents of each module, therefore you'll find which module holds a given package in /mnt/live/memory/images/xxx.lzm/var/log/packages/
+			</para>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Personalising_a_Module-Adding_files_to_Salix_Live">
+			<title>Adding files to Salix Live</title>
+			 <para>
+				Sometimes all you want to do is add a couple files to Salix Live, for example specific configuration files. In that case it is not necessary to create or modify a module.
+			</para>
+			 <para>
+				Salix Live CD holds a /salixlive/rootcopy/ directory. The content of this directory is copied to the root filesystem each time you boot, preserving all directories.
+			</para>
+			 <para>
+				So, for example, if you wish to just use your own xorg.conf file, create etc/X11/ directories inside of /salixlive/rootcopy and store your xorg.conf in it. Note that you need to recreate the full directory hierarchy for the patches to work as desired.
+			</para>
+
+		</section>
+		
+		 <section id="sect-Startup_Guide-Personalising_a_Module-Modify_Salix_Live_ISO">
+			<title>Modify Salix Live ISO</title>
+			 <para>
+				To remaster Salix Live, you could simply use the program Isomaster. You must open an ISO file of Salix Live (for example the one you downloaded) and then add to and/or remove from the modules situated in /salixlive/base, /salixlive/modules or /salixlive/optional. Once you are done, save the modified ISO to your hard drive and use Brasero to burn it on a CD-ROM.
+			</para>
+
+		</section>
+		
+
+	</section>
+	
+
+</chapter>
+

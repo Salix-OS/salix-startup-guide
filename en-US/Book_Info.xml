@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE bookinfo PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "Startup_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<bookinfo id="book-Startup_Guide-Startup_Guide">
+	<title>Startup Guide</title>
+	 <subtitle>Getting familiar with your new operating System</subtitle>
+	 <productname>SalixOS</productname>
+	 <productnumber>13.37</productnumber>
+	 <edition>1.0</edition>
+	 <pubsnumber>0</pubsnumber>
+	 <abstract>
+		<para>
+			The purpose of this manual is to enable you to take full advantage of the many functionalities of Salix OS. While particular attention has been given to help newcomers quickly get familiar with common computer tasks, more advanced material is also available for intermediate users who want to learn more about the inner workings of their operating system, its administration and its customisation.
+		</para>
+
+	</abstract>
+	 <corpauthor>
+		<inlinemediaobject>
+			<imageobject>
+				<imagedata fileref="Common_Content/images/title_logo.svg" format="SVG" />
+			</imageobject>
+
+		</inlinemediaobject>
+
+	</corpauthor>
+	 <xi:include href="Common_Content/Legal_Notice.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+	 <xi:include href="Author_Group.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
+</bookinfo>
+
