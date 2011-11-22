@@ -1,13 +1,14 @@
-# 
+#
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: 0\n"
-"POT-Creation-Date: 2011-11-08T17:18:00\n"
+"POT-Creation-Date: 2011-11-22T18:04:45\n"
 "PO-Revision-Date: 2011-11-08T17:18:00\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: None\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: application/x-publican; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -911,4 +912,3 @@ msgstr ""
 #, no-c-format
 msgid "Zim is a bit of everything. In essence, it is a desktop wiki, and it allows you a great deal of flexibility regarding what you can do with it. For instance, one can use it to keep track of TODO lists of ideas, to take notes in a meeting, as a drafting tool for blog entries, mails and so on."
 msgstr ""
-

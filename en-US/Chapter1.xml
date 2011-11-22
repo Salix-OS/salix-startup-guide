@@ -132,9 +132,11 @@
 		 <para>
 
 		</para>
-		 <informaltable frame="all">
+		 <table frame="all">
+		<title>Installation Mode</title>
 			<tgroup cols="4">
-				<tbody>
+
+				<thead>
 					<row>
 						<entry>
 							<para>
@@ -162,6 +164,8 @@
 						</entry>
 
 					</row>
+				</thead>
+				<tbody>
 					 <row>
 						<entry>
 							<para>
@@ -278,7 +282,7 @@
 
 			</tgroup>
 
-		</informaltable>
+		</table>
 		 <para>
 
 		</para>

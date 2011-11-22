@@ -1,18 +1,18 @@
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # Translators:
 # Ingemar Karlsson <ingemar@ingk.se>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-08T17:18:00\n"
+"POT-Creation-Date: 2011-11-22T18:04:45\n"
 "PO-Revision-Date: 2011-11-20 16:02+0000\n"
 "Last-Translator: ingemar <ingemar@ingk.se>\n"
 "Language-Team: None\n"
+"Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: sv\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #. Tag: title
@@ -32,19 +32,5 @@ msgstr "SalixOS"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"The purpose of this manual is to enable you to take full advantage of the "
-"many functionalities of Salix OS. While particular attention has been given "
-"to help newcomers quickly get familiar with common computer tasks, more "
-"advanced material is also available for intermediate users who want to learn"
-" more about the inner workings of their operating system, its administration"
-" and its customisation."
-msgstr ""
-"Syftet med denna handbok är att du ska kunna dra full nytta av de många "
-"funktionerna i Salix OS. Medan särskild uppmärksamhet har ägnats åt att "
-"hjälpa nyanlända att snabbt bekanta med allmänna uppgifter på datorn, är mer"
-" avancerat material även tillgänglig för intermediate användare som vill "
-"lära sig mer om det inre arbetet i deras operativsystem, dess administrering"
-" och dess anpassning."
-
-
+msgid "The purpose of this manual is to enable you to take full advantage of the many functionalities of Salix OS. While particular attention has been given to help newcomers quickly get familiar with common computer tasks, more advanced material is also available for intermediate users who want to learn more about the inner workings of their operating system, its administration and its customisation."
+msgstr "Syftet med denna handbok är att du ska kunna dra full nytta av de många funktionerna i Salix OS. Medan särskild uppmärksamhet har ägnats åt att hjälpa nyanlända att snabbt bekanta med allmänna uppgifter på datorn, är mer avancerat material även tillgänglig för intermediate användare som vill lära sig mer om det inre arbetet i deras operativsystem, dess administrering och dess anpassning."

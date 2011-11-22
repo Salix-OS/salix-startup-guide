@@ -1,13 +1,14 @@
-# 
+#
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: 0\n"
-"POT-Creation-Date: 2011-11-08T17:18:01\n"
+"POT-Creation-Date: 2011-11-22T18:04:45\n"
 "PO-Revision-Date: 2011-11-08T17:18:01\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: None\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: application/x-publican; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -401,4 +402,3 @@ msgstr ""
 #, no-c-format
 msgid "To remaster Salix Live, you could simply use the program Isomaster. You must open an ISO file of Salix Live (for example the one you downloaded) and then add to and/or remove from the modules situated in /salixlive/base, /salixlive/modules or /salixlive/optional. Once you are done, save the modified ISO to your hard drive and use Brasero to burn it on a CD-ROM."
 msgstr ""
-

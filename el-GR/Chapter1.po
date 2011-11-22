@@ -1,18 +1,18 @@
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # Translators:
 # Dimitris Tzemos <djemos@slackel.gr>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-08T17:18:00\n"
+"POT-Creation-Date: 2011-11-22T18:04:45\n"
 "PO-Revision-Date: 2011-11-20 21:34+0000\n"
 "Last-Translator: djemos <djemos@slackel.gr>\n"
 "Language-Team: None\n"
+"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: el\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #. Tag: title
@@ -27,24 +27,8 @@ msgstr "Στιγμιότυπο SalixOS 13,37 προεπιλεγμένη επιφ
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Salix OS is a <ulink url=\"http://en.wikipedia.org/wiki/Linux_distro\">Linux"
-" Distribution</ulink> based on <ulink "
-"url=\"http://en.wikipedia.org/wiki/Slackware\">Slackware</ulink> that "
-"retains full backwards compatibility with its illustrious parent. However, "
-"while the <ulink "
-"url=\"http://en.wikipedia.org/wiki/KISS_principle\">KISS</ulink> principle "
-"that Slackware adheres to refers to the viewpoint of system design, Salix OS"
-" also applies it to the viewpoint of the end user."
-msgstr ""
-"Salix OS είναι μια <ulink url=\"http://en.wikipedia.org/wiki/Linux_distro\">"
-" Διανομή Linux </ulink> βασισμένη στο <ulink "
-"url=\"http://en.wikipedia.org/wiki/Slackware\"> Slackware </ulink> που "
-"διατηρεί πλήρη συμβατότητα με τη λαμπρή μητρική της. Ωστόσο, ενώ η <ulink "
-"url=\"http://en.wikipedia.org/wiki/KISS_principle\"> KISS </ulink> αρχή ότι "
-"το Slackware εμμένει να αναφέρεται στην άποψη του σχεδιασμού του συστήματος,"
-" το Salix OS προσπαθεί να το κάνει να αναφερθεί και στον τελικό χρήστη "
-"επίσης."
+msgid "Salix OS is a <ulink url=\"http://en.wikipedia.org/wiki/Linux_distro\">Linux Distribution</ulink> based on <ulink url=\"http://en.wikipedia.org/wiki/Slackware\">Slackware</ulink> that retains full backwards compatibility with its illustrious parent. However, while the <ulink url=\"http://en.wikipedia.org/wiki/KISS_principle\">KISS</ulink> principle that Slackware adheres to refers to the viewpoint of system design, Salix OS also applies it to the viewpoint of the end user."
+msgstr "Salix OS είναι μια <ulink url=\"http://en.wikipedia.org/wiki/Linux_distro\"> Διανομή Linux </ulink> βασισμένη στο <ulink url=\"http://en.wikipedia.org/wiki/Slackware\"> Slackware </ulink> που διατηρεί πλήρη συμβατότητα με τη λαμπρή μητρική της. Ωστόσο, ενώ η <ulink url=\"http://en.wikipedia.org/wiki/KISS_principle\"> KISS </ulink> αρχή ότι το Slackware εμμένει να αναφέρεται στην άποψη του σχεδιασμού του συστήματος, το Salix OS προσπαθεί να το κάνει να αναφερθεί και στον τελικό χρήστη επίσης."
 
 #. Tag: title
 #, no-c-format
@@ -68,18 +52,13 @@ msgstr "Βελτιστοποιημένo για χρήση desktop"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"With Salix tools to assist system management (See <xref linkend=\"sect-"
-"Startup_Guide-Your_Salix-Salix_Tools\" />)"
-msgstr ""
-"Με τα Salix tools για να βοηθήσει τη διαχείριση του συστήματος (βλέπε <xref "
-"linkend=\"sect-Startup_Guide-Your_Salix-Salix_Tools\" /> )"
+msgid "With Salix tools to assist system management (See <xref linkend=\"sect-Startup_Guide-Your_Salix-Salix_Tools\" />)"
+msgstr "Με τα Salix tools για να βοηθήσει τη διαχείριση του συστήματος (βλέπε <xref linkend=\"sect-Startup_Guide-Your_Salix-Salix_Tools\" /> )"
 
 #. Tag: para
 #, no-c-format
 msgid "High quality package repositories with dependency support"
-msgstr ""
-"Αποθετήρια πακέτων Υψηλής ποιότητας με την υποστήριξη επίλυσης εξαρτήσεων"
+msgstr "Αποθετήρια πακέτων Υψηλής ποιότητας με την υποστήριξη επίλυσης εξαρτήσεων"
 
 #. Tag: para
 #, no-c-format
@@ -113,11 +92,8 @@ msgstr "Με λίγα λόγια, το Salix OS είναι ..."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"“Like a bonsai, Salix is small, light and the product of infinite care!”"
-msgstr ""
-"«Όπως ένα μπονσάι, το Salix είναι μικρό, ελαφρύ και το προϊόν της άπειρης "
-"προσοχής!\""
+msgid "“Like a bonsai, Salix is small, light and the product of infinite care!”"
+msgstr "«Όπως ένα μπονσάι, το Salix είναι μικρό, ελαφρύ και το προϊόν της άπειρης προσοχής!\""
 
 #. Tag: title
 #, no-c-format
@@ -126,26 +102,13 @@ msgstr "Εκδόσεις Salix "
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Salix OS comes in five different editions – Xfce, LXDE, KDE, Fluxbox and "
-"Ratpoison."
-msgstr ""
-"Το Salix OS έρχεται σε πέντε διαφορετικές εκδόσεις - Xfce, LXDE, KDE, "
-"Fluxbox και Ratpoison."
+msgid "Salix OS comes in five different editions – Xfce, LXDE, KDE, Fluxbox and Ratpoison."
+msgstr "Το Salix OS έρχεται σε πέντε διαφορετικές εκδόσεις - Xfce, LXDE, KDE, Fluxbox και Ratpoison."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"The choice is yours: with a streamlined Xfce desktop environment, elegant "
-"KDE 4.5.5 accompanied by a very rich collection of KDE centric software, "
-"minimalistic Fluxbox window manager, wickedly fast LXDE desktop or “say "
-"good-bye to the rodent” Ratpoison, all with the Salix look and feel!"
-msgstr ""
-"Η επιλογή είναι δική σας: με ένα βελτιωμένο περιβάλλον εργασίας Xfce, το "
-"κομψό KDE 4.5.5 συνοδεύεται από μια πολύ πλούσια συλλογή KDE centric "
-"λογισμικού, μινιμαλιστικό διαχειριστή παραθύρων Fluxbox, με πονηρία γρήγορη "
-"επιφάνεια εργασίας LXDE ή «πείτε αντίο στα τρωκτικά\" Ratpoison, όλα με την "
-"εμφάνιση και αίσθηση του Salix!"
+msgid "The choice is yours: with a streamlined Xfce desktop environment, elegant KDE 4.5.5 accompanied by a very rich collection of KDE centric software, minimalistic Fluxbox window manager, wickedly fast LXDE desktop or “say good-bye to the rodent” Ratpoison, all with the Salix look and feel!"
+msgstr "Η επιλογή είναι δική σας: με ένα βελτιωμένο περιβάλλον εργασίας Xfce, το κομψό KDE 4.5.5 συνοδεύεται από μια πολύ πλούσια συλλογή KDE centric λογισμικού, μινιμαλιστικό διαχειριστή παραθύρων Fluxbox, με πονηρία γρήγορη επιφάνεια εργασίας LXDE ή «πείτε αντίο στα τρωκτικά\" Ratpoison, όλα με την εμφάνιση και αίσθηση του Salix!"
 
 #. Tag: phrase
 #, no-c-format
@@ -154,12 +117,8 @@ msgstr "Στιγμιότυπο από την διαφορετική έκδοση
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"For a list of applications available in each Edition, please refer to <xref "
-"linkend=\"appe-Startup_Guide-List_of_Applications\" />."
-msgstr ""
-"Για μια λίστα με εφαρμογές που είναι διαθέσιμες σε κάθε έκδοση, ανατρέξτε "
-"στο <xref linkend=\"appe-Startup_Guide-List_of_Applications\" /> ."
+msgid "For a list of applications available in each Edition, please refer to <xref linkend=\"appe-Startup_Guide-List_of_Applications\" />."
+msgstr "Για μια λίστα με εφαρμογές που είναι διαθέσιμες σε κάθε έκδοση, ανατρέξτε στο <xref linkend=\"appe-Startup_Guide-List_of_Applications\" /> ."
 
 #. Tag: title
 #, no-c-format
@@ -168,12 +127,8 @@ msgstr "Λειτουργία εγκατάστασης"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Salix offers three software installation options: Full, Basic and Core, to "
-"meet your demands!"
-msgstr ""
-"Το Salix προσφέρει τρεις επιλογές για την εγκατάσταση του λογισμικού: "
-"Πλήρης, Βασική και Συμπαγή, για να ανταποκριθεί στις απαιτήσεις σας!"
+msgid "Salix offers three software installation options: Full, Basic and Core, to meet your demands!"
+msgstr "Το Salix προσφέρει τρεις επιλογές για την εγκατάσταση του λογισμικού: Πλήρης, Βασική και Συμπαγή, για να ανταποκριθεί στις απαιτήσεις σας!"
 
 #. Tag: para
 #, no-c-format
@@ -243,9 +198,7 @@ msgstr "Βασική"
 #. Tag: para
 #, no-c-format
 msgid "Advanced users who would like to add their own choice of applications"
-msgstr ""
-"Οι προχωρημένοι χρήστες που θα ήθελαν να προσθέσουν τη δική τους επιλογή "
-"εφαρμογών"
+msgstr "Οι προχωρημένοι χρήστες που θα ήθελαν να προσθέσουν τη δική τους επιλογή εφαρμογών"
 
 #. Tag: para
 #, no-c-format
@@ -299,41 +252,20 @@ msgstr "Αποθετήρια Salix &amp; Διαχείριση Πακέτων"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"slapt-get and its graphical interface Gslapt are used for package "
-"management, including slapt-src and Sourcery for even wider selection of "
-"software to choose from!"
-msgstr ""
-"Το slapt-get και το γραφικό περιβάλλον εργασίας του Gslapt χρησιμοποιούνται "
-"για την διαχείριση πακέτων, συμπεριλαμβανομένων των slapt-src και Sourcery "
-"για ακόμη ευρύτερη επιλογή του λογισμικού για να διαλέξετε!"
+msgid "slapt-get and its graphical interface Gslapt are used for package management, including slapt-src and Sourcery for even wider selection of software to choose from!"
+msgstr "Το slapt-get και το γραφικό περιβάλλον εργασίας του Gslapt χρησιμοποιούνται για την διαχείριση πακέτων, συμπεριλαμβανομένων των slapt-src και Sourcery για ακόμη ευρύτερη επιλογή του λογισμικού για να διαλέξετε!"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"A wide range of packages from Slackware, Slackbuild and Salix repositories"
-msgstr ""
-"Ένα ευρύ φάσμα των πακέτων από το Slackware, Slackbuild και τα αποθετήρια "
-"του Salix"
+msgid "A wide range of packages from Slackware, Slackbuild and Salix repositories"
+msgstr "Ένα ευρύ φάσμα των πακέτων από το Slackware, Slackbuild και τα αποθετήρια του Salix"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"The Salix repositories offer dependency resolution support and are the "
-"largest third party software package repositories for Slackware offered to "
-"date"
-msgstr ""
-"Τα αποθετήρια του Salix προσφέρουν υποστήριξη επίλυσης εξαρτήσεων και είναι "
-"τα μεγαλύτερα αποθετήρια πακέτων λογισμικού τρίτων για το Slackware που "
-"προσφέρονται μέχρι σήμερα"
+msgid "The Salix repositories offer dependency resolution support and are the largest third party software package repositories for Slackware offered to date"
+msgstr "Τα αποθετήρια του Salix προσφέρουν υποστήριξη επίλυσης εξαρτήσεων και είναι τα μεγαλύτερα αποθετήρια πακέτων λογισμικού τρίτων για το Slackware που προσφέρονται μέχρι σήμερα"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"The Salix repositories are offered for both the 32-bit and 64-bit "
-"architectures"
-msgstr ""
-"Τα αποθετήρια Salix προσφέρονται τόσο για την 32-bit και 64-bit "
-"αρχιτεκτονικές"
-
-
+msgid "The Salix repositories are offered for both the 32-bit and 64-bit architectures"
+msgstr "Τα αποθετήρια Salix προσφέρονται τόσο για την 32-bit και 64-bit αρχιτεκτονικές"

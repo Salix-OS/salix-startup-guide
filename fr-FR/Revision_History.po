@@ -1,17 +1,17 @@
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-08T17:18:01\n"
+"POT-Creation-Date: 2011-11-22T18:04:45\n"
 "PO-Revision-Date: 2011-11-17 20:40+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: French (http://www.transifex.net/projects/p/salix/team/fr/)\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 
 #. Tag: title
@@ -36,9 +36,7 @@ msgstr ""
 
 #. Tag: member
 #, no-c-format
-msgid ""
-"Based partly on 13.1.2 guide with new articles to reflect changes and "
-"updates."
+msgid "Based partly on 13.1.2 guide with new articles to reflect changes and updates."
 msgstr ""
 
 #. Tag: member
@@ -90,5 +88,3 @@ msgstr ""
 #, no-c-format
 msgid "Some small modifications regarding new SaLT LiveCD build script"
 msgstr ""
-
-

@@ -1,18 +1,18 @@
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # Translators:
 #   <akuna@free.fr>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-08T17:18:01\n"
+"POT-Creation-Date: 2011-11-22T18:04:45\n"
 "PO-Revision-Date: 2011-11-17 23:31+0000\n"
 "Last-Translator: Akuna <akuna@free.fr>\n"
 "Language-Team: French (http://www.transifex.net/projects/p/salix/team/fr/)\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 
 #. Tag: title
@@ -27,13 +27,8 @@ msgstr "Options de démarrage avancées"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"By selecting 'Change boot options' on the Salix Live Boot menu, you will be "
-"offered a choice of supplementary boot options"
-msgstr ""
-"En sélectionnant \"Modifier les options de démarrage\" dans le menu de "
-"démarrage de Salix Live, il vous sera proposé un choix d'options de "
-"démarrage supplémentaires"
+msgid "By selecting 'Change boot options' on the Salix Live Boot menu, you will be offered a choice of supplementary boot options"
+msgstr "En sélectionnant \"Modifier les options de démarrage\" dans le menu de démarrage de Salix Live, il vous sera proposé un choix d'options de démarrage supplémentaires"
 
 #. Tag: phrase
 #, no-c-format
@@ -42,12 +37,8 @@ msgstr "Instructions situées sous le menu de démarrage de Salix Live"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"The instructions below the Salix Live Boot menu will give you access to "
-"Salix Live 'manual' advanced Boot options."
-msgstr ""
-"Les instructions situées sous le menu de démarrage de Salix Live vous donne "
-"accès aux options «manuelles» avancées du démarrage de Salix."
+msgid "The instructions below the Salix Live Boot menu will give you access to Salix Live 'manual' advanced Boot options."
+msgstr "Les instructions situées sous le menu de démarrage de Salix Live vous donne accès aux options «manuelles» avancées du démarrage de Salix."
 
 #. Tag: phrase
 #, no-c-format
@@ -56,12 +47,8 @@ msgstr "Options de démarrage supplémentaires"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Pressing “c” gives you access to the Grub shell. Type help to view all "
-"available commands."
-msgstr ""
-"Appuyer sur la touche \"c\" pour avoir accès au shell GRUB. Taper \"help\" "
-"pour afficher toutes les commandes disponibles."
+msgid "Pressing “c” gives you access to the Grub shell. Type help to view all available commands."
+msgstr "Appuyer sur la touche \"c\" pour avoir accès au shell GRUB. Taper \"help\" pour afficher toutes les commandes disponibles."
 
 #. Tag: phrase
 #, no-c-format
@@ -75,17 +62,8 @@ msgstr "Paramètres d'amorçage"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Pressing 'e' while 'Start Salix Live' is selected opens up the following "
-"display, enabling you to modify some of the booting options, for example, in"
-" order to enter a boot parameter. For instance, “nomodeset” for those who "
-"use older graphic cards and have problem booting up properly."
-msgstr ""
-"L'appui sur la touche 'e' lorsque 'Démarrer Salix Live' est sélectionné "
-"ouvre l'affichage suivant, vous permettant de modifier certaines des options"
-" de démarrage, par exemple, pour saisir un paramètre de démarrage. Ceux qui "
-"utilisent d'anciennes cartes graphiques et qui rencontrent des problèmes "
-"pour démarrer correctement voudront sans doute saisir \"nomodeset\"."
+msgid "Pressing 'e' while 'Start Salix Live' is selected opens up the following display, enabling you to modify some of the booting options, for example, in order to enter a boot parameter. For instance, “nomodeset” for those who use older graphic cards and have problem booting up properly."
+msgstr "L'appui sur la touche 'e' lorsque 'Démarrer Salix Live' est sélectionné ouvre l'affichage suivant, vous permettant de modifier certaines des options de démarrage, par exemple, pour saisir un paramètre de démarrage. Ceux qui utilisent d'anciennes cartes graphiques et qui rencontrent des problèmes pour démarrer correctement voudront sans doute saisir \"nomodeset\"."
 
 #. Tag: phrase
 #, no-c-format
@@ -94,11 +72,7 @@ msgstr "Modification des options de menu par défaut de Salix"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Booting parameters or cheatcodes, are used to manipulate the booting process"
-" of Linux. To enter a cheatcode, you simply have to add it to the 'linux' "
-"line above (after changes=slxsave.xfs), ensuring a blank space separates it "
-"from the previous boot parameter."
+msgid "Booting parameters or cheatcodes, are used to manipulate the booting process of Linux. To enter a cheatcode, you simply have to add it to the 'linux' line above (after changes=slxsave.xfs), ensuring a blank space separates it from the previous boot parameter."
 msgstr ""
 
 #. Tag: title
@@ -163,9 +137,7 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"(You can use the full module name (module.lzm) or you can skip the "
-"extension.)"
+msgid "(You can use the full module name (module.lzm) or you can skip the extension.)"
 msgstr ""
 
 #. Tag: para
@@ -205,10 +177,7 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"(This cheatcode is already included in Salix Live boot menu and the "
-"Persistence Wizard can assist you in creating a persistent file that will be"
-" automatically managed by Salix Live.)"
+msgid "(This cheatcode is already included in Salix Live boot menu and the Persistence Wizard can assist you in creating a persistent file that will be automatically managed by Salix Live.)"
 msgstr ""
 
 #. Tag: para
@@ -223,8 +192,7 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"(Starts bash several times during boot. Press Ctrl+D to resume booting)"
+msgid "(Starts bash several times during boot. Press Ctrl+D to resume booting)"
 msgstr ""
 
 #. Tag: title
@@ -314,9 +282,7 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"You can fully customize the content of a module by removing or adding "
-"applications and by deleting, editing or adding new files inside it."
+msgid "You can fully customize the content of a module by removing or adding applications and by deleting, editing or adding new files inside it."
 msgstr ""
 
 #. Tag: para
@@ -331,10 +297,8 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"2. Open up the module you want to customize under the working directory:"
-msgstr ""
-"2. Open up the module you want to customize under the working directory:"
+msgid "2. Open up the module you want to customize under the working directory:"
+msgstr "2. Open up the module you want to customize under the working directory:"
 
 #. Tag: para
 #, no-c-format
@@ -343,9 +307,7 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"(TIP: You can check that the module contains the unwanted packages by "
-"listing the /mnt/hdxx/directoryx/var/log/packages/ directory.)"
+msgid "(TIP: You can check that the module contains the unwanted packages by listing the /mnt/hdxx/directoryx/var/log/packages/ directory.)"
 msgstr ""
 
 #. Tag: para
@@ -400,12 +362,8 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"6. Replace the original module with your new module, rebuild the ISO image "
-"and reburn the CD."
-msgstr ""
-"6. Replace the original module with your new module, rebuild the ISO image "
-"and reburn the CD."
+msgid "6. Replace the original module with your new module, rebuild the ISO image and reburn the CD."
+msgstr "6. Replace the original module with your new module, rebuild the ISO image and reburn the CD."
 
 #. Tag: title
 #, no-c-format
@@ -414,10 +372,7 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"By browsing /mnt/live/memory/images/xxx.lzm/, you can view the contents of "
-"each module, therefore you'll find which module holds a given package in "
-"/mnt/live/memory/images/xxx.lzm/var/log/packages/"
+msgid "By browsing /mnt/live/memory/images/xxx.lzm/, you can view the contents of each module, therefore you'll find which module holds a given package in /mnt/live/memory/images/xxx.lzm/var/log/packages/"
 msgstr ""
 
 #. Tag: title
@@ -427,27 +382,17 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Sometimes all you want to do is add a couple files to Salix Live, for "
-"example specific configuration files. In that case it is not necessary to "
-"create or modify a module."
+msgid "Sometimes all you want to do is add a couple files to Salix Live, for example specific configuration files. In that case it is not necessary to create or modify a module."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Salix Live CD holds a /salixlive/rootcopy/ directory. The content of this "
-"directory is copied to the root filesystem each time you boot, preserving "
-"all directories."
+msgid "Salix Live CD holds a /salixlive/rootcopy/ directory. The content of this directory is copied to the root filesystem each time you boot, preserving all directories."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"So, for example, if you wish to just use your own xorg.conf file, create "
-"etc/X11/ directories inside of /salixlive/rootcopy and store your xorg.conf "
-"in it. Note that you need to recreate the full directory hierarchy for the "
-"patches to work as desired."
+msgid "So, for example, if you wish to just use your own xorg.conf file, create etc/X11/ directories inside of /salixlive/rootcopy and store your xorg.conf in it. Note that you need to recreate the full directory hierarchy for the patches to work as desired."
 msgstr ""
 
 #. Tag: title
@@ -457,12 +402,5 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"To remaster Salix Live, you could simply use the program Isomaster. You must"
-" open an ISO file of Salix Live (for example the one you downloaded) and "
-"then add to and/or remove from the modules situated in /salixlive/base, "
-"/salixlive/modules or /salixlive/optional. Once you are done, save the "
-"modified ISO to your hard drive and use Brasero to burn it on a CD-ROM."
+msgid "To remaster Salix Live, you could simply use the program Isomaster. You must open an ISO file of Salix Live (for example the one you downloaded) and then add to and/or remove from the modules situated in /salixlive/base, /salixlive/modules or /salixlive/optional. Once you are done, save the modified ISO to your hard drive and use Brasero to burn it on a CD-ROM."
 msgstr ""
-
-

@@ -1,13 +1,14 @@
-# 
+#
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: 0\n"
-"POT-Creation-Date: 2011-11-08T17:18:00\n"
+"POT-Creation-Date: 2011-11-22T18:04:45\n"
 "PO-Revision-Date: 2011-11-08T17:18:00\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: None\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: application/x-publican; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -661,4 +662,3 @@ msgstr ""
 #, no-c-format
 msgid "While for the most part, these scripts need no user interaction, some can be executed, for instance to facilitate the creation of a Salix Live USB Flash Disk. They will also enable an advanced user to fully customize and re-master Salix Live to better suit his or her own needs."
 msgstr ""
-

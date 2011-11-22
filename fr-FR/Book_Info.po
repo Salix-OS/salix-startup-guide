@@ -1,18 +1,18 @@
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # Translators:
 #   <akuna@free.fr>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-08T17:18:00\n"
+"POT-Creation-Date: 2011-11-22T18:04:45\n"
 "PO-Revision-Date: 2011-11-17 22:53+0000\n"
 "Last-Translator: Akuna <akuna@free.fr>\n"
 "Language-Team: French (http://www.transifex.net/projects/p/salix/team/fr/)\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 
 #. Tag: title
@@ -32,19 +32,5 @@ msgstr "SalixOS"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"The purpose of this manual is to enable you to take full advantage of the "
-"many functionalities of Salix OS. While particular attention has been given "
-"to help newcomers quickly get familiar with common computer tasks, more "
-"advanced material is also available for intermediate users who want to learn"
-" more about the inner workings of their operating system, its administration"
-" and its customisation."
-msgstr ""
-"Le but de ce manuel est de vous permettre de profiter pleinement des "
-"nombreuses fonctionnalités de Salix OS. While particular attention has been "
-"given to help newcomers quickly get familiar with common computer tasks, "
-"more advanced material is also available for intermediate users who want to "
-"learn more about the inner workings of their operating system, its "
-"administration and its customisation."
-
-
+msgid "The purpose of this manual is to enable you to take full advantage of the many functionalities of Salix OS. While particular attention has been given to help newcomers quickly get familiar with common computer tasks, more advanced material is also available for intermediate users who want to learn more about the inner workings of their operating system, its administration and its customisation."
+msgstr "Le but de ce manuel est de vous permettre de profiter pleinement des nombreuses fonctionnalités de Salix OS. While particular attention has been given to help newcomers quickly get familiar with common computer tasks, more advanced material is also available for intermediate users who want to learn more about the inner workings of their operating system, its administration and its customisation."

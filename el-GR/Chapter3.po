@@ -1,18 +1,18 @@
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # Translators:
 # Dimitris Tzemos <djemos@slackel.gr>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-08T17:18:00\n"
-"PO-Revision-Date: 2011-11-21 20:39+0000\n"
+"POT-Creation-Date: 2011-11-22T18:04:45\n"
+"PO-Revision-Date: 2011-11-22 17:10+0000\n"
 "Last-Translator: djemos <djemos@slackel.gr>\n"
 "Language-Team: None\n"
+"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: el\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #. Tag: title
@@ -27,34 +27,8 @@ msgstr "Διαχείριση Πακέτων"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Installing applications (which roughly equates to “installing packages” as "
-"we say in Linux) is a fundamental part of the Linux experience. "
-"Superficially it is just an exercise using package managers such as Gslapt "
-"and its command line equivalent, slapt-get, for installing packages created "
-"by others. Soon you will start to see some packages you are interested in "
-"are not in the common repositories, and you will start creating your own "
-"packages. For some, this could be the very first time they see their build "
-"scripts working in the terminal, checking for configuration errors and "
-"chasing after some missing dependencies to compile a program. Some "
-"frustration may hit you initially, but then in good time, you will gather "
-"enough experience and as you start to see the inner workings of Linux, you "
-"will become more confident."
-msgstr ""
-"Η Εγκατάσταση εφαρμογών (που κατά προσέγγιση ισοδυναμεί με \"την εγκατάσταση"
-" πακέτων\", όπως λέμε στο Linux) είναι ένα θεμελιώδες μέρος της εμπειρίας "
-"του Linux. Επιφανειακά είναι απλώς μια άσκηση που χρησιμοποιούν οι "
-"διαχειριστές πακέτων, όπως το Gslapt και το ισοδύναμο της γραμμής  εντολών, "
-"slapt-get, για την εγκατάσταση των πακέτων που δημιουργούνται από άλλους. "
-"Σύντομα θα αρχίσετε να βλέπετε κάποια πακέτα που σας ενδιαφέρουν οτι δεν "
-"είναι στα κοινά αποθετήρια, και θα αρχίσετε να δημιουργείτε τα δικά σας "
-"πακέτα. Για κάποιους, αυτό θα μπορούσε να είναι η πρώτη φορά που βλέπουν τα "
-"κατασκευασμένα σενάριά εντολών τους να δουλεύουν στο τερματικό, ελέγχοντας "
-"για τυχόν σφάλματα ρύθμισης παραμέτρων και να κάνουν μετά από μερικές "
-"εξαρτήσεις που λείπουν την μεταγλώτιση ενός προγράμματος. Κάποια απογοήτευση"
-" μπορεί να σας κυριεύσει αρχικά, αλλά στη συνέχεια σε εύθετο χρόνο, θα "
-"συγκεντρώσετε αρκετή εμπειρία και δεδομένου ότι αρχίζετε να βλέπετε τις "
-"εσωτερικές λειτουργίες του Linux, θα γίνετε πιο σίγουροι."
+msgid "Installing applications (which roughly equates to “installing packages” as we say in Linux) is a fundamental part of the Linux experience. Superficially it is just an exercise using package managers such as Gslapt and its command line equivalent, slapt-get, for installing packages created by others. Soon you will start to see some packages you are interested in are not in the common repositories, and you will start creating your own packages. For some, this could be the very first time they see their build scripts working in the terminal, checking for configuration errors and chasing after some missing dependencies to compile a program. Some frustration may hit you initially, but then in good time, you will gather enough experience and as you start to see the inner workings of Linux, you will become more confident."
+msgstr "Η Εγκατάσταση εφαρμογών (που κατά προσέγγιση ισοδυναμεί με \"την εγκατάσταση πακέτων\", όπως λέμε στο Linux) είναι ένα θεμελιώδες μέρος της εμπειρίας του Linux. Επιφανειακά είναι απλώς μια άσκηση που χρησιμοποιούν οι διαχειριστές πακέτων, όπως το Gslapt και το ισοδύναμο της γραμμής  εντολών, slapt-get, για την εγκατάσταση των πακέτων που δημιουργούνται από άλλους. Σύντομα θα αρχίσετε να βλέπετε κάποια πακέτα που σας ενδιαφέρουν οτι δεν είναι στα κοινά αποθετήρια, και θα αρχίσετε να δημιουργείτε τα δικά σας πακέτα. Για κάποιους, αυτό θα μπορούσε να είναι η πρώτη φορά που βλέπουν τα κατασκευασμένα σενάριά εντολών τους να δουλεύουν στο τερματικό, ελέγχοντας για τυχόν σφάλματα ρύθμισης παραμέτρων και να κάνουν μετά από μερικές εξαρτήσεις που λείπουν την μεταγλώτιση ενός προγράμματος. Κάποια απογοήτευση μπορεί να σας κυριεύσει αρχικά, αλλά στη συνέχεια σε εύθετο χρόνο, θα συγκεντρώσετε αρκετή εμπειρία και δεδομένου ότι αρχίζετε να βλέπετε τις εσωτερικές λειτουργίες του Linux, θα γίνετε πιο σίγουροι."
 
 #. Tag: title
 #, no-c-format
@@ -63,12 +37,8 @@ msgstr "Υπενθύμιση!"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"You have to be the superuser in order to install an application (see <xref "
-"linkend=\"sect-Startup_Guide-Introduction-Root_Password\" />)."
-msgstr ""
-"Πρέπει να είστε ο υπερχρήστης, προκειμένου να εγκαταστήσετε μια εφαρμογή "
-"(βλ. <xref linkend=\"sect-Startup_Guide-Introduction-Root_Password\" /> )."
+msgid "You have to be the superuser in order to install an application (see <xref linkend=\"sect-Startup_Guide-Introduction-Root_Password\" />)."
+msgstr "Πρέπει να είστε ο υπερχρήστης, προκειμένου να εγκαταστήσετε μια εφαρμογή (βλ. <xref linkend=\"sect-Startup_Guide-Introduction-Root_Password\" /> )."
 
 #. Tag: title
 #, no-c-format
@@ -77,37 +47,8 @@ msgstr "Gslapt"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Gslapt is the GUI version of slapt-get (see <xref linkend=\"sect-"
-"Startup_Guide-Package_Management-slapt_get\" />). It allows one to search "
-"Slackware/Salix mirrors and third party sources for packages. Before use you"
-" should first click on the <guibutton> Update</guibutton> button to ensure "
-"that the latest updates from the software repositories are known to Gslapt. "
-"The search field is there for you to search for a particular package. You "
-"can highlight with your left click and choose to install/uninstall/reinstall"
-" packages with a right click. Gslapt detects dependencies and will install "
-"all the dependency files for a package automatically. "
-"Installation/uninstallation/reinstallation will take place once you click on"
-" the <guibutton>Execute</guibutton> button. You can blacklist packages by "
-"adding their names to the blacklist found in "
-"<guimenuitem>Preferences</guimenuitem> under "
-"<guimenuitem>Edit</guimenuitem>."
-msgstr ""
-"Το Gslapt είναι η γραφική έκδοση του slapt-get (βλ. <xref linkend=\"sect-"
-"Startup_Guide-Package_Management-slapt_get\" /> ). Επιτρέπει σε κάποιον να "
-"ψάξει στους καθρεπτισμούς του Slackware/Salix και πηγές τρίτων για πακέτα. "
-"Πριν από τη χρήση θα πρέπει πρώτα να κάνετε κλικ στο κουμπί "
-"<guibutton>Ενημέρωση</guibutton> για να διασφαλιστεί ότι οι τελευταίες "
-"ενημερώσεις από τα αποθετήρια λογισμικού θα είναι γνωστές στο Gslapt. Το "
-"πεδίο αναζήτησης είναι εκεί για σας να αναζητήσετε ένα συγκεκριμένο πακέτο. "
-"Μπορείτε να επισημάνετε με το αριστερό κλικ σας και να επιλέξετε την "
-"εγκατάσταση/απεγκατάσταση/επανεγκατάσταση πακέτων με ένα δεξί κλικ. Το "
-"Gslapt ανιχνεύει τις εξαρτήσεις και θα εγκαταστήσει όλα τα αρχεία εξαρτήσεων"
-" για ένα πακέτο αυτόματα. Η εγκατάσταση/απεγκατάσταση /επανεγκατάσταση θα "
-"πραγματοποιηθεί μόλις κάνετε κλικ στο κουμπί <guibutton>Εκτέλεση</guibutton>"
-" . Μπορείτε να βάλετε πακέτα στη μαύρη λίστα, προσθέτοντας τα ονόματά τους "
-"στη μαύρη λίστα που βρίσκεται στο <guimenuitem>Προτιμήσεις</guimenuitem> "
-"κάτω από την <guimenuitem>Επεξεργασία</guimenuitem> ."
+msgid "Gslapt is the GUI version of slapt-get (see <xref linkend=\"sect-Startup_Guide-Package_Management-slapt_get\" />). It allows one to search Slackware/Salix mirrors and third party sources for packages. Before use you should first click on the <guibutton> Update</guibutton> button to ensure that the latest updates from the software repositories are known to Gslapt. The search field is there for you to search for a particular package. You can highlight with your left click and choose to install/uninstall/reinstall packages with a right click. Gslapt detects dependencies and will install all the dependency files for a package automatically. Installation/uninstallation/reinstallation will take place once you click on the <guibutton>Execute</guibutton> button. You can blacklist packages by adding their names to the blacklist found in <guimenuitem>Preferences</guimenuitem> under <guimenuitem>Edit</guimenuitem>."
+msgstr "Το Gslapt είναι η γραφική έκδοση του slapt-get (βλ. <xref linkend=\"sect-Startup_Guide-Package_Management-slapt_get\" /> ). Επιτρέπει σε κάποιον να ψάξει στους καθρεπτισμούς του Slackware/Salix και πηγές τρίτων για πακέτα. Πριν από τη χρήση θα πρέπει πρώτα να κάνετε κλικ στο κουμπί <guibutton>Ενημέρωση</guibutton> για να διασφαλιστεί ότι οι τελευταίες ενημερώσεις από τα αποθετήρια λογισμικού θα είναι γνωστές στο Gslapt. Το πεδίο αναζήτησης είναι εκεί για σας να αναζητήσετε ένα συγκεκριμένο πακέτο. Μπορείτε να επισημάνετε με το αριστερό κλικ σας και να επιλέξετε την εγκατάσταση/απεγκατάσταση/επανεγκατάσταση πακέτων με ένα δεξί κλικ. Το Gslapt ανιχνεύει τις εξαρτήσεις και θα εγκαταστήσει όλα τα αρχεία εξαρτήσεων για ένα πακέτο αυτόματα. Η εγκατάσταση/απεγκατάσταση /επανεγκατάσταση θα πραγματοποιηθεί μόλις κάνετε κλικ στο κουμπί <guibutton>Εκτέλεση</guibutton> . Μπορείτε να βάλετε πακέτα στη μαύρη λίστα, προσθέτοντας τα ονόματά τους στη μαύρη λίστα που βρίσκεται στο <guimenuitem>Προτιμήσεις</guimenuitem> κάτω από την <guimenuitem>Επεξεργασία</guimenuitem> ."
 
 #. Tag: phrase
 #, no-c-format
@@ -121,51 +62,18 @@ msgstr "slapt-get"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"<ulink url=\"http://software.jaos.org/git/slapt-get/plain/FAQ.html\">slapt-"
-"get</ulink> is a command line tool for Slackware package management. It "
-"allows one to search Slackware/Salix mirrors and third party sources for "
-"packages, compare them with installed packages, install new packages, or "
-"upgrade all installed packages."
-msgstr ""
-"<ulink url=\"http://software.jaos.org/git/slapt-get/plain/FAQ.html\"> slapt-"
-"get </ulink> είναι ένα εργαλείο της γραμμής εντολών για την διαχείριση "
-"πακέτων Slackware. Επιτρέπει σε κάποιον να ψάξει για καθρεπτισμούς του "
-"Slackware/Salix  και πηγές τρίτων για τα πακέτα, να τα συγκρίνει με "
-"εγκατεστημένα πακέτα, να εγκαταστήσει νέα πακέτα, ή να αναβαθμίσει όλα τα "
-"εγκατεστημένα πακέτα."
+msgid "<ulink url=\"http://software.jaos.org/git/slapt-get/plain/FAQ.html\">slapt-get</ulink> is a command line tool for Slackware package management. It allows one to search Slackware/Salix mirrors and third party sources for packages, compare them with installed packages, install new packages, or upgrade all installed packages."
+msgstr "<ulink url=\"http://software.jaos.org/git/slapt-get/plain/FAQ.html\"> slapt-get </ulink> είναι ένα εργαλείο της γραμμής εντολών για την διαχείριση πακέτων Slackware. Επιτρέπει σε κάποιον να ψάξει για καθρεπτισμούς του Slackware/Salix  και πηγές τρίτων για τα πακέτα, να τα συγκρίνει με εγκατεστημένα πακέτα, να εγκαταστήσει νέα πακέτα, ή να αναβαθμίσει όλα τα εγκατεστημένα πακέτα."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"To use the application, open a Terminal window and issue the command "
-"<userinput>slapt-get -u</userinput> first to update the package database on "
-"your computer. Then <userinput>slapt-get -l</userinput> to list all the "
-"available packages, <userinput>slapt-get –search [package name]</userinput>;"
-" to search for a package, and <userinput>slapt-get -i [package "
-"name]</userinput> to install a package. For more command line instructions, "
-"please refer to <userinput>slapt-get –-help</userinput>."
-msgstr ""
-"Για να χρησιμοποιήσετε την εφαρμογή, ανοίξτε ένα παράθυρο Terminal και δώστε"
-" την εντολή <userinput>slapt-get -u</userinput>για να ενημερώσετε πρώτα τη "
-"βάση δεδομένων πακέτων στον υπολογιστή σας. Κατόπιν <userinput>slapt-get "
-"-l</userinput>για τη λίστα με όλα τα διαθέσιμα πακέτα, <userinput>slapt-get "
-"--search [όνομα πακέτου] </userinput>; Για να αναζητήσετε ένα πακέτο, και "
-"<userinput>slapt-get -i [όνομα πακέτου] </userinput> για να εγκαταστήσετε "
-"ένα πακέτο. Για περισσότερες οδηγίες γραμμής εντολών, ανατρέξτε στην "
-"εντολή<userinput>slapt-get --help </userinput> ."
+msgid "To use the application, open a Terminal window and issue the command <userinput>slapt-get -u</userinput> first to update the package database on your computer. Then <userinput>slapt-get -l</userinput> to list all the available packages, <userinput>slapt-get –search [package name]</userinput>; to search for a package, and <userinput>slapt-get -i [package name]</userinput> to install a package. For more command line instructions, please refer to <userinput>slapt-get –-help</userinput>."
+msgstr "Για να χρησιμοποιήσετε την εφαρμογή, ανοίξτε ένα παράθυρο Terminal και δώστε την εντολή <userinput>slapt-get -u</userinput>για να ενημερώσετε πρώτα τη βάση δεδομένων πακέτων στον υπολογιστή σας. Κατόπιν <userinput>slapt-get -l</userinput>για τη λίστα με όλα τα διαθέσιμα πακέτα, <userinput>slapt-get --search [όνομα πακέτου] </userinput>; Για να αναζητήσετε ένα πακέτο, και <userinput>slapt-get -i [όνομα πακέτου] </userinput> για να εγκαταστήσετε ένα πακέτο. Για περισσότερες οδηγίες γραμμής εντολών, ανατρέξτε στην εντολή<userinput>slapt-get --help </userinput> ."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Here is a little exercise for you. Try installing <emphasis "
-"role=\"bold\">w3m</emphasis> which is a terminal based web browser, by using"
-" slapt-get."
-msgstr ""
-"Εδώ είναι μια μικρή άσκηση για εσάς. Προσπαθήστε να εγκαταστήσετε το "
-"<emphasis role=\"bold\">w3m</emphasis> το οποίο είναι ένα πρόγραμμα "
-"περιήγησης στο Web, που βασίζεται στο τερματικό χρησιμοποιώντας το slapt-"
-"get."
+msgid "Here is a little exercise for you. Try installing <emphasis role=\"bold\">w3m</emphasis> which is a terminal based web browser, by using slapt-get."
+msgstr "Εδώ είναι μια μικρή άσκηση για εσάς. Προσπαθήστε να εγκαταστήσετε το <emphasis role=\"bold\">w3m</emphasis> το οποίο είναι ένα πρόγραμμα περιήγησης στο Web, που βασίζεται στο τερματικό χρησιμοποιώντας το slapt-get."
 
 #. Tag: title
 #, no-c-format
@@ -174,35 +82,13 @@ msgstr "Sourcery"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Sourcery is a new graphical frontend to slapt-src (see <xref linkend=\"sect-"
-"Startup_Guide-Package_Management-slapt_src\" />), a utility to build and "
-"install packages from source using SlackBuilds and/or SLKBUILDs. Before use,"
-" you should first click on the <guibutton>Update</guibutton> button on the "
-"tool bar to ensure that the latest updates from the software repositories "
-"are known to Sourcery. The search field is there for you to search for a "
-"particular package, and installations, uninstallations or reinstallations of"
-" selected packages are done with right clicks on their status boxes."
-msgstr ""
-"Το Sourcery είναι ένα νέο γραφικό περιβάλλον για το slapt-src (βλ. <xref "
-"linkend=\"sect-Startup_Guide-Package_Management-slapt_src\" /> ), Ένα "
-"βοηθητικό πρόγραμμα για την κατασκευή και εγκατάσταση των πακέτων από την "
-"πηγή χρησιμοποιώντας SlackBuilds και/ή SLKBUILDs. Πριν από τη χρήση, θα "
-"πρέπει πρώτα να κάνετε κλικ στο κουμπί <guibutton>Ενημέρωση</guibutton> στη "
-"γραμμή εργαλείων για να διασφαλιστεί ότι οι τελευταίες ενημερώσεις από τα "
-"αποθετήρια λογισμικού είναι γνωστές στο Sourcery. Το πεδίο αναζήτησης είναι "
-"εκεί για σας να αναζητήσετε ένα συγκεκριμένο πακέτο, και οι εγκαταστάσεις, "
-"απεγκαταστάσεις και επανεγκαταστάσεις των επιλεγμένων πακέτων γίνονται με το"
-" δεξί κλικ στα κουτιά της κατάστασής τους."
+msgid "Sourcery is a new graphical frontend to slapt-src (see <xref linkend=\"sect-Startup_Guide-Package_Management-slapt_src\" />), a utility to build and install packages from source using SlackBuilds and/or SLKBUILDs. Before use, you should first click on the <guibutton>Update</guibutton> button on the tool bar to ensure that the latest updates from the software repositories are known to Sourcery. The search field is there for you to search for a particular package, and installations, uninstallations or reinstallations of selected packages are done with right clicks on their status boxes."
+msgstr "Το Sourcery είναι ένα νέο γραφικό περιβάλλον για το slapt-src (βλ. <xref linkend=\"sect-Startup_Guide-Package_Management-slapt_src\" /> ), Ένα βοηθητικό πρόγραμμα για την κατασκευή και εγκατάσταση των πακέτων από την πηγή χρησιμοποιώντας SlackBuilds και/ή SLKBUILDs. Πριν από τη χρήση, θα πρέπει πρώτα να κάνετε κλικ στο κουμπί <guibutton>Ενημέρωση</guibutton> στη γραμμή εργαλείων για να διασφαλιστεί ότι οι τελευταίες ενημερώσεις από τα αποθετήρια λογισμικού είναι γνωστές στο Sourcery. Το πεδίο αναζήτησης είναι εκεί για σας να αναζητήσετε ένα συγκεκριμένο πακέτο, και οι εγκαταστάσεις, απεγκαταστάσεις και επανεγκαταστάσεις των επιλεγμένων πακέτων γίνονται με το δεξί κλικ στα κουτιά της κατάστασής τους."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Installation/uninstallation/reinstallation will take place once you click on"
-" the <guibutton>Execute</guibutton> button."
-msgstr ""
-"Η εγκατάσταση/απεγκατάσταση/επανεγκατάσταση θα πραγματοποιηθεί μόλις κάνετε "
-"κλικ στο κουμπί <guibutton>Εκτέλεση</guibutton> ."
+msgid "Installation/uninstallation/reinstallation will take place once you click on the <guibutton>Execute</guibutton> button."
+msgstr "Η εγκατάσταση/απεγκατάσταση/επανεγκατάσταση θα πραγματοποιηθεί μόλις κάνετε κλικ στο κουμπί <guibutton>Εκτέλεση</guibutton> ."
 
 #. Tag: phrase
 #, no-c-format
@@ -216,56 +102,18 @@ msgstr "slapt-src"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"slapt-src is a command line tool that makes the process of downloading and "
-"building software packages from slackbuilds.org simple and easy. "
-"Slackbuilds.org keeps a large collection of build scripts for extra packages"
-" that are still not available from the official Salix / Slackware "
-"repositories. Thousands of extra packages are now available to users through"
-" this tool."
-msgstr ""
-"Το slapt-src είναι ένα εργαλείο γραμμής εντολών που καθιστά τη διαδικασία "
-"της λήψης και την οικοδόμηση πακέτων λογισμικού από το slackbuilds.org απλή "
-"και εύκολη. Το Slackbuilds.org κρατά μια μεγάλη συλλογή σεναρίων κατασκευής "
-"για επιπλέον πακέτα που δεν είναι ακόμη διαθέσιμα από τα επίσημα αποθετήρια "
-"του Salix/Slackware. Χιλιάδες επιπλέον πακέτα είναι πλέον διαθέσιμα στους "
-"χρήστες μέσω αυτού του εργαλείου."
+msgid "slapt-src is a command line tool that makes the process of downloading and building software packages from slackbuilds.org simple and easy. Slackbuilds.org keeps a large collection of build scripts for extra packages that are still not available from the official Salix / Slackware repositories. Thousands of extra packages are now available to users through this tool."
+msgstr "Το slapt-src είναι ένα εργαλείο γραμμής εντολών που καθιστά τη διαδικασία της λήψης και την οικοδόμηση πακέτων λογισμικού από το slackbuilds.org απλή και εύκολη. Το Slackbuilds.org κρατά μια μεγάλη συλλογή σεναρίων κατασκευής για επιπλέον πακέτα που δεν είναι ακόμη διαθέσιμα από τα επίσημα αποθετήρια του Salix/Slackware. Χιλιάδες επιπλέον πακέτα είναι πλέον διαθέσιμα στους χρήστες μέσω αυτού του εργαλείου."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"To use the application, type in “slapt-src -u” first to update on your "
-"computer the list of build scripts available from Slackbuild.org. “slapt-src"
-" -l” shows you a list of available packages, and as in slapt-get, “slapt-src"
-" -i [package name]” will install a package. For more command line "
-"instructions, please refer to “slapt-src –help”."
-msgstr ""
-"Για να χρησιμοποιήσετε την εφαρμογή, πληκτρολογήστε \"slapt-src -u\" πρώτα "
-"για να ενημερώσετε στον υπολογιστή σας τον κατάλογο κατασκευής σεναρίων που "
-"διατίθενται από το Slackbuild.org. To \"slapt-src -l\" σας παρουσιάζει μια "
-"λίστα των διαθέσιμων πακέτων, και όπως στο slapt-get, το \"slapt-src -i "
-"[όνομα πακέτου]\" θα εγκαταστήσει ένα πακέτο. Για περισσότερες οδηγίες "
-"γραμμής εντολών, ανατρέξτε στο \"slapt-src --help\"."
+msgid "To use the application, type in “slapt-src -u” first to update on your computer the list of build scripts available from Slackbuild.org. “slapt-src -l” shows you a list of available packages, and as in slapt-get, “slapt-src -i [package name]” will install a package. For more command line instructions, please refer to “slapt-src –help”."
+msgstr "Για να χρησιμοποιήσετε την εφαρμογή, πληκτρολογήστε \"slapt-src -u\" πρώτα για να ενημερώσετε στον υπολογιστή σας τον κατάλογο κατασκευής σεναρίων που διατίθενται από το Slackbuild.org. To \"slapt-src -l\" σας παρουσιάζει μια λίστα των διαθέσιμων πακέτων, και όπως στο slapt-get, το \"slapt-src -i [όνομα πακέτου]\" θα εγκαταστήσει ένα πακέτο. Για περισσότερες οδηγίες γραμμής εντολών, ανατρέξτε στο \"slapt-src --help\"."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Another small exercise for you! Skype is a commonly used software to make "
-"voice calls over the Internet. It is not available from the common Salix / "
-"Slackware repository, but its build script is available from "
-"Slackbuilds.org. Try installing “skype” by using slapt-src. (If you do not "
-"wish to install it, you may just want to build the package. Note that the "
-"skype is 32-bit only, so if you are running a 64-bit system, please try out "
-"some other application)."
-msgstr ""
-"Μια άλλη μικρή άσκηση για εσάς! Το Skype είναι ένα ευρέως χρησιμοποιούμενο "
-"λογισμικό για φωνητικές κλήσεις μέσω του Διαδικτύου. Δεν είναι διαθέσιμο από"
-" το κοινό αποθετήριο του Salix/Slackware , αλλά το σενάριο δημιουργίας είναι"
-" διαθέσιμο από το Slackbuilds.org. Προσπαθήστε να εγκαταστήσετε το "
-"\"skype\", χρησιμοποιώντας το slapt-src. (Εάν δεν θέλετε να το "
-"εγκαταστήσετε, μπορείτε ακριβώς να θελήσετε να χτίσετε το πακέτο. Σημειώστε "
-"ότι το Skype είναι μόνο 32-bit, οπότε αν τρέχετε ένα σύστημα 64-bit, "
-"μπορείτε να δοκιμάσετε κάποια άλλη εφαρμογή)."
+msgid "Another small exercise for you! Skype is a commonly used software to make voice calls over the Internet. It is not available from the common Salix / Slackware repository, but its build script is available from Slackbuilds.org. Try installing “skype” by using slapt-src. (If you do not wish to install it, you may just want to build the package. Note that the skype is 32-bit only, so if you are running a 64-bit system, please try out some other application)."
+msgstr "Μια άλλη μικρή άσκηση για εσάς! Το Skype είναι ένα ευρέως χρησιμοποιούμενο λογισμικό για φωνητικές κλήσεις μέσω του Διαδικτύου. Δεν είναι διαθέσιμο από το κοινό αποθετήριο του Salix/Slackware , αλλά το σενάριο δημιουργίας είναι διαθέσιμο από το Slackbuilds.org. Προσπαθήστε να εγκαταστήσετε το \"skype\", χρησιμοποιώντας το slapt-src. (Εάν δεν θέλετε να το εγκαταστήσετε, μπορείτε ακριβώς να θελήσετε να χτίσετε το πακέτο. Σημειώστε ότι το Skype είναι μόνο 32-bit, οπότε αν τρέχετε ένα σύστημα 64-bit, μπορείτε να δοκιμάσετε κάποια άλλη εφαρμογή)."
 
 #. Tag: title
 #, no-c-format
@@ -274,32 +122,13 @@ msgstr "spkg"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"An alternative way to install a package (which for Salix and many other "
-"slackware based distribution ends with the .tgz, .tlz or .txz extension) is "
-"to use the command line input “spkg -i [exact name of a package]”. This is a"
-" handy way of installing a package if you have just created your own package"
-" or if you have downloaded it from the Internet. Note that the name of the "
-"package must be exact to the last extension (as in xxxxx-i486-tt.txz)."
-msgstr ""
-"Ένας εναλλακτικός τρόπος για να εγκαταστήσετε ένα πακέτο (το οποίο για το "
-"Salix και πολλές άλλεςδιανομές που βασίζονται στο slackware τελειώνει με την"
-" επέκταση .tgz,. tlz ή .txz) είναι να χρησιμοποιήσετε την είσοδο στη γραμμή "
-"εντολών \"spkg -i [ακριβές όνομα ενός πακέτου]\". Αυτός είναι ένας πρακτικός"
-" τρόπος για την εγκατάσταση ενός πακέτου, αν μόλις έχετε δημιουργήσει το "
-"δικό σας πακέτο ή αν το έχετε κατεβάσει από το Internet. Σημειώστε ότι το "
-"όνομα του πακέτου πρέπει να είναι τελειώνει ακριβώς στην επέκταση (όπως στο "
-"xxxxx-i486-tt.txz)."
+msgid "An alternative way to install a package (which for Salix and many other slackware based distribution ends with the .tgz, .tlz or .txz extension) is to use the command line input “spkg -i [exact name of a package]”. This is a handy way of installing a package if you have just created your own package or if you have downloaded it from the Internet. Note that the name of the package must be exact to the last extension (as in xxxxx-i486-tt.txz)."
+msgstr "Ένας εναλλακτικός τρόπος για να εγκαταστήσετε ένα πακέτο (το οποίο για το Salix και πολλές άλλεςδιανομές που βασίζονται στο slackware τελειώνει με την επέκταση .tgz,. tlz ή .txz) είναι να χρησιμοποιήσετε την είσοδο στη γραμμή εντολών \"spkg -i [ακριβές όνομα ενός πακέτου]\". Αυτός είναι ένας πρακτικός τρόπος για την εγκατάσταση ενός πακέτου, αν μόλις έχετε δημιουργήσει το δικό σας πακέτο ή αν το έχετε κατεβάσει από το Internet. Σημειώστε ότι το όνομα του πακέτου πρέπει να είναι τελειώνει ακριβώς στην επέκταση (όπως στο xxxxx-i486-tt.txz)."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Removing a package is somewhat similar. You can remove a package by issuing "
-"“spkg -d [software name]”, e.g. “spkg -d skype”."
-msgstr ""
-"Η αφαίρεση ενός πακέτου είναι κάπως παρόμοια. Μπορείτε να αφαιρέσετε ένα "
-"πακέτο με την εντολή \"spkg -d [όνομα του λογισμικού]\", π.χ. \"spkg -d "
-"skype\"."
+msgid "Removing a package is somewhat similar. You can remove a package by issuing “spkg -d [software name]”, e.g. “spkg -d skype”."
+msgstr "Η αφαίρεση ενός πακέτου είναι κάπως παρόμοια. Μπορείτε να αφαιρέσετε ένα πακέτο με την εντολή \"spkg -d [όνομα του λογισμικού]\", π.χ. \"spkg -d skype\"."
 
 #. Tag: title
 #, no-c-format
@@ -308,13 +137,8 @@ msgstr "Κάνοντας ένα πακέτο από ένα αρχείο προέ
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Installing a software from a source file is in most cases not difficult. You"
-" can compile a lot of software generally with the following commands."
-msgstr ""
-"Η εγκατάσταση ενός λογισμικού από ένα αρχείο προέλευσης δεν είναι δύσκολο "
-"στις περισσότερες περιπτώσεις . Μπορείτε να μεταγλωττίσετε πολύ λογισμικό "
-"γενικά με τις ακόλουθες εντολές."
+msgid "Installing a software from a source file is in most cases not difficult. You can compile a lot of software generally with the following commands."
+msgstr "Η εγκατάσταση ενός λογισμικού από ένα αρχείο προέλευσης δεν είναι δύσκολο στις περισσότερες περιπτώσεις . Μπορείτε να μεταγλωττίσετε πολύ λογισμικό γενικά με τις ακόλουθες εντολές."
 
 #. Tag: para
 #, no-c-format
@@ -348,40 +172,13 @@ msgstr "πληκτρολογήστε \"make install\""
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"(Make sure to read accompanying files such as “README”, “INSTALL” and so on "
-"for installation instructions before compiling. These files may list "
-"dependency packages which you need to install prior to the configuration. "
-"./configure --help or ./configure --help=short output should also help you "
-"with some configuration options)."
-msgstr ""
-"(Σιγουρευτείτε να διαβάσετε τα συνοδευτικά αρχεία, όπως \"README\", "
-"\"Εγκατάσταση\" και ούτω καθ 'εξής για τις οδηγίες εγκατάστασης πριν από την"
-" μεταγλώτιση. Αυτά τα αρχεία μπορεί να περιέχουν πακέτα εξαρτήσεων που θα "
-"πρέπει να εγκαταστήσετε πριν από τη διαμόρφωση ./configure --help ή "
-"./configure --help= η μικρή έξοδος θα πρέπει επίσης να σας βοηθήσει με "
-"κάποιες επιλογές ρύθμισης)."
+msgid "(Make sure to read accompanying files such as “README”, “INSTALL” and so on for installation instructions before compiling. These files may list dependency packages which you need to install prior to the configuration. ./configure --help or ./configure --help=short output should also help you with some configuration options)."
+msgstr "(Σιγουρευτείτε να διαβάσετε τα συνοδευτικά αρχεία, όπως \"README\", \"Εγκατάσταση\" και ούτω καθ 'εξής για τις οδηγίες εγκατάστασης πριν από την μεταγλώτιση. Αυτά τα αρχεία μπορεί να περιέχουν πακέτα εξαρτήσεων που θα πρέπει να εγκαταστήσετε πριν από τη διαμόρφωση ./configure --help ή ./configure --help= η μικρή έξοδος θα πρέπει επίσης να σας βοηθήσει με κάποιες επιλογές ρύθμισης)."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Although you should manage to install the software after the final command, "
-"it is essentially untracked and neither Gslapt nor slapt-get can see that "
-"the software is installed. A better way is to create a Salix package using "
-"SLKBUILD, which is a build script you can prepare before issuing “slkbuild "
-"-X” to create a Salix compatible package. For more on SLKBULD, please "
-"consult <ulink "
-"url=\"http://www.salixos.org/wiki/index.php/Building_packages_with_slkbuild\">SLKBUILD</ulink>."
-msgstr ""
-"Αν και καταφέρατε να εγκαταστήσετε το λογισμικό μετά την τελευταία εντολή, "
-"είναι ουσιαστικά untracked και ούτε το Gslapt ούτε το slapt-get μπορεί να "
-"δει ότι το λογισμικό είναι εγκατεστημένο. Ένας καλύτερος τρόπος είναι να "
-"δημιουργήσετε ένα πακέτο Salix χρησιμοποιώντας SLKBUILD, που είναι ένα "
-"αρχείο σεναρίου κατασκευής που μπορείτε να ετοιμάσετε πριν από την εκτέλεση "
-"του \"slkbuild -X\" για τη δημιουργία ενός συμβατού πακέτου Salix. Για "
-"περισσότερες πληροφορίες σχετικά με SLKBUILD, συμβουλευτείτε <ulink "
-"url=\"http://www.salixos.org/wiki/index.php/Building_packages_with_slkbuild\">"
-" SLKBUILD </ulink> ."
+msgid "Although you should manage to install the software after the final command, it is essentially untracked and neither Gslapt nor slapt-get can see that the software is installed. A better way is to create a Salix package using SLKBUILD, which is a build script you can prepare before issuing “slkbuild -X” to create a Salix compatible package. For more on SLKBULD, please consult <ulink url=\"http://www.salixos.org/wiki/index.php/Building_packages_with_slkbuild\">SLKBUILD</ulink>."
+msgstr "Αν και καταφέρατε να εγκαταστήσετε το λογισμικό μετά την τελευταία εντολή, είναι ουσιαστικά untracked και ούτε το Gslapt ούτε το slapt-get μπορεί να δει ότι το λογισμικό είναι εγκατεστημένο. Ένας καλύτερος τρόπος είναι να δημιουργήσετε ένα πακέτο Salix χρησιμοποιώντας SLKBUILD, που είναι ένα αρχείο σεναρίου κατασκευής που μπορείτε να ετοιμάσετε πριν από την εκτέλεση του \"slkbuild -X\" για τη δημιουργία ενός συμβατού πακέτου Salix. Για περισσότερες πληροφορίες σχετικά με SLKBUILD, συμβουλευτείτε <ulink url=\"http://www.salixos.org/wiki/index.php/Building_packages_with_slkbuild\"> SLKBUILD </ulink> ."
 
 #. Tag: title
 #, no-c-format
@@ -390,24 +187,8 @@ msgstr "Τα πακέτα του Salix, που είναι διαφορετικά
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Although the vast majority of packages found in the Salix repositories are "
-"complementary to the Slackware repositories, you will find that some "
-"packages are present both in the Salix repositories and in the Slackware "
-"repositories. These packages have been rebuilt for Salix OS for a number of "
-"good reasons, and a list of the packages as well as brief explanations as to"
-" why are found in <ulink "
-"url=\"http://www.salixos.org/wiki/index.php/Packages,_that_are_different_from_Slackware\">this"
-" wiki entry</ulink>."
-msgstr ""
-"Παρά το γεγονός ότι η συντριπτική πλειοψηφία των πακέτων που βρίσκονται στα "
-"αποθετήρια Salix είναι συμπληρωματικά προς τα αποθετήρια του Slackware, θα "
-"διαπιστώσετε ότι κάποια πακέτα είναι παρόντα τόσο στα αποθετήρια του Salix "
-"και στα αποθετήρια του Slackware. Τα πακέτα αυτά έχουν ήδη ανακατασκευαστεί "
-"για το Salix OS για διάφορους καλούς λόγους, και μια λίστα με τα πακέτα "
-"καθώς και σύντομες εξηγήσεις για ποιο λόγο υπάρχουν στο <ulink "
-"url=\"http://www.salixos.org/wiki/index.php/Packages,_that_are_different_from_Slackware\">"
-" Αυτή η καταχώρηση wiki </ulink> ."
+msgid "Although the vast majority of packages found in the Salix repositories are complementary to the Slackware repositories, you will find that some packages are present both in the Salix repositories and in the Slackware repositories. These packages have been rebuilt for Salix OS for a number of good reasons, and a list of the packages as well as brief explanations as to why are found in <ulink url=\"http://www.salixos.org/wiki/index.php/Packages,_that_are_different_from_Slackware\">this wiki entry</ulink>."
+msgstr "Παρά το γεγονός ότι η συντριπτική πλειοψηφία των πακέτων που βρίσκονται στα αποθετήρια Salix είναι συμπληρωματικά προς τα αποθετήρια του Slackware, θα διαπιστώσετε ότι κάποια πακέτα είναι παρόντα τόσο στα αποθετήρια του Salix και στα αποθετήρια του Slackware. Τα πακέτα αυτά έχουν ήδη ανακατασκευαστεί για το Salix OS για διάφορους καλούς λόγους, και μια λίστα με τα πακέτα καθώς και σύντομες εξηγήσεις για ποιο λόγο υπάρχουν στο <ulink url=\"http://www.salixos.org/wiki/index.php/Packages,_that_are_different_from_Slackware\"> Αυτή η καταχώρηση wiki </ulink> ."
 
 #. Tag: title
 #, no-c-format
@@ -416,35 +197,18 @@ msgstr "Αναβάθμιση του Salix OS σε νεότερη έκδοση"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"If you wish to upgrade an older version of Salix OS on your machine to the "
-"latest, please refer to the following link for upgrading your Salix OS."
-msgstr ""
-"Αν θέλετε να αναβαθμίσετε μια παλαιότερη έκδοση του Salix OS στον υπολογιστή"
-" σας με τις τελευταίες, παρακαλούμε ανατρέξτε στο παρακάτω σύνδεσμο για την "
-"αναβάθμιση του Salix OS σας."
+msgid "If you wish to upgrade an older version of Salix OS on your machine to the latest, please refer to the following link for upgrading your Salix OS."
+msgstr "Αν θέλετε να αναβαθμίσετε μια παλαιότερη έκδοση του Salix OS στον υπολογιστή σας με τις τελευταίες, παρακαλούμε ανατρέξτε στο παρακάτω σύνδεσμο για την αναβάθμιση του Salix OS σας."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"<ulink "
-"url=\"http://www.salixos.org/wiki/index.php/How_to_upgrade_Salix_13.0_to_13.1\">Salix"
-" 13.0 to 13.1</ulink>"
-msgstr ""
-"<ulink "
-"url=\"http://www.salixos.org/wiki/index.php/How_to_upgrade_Salix_13.0_to_13.1\">Salix"
-" 13.0 to 13.1</ulink>"
+msgid "<ulink url=\"http://www.salixos.org/wiki/index.php/How_to_upgrade_Salix_13.0_to_13.1\">Salix 13.0 to 13.1</ulink>"
+msgstr "<ulink url=\"http://www.salixos.org/wiki/index.php/How_to_upgrade_Salix_13.0_to_13.1\">Salix 13.0 to 13.1</ulink>"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"<ulink "
-"url=\"http://www.salixos.org/wiki/index.php/How_to_upgrade_Salix_13.1_to_13.37\">Salix"
-" 13.1 to 13.37</ulink>"
-msgstr ""
-"<ulink "
-"url=\"http://www.salixos.org/wiki/index.php/How_to_upgrade_Salix_13.1_to_13.37\">Salix"
-" 13.1 to 13.37</ulink>"
+msgid "<ulink url=\"http://www.salixos.org/wiki/index.php/How_to_upgrade_Salix_13.1_to_13.37\">Salix 13.1 to 13.37</ulink>"
+msgstr "<ulink url=\"http://www.salixos.org/wiki/index.php/How_to_upgrade_Salix_13.1_to_13.37\">Salix 13.1 to 13.37</ulink>"
 
 #. Tag: title
 #, no-c-format
@@ -458,15 +222,8 @@ msgstr "Ρύθμιση του Διαδικτύου"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Network connections are managed by Wicd in Salix. It is an open source wired"
-" and wireless network manager for Linux which aims to provide a simple "
-"interface to connect to networks with a wide variety of settings."
-msgstr ""
-"Οι συνδέσεις του δικτύου διαχειρίζονται απο το Wicd στο Salix. Είναι μια "
-"εφαρμογή ανοικτού λογισμικού για τη διαχείριση ενσύρματων και ασύρματων "
-"δικτύων για Linux η οποία έχει ως στόχο να παρέχει ένα απλό interface για "
-"σύνδεση σε δίκτυα με μια ευρεία ποικιλία ρυθμίσεων."
+msgid "Network connections are managed by Wicd in Salix. It is an open source wired and wireless network manager for Linux which aims to provide a simple interface to connect to networks with a wide variety of settings."
+msgstr "Οι συνδέσεις του δικτύου διαχειρίζονται απο το Wicd στο Salix. Είναι μια εφαρμογή ανοικτού λογισμικού για τη διαχείριση ενσύρματων και ασύρματων δικτύων για Linux η οποία έχει ως στόχο να παρέχει ένα απλό interface για σύνδεση σε δίκτυα με μια ευρεία ποικιλία ρυθμίσεων."
 
 #. Tag: phrase
 #, no-c-format
@@ -475,24 +232,13 @@ msgstr "Στιγμιότυπο από Wicd"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"It will connect to wired (Ethernet only, no PPPoE/DSL support yet) and "
-"wireless networks."
-msgstr ""
-"Θα συνδεθεί με ενσύρματα (Ethernet μόνο, όχι PPPoE / DSL υποστήριξη ακόμη) "
-"και ασύρματα δίκτυα."
+msgid "It will connect to wired (Ethernet only, no PPPoE/DSL support yet) and wireless networks."
+msgstr "Θα συνδεθεί με ενσύρματα (Ethernet μόνο, όχι PPPoE / DSL υποστήριξη ακόμη) και ασύρματα δίκτυα."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Note that wicd and wireless must be activated in the startup services (see "
-"<xref linkend=\"sect-Startup_Guide-Salix_Tools-Startup_Services\" />) in "
-"order to make wireless networks visible on Wicd."
-msgstr ""
-"Σημειώστε ότι το wicd και το wireless πρέπει να ενεργοποιηθούν στην εκκίνηση"
-" των υπηρεσιών (βλ. <xref linkend=\"sect-Startup_Guide-Salix_Tools-"
-"Startup_Services\" /> ), Προκειμένου να κάνουν τα ασύρματα δίκτυα ορατά στο "
-"Wicd."
+msgid "Note that wicd and wireless must be activated in the startup services (see <xref linkend=\"sect-Startup_Guide-Salix_Tools-Startup_Services\" />) in order to make wireless networks visible on Wicd."
+msgstr "Σημειώστε ότι το wicd και το wireless πρέπει να ενεργοποιηθούν στην εκκίνηση των υπηρεσιών (βλ. <xref linkend=\"sect-Startup_Guide-Salix_Tools-Startup_Services\" /> ), Προκειμένου να κάνουν τα ασύρματα δίκτυα ορατά στο Wicd."
 
 #. Tag: title
 #, no-c-format
@@ -501,552 +247,420 @@ msgstr "Ρύθμιση ενός εκτυπωτή"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"After writing a document, transferring photos from your camera, or creating "
-"your own images with GIMP, you would probably like to print them out with "
-"your printer. To do this, you need to have a printer already installed on "
-"your system. “Manage Printing”, which is found under “System” in the main "
-"application menu, handles the installation and general management of your "
-"printers. (Ensure that “CUPS” is enabled in the startup services (see <xref "
-"linkend=\"sect-Startup_Guide-Salix_Tools-Startup_Services\" />), or Manage "
-"Printing will not start properly)."
-msgstr ""
+msgid "After writing a document, transferring photos from your camera, or creating your own images with GIMP, you would probably like to print them out with your printer. To do this, you need to have a printer already installed on your system. “Manage Printing”, which is found under “System” in the main application menu, handles the installation and general management of your printers. (Ensure that “CUPS” is enabled in the startup services (see <xref linkend=\"sect-Startup_Guide-Salix_Tools-Startup_Services\" />), or Manage Printing will not start properly)."
+msgstr "Μετά τη σύνταξη ενός εγγράφου, τη μεταφορά φωτογραφιών από τη φωτογραφική μηχανή σας, ή δημιουργώντας τις δικές σας εικόνες με GIMP, πιθανόν να θέλετε να τα εκτυπώσετε με τον εκτυπωτή σας. Για να γίνει αυτό, πρέπει να έχετε έναν εκτυπωτή ήδη εγκατεστημένο στο σύστημά σας. \"Διαχείριση εκτύπωσης\", το οποίο βρίσκεται κάτω από τον τίτλο \"Σύστημα\" στο κύριο μενού της εφαρμογής, χειρίζεται την εγκατάσταση και τη γενική διαχείριση των εκτυπωτών σας. (Βεβαιωθείτε ότι το \"CUPS\" είναι ενεργοποιημένο στην εκκίνηση των υπηρεσιών (βλ. <xref linkend=\"sect-Startup_Guide-Salix_Tools-Startup_Services\" /> ), Ή Διαχείριση εκτύπωσης δεν θα ξεκινήσει σωστά)."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"If you are buying a new printer, it is recommended to check the availability"
-" of Linux drivers beforehand from the <ulink "
-"url=\"http://www.linuxfoundation.org/collaborate/workgroups/openprinting/database/databaseintro\">Open"
-" Printing database</ulink> (or search on the Internet). Some companies offer"
-" printer drivers for Linux, but this is less common than desired, and often "
-"involves a lengthy installation process. For most Linux friendly printers, "
-"you have to install drivers such as gutenprint and HPIJS, both of which are "
-"available from the repositories."
-msgstr ""
+msgid "If you are buying a new printer, it is recommended to check the availability of Linux drivers beforehand from the <ulink url=\"http://www.linuxfoundation.org/collaborate/workgroups/openprinting/database/databaseintro\">Open Printing database</ulink> (or search on the Internet). Some companies offer printer drivers for Linux, but this is less common than desired, and often involves a lengthy installation process. For most Linux friendly printers, you have to install drivers such as gutenprint and HPIJS, both of which are available from the repositories."
+msgstr "Εάν αγοράζετε ένα νέο εκτυπωτή, συνιστάται να ελέγξετε τη διαθεσιμότητα οδηγών Linux εκ των προτέρων από την <ulink url=\"http://www.linuxfoundation.org/collaborate/workgroups/openprinting/database/databaseintro\">Open Printing database</ulink> (Ή κάντε αναζήτηση στο διαδίκτυο). Ορισμένες εταιρείες προσφέρουν προγράμματα οδήγησης εκτυπωτών για Linux, αλλά αυτό συμβαίνει λιγότερο συχνά από ό,τι θέλετε, και συχνά συνεπάγεται μια μακρά διαδικασία εγκατάστασης. Για τους περισσότερους εκτυπωτές φιλικούς στο Linux , θα πρέπει να εγκαταστήσετε τα προγράμματα οδήγησης, όπως gutenprint και HPIJS, που είναι διαθέσιμα στα αποθετήρια."
 
 #. Tag: para
 #, no-c-format
 msgid "Select “Add Printers and Classes”"
-msgstr ""
+msgstr "Επιλέξτε “Add Printers and Classes”"
 
 #. Tag: para
 #, no-c-format
 msgid "Under “Printers”, select “Add Printer”"
-msgstr ""
+msgstr "Under “Printers”, select “Add Printer”"
 
 #. Tag: para
 #, no-c-format
 msgid "Enter “root” as a username and your superuser password"
-msgstr ""
+msgstr "Πληκτρολογήστε \"root\" σαν όνομα χρήστη και τον κωδικό πρόσβασης υπερχρήστη σας"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Select your printer description and choose if you would like to share the "
-"printer"
-msgstr ""
+msgid "Select your printer description and choose if you would like to share the printer"
+msgstr "Επιλέξτε την περιγραφή του εκτυπωτή σας και επιλέξετε αν θα θέλατε να μοιραστείτε τον εκτυπωτή"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Select the correct driver from the list (Model) – see an example below. This"
-" is the important part. Or if you have a <ulink "
-"url=\"http://en.wikipedia.org/wiki/PostScript_Printer_Description\">PPD</ulink>"
-" file instead, you can load it here."
-msgstr ""
+msgid "Select the correct driver from the list (Model) – see an example below. This is the important part. Or if you have a <ulink url=\"http://en.wikipedia.org/wiki/PostScript_Printer_Description\">PPD</ulink> file instead, you can load it here."
+msgstr "Επιλέξτε το κατάλληλο πρόγραμμα οδήγησης από τη λίστα (Model) - δείτε ένα παράδειγμα παρακάτω. Αυτό είναι το σημαντικό κομμάτι. Ή εάν έχετε ένα <ulink url=\"http://en.wikipedia.org/wiki/PostScript_Printer_Description\"> PPD </ulink> αρχείο αντ 'αυτού, μπορείτε να το φορτώσετε εδώ."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Printer Configuration"
-msgstr ""
+msgstr "Στιγμιότυπο Διαμόρφωσης εκτυπωτή"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Select Add Printer, and finish the process by configuring details of the "
-"printer."
-msgstr ""
+msgid "Select Add Printer, and finish the process by configuring details of the printer."
+msgstr "Επιλέξτε Προσθήκη εκτυπωτή, και τελειώστε τη διαδικασία με τη διαμόρφωση λεπτομερειών του εκτυπωτή."
 
 #. Tag: para
 #, no-c-format
 msgid "Now the printer should be usable on your computer"
-msgstr ""
+msgstr "Τώρα ο εκτυπωτής θα πρέπει να μπορεί να χρησιμοποιηθεί στον υπολογιστή σας"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"For setting up a network printer, please consult the Salix <ulink "
-"url=\"http://www.salixos.org/wiki/index.php/How_to_share_a_printer_via_CUPS\">wiki</ulink>."
-msgstr ""
+msgid "For setting up a network printer, please consult the Salix <ulink url=\"http://www.salixos.org/wiki/index.php/How_to_share_a_printer_via_CUPS\">wiki</ulink>."
+msgstr "Για τη δημιουργία ενός εκτυπωτή δικτύου, μπορείτε να ανατρέξετε στο Salix <ulink url=\"http://www.salixos.org/wiki/index.php/How_to_share_a_printer_via_CUPS\"> wiki </ulink> ."
 
 #. Tag: title
 #, no-c-format
 msgid "Salix Codecs Installer"
-msgstr ""
+msgstr "Εγκατάσταση κωδικοποιητών πολυμέσων του Salix"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Salix only includes, by default, software that are legally free to use in "
-"any country, and that means that proprietary media formats are not "
-"configured “out of the box”. Most commercial DVDs are encrypted, and that "
-"means that you need to install certain codecs to view them. This is legally "
-"permitted in most countries but not all. Please check and obtain legal "
-"advice if you are unsure whether a particular legal restriction applies to a"
-" media format and/or packages you wish to use in your country."
-msgstr ""
+msgid "Salix only includes, by default, software that are legally free to use in any country, and that means that proprietary media formats are not configured “out of the box”. Most commercial DVDs are encrypted, and that means that you need to install certain codecs to view them. This is legally permitted in most countries but not all. Please check and obtain legal advice if you are unsure whether a particular legal restriction applies to a media format and/or packages you wish to use in your country."
+msgstr "Το Salix περιλαμβάνει μόνο, από προεπιλογή, το λογισμικό που είναι νομικά ελεύθερο να χρησιμοποιηθεί σε οποιαδήποτε χώρα, και αυτό σημαίνει ότι ιδιόκτητες μορφές των πολυμέσων δεν ρυθμίζονται \"out of the box\". Τα περισσότερα εμπορικά DVDs είναι κρυπτογραφημένα, και αυτό σημαίνει ότι θα πρέπει να εγκαταστήσετε ορισμένα codecs για να τα δείτε. Αυτό επιτρέπεται από το νόμο στις περισσότερες χώρες αλλά όχι σε όλα. Παρακαλείστε να ελέγξετε και να λάβετε νομικές συμβουλές αν δεν είστε βέβαιοι αν ένας συγκεκριμένος νομικός περιορισμός ισχύει για ένα τύπο πολυμέσων και/ή για πακέτα που επιθυμείτε να χρησιμοποιήσετε στη χώρα σας."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Salix codecs installer can be found under “Multimedia” in the main "
-"application menu, and conveniently install those codecs to enhance your "
-"viewing experiences."
-msgstr ""
+msgid "Salix codecs installer can be found under “Multimedia” in the main application menu, and conveniently install those codecs to enhance your viewing experiences."
+msgstr "Ο εγκαταστάτης κωδικοποιητών πολυμέσων του Salix μπορεί να βρεθεί υπό τον τίτλο \"Πολυμέσα\" στο κύριο μενού της εφαρμογής, και βολικά να εγκαταστήσετε αυτά τα codecs για την ενίσχυση των εμπειριών προβολής πολυμέσων σας."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"For more information on what is actually installed, please see <ulink "
-"url=\"http://www.salixos.org/wiki/index.php/What_gets_installed_with_the_%22Install_multimedia_codecs%22_application?\">here</ulink>."
-msgstr ""
+msgid "For more information on what is actually installed, please see <ulink url=\"http://www.salixos.org/wiki/index.php/What_gets_installed_with_the_%22Install_multimedia_codecs%22_application?\">here</ulink>."
+msgstr "Για περισσότερες πληροφορίες σχετικά με το τι είναι πραγματικά εγκατεστημένο, παρακαλούμε δείτε <ulink url=\"http://www.salixos.org/wiki/index.php/What_gets_installed_with_the_%22Install_multimedia_codecs%22_application?\">εδώ</ulink>."
 
 #. Tag: title
 #, no-c-format
 msgid "Salix Tools"
-msgstr ""
+msgstr "Εργαλεία του Salix "
 
 #. Tag: title
 #, no-c-format
 msgid "What are the Salix Tools?"
-msgstr ""
+msgstr "Ποια είναι τα εργαλεία του Salix;"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of System Menu"
-msgstr ""
+msgstr "Screenshot του Μενού Συστήματος"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Salix tools are a collection of utilities that are designed to manage every "
-"aspect of Salix configuration easily. You can find these tools under the "
-"System section of the application menu. Of course, system management in "
-"Salix OS can also be done the usual (<ulink "
-"url=\"http://www.slackbook.org/html/book.html\">manual</ulink>) Slackware "
-"way."
-msgstr ""
+msgid "Salix tools are a collection of utilities that are designed to manage every aspect of Salix configuration easily. You can find these tools under the System section of the application menu. Of course, system management in Salix OS can also be done the usual (<ulink url=\"http://www.slackbook.org/html/book.html\">manual</ulink>) Slackware way."
+msgstr "Τα εργαλεία του Salix είναι μια συλλογή από βοηθητικά προγράμματα που έχουν σχεδιαστεί για να διαχειρίζονται κάθε πτυχή της διαμόρφωσης του Salix εύκολα. Μπορείτε να βρείτε αυτά τα εργαλεία στο πλαίσιο του τμήματος του συστήματος των μενού της εφαρμογής. Φυσικά, η διαχείριση του συστήματος στο Salix OS μπορεί να γίνει και με το σύνηθες ( <ulink url=\"http://www.slackbook.org/html/book.html\"> εγχειρίδιο </ulink> ) Τρόπο του Slackware."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Please note that most Salix tools (except Lilo Setup) have an ncurses "
-"counterpart which can be used in a non-graphical environment (<ulink "
-"url=\"http://www.bilbos-stekkie.com/slack_init/en/init.html#SLACK-"
-"RUNLEVELS\">runlevel 3</ulink>)."
-msgstr ""
+msgid "Please note that most Salix tools (except Lilo Setup) have an ncurses counterpart which can be used in a non-graphical environment (<ulink url=\"http://www.bilbos-stekkie.com/slack_init/en/init.html#SLACK-RUNLEVELS\">runlevel 3</ulink>)."
+msgstr "Παρακαλώ σημειώστε ότι τα περισσότερα εργαλεία του Salix (εκτός της Ρύθμισης του Lilo) έχουν ένα αντίστοιχο ncurses που μπορεί να χρησιμοποιηθεί σε μη γραφικό περιβάλλον ( <ulink url=\"http://www.bilbos-stekkie.com/slack_init/en/init.html#SLACK-RUNLEVELS\"> runlevel 3 </ulink> )."
 
 #. Tag: title
 #, no-c-format
 msgid "ALSA Sound Card"
-msgstr ""
+msgstr "Κάρτα ήχου ALSA"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"ALSA Sound Card manages the system sound card configuration. It will display"
-" available sound cards in your system and let you select the card you want "
-"to use in preference. This is particularly useful when you have multiple "
-"sound cards in your system, and you would like to assign a sound card for "
-"your system other than the one automatically picked during installation"
-"/start-up."
-msgstr ""
+msgid "ALSA Sound Card manages the system sound card configuration. It will display available sound cards in your system and let you select the card you want to use in preference. This is particularly useful when you have multiple sound cards in your system, and you would like to assign a sound card for your system other than the one automatically picked during installation/start-up."
+msgstr "Το ALSA Sound Card διαχειρίζεται τη ρύθμιση της κάρτας ήχου του συστήματος. Θα εμφανίσει τις διαθέσιμες κάρτες ήχου στο σύστημά σας και θα σας επιτρέψει να επιλέξετε την κάρτα που θέλετε να χρησιμοποιήσετε κατά προτίμηση. Αυτό είναι ιδιαίτερα χρήσιμο όταν έχετε πολλαπλές κάρτες ήχου στο σύστημά σας, και θα θέλατε να εκχωρήσετε μια κάρτα ήχου για το σύστημα σας εκτός από αυτή που διάλεξε αυτόματα κατά την εγκατάσταση/εκκίνηση."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Alsa configuration utility"
-msgstr ""
+msgstr "Screenshot του βοηθητικού προγράμματος ρύθμισης παραμέτρων Alsa"
 
 #. Tag: title
 #, no-c-format
 msgid "Rebuild Icon Cache"
-msgstr ""
+msgstr "Επαναδημιουργία της μνήμης εικονιδίων"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"As the name indicates, Rebuild Icon Cache reconnects some icons that may "
-"have become lost after updating your system / installing some new program, "
-"and makes them appear again in the application menu."
-msgstr ""
+msgid "As the name indicates, Rebuild Icon Cache reconnects some icons that may have become lost after updating your system / installing some new program, and makes them appear again in the application menu."
+msgstr "Όπως αναφέρει το όνομα, η  Επαναδημιουργία της μνήμης εικονιδίων επανασυνδέει κάποια εικονίδια που μπορεί να έχουν χαθεί μετά την ενημέρωση του συστήματός σας / εγκατάσταση κάποιου νέου προγράμματος, και τους κάνει να εμφανίζονται και πάλι στο μενού της εφαρμογής."
 
 #. Tag: title
 #, no-c-format
 msgid "Hostnames"
-msgstr ""
+msgstr "Hostnames"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Hostnames manages the host names used by your computer. This tool "
-"facilitates defining / overviewing host names used while setting up your "
-"machine as a server."
-msgstr ""
+msgid "Hostnames manages the host names used by your computer. This tool facilitates defining / overviewing host names used while setting up your machine as a server."
+msgstr "To Hostnames διαχειρίζεται τα ονόματα υπολογιστών που χρησιμοποιούνται από τον υπολογιστή σας. Το εργαλείο αυτό διευκολύνει τον καθορισμό / εποπτεία ονομάτων υπολογιστών που χρησιμοποιούνται κατά την εγκατάσταση του μηχανήματός σας ως διακομιστή."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Hostname utility"
-msgstr ""
+msgstr "Στιγμιότυπο του βοηθητικού προγράμματος Hostname"
 
 #. Tag: title
 #, no-c-format
 msgid "Dotnew"
-msgstr ""
+msgstr "Dotnew"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Dotnew manages the system configuration upgrades used by Slackware. It will "
-"display a possible course of action for each new configuration file found in"
-" the system."
-msgstr ""
+msgid "Dotnew manages the system configuration upgrades used by Slackware. It will display a possible course of action for each new configuration file found in the system."
+msgstr "Το Dotnew διαχειρίζεται τις αναβαθμίσεις διαμόρφωσης του συστήματος που χρησιμοποιείται από το Slackware. Θα εμφανίσει μια πιθανή πορεία δράσης για κάθε νέο αρχείο ρυθμίσεων που βρέθηκε στο σύστημα."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Dotnew setting utility"
-msgstr ""
+msgstr "Στιγμιότυπο ρυθμίσεων του βοηθητικού προγράμματος Dotnew"
 
 #. Tag: para
 #, no-c-format
 msgid "To execute this utility in runlevel 3, simply type dotnew."
-msgstr ""
+msgstr "Για να εκτελέσετε αυτό το βοηθητικό πρόγραμμα στο runlevel 3, απλά πληκτρολογήστε dotnew."
 
 #. Tag: title
 #, no-c-format
 msgid "Keyboard Layout"
-msgstr ""
+msgstr "Διάταξη πληκτρολογίου"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Keyboard Setup utility"
-msgstr ""
+msgstr "Στιγμιότυπο του βοηθητικού προγράμματος εγκατάστασης πληκτρολογίου"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"This utility will configure the keyboard disposition being used both in the "
-"graphical and non-graphical environments. Modifications are applied "
-"instantly."
-msgstr ""
+msgid "This utility will configure the keyboard disposition being used both in the graphical and non-graphical environments. Modifications are applied instantly."
+msgstr "Αυτό το βοηθητικό πρόγραμμα θα ρυθμίσει τη διάταξη πληκτρολογίου που χρησιμοποιείται στο γραφικό και μη γραφικό περιβάλλον. Οι τροποποιήσεις εφαρμόζονται αμέσως."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Note that if you would like to activate Ibus (see <xref linkend=\"sect-"
-"Startup_Guide-Selected_Applications_found_in_Salix-Ibus\" />) during the "
-"start up, you can do so by ticking the optional box."
-msgstr ""
+msgid "Note that if you would like to activate Ibus (see <xref linkend=\"sect-Startup_Guide-Selected_Applications_found_in_Salix-Ibus\" />) during the start up, you can do so by ticking the optional box."
+msgstr "Σημειώστε ότι αν θέλετε να ενεργοποιήσετε το Ibus (βλ. <xref linkend=\"sect-Startup_Guide-Selected_Applications_found_in_Salix-Ibus\" /> ) Κατά την εκκίνηση, μπορείτε να το κάνετε επιλέγοντας το προαιρετικό κουτί."
 
 #. Tag: para
 #, no-c-format
 msgid "To execute this utility in runlevel 3, simply type keyboardsetup."
-msgstr ""
+msgstr "Για να εκτελέσετε αυτό το βοηθητικό πρόγραμμα στο runlevel 3, απλά πληκτρολογήστε keyboardsetup."
 
 #. Tag: title
 #, no-c-format
 msgid "Lilo Setup"
-msgstr ""
+msgstr "Ρύθμιση Lilo"
 
 #. Tag: para
 #, no-c-format
 msgid "Lilo Setup will install a new LILO bootloader on your computer."
-msgstr ""
+msgstr "Ο εγκαταστάτης του Lilo θα εγκαταστήσει έναν νέο bootloader LILO στον υπολογιστή σας."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of LiloSetup utility"
-msgstr ""
+msgstr "Στιγμιότυπο του βοηθητικού προγράμματος LiloSetup"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"A bootloader is required to load the main operating system of a computer and"
-" will initially display a boot menu if several operating systems are "
-"available on the same computer."
-msgstr ""
+msgid "A bootloader is required to load the main operating system of a computer and will initially display a boot menu if several operating systems are available on the same computer."
+msgstr "Ένας bootloader απαιτείται για να φορτώσει το κύριο λειτουργικό σύστημα ενός υπολογιστή και θα εμφανίσει αρχικά ένα μενού εκκίνησης, αν πολλά λειτουργικά συστήματα είναι διαθέσιμα στον ίδιο υπολογιστή."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"It is necessary to (re)configure the bootloader each time you install a new "
-"operating system on your computer."
-msgstr ""
+msgid "It is necessary to (re)configure the bootloader each time you install a new operating system on your computer."
+msgstr "Είναι απαραίτητο να (επανα) ρυθμίσετε τον φορτωτή εκκίνησης κάθε φορά που θα εγκαταστήσετε ένα νέο λειτουργικό σύστημα στον υπολογιστή σας."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Lilo Setup can also be useful in the process of a disaster recovery, in "
-"which case you may have to launch it from a Live CD if you have lost all "
-"other means to boot into your system."
-msgstr ""
+msgid "Lilo Setup can also be useful in the process of a disaster recovery, in which case you may have to launch it from a Live CD if you have lost all other means to boot into your system."
+msgstr "Ο εγκαταστάτης του Lilo μπορεί επίσης να είναι χρήσιμος κατά τη διαδικασία της αποκατάστασης μετά από καταστροφή, οπότε μπορεί να χρειαστεί να τον ξεκινήσετε από ένα Live CD, αν έχετε χάσει όλα τα άλλα μέσα για να εκκινήσετε το σύστημά σας."
 
 #. Tag: title
 #, no-c-format
 msgid "Startup Services"
-msgstr ""
+msgstr "Εκκίνηση Υπηρεσιών"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Here you will be able to select the services that should or shouldn't be "
-"activated in the background when your system starts."
-msgstr ""
+msgid "Here you will be able to select the services that should or shouldn't be activated in the background when your system starts."
+msgstr "Εδώ θα έχετε τη δυνατότητα να επιλέξετε τις υπηρεσίες που πρέπει ή δεν πρέπει να ενεργοποιηθούν στο παρασκήνιο όταν το σύστημά σας ξεκινά."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"All your modifications will be applied instantly if you press on the OK "
-"button and will not necessitate a reboot."
-msgstr ""
+msgid "All your modifications will be applied instantly if you press on the OK button and will not necessitate a reboot."
+msgstr "Όλες οι τροποποιήσεις σας θα εφαρμοστούν άμεσα, εάν πατήσετε το κουμπί ΟΚ και δεν θα απαιτήσει επανεκκίνηση."
 
 #. Tag: para
 #, no-c-format
 msgid "To execute this utility in runlevel 3, simply type servicesetup."
-msgstr ""
+msgstr "Για να εκτελέσετε αυτό το βοηθητικό πρόγραμμα στο runlevel 3, απλά πληκτρολογήστε servicesetup."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Services Setting utility"
-msgstr ""
+msgstr "Στιγμιότυπο του βοηθητικού προγράμματος Ρύθμιση Υπηρεσιών"
 
 #. Tag: title
 #, no-c-format
 msgid "System Language"
-msgstr ""
+msgstr "Γλώσσα Συστήματος"
 
 #. Tag: para
 #, no-c-format
 msgid "This utility will configure the language of your system."
-msgstr ""
+msgstr "Αυτό το βοηθητικό πρόγραμμα θα ρυθμίσει τη γλώσσα του συστήματός σας."
 
 #. Tag: para
 #, no-c-format
 msgid "To execute it in runlevel 3, simply type localesetup."
-msgstr ""
+msgstr "Για να εκτελέσετε αυτό στο runlevel 3, απλά πληκτρολογήστε localesetup."
 
 #. Tag: title
 #, no-c-format
 msgid "System Clock"
-msgstr ""
+msgstr "Ρολόι Συστήματος"
 
 #. Tag: para
 #, no-c-format
 msgid "This utility will configure your computer clock."
-msgstr ""
+msgstr "Αυτό το βοηθητικό πρόγραμμα θα ρυθμίσει το ρολόι του υπολογιστή σας."
 
 #. Tag: para
 #, no-c-format
 msgid "To execute it in runlevel 3, simply type clocksetup."
-msgstr ""
+msgstr "Για να εκτελέσετε αυτό στο runlevel 3, απλά πληκτρολογήστε clocksetup."
 
 #. Tag: title
 #, no-c-format
 msgid "Users Profile"
-msgstr ""
+msgstr "Προφίλ χρηστών"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of User Management utility"
-msgstr ""
+msgstr "Στιγμιότυπο της βοηθητικής εφαρμογής διαχείρισης χρηστών"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"In Unix/Linux, all users and groups of users are given certain <ulink "
-"url=\"http://en.wikibooks.org/wiki/UNIX_Computing_Security/Access_authorization\">permissions"
-" and access rights</ulink> to some part of the system in order to control "
-"their ability to access and change it."
-msgstr ""
+msgid "In Unix/Linux, all users and groups of users are given certain <ulink url=\"http://en.wikibooks.org/wiki/UNIX_Computing_Security/Access_authorization\">permissions and access rights</ulink> to some part of the system in order to control their ability to access and change it."
+msgstr "Στο Unix/Linux, σε όλους τους χρήστες και ομάδες χρηστών δίνονται ορισμένα <ulink url=\"http://en.wikibooks.org/wiki/UNIX_Computing_Security/Access_authorization\">δικαιώματα και δικαιώματα πρόσβασης</ulink>σε κάποιο μέρος του συστήματος, ώστε να ελέγχουν την ικανότητά τους να έχουν πρόσβαση και να το αλλάξουν."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"This utility manages the creation, deletion and properties of all the system"
-" users and groups of users."
-msgstr ""
+msgid "This utility manages the creation, deletion and properties of all the system users and groups of users."
+msgstr "Αυτό το βοηθητικό πρόγραμμα διαχειρίζεται τη δημιουργία, διαγραφή και τις ιδιότητες όλων των χρηστών του συστήματος και τις ομάδες των χρηστών."
 
 #. Tag: para
 #, no-c-format
 msgid "To execute it in runlevel 3, simply type usersetup."
-msgstr ""
+msgstr "Για να εκτελέσετε αυτό στο runlevel 3, απλά πληκτρολογήστε usersetup."
 
 #. Tag: title
 #, no-c-format
 msgid "Salix-Update-Notifier"
-msgstr ""
+msgstr "Salix-Update-Notifier"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Salix update notifier"
-msgstr ""
+msgstr "Στιγμιότυπο από Salix Update Notifier"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Salix update notifier is a tool that periodically checks for available "
-"package updates and informs the user about them with the display of a non-"
-"intrusive tray icon, which can be used to launch the upgrade process with "
-"Gslapt."
-msgstr ""
+msgid "Salix update notifier is a tool that periodically checks for available package updates and informs the user about them with the display of a non-intrusive tray icon, which can be used to launch the upgrade process with Gslapt."
+msgstr "Το Salix Update Notifier είναι ένα εργαλείο που περιοδικά ελέγχει για διαθέσιμες ενημερώσεις πακέτων και ενημερώνει τον χρήστη για αυτές με την εμφάνιση ενός μη παρεμβατικού εικονίδιου, το οποίο μπορεί να χρησιμοποιηθεί για να ξεκινήσει η διαδικασία αναβάθμισης με το Gslapt."
 
 #. Tag: title
 #, no-c-format
 msgid "Salix Live Tools"
-msgstr ""
+msgstr "Ζωντανά Εργαλεία του Salix "
 
 #. Tag: title
 #, no-c-format
 msgid "What are the Live Tools?"
-msgstr ""
+msgstr "Ποια είναι τα ζωντανά εργαλεία;"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Salix Live comes with all the default software included in Salix OS (see "
-"<xref linkend=\"appe-Startup_Guide-List_of_Applications\" />)."
-msgstr ""
+msgid "Salix Live comes with all the default software included in Salix OS (see <xref linkend=\"appe-Startup_Guide-List_of_Applications\" />)."
+msgstr "Το Salix Live έρχεται με όλο το προεπιλεγμένο λογισμικό που περιλαμβάνεται στο Salix OS (βλ. <xref linkend=\"appe-Startup_Guide-List_of_Applications\" /> )."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"However, due to its Live nature it also includes some extra utilities which "
-"are either needed or simply very useful in a Live session."
-msgstr ""
+msgid "However, due to its Live nature it also includes some extra utilities which are either needed or simply very useful in a Live session."
+msgstr "Ωστόσο, λόγω της Ζωντανή φύση του περιλαμβάνει επίσης κάποια επιπλέον βοηθητικά προγράμματα που είτε χρειάζονται είτε είναι απλά πολύ χρήσιμα σε μια ζωντανή συνεδρία."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Some of the Live Tools are graphical utilities that can be accessed directly"
-" on the desktop while some Live Tools, reserved for advanced users, can only"
-" be executed from the command line (<ulink "
-"url=\"http://en.wikipedia.org/wiki/Command-line_interface\">CLI</ulink>)."
-msgstr ""
+msgid "Some of the Live Tools are graphical utilities that can be accessed directly on the desktop while some Live Tools, reserved for advanced users, can only be executed from the command line (<ulink url=\"http://en.wikipedia.org/wiki/Command-line_interface\">CLI</ulink>)."
+msgstr "Μερικά από τα ζωντανά εργαλεία είναι γραφικές εφαρμογές που μπορούν να έχουν άμεση πρόσβαση στην επιφάνεια εργασίας, ενώ μερικά ζωντανά εργαλεία, που προορίζονται για προχωρημένους χρήστες, μπορούν να εκτελεστούν μόνο από τη γραμμή εντολών ( <ulink url=\"http://en.wikipedia.org/wiki/Command-line_interface\"> CLI </ulink> )."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Live Tools Icons on the desktop"
-msgstr ""
+msgstr "Στιγμιότυπο από τα εικονίδια ζωντανών εργαλείων στην επιφάνεια εργασίας"
 
 #. Tag: title
 #, no-c-format
 msgid "The Persistence Wizard"
-msgstr ""
+msgstr "Οδηγός μόνιμων αλλαγών"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Even if run from a CD/DVD, Salix Live gives you the possibility to save any "
-"of your work or modification performed while in a Live session."
-msgstr ""
+msgid "Even if run from a CD/DVD, Salix Live gives you the possibility to save any of your work or modification performed while in a Live session."
+msgstr "Ακόμη και αν τρέχει από ένα CD/DVD, το Salix Live σας δίνει τη δυνατότητα να αποθηκεύσετε οποιαδήποτε εργασία ή τροποποιήσεις που έγιναν ενώ είστε σε μια Live συνεδρία."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"To do this however, you must first create a special \"persistence file\" on "
-"your hard drive, which will have a predecided fixed-size and will be "
-"formatted as a Linux file system."
-msgstr ""
+msgid "To do this however, you must first create a special \"persistence file\" on your hard drive, which will have a predecided fixed-size and will be formatted as a Linux file system."
+msgstr "Για να γίνει αυτό όμως, πρέπει πρώτα να δημιουργήσετε ένα ειδικό \"αρχείο μόνιμων αλλαγών\" στο σκληρό σας δίσκο, το οποίο θα έχει ένα προαποφασισμένο καθορισμένο μέγεθος και θα μορφοποιηθεί ως ένα σύστημα αρχείων Linux."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Salix Live Persistence Wizard"
-msgstr ""
+msgstr "Στιγμιότυπο από τον Οδηγό μόνιμων αλλαγών"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Important! Once this file has been created, it is necessary to reboot the "
-"Live CD. From then on, Salix Live will begin to monitor any changes you "
-"perform and will record them in the new persistent file."
-msgstr ""
+msgid "Important! Once this file has been created, it is necessary to reboot the Live CD. From then on, Salix Live will begin to monitor any changes you perform and will record them in the new persistent file."
+msgstr "Σημαντικό! Μόλις αυτό το αρχείο έχει δημιουργηθεί, είναι απαραίτητο να επανεκκινήσετε το Live CD. Από κει και πέρα, το Salix Live θα ξεκινήσει να παρακολουθεί τις αλλαγές που εκτελείτε και θα τις καταγράφει στο νέο αρχείο μόνιμων αλλαγών."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"To remove any changes and come back to the default settings, simply delete "
-"the persistent file (slxsave.xfs) from the <ulink "
-"url=\"http://www.linfo.org/mount_point.html\">mount point</ulink> it was "
-"initially created on."
-msgstr ""
+msgid "To remove any changes and come back to the default settings, simply delete the persistent file (slxsave.xfs) from the <ulink url=\"http://www.linfo.org/mount_point.html\">mount point</ulink> it was initially created on."
+msgstr "Για να αφαιρέσετε τυχόν αλλαγές και να επιστρέψετε στις προεπιλεγμένες ρυθμίσεις, απλά διαγράψτε το αρχείο μόνιμων αλλαγών(slxsave.xfs) από το <ulink url=\"http://www.linfo.org/mount_point.html\">σημείο προσάρτησης</ulink> που αρχικά δημιουργήθηκε."
 
 #. Tag: title
 #, no-c-format
 msgid "Gparted"
-msgstr ""
+msgstr "Gparted"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Gparted is included in Salix Live to assist you in managing your partitions "
-"if it is necessary for you to do so before performing the installation of "
-"Salix OS (see <xref linkend=\"sect-Startup_Guide-"
-"Preparing_Salix_Installation-Partition_Management\" />)."
-msgstr ""
+msgid "Gparted is included in Salix Live to assist you in managing your partitions if it is necessary for you to do so before performing the installation of Salix OS (see <xref linkend=\"sect-Startup_Guide-Preparing_Salix_Installation-Partition_Management\" />)."
+msgstr "Το Gparted περιλαμβάνεται στο Salix Live για να σας βοηθήσει στη διαχείριση των διαμερισμάτων σας, εάν τη χρειαστείτε πριν από την εκτέλεση της εγκατάστασης του Salix OS (βλ. <xref linkend=\"sect-Startup_Guide-Preparing_Salix_Installation-Partition_Management\" /> )."
 
 #. Tag: title
 #, no-c-format
 msgid "Salix Live Installer"
-msgstr ""
+msgstr "Salix Live Installer"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Salix Live Installer will enable you to install Salix OS from the comfort of"
-" Salix Live graphical environment (see <xref linkend=\"sect-Startup_Guide-"
-"Starting_Up_Salix_OS-Installing_from_a_Live_CD_USB\" />)."
-msgstr ""
+msgid "Salix Live Installer will enable you to install Salix OS from the comfort of Salix Live graphical environment (see <xref linkend=\"sect-Startup_Guide-Starting_Up_Salix_OS-Installing_from_a_Live_CD_USB\" />)."
+msgstr "Το Salix Live Installer θα σας επιτρέψει να εγκαταστήσετε το Salix OS από την άνεση του  γραφικού περιβάλλοντος του Salix Live (βλ. <xref linkend=\"sect-Startup_Guide-Starting_Up_Salix_OS-Installing_from_a_Live_CD_USB\" /> )."
 
 #. Tag: title
 #, no-c-format
 msgid "LiveClone"
-msgstr ""
+msgstr "LiveClone"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Salix LiveClone"
-msgstr ""
+msgstr "Στιγμιότυπο από Salix LiveClone"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"LiveClone generates a Live CD/DVD iso image (which you can burn as an image "
-"on a CD/DVD with a CD/DVD burner) or a Live USB key. This means that it "
-"creates your customized live environment which will be based either on your "
-"SalixLive or your running system. In the case of a Live USB Key generation, "
-"you will be offered to make your USB key with “persistence” (see <xref "
-"linkend=\"sect-Startup_Guide-Salix_Live_Tools-The_Persistence_Wizard\" />)."
-msgstr ""
+msgid "LiveClone generates a Live CD/DVD iso image (which you can burn as an image on a CD/DVD with a CD/DVD burner) or a Live USB key. This means that it creates your customized live environment which will be based either on your SalixLive or your running system. In the case of a Live USB Key generation, you will be offered to make your USB key with “persistence” (see <xref linkend=\"sect-Startup_Guide-Salix_Live_Tools-The_Persistence_Wizard\" />)."
+msgstr "Το LiveClone δημιουργεί ένα Live CD/DVD αρχείο εικόνας ISO (που μπορείτε να κάψετε ως εικόνα σε ένα CD/DVD με CD/DVD burner) ή ένα Live κλειδί USB. Αυτό σημαίνει ότι δημιουργεί το προσαρμοσμένο ζωντανό περιβάλλον σας που θα βασίζεται είτε στο SalixLive ή στο τρέχον συστημά σας. Στην περίπτωση δημιουργίας ενός Live κλειδιού USB, θα σας προταθεί να κάνετε το κλειδί USB σας  \"μόνιμων αλλαγών\" (βλ. <xref linkend=\"sect-Startup_Guide-Salix_Live_Tools-The_Persistence_Wizard\" /> )."
 
 #. Tag: title
 #, no-c-format
 msgid "SaLT Scripts"
-msgstr ""
+msgstr "Σενάρια SaLT"
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"Salix Live is build with a set of homegrown scripts called SaLT (from Salix "
-"Live Templates)."
-msgstr ""
+msgid "Salix Live is build with a set of homegrown scripts called SaLT (from Salix Live Templates)."
+msgstr "Το Salix Live έγινε με μια σειρά από ντόπια σενάρια που ονομάζονται SaLT (από τα Salix Live Templates)."
 
 #. Tag: para
 #, no-c-format
-msgid ""
-"While for the most part, these scripts need no user interaction, some can be"
-" executed, for instance to facilitate the creation of a Salix Live USB Flash"
-" Disk. They will also enable an advanced user to fully customize and re-"
-"master Salix Live to better suit his or her own needs."
-msgstr ""
-
-
+msgid "While for the most part, these scripts need no user interaction, some can be executed, for instance to facilitate the creation of a Salix Live USB Flash Disk. They will also enable an advanced user to fully customize and re-master Salix Live to better suit his or her own needs."
+msgstr "Αν και ως επί το πλείστον, αυτά τα σενάρια δεν χρειάζονται αλληλεπίδραση του χρήστη, κάποια μπορεί να εκτελεστούν, για παράδειγμα, να διευκολύνει τη δημιουργία ενός Salix Live USB Flash Disk. Θα επιτρέψουν επίσης σε ένα έμπειρο χρήστη να προσαρμόσει πλήρως και να επαναδημιουργήσει το Salix Live για να ταιριάζουν καλύτερα στις δικές του ανάγκες."
