@@ -1,89 +1,99 @@
-# 
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Translators:
+# Dimitris Tzemos <djemos@slackel.gr>, 2011.
 msgid ""
 msgstr ""
-"Project-Id-Version: 0\n"
+"Project-Id-Version: Salix documentation\n"
 "POT-Creation-Date: 2011-11-08T17:18:01\n"
-"PO-Revision-Date: 2011-11-08T17:18:01\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2011-11-20 15:30+0000\n"
+"Last-Translator: djemos <djemos@slackel.gr>\n"
 "Language-Team: None\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #. Tag: title
 #, no-c-format
 msgid "Revision History"
-msgstr ""
+msgstr "Ιστορικό αναθεωρήσεων"
 
 #. Tag: firstname
 #, no-c-format
 msgid "Tomoki"
-msgstr ""
+msgstr "Tomoki"
 
 #. Tag: surname
 #, no-c-format
 msgid "Tsuchiya"
-msgstr ""
+msgstr "Tsuchiya"
 
 #. Tag: member
 #, no-c-format
 msgid "Original draft."
-msgstr ""
+msgstr "Πρωτότυπο σχέδιο."
 
 #. Tag: member
 #, no-c-format
-msgid "Based partly on 13.1.2 guide with new articles to reflect changes and updates."
+msgid ""
+"Based partly on 13.1.2 guide with new articles to reflect changes and "
+"updates."
 msgstr ""
+"Βασίζεται εν μέρει στον οδηγό 13.1.2 με νέα άρθρα για να αντανακλούν τις "
+"αλλαγές και ενημερώσεις."
 
 #. Tag: member
 #, no-c-format
 msgid "Fixed some typos"
-msgstr ""
+msgstr "Διορθώθηκαν μερικά λάθη"
 
 #. Tag: member
 #, no-c-format
 msgid "Tim (Mimosa) prepared new section on Ratpoison"
-msgstr ""
+msgstr "Ο Tim (Mimosa) δημιούργησε νέα ενότητα για το Ratpoison"
 
 #. Tag: member
 #, no-c-format
 msgid "Ratpoison added in Application tables"
-msgstr ""
+msgstr "Το Ratpoison προστέθηκε στους πίνακες εφαρμογών"
 
 #. Tag: member
 #, no-c-format
 msgid "Incorporated some suggestions and corrections from the forum"
-msgstr ""
+msgstr "Ενσωματώθηκαν κάποιες προτάσεις και διορθώσεις από το φόρουμ"
 
 #. Tag: member
 #, no-c-format
 msgid "Tim added Ratpoison walktrough"
-msgstr ""
+msgstr "Ο Tim πρόσθεσε το Ratpoison walktrough"
 
 #. Tag: firstname
 #, no-c-format
 msgid "Pierrick"
-msgstr ""
+msgstr "Pierrick"
 
 #. Tag: surname
 #, no-c-format
 msgid "Le Brun"
-msgstr ""
+msgstr "Le Brun"
 
 #. Tag: member
 #, no-c-format
 msgid "Converted draft n°4 from ODT to docbook format"
-msgstr ""
+msgstr "Μετατροπέν σχέδιο n ° 4 από ODT σε μορφή DocBook"
 
 #. Tag: member
 #, no-c-format
 msgid "First tests with Publican publishing stack"
-msgstr ""
+msgstr "Πρώτες δοκιμές με την εφαρμογή δημοσιεύσεων Publican "
 
 #. Tag: member
 #, no-c-format
 msgid "Some small modifications regarding new SaLT LiveCD build script"
 msgstr ""
+"Μερικές μικρές τροποποιήσεις όσον αφορά το νέο εργαλείο SaLT για τη "
+"δημιουργία LiveCD"
+
 

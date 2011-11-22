@@ -1,739 +1,1558 @@
-# 
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Translators:
+# Dimitris Tzemos <djemos@slackel.gr>, 2011.
 msgid ""
 msgstr ""
-"Project-Id-Version: 0\n"
+"Project-Id-Version: Salix documentation\n"
 "POT-Creation-Date: 2011-11-08T17:18:00\n"
-"PO-Revision-Date: 2011-11-08T17:18:00\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2011-11-21 13:32+0000\n"
+"Last-Translator: djemos <djemos@slackel.gr>\n"
 "Language-Team: None\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #. Tag: title
 #, no-c-format
 msgid "Salix Mini Walkthroughs"
-msgstr ""
+msgstr "Salix Walkthroughs Mini"
 
 #. Tag: title
 #, no-c-format
 msgid "Working with the Command Line Interface"
-msgstr ""
+msgstr "Εργασία με το περιβάλλον γραμμής εντολών"
 
 #. Tag: para
 #, no-c-format
-msgid "This section deals with working in a console mode or with a terminal (such as xfce terminal, xterm, konsole and so forth), and serves merely as a light introduction to what we call \"command line interface\" (CLI). The intended audience here is not seasoned travellers but new journeymen in the land of Linux, who are willing to discover more about what one can do with it. We will go through some examples in this section for you to follow, and hopefully by the end of this walkthrough, you will have no problem working in the “black screen”. For those who would like to know more about CLI, there are a couple of useful resources available on the net, and some are listed in the <ulink url=\"http://www.salixos.org/forum/viewtopic.php?f=30&amp;t=852\">Salix Forum</ulink>."
+msgid ""
+"This section deals with working in a console mode or with a terminal (such "
+"as xfce terminal, xterm, konsole and so forth), and serves merely as a light"
+" introduction to what we call \"command line interface\" (CLI). The intended"
+" audience here is not seasoned travellers but new journeymen in the land of "
+"Linux, who are willing to discover more about what one can do with it. We "
+"will go through some examples in this section for you to follow, and "
+"hopefully by the end of this walkthrough, you will have no problem working "
+"in the “black screen”. For those who would like to know more about CLI, "
+"there are a couple of useful resources available on the net, and some are "
+"listed in the <ulink "
+"url=\"http://www.salixos.org/forum/viewtopic.php?f=30&amp;t=852\">Salix "
+"Forum</ulink>."
 msgstr ""
+"Αυτό το κεφάλαιο ασχολείται με την εργασία σε μια κονσόλα ή με ένα τερματικό"
+" (όπως Xfce τερματικό, xterm, konsole και ούτω καθεξής), και χρησιμεύει "
+"απλώς ως μια μικρή εισαγωγή σε αυτό που ονομάζουμε \"γραμμή εντολών\" (CLI)."
+" Το κοινό στο οποίο απευθύνεται εδώ δεν είναι έμπειροι ταξιδιώτες αλλά οι "
+"νέοι τεχνίτες στη γη του Linux, οι οποίοι είναι πρόθυμοι να ανακαλύψουν "
+"περισσότερα για το τι μπορεί κανείς να κάνει με αυτό. Θα προχωρήσουμε σε "
+"μερικά παραδείγματα αυτής της ενότητας για να μπορείτε να ακολουθήσετε, και "
+"ελπίζουμε ότι μέχρι το τέλος αυτού περάσματος, δεν θα έχετε κανένα πρόβλημα "
+"να εργάζεστε στην «μαύρη οθόνη». Για εκείνους που θα ήθελαν να γνωρίζουν "
+"περισσότερα για CLI, υπάρχουν μερικές χρήσιμες πηγές που διατίθενται στο "
+"δίκτυο, και μερικά που αναφέρονται στην <ulink "
+"url=\"http://www.salixos.org/forum/viewtopic.php?f=30&amp;amp;t=852\"> Salix"
+" Forum </ulink> ."
 
 #. Tag: para
 #, no-c-format
-msgid "So why learn CLI commands at all? Graphical user interfaces for applications have been steadily improving in Linux, and are probably now comparable to any OS in their ease of use. On the other hand, where Linux excels in particular is in the area of command line applications, its traditional strength. Without the CLI, you would be effectively missing out on half of what Linux can offer, if not more."
+msgid ""
+"So why learn CLI commands at all? Graphical user interfaces for applications"
+" have been steadily improving in Linux, and are probably now comparable to "
+"any OS in their ease of use. On the other hand, where Linux excels in "
+"particular is in the area of command line applications, its traditional "
+"strength. Without the CLI, you would be effectively missing out on half of "
+"what Linux can offer, if not more."
 msgstr ""
+"Γιατί λοιπόν να μάθετε CLI εντολές; Οι Γραφικές διεπαφές χρήστη για "
+"εφαρμογές βελτιώνονται σταθερά στο Linux, και μπορούν πιθανά τώρα να "
+"συγκριθούν με οποιοδήποτε λειτουργικό σύστημα στην ευκολία χρήσης τους. Από "
+"την άλλη πλευρά, εκεί που το Linux υπερέχει, ειδικότερα, είναι στον τομέα "
+"των εφαρμογών της γραμμής εντολών, η παραδοσιακή δύναμη του. Χωρίς το CLI, "
+"ουσιαστικά θα σας λείπει το μισό από αυτό που το Linux μπορεί να προσφέρει, "
+"αν όχι περισσότερο."
 
 #. Tag: para
 #, no-c-format
-msgid "There is another reason. From time to time, you might have to work in console. For instance, if the machine fails to start up a graphical desktop environment during booting, then you are more or less forced to fix the problem without GUI."
+msgid ""
+"There is another reason. From time to time, you might have to work in "
+"console. For instance, if the machine fails to start up a graphical desktop "
+"environment during booting, then you are more or less forced to fix the "
+"problem without GUI."
 msgstr ""
+"Υπάρχει ένας άλλος λόγος. Από καιρό σε καιρό, ίσως χρειαστεί να εργαστείτε "
+"σε κονσόλα. Για παράδειγμα, αν το μηχάνημα δεν καταφέρει να ξεκινήσει ένα "
+"γραφικό περιβάλλον επιφάνειας εργασίας κατά την εκκίνηση, τότε θα είναι "
+"περισσότερο ή λιγότερο αναγκαίο να διορθώσετε το πρόβλημα χωρίς γραφικό "
+"περιβάλλον."
 
 #. Tag: para
 #, no-c-format
-msgid "Of course, there are many other reasons to learn CLI commands, but for now we will start by learning how to move around directories."
+msgid ""
+"Of course, there are many other reasons to learn CLI commands, but for now "
+"we will start by learning how to move around directories."
 msgstr ""
+"Φυσικά, υπάρχουν πολλοί άλλοι λόγοι για να μάθετε τις εντολές CLI, αλλά προς"
+" το παρόν θα ξεκινήσετε με την εκμάθηση πώς να κινηθείτε γύρω από "
+"καταλόγους."
 
 #. Tag: para
 #, no-c-format
-msgid "First, open up a terminal or move to a console (you can do this by pressing Ctrl+Alt+F2, for example. To get back to the graphical desktop, press Ctrl+Alt+F4, for example. F number keys are used to switch between consoles.)"
+msgid ""
+"First, open up a terminal or move to a console (you can do this by pressing "
+"Ctrl+Alt+F2, for example. To get back to the graphical desktop, press "
+"Ctrl+Alt+F4, for example. F number keys are used to switch between "
+"consoles.)"
 msgstr ""
+"Κατ 'αρχάς, να ανοίξετε ένα τερματικό ή να μετακινηθείτε σε μια κονσόλα "
+"(μπορείτε να το κάνετε αυτό πατώντας Ctrl + Alt + F2, για παράδειγμα. Για να"
+" επιστρέψετε στο γραφικό περιβάλλον εργασίας, πατήστε Ctrl + Alt + F4, για "
+"παράδειγμα. F αριθμητικά πλήκτρα χρησιμοποιούνται για εναλλαγή μεταξύ των "
+"κονσολών.)"
 
 #. Tag: title
 #, no-c-format
 msgid "Moving Around - cd"
-msgstr ""
+msgstr "Μετακίνηση - cd"
 
 #. Tag: para
 #, no-c-format
-msgid "You should be in your user directory (denoted as \"~\"), which is normally the same as \"/home/your user name\" (replace the “your user name” with your own). In Salix, this directory contains \"Desktop\", \"Music\", \"Documents\" and so on. To see its content, type \"ls\" and press enter. You will see something like this:"
+msgid ""
+"You should be in your user directory (denoted as \"~\"), which is normally "
+"the same as \"/home/your user name\" (replace the “your user name” with your"
+" own). In Salix, this directory contains \"Desktop\", \"Music\", "
+"\"Documents\" and so on. To see its content, type \"ls\" and press enter. "
+"You will see something like this:"
 msgstr ""
+"Θα πρέπει να είστε στον κατάλογο χρήστη (συμβολίζεται ως \"~\"), το οποίο "
+"είναι συνήθως το ίδιο με το \"/home/όνομα χρήστη\" (αντικαταστήστε το "
+"\"όνομα χρήστη\" με το δικό σας). Στο Salix, αυτός ο κατάλογος περιέχει "
+"\"Desktop\", \"Μουσική\", \"Έγγραφα\" και ούτω καθεξής. Για να δείτε το "
+"περιεχόμενό του, πληκτρολογήστετ \"ls\" και πατήστε enter. Θα δείτε κάτι σαν"
+" αυτό:"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of a terminal with a sample command"
-msgstr ""
+msgstr "Στιγμιότυπο από ένα τερματικό με μια εντολή δείγμα"
 
 #. Tag: para
 #, no-c-format
-msgid "Now to move around directories, we use \"cd\". If you just type in \"cd\" and enter, nothing will happen. \"cd\" must be followed either by a name of a directory which is within the directory you are in or by a full path to the directory you wish to move into. You can also go one directory up by typing \"cd ..\" (be careful, there is a space between cd and ..). Remember on Linux, arguments are separated by spaces. So for now, let's move to the root directory. The root directory is, as the name suggests, the core of your directories - every directory stems from here. Once you wipe out the root directory, you will not see your machine booting up again."
+msgid ""
+"Now to move around directories, we use \"cd\". If you just type in \"cd\" "
+"and enter, nothing will happen. \"cd\" must be followed either by a name of "
+"a directory which is within the directory you are in or by a full path to "
+"the directory you wish to move into. You can also go one directory up by "
+"typing \"cd ..\" (be careful, there is a space between cd and ..). Remember "
+"on Linux, arguments are separated by spaces. So for now, let's move to the "
+"root directory. The root directory is, as the name suggests, the core of "
+"your directories - every directory stems from here. Once you wipe out the "
+"root directory, you will not see your machine booting up again."
 msgstr ""
+"Τώρα για να μετακινηθούμε σε καταλόγους, χρησιμοποιούμε \"cd\". Αν απλά "
+"πληκτρολογήστε \"cd\" και πατήστε enter, τίποτα δεν θα συμβεί. Η εντολή "
+"\"cd\" πρέπει να ακολουθείται είτε από το όνομα ενός καταλόγου που βρίσκεται"
+" μέσα στον κατάλογο που βρίσκεστε ή από τη πλήρη διαδρομή του κατάλογου που "
+"επιθυμείτε να μετακινηθείτε σε. Μπορείτε επίσης να μετακινηθείτε έναν "
+"κατάλογο πίσω πληκτρολογώντας \"cd ..\" (Να είστε προσεκτικοί, υπάρχει ένα "
+"διάστημα μεταξύ cd και ..). Να θυμάστε ότι στο Linux, οι παράμετροι είναι "
+"χωρισμένοι με κενά. Έτσι, τώρα, ας προχωρήσουμε στο ριζικό κατάλογο. Ο "
+"ριζικός κατάλογος είναι, όπως υποδηλώνει το όνομα, ο πυρήνας των καταλόγων "
+"σας - κάθε κατάλογος προέρχεται από εδώ. Μόλις εξαλείψετε το ριζικό "
+"κατάλογο, δεν θα δείτε τον υπολογιστή σας να ξεκινά και πάλι."
 
 #. Tag: para
 #, no-c-format
 msgid "To move to the root \"/\", type in \"cd /\"."
-msgstr ""
+msgstr "Για να μετακινηθείτε στο root \"/\", πληκτρολογήστε \"cd /\"."
 
 #. Tag: para
 #, no-c-format
-msgid "Type in \"ls\" to see the list of files and directories in the directory. You should see something like \"tmp/\", \"usr/\", \"home/\" and so on. OK, not so interesting here. Let us move back to your home directory with \"cd /home/your user name\"."
+msgid ""
+"Type in \"ls\" to see the list of files and directories in the directory. "
+"You should see something like \"tmp/\", \"usr/\", \"home/\" and so on. OK, "
+"not so interesting here. Let us move back to your home directory with \"cd "
+"/home/your user name\"."
 msgstr ""
+"Πληκτρολογήστε \"ls\" για να δείτε τη λίστα των αρχείων και καταλόγων στον "
+"κατάλογο. Θα πρέπει να δείτε κάτι σαν \"/tmp\", \"usr/\", \"home/\" και ούτω"
+" καθεξής. Εντάξει, όχι τόσο ενδιαφέρον εδώ. Ας κινηθούμε πίσω στο προσωπικό "
+"σας κατάλογο με \"cd /home/όνομα χρήστη\"."
 
 #. Tag: para
 #, no-c-format
-msgid "Now move into the \"Music\" directory by issuing \"cd Music\". In fact, you do not have to type to the end. By pressing Tab after the first letter or two, you may complete the rest of the directory name automatically."
+msgid ""
+"Now move into the \"Music\" directory by issuing \"cd Music\". In fact, you "
+"do not have to type to the end. By pressing Tab after the first letter or "
+"two, you may complete the rest of the directory name automatically."
 msgstr ""
+"Μεταβείτε τώρα στο κατάλογο \"Μουσική\"  πληκτρολογώντας \"cd Μουσική \". "
+"Στην πραγματικότητα, δεν χρειάζεται να πληκτρολογείτε μέχρι το τέλος. "
+"Πατώντας το πλήκτρο Tab, μετά το πρώτο γράμμα ή δύο, μπορείτε να "
+"ολοκληρώσετε το υπόλοιπο  όνομα του καταλόγου αυτόματα."
 
 #. Tag: title
 #, no-c-format
 msgid "Creating a Folder - mkdir"
-msgstr ""
+msgstr "Η δημιουργία ενός φακέλου - mkdir"
 
 #. Tag: para
 #, no-c-format
-msgid "You can create a folder by issuing \"mkdir name of a new folder\". For example, let's say we are going to create a photo folder. \"mkdir photo\" will place the new folder in the current directory. You can check this by typing \"ls\"."
+msgid ""
+"You can create a folder by issuing \"mkdir name of a new folder\". For "
+"example, let's say we are going to create a photo folder. \"mkdir photo\" "
+"will place the new folder in the current directory. You can check this by "
+"typing \"ls\"."
 msgstr ""
+"Μπορείτε να δημιουργήσετε ένα φάκελο με την εντολή \"mkdir όνομα του νέου "
+"φακέλου». Για παράδειγμα, ας υποθέσουμε ότι θέλουμε να δημιουργήσουμε ένα "
+"φάκελο φωτογραφιών. \"mkdir Φωτογραφία\" θα τοποθετήσει το νέο φάκελο στον "
+"τρέχοντα κατάλογο. Μπορείτε να ελέγξετε αυτό πληκτρολογώντας \"ls\"."
 
 #. Tag: para
 #, no-c-format
-msgid "Next, let's create a log file for the photo folder. \"nano\" is a command line application for reading and writing texts. To bring up the program, type in \"nano\"."
+msgid ""
+"Next, let's create a log file for the photo folder. \"nano\" is a command "
+"line application for reading and writing texts. To bring up the program, "
+"type in \"nano\"."
 msgstr ""
+"Στη συνέχεια, ας δημιουργήσουμε ένα αρχείο καταγραφής για το φάκελο "
+"φωτογραφιών.  Το \"nano\" είναι μια εφαρμογή της γραμμής εντολών για την "
+"ανάγνωση και τη γραφή κειμένων. Για να τρέξετε το πρόγραμμα, πληκτρολογήστε "
+"\"nano\"."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of a terminal with Nano text editor"
-msgstr ""
+msgstr "Στιγμιότυπο από ένα τερματικό με επεξεργαστή κειμένου Nano"
 
 #. Tag: para
 #, no-c-format
-msgid "The application is simple to use, and you can see command options shown at the buttom. Type \"log file created\", and with Ctrl+x, save the document as \"log\" and quit the application."
+msgid ""
+"The application is simple to use, and you can see command options shown at "
+"the buttom. Type \"log file created\", and with Ctrl+x, save the document as"
+" \"log\" and quit the application."
 msgstr ""
+"Η εφαρμογή είναι απλή στη χρήση, και μπορείτε να δείτε τις επιλογές εντολών "
+"που εμφανίζονται στο buttom. Πληκτρολογήστε \"log αρχείο που έχει "
+"δημιουργηθεί\", και με Ctrl + x, αποθηκεύστε το έγγραφο ως \"ημερολόγιο\" "
+"και κλείστε την εφαρμογή."
 
 #. Tag: title
 #, no-c-format
 msgid "Copying &amp; Moving &amp; Removing a File - cp &amp; mv &amp; rm"
 msgstr ""
+"Αντιγραφή και Μετακίνηση &amp; αφαίρεση ενός αρχείου - CP &amp; mv &amp; rm"
 
 #. Tag: para
 #, no-c-format
-msgid "\"cp\" is perhaps one of the most used commands in a console mode. \"cp\" copies a file or files from one location to another. Since we created the file called \"log\" and it is currently in the wrong directory, let us move it inside the \"photo\" directory. You can do so by issuing \"cp log photo/\" but perhaps it is better to call the log file not just \"log\" but \"log.txt\", so that it would be obvious to a Windows user that it is a text file. Type in \"cp log photo/log.txt\" and enter to execute the command."
+msgid ""
+"\"cp\" is perhaps one of the most used commands in a console mode. \"cp\" "
+"copies a file or files from one location to another. Since we created the "
+"file called \"log\" and it is currently in the wrong directory, let us move "
+"it inside the \"photo\" directory. You can do so by issuing \"cp log "
+"photo/\" but perhaps it is better to call the log file not just \"log\" but "
+"\"log.txt\", so that it would be obvious to a Windows user that it is a text"
+" file. Type in \"cp log photo/log.txt\" and enter to execute the command."
 msgstr ""
+"Η εντολή \"cp\" είναι ίσως μια από τις πιο χρησιμοποιούμενες εντολές σε "
+"κατάσταση κονσόλας. Η εντολή \"cp\" αντιγράφει ένα αρχείο ή τα αρχεία από τη"
+" μία τοποθεσία στην άλλη. Από τη στιγμή που δημιουργήσουμε το αρχείο που "
+"ονομάζεται \"log\" και είναι επί του παρόντος σε λάθος κατάλογο, ας "
+"μετακινηθούμε μέσα στο κατάλογο \"photo\". Μπορείτε να το κάνετε με την "
+"πληκτρολόγηση \"cp log /photo\", αλλά ίσως είναι καλύτερα να καλέσετε το "
+"αρχείο καταγραφής όχι μόνο \"log\", αλλά \"log.txt\", έτσι ώστε να είναι "
+"προφανές σε ένα χρήστη των Windows ότι είναι ένα αρχείο κειμένου . "
+"Πληκτρολογήστε \"cp log photo/log.txt\" και enter για να εκτελέσετε την "
+"εντολή."
 
 #. Tag: para
 #, no-c-format
-msgid "You can go inside the \"photo\" directory and check if the copying has been done properly. \"cd photo\" and then \"ls\". The file should be there. Let's add to the log file by saying that it has been moved from \"Music\" to \"photo\". Issuing \"nano log.txt\" will bring up the text. Add a line to say it has been moved, and then save and quit the application by Ctrl+x."
+msgid ""
+"You can go inside the \"photo\" directory and check if the copying has been "
+"done properly. \"cd photo\" and then \"ls\". The file should be there. Let's"
+" add to the log file by saying that it has been moved from \"Music\" to "
+"\"photo\". Issuing \"nano log.txt\" will bring up the text. Add a line to "
+"say it has been moved, and then save and quit the application by Ctrl+x."
 msgstr ""
+"Μπορείτε να πάτε στο εσωτερικό του καταλόγου \"photo\" και ελέγξτε αν η "
+"αντιγραφή έχει γίνει σωστά. \"cd photo\" και μετά \"ls\". Το αρχείο θα "
+"πρέπει να είναι εκεί. Ας προσθέσουμε στο αρχείο καταγραφής λέγοντας ότι έχει"
+" μετακινηθεί από το \"Music\" στο \"photo\". Πληκτρολογώντας \"nano "
+"log.txt\" θα εμφανιστεί το κείμενο. Προσθέστε μια γραμμή για να δείξετε ότι "
+"έχει μετακινηθεί, και στη συνέχεια, αποθηκεύστε και κλείστε την εφαρμογή, με"
+" Ctrl + x."
 
 #. Tag: para
 #, no-c-format
-msgid "Oh, but we forgot to delete the original \"log\" file in the \"Music\" folder. Let's just get back to the \"Music\" directory using \"cd ..\" and remove the \"log\" file by issuing \"rm log\". The \"rm\" command removes a file or files. For example, if you would like to remove all photos with .jpg extension but not with .png, you can issue a command something like: \"rm *.jpg\". This will remove all the files with .jpg extension within the directory you are in. Note that the \"rm\" command will not ask you to confirm your order. It will just carry out your instructions without further ado and once a file is removed, it is deleted forever. You cannot recover it from the recycle bin."
+msgid ""
+"Oh, but we forgot to delete the original \"log\" file in the \"Music\" "
+"folder. Let's just get back to the \"Music\" directory using \"cd ..\" and "
+"remove the \"log\" file by issuing \"rm log\". The \"rm\" command removes a "
+"file or files. For example, if you would like to remove all photos with .jpg"
+" extension but not with .png, you can issue a command something like: \"rm "
+"*.jpg\". This will remove all the files with .jpg extension within the "
+"directory you are in. Note that the \"rm\" command will not ask you to "
+"confirm your order. It will just carry out your instructions without further"
+" ado and once a file is removed, it is deleted forever. You cannot recover "
+"it from the recycle bin."
 msgstr ""
+"Όμως, ξεχάσαμε να διαγράψουμε το αρχικό \"log\" αρχείο στο φάκελο \"Music\"."
+" Ας επιστρέψουμε πίσω στο κατάλογο \"Music\" χρησιμοποιώντας με  \"cd ..\" "
+"και ας αφαιρέσουμε το \"log\" αρχείο με την εντολή \"rm log\". Η εντολή "
+"\"rm\" αφαιρεί ένα ή περισσότερα αρχεία. .. Για παράδειγμα, αν θέλετε να "
+"αφαιρέσετε όλες τις φωτογραφίες με jpg επέκταση, αλλά όχι με .png, μπορείτε "
+"να το κάνετε με την εντολή κάτι σαν: \"rm *. jpg\". Αυτό θα αφαιρέσει όλα τα"
+" αρχεία με. Jpg επέκταση στο κατάλογο στον οποίο βρίσκεστε. Σημειώστε ότι η "
+"εντολή \"rm\" δεν θα σας ζητήσει να επιβεβαίωση. Απλώς θα εκτελέσει τις "
+"οδηγίες σας, χωρίς άλλες καθυστερήσεις και μιας το αρχείο έχει αφαιρεθεί, "
+"έχει διαγραφεί για πάντα. Δεν μπορείτε να το ανακτήσετε από τον κάδο "
+"ανακύκλωσης."
 
 #. Tag: para
 #, no-c-format
-msgid "In this example, we used \"cp\" to copy the log file and then later on deleted it. Normally, this would be done by issuing a \"mv\" command; \"mv log photo/\". You can also use the \"mv\" command to rename a file. Let's say that you did not like the earlier decision to call the log file \"log.txt\" and you now want to rename it as \"log\" again. Type in \"mv photo/log.txt photo/log\" and execute the command. Now the file name has been changed back to \"log\"."
+msgid ""
+"In this example, we used \"cp\" to copy the log file and then later on "
+"deleted it. Normally, this would be done by issuing a \"mv\" command; \"mv "
+"log photo/\". You can also use the \"mv\" command to rename a file. Let's "
+"say that you did not like the earlier decision to call the log file "
+"\"log.txt\" and you now want to rename it as \"log\" again. Type in \"mv "
+"photo/log.txt photo/log\" and execute the command. Now the file name has "
+"been changed back to \"log\"."
 msgstr ""
+"Σε αυτό το παράδειγμα, χρησιμοποιήσαμε την εντολή \"cp\" για να αντιγράψουμε"
+" το αρχείο καταγραφής και στη συνέχεια το διαγράψαμε. Κανονικά, αυτό θα "
+"γίνει μέσω της έντολής \"mv\",  \"mv log photo/\". Μπορείτε επίσης να "
+"χρησιμοποιήσετε την εντολή \"mv\" για να μετονομάσετε ένα αρχείο. Ας πούμε "
+"ότι δεν σας άρεσε η προηγούμενη απόφαση να ονομάσετε το αρχείο καταγραφής "
+"\"log.txt\" και τώρα θέλετε να το μετονομάσετε ως «log» και πάλι. "
+"Πληκτρολογήστε \"mv photo/log.txt photo/log\" και εκτελέστε την εντολή. Τώρα"
+" το όνομα του αρχείου έχει μετονομαστεί σε \"log\"."
 
 #. Tag: title
 #, no-c-format
 msgid "Copying &amp; Moving &amp; Removing a Folder - cp &amp; mv &amp; rm"
 msgstr ""
+"Αντιγραφή &amp; Μετακίνηση &amp; Αφαίρεση ενός αρχείου - cp &amp; mv &amp; "
+"rm"
 
 #. Tag: para
 #, no-c-format
-msgid "So now you have the folder called \"photo\" and a log file in the \"Music\" directory. This is a little strange as we should normally have the folder not in \"Music\" but in \"Pictures\". But now you know how to move a file, perhaps the same command will work for moving a folder?"
+msgid ""
+"So now you have the folder called \"photo\" and a log file in the \"Music\" "
+"directory. This is a little strange as we should normally have the folder "
+"not in \"Music\" but in \"Pictures\". But now you know how to move a file, "
+"perhaps the same command will work for moving a folder?"
 msgstr ""
+"Έτσι τώρα έχετε το φάκελο που ονομάζεται \"photo\" και ένα αρχείο καταγραφής"
+" στο κατάλογο \"Music\". Αυτό είναι λίγο παράξενο, αφού έχουμε κανονικά το "
+"φάκελο όχι στο \"Music\" αλλά στο \"Εικόνες\". Αλλά τώρα ξέρετε πώς να "
+"μετακινήσετε ένα αρχείο, ίσως η ίδια εντολή θα δουλέψει για τη μετακίνηση "
+"ενός φακέλου;"
 
 #. Tag: para
 #, no-c-format
-msgid "But... \"cp photo ../Pictures\" (remember that .. refers to the folder one level up) will give an error like this."
+msgid ""
+"But... \"cp photo ../Pictures\" (remember that .. refers to the folder one "
+"level up) will give an error like this."
 msgstr ""
+"Αλλά ... \"cp photo .. / Pictures\" (θυμηθείτε ότι .. αναφέρεται στον φάκελο"
+" ένα επίεπεδο επάνω) θα δώσει ένα λάθος όπως αυτό."
 
 #. Tag: para
 #, no-c-format
-msgid "Let's see what we can do here. The first thing when encountering such a problem is to check the corresponding help file. This can normally be done by issuing a command with an option like \"cp --help\". It is possible that --help will just be -h, and there may be no help at all. \"man\" is another command if this is the case. \"man cp\" will give a more indepth explanation of this command. (To get out of the manual, press \"q\")."
+msgid ""
+"Let's see what we can do here. The first thing when encountering such a "
+"problem is to check the corresponding help file. This can normally be done "
+"by issuing a command with an option like \"cp --help\". It is possible that "
+"--help will just be -h, and there may be no help at all. \"man\" is another "
+"command if this is the case. \"man cp\" will give a more indepth explanation"
+" of this command. (To get out of the manual, press \"q\")."
 msgstr ""
+"Ας δούμε τι μπορούμε να κάνουμε εδώ. Το πρώτο πράγμα, όταν αντιμετωπίζουμε "
+"ένα τέτοιο πρόβλημα είναι να ελέγξουμε το αντίστοιχο αρχείο βοήθειας. Αυτό "
+"μπορεί κανονικά να γίνει με την πληκτρολόγηση μιας εντολής με μια επιλογή "
+"όπως \"cp --help\". Είναι πιθανό ότι το --help μπορεί μόνο να είναι -h, και "
+"εκεί μπορεί να μην υπάρχει βοήθεια καθόλου. Η εντολή \"man\" είναι μια άλλη "
+"εντολή, αν αυτή είναι η περίπτωση. Η εντολή \"cp man\" θα δώσει μια πιο "
+"εμπεριστατωμένη εξήγηση αυτής της εντολής. (Για να βγείτε από το εγχειρίδιο,"
+" πατήστε το πλήκτρο \"q\")."
 
 #. Tag: para
 #, no-c-format
-msgid "If you read the help carefully, you will see that you need to give an extra option \"-r\" if you wish to copy a folder to another location. So now \"cp -r photo ../Pictures\" should copy the \"photo\" folder inside the correct \"Pictures\" directory. After checking that the folder has been safely copied, you can remove the \"photo\" folder from the \"Music\" directory: \"rm -r photo/\"."
+msgid ""
+"If you read the help carefully, you will see that you need to give an extra "
+"option \"-r\" if you wish to copy a folder to another location. So now \"cp "
+"-r photo ../Pictures\" should copy the \"photo\" folder inside the correct "
+"\"Pictures\" directory. After checking that the folder has been safely "
+"copied, you can remove the \"photo\" folder from the \"Music\" directory: "
+"\"rm -r photo/\"."
 msgstr ""
+"Αν διαβάσετε τη βοήθεια προσεκτικά, θα δείτε ότι θα πρέπει να δώσετε μια "
+"επιπλέον επιλογή \"-r\" αν θέλετε να αντιγράψετε ένα φάκελο σε άλλη θέση. "
+"Έτσι τώρα η \"cp -r photo .. /Pictures\" θα πρέπει να αντιγράψει το κατάλογο"
+" \"photo\" μέσα στο σωστό κατάλογο \"Pictures\". Αφού ελέγξετε ότι ο φάκελος"
+" έχει αντιγραφεί με ασφάλεια, μπορείτε να αφαιρέσετε το φάκελο \"photo\" από"
+" το κατάλογο \"Music\" : \"rm-r photo/\"."
 
 #. Tag: title
 #, no-c-format
 msgid "Installing a Program - slapt-get and slapt-src"
-msgstr ""
+msgstr "Η εγκατάσταση ενός προγράμματος - slapt-get και slapt-src"
 
 #. Tag: para
 #, no-c-format
-msgid "Maybe a little bird has told you that there is a wonderful application called \"cowsay\" in Linux, and now you would like to see what this program can do."
+msgid ""
+"Maybe a little bird has told you that there is a wonderful application "
+"called \"cowsay\" in Linux, and now you would like to see what this program "
+"can do."
 msgstr ""
+"Ίσως ένα μικρό πουλί σας έχει πει ότι υπάρχει μια υπέροχη εφαρμογή που "
+"ονομάζεται \"cowsay\" σε Linux, και τώρα θα θέλατε να δείτε τι μπορεί να "
+"κάνει αυτό το πρόγραμμα."
 
 #. Tag: para
 #, no-c-format
-msgid "In order to install a program, one needs to be logged in as root (= superuser = administrator), because it is a system wide action. Alternatively, you can acquire the superuser rights by issuing \"su\". You will be asked to enter the root password. After providing the correct password, you are now free to do whatever you wish to do on your system (even to make the machine unworkable)."
+msgid ""
+"In order to install a program, one needs to be logged in as root (= "
+"superuser = administrator), because it is a system wide action. "
+"Alternatively, you can acquire the superuser rights by issuing \"su\". You "
+"will be asked to enter the root password. After providing the correct "
+"password, you are now free to do whatever you wish to do on your system "
+"(even to make the machine unworkable)."
 msgstr ""
+"Για να εγκαταστήσετε ένα πρόγραμμα, κάποιος πρέπει να συνδεθεί ως root (= "
+"υπερχρήστης = διαχειριστής), επειδή είναι ένα σύστημα ευρείας δράσης. "
+"Εναλλακτικά, μπορείτε να αποκτήσετε τα δικαιώματα superuser με την έντολή "
+"\"su\". Θα σας ζητηθεί να εισάγετε τον κωδικό του root. Μετά τον σωστό "
+"κωδικό πρόσβασης, είστε τώρα ελεύθερος να κάνετε ό, τι θέλετε στο σύστημά "
+"σας (ακόμα και να κάνετε το μηχάνημα άχρηστο)."
 
 #. Tag: para
 #, no-c-format
-msgid "So \"cowsay\". If this is the first time you are installing an application on Salix, the first thing you should do is to update the package database on your computer by executing \"slapt-get -u\". Then to search for an application (in this case, \"cowsay\"), type in \"slapt-get --search cowsay\". Unfortunately, cowsay is not in the official repositories neither of Salix nor of Slackware. But it is still too early to give up. Slackbuild.org maintains extra packages for Slackware, which of course can be utilised by Salix users."
+msgid ""
+"So \"cowsay\". If this is the first time you are installing an application "
+"on Salix, the first thing you should do is to update the package database on"
+" your computer by executing \"slapt-get -u\". Then to search for an "
+"application (in this case, \"cowsay\"), type in \"slapt-get --search "
+"cowsay\". Unfortunately, cowsay is not in the official repositories neither "
+"of Salix nor of Slackware. But it is still too early to give up. "
+"Slackbuild.org maintains extra packages for Slackware, which of course can "
+"be utilised by Salix users."
 msgstr ""
+"Έτσι, \"cowsay\". Αν αυτή είναι η πρώτη φορά που εγκαθιστάτε μια εφαρμογή "
+"στο Salix, το πρώτο πράγμα που πρέπει να κάνετε είναι να ενημερώσετε τη βάση"
+" δεδομένων πακέτων στον υπολογιστή σας εκτελώντας \"slapt-get -u\". Στη "
+"συνέχεια, για την αναζήτηση μιας εφαρμογής (στην περίπτωση αυτή, "
+"\"cowsay\"), πληκτρολογήστε \"slapt-get -- search cowsay\". Δυστυχώς, η "
+"εφαρμογή cowsay δεν υπάρχει στα επίσημα αποθετήρια ούτε του Salix ούτε του "
+"Slackware. Αλλά είναι ακόμη πολύ νωρίς για να τα παρατήσουμε. Το "
+"Slackbuild.org διατηρεί επιπλέον πακέτα για το Slackware, το οποίο φυσικά "
+"μπορεί να χρησιμοποιηθεί από τους χρήστες του Salix."
 
 #. Tag: para
 #, no-c-format
-msgid "Search for \"cowsay\" with slapt-src by typing \"slapt-src --search cowsay\" after first updating the local database with \"slapt-src -u\". You will see that it is available from Slackbuild.org. To install it, execute \"slapt-src -i cowsay\". If you are not sure what this \"-i\" is, you can check it with the --help option. You will see a lot of lines running up the terminal quickly until the application is installed."
+msgid ""
+"Search for \"cowsay\" with slapt-src by typing \"slapt-src --search cowsay\""
+" after first updating the local database with \"slapt-src -u\". You will see"
+" that it is available from Slackbuild.org. To install it, execute \"slapt-"
+"src -i cowsay\". If you are not sure what this \"-i\" is, you can check it "
+"with the --help option. You will see a lot of lines running up the terminal "
+"quickly until the application is installed."
 msgstr ""
+"Αναζήτηση για \"cowsay\" με slapt-src, πληκτρολογώντας \"slapt-src --search "
+"cowsay\" μετά την πρώτη ενημέρωση της τοπικής βάσης δεδομένων με \"slapt-src"
+" -u\". Θα δείτε ότι είναι διαθέσιμο από το Slackbuild.org. Για να το "
+"εγκαταστήσετε, εκτελέστε \"slapt-src -i cowsay\". Εάν δεν είστε βέβαιοι για "
+"το τι αυτό το \"-i\", μπορείτε να το ελέγξετε με την επιλογή --help. Θα "
+"δείτε πολλές γραμμές να τρέχουν γρήγορα στο τερματικό μέχρι να εγκατασταθεί "
+"η εφαρμογή."
 
 #. Tag: para
 #, no-c-format
-msgid "Once it is installed, you might want to test it. First get out of the superuser mode by typing \"exit\". Then type in \"cowsay\". Nothing happens, and in fact, you will see that you are now in a strange mode that you cannot execute any commands. This is because the application is still running, but as you don't see anything, perhaps it is not running properly. To terminate the process, press \"Ctrl+c\". You will get back the normal input line back on your terminal."
+msgid ""
+"Once it is installed, you might want to test it. First get out of the "
+"superuser mode by typing \"exit\". Then type in \"cowsay\". Nothing happens,"
+" and in fact, you will see that you are now in a strange mode that you "
+"cannot execute any commands. This is because the application is still "
+"running, but as you don't see anything, perhaps it is not running properly. "
+"To terminate the process, press \"Ctrl+c\". You will get back the normal "
+"input line back on your terminal."
 msgstr ""
+"Μόλις εγκατασταθεί, μπορεί να θέλετε να το δοκιμάσετε. Πρώτα βγείτε από την "
+"κατάσταση superuser, πληκτρολογώντας \"exit\". Στη συνέχεια, πληκτρολογήστε "
+"\"cowsay\". Τίποτα δεν συμβαίνει, και στην πραγματικότητα, θα δείτε ότι "
+"είστε τώρα σε μια περίεργη κατάσταση που δεν μπορείτε να εκτελέσετε εντολές."
+" Αυτό συμβαίνει επειδή η εφαρμογή είναι ακόμη σε εξέλιξη, αλλά δεν βλέπετε "
+"τίποτα, ίσως να μην λειτουργεί σωστά. Για να τερματίσει τη διαδικασία, "
+"πατήστε το πλήκτρο \"Ctrl + C\". Θα εμφανιστεί ξανά η κανονική γραμμή "
+"εισόδου στο τερματικό σας."
 
 #. Tag: para
 #, no-c-format
-msgid "So what was going wrong? Check \"cowsay\" with \"-h\". You will see that you need to type in a [message]. Try again with \"cowsay Hello Salix!\""
+msgid ""
+"So what was going wrong? Check \"cowsay\" with \"-h\". You will see that you"
+" need to type in a [message]. Try again with \"cowsay Hello Salix!\""
 msgstr ""
+"Λοιπόν, τι δεν πήγαινε καλά; Ελέγξτε το \"cowsay\" με το \"-h\". Θα δείτε "
+"ότι θα πρέπει να πληκτρολογήσετε ένα [μήνυμα]. Δοκιμάστε ξανά με \"cowsay "
+"Hello Salix !\""
 
 #. Tag: para
 #, no-c-format
-msgid "To sum up, we have merely scratched the surface of the power of the command line. The best way to learn more is by using it, but remember to use the help tools, and consult online documentation such as that listed in the Salix forum. <ulink url=\"http://linuxcommand.org/index.php\">Linuxcommand.org</ulink> can be particularly recommended if you wish to gain a comprehensive grounding. Proceed cautiously, but don't be afraid to experiment."
+msgid ""
+"To sum up, we have merely scratched the surface of the power of the command "
+"line. The best way to learn more is by using it, but remember to use the "
+"help tools, and consult online documentation such as that listed in the "
+"Salix forum. <ulink "
+"url=\"http://linuxcommand.org/index.php\">Linuxcommand.org</ulink> can be "
+"particularly recommended if you wish to gain a comprehensive grounding. "
+"Proceed cautiously, but don't be afraid to experiment."
 msgstr ""
+"Εν κατακλείδι, έχουμε ξύσει μόνο την επιφάνεια της δύναμης της γραμμής "
+"εντολών. Ο καλύτερος τρόπος για να μάθετε περισσότερα είναι με τη χρήση του,"
+" αλλά θυμηθείτε να χρησιμοποιήσετε τα εργαλεία βοήθειας, και συμβουλευτείτε "
+"την ηλεκτρονική τεκμηρίωση, όπως όπως αυτή που υπάρχει στα φόρουμ του Salix."
+" <ulink url=\"http://linuxcommand.org/index.php\"> Linuxcommand.org </ulink>"
+" μπορεί να είναι ιδιαίτερα προτεινόμενη, εάν επιθυμείτε να αποκτήσετε μια "
+"ολοκληρωμένη γνώση. Προχωρήστε προσεκτικά, αλλά μην φοβάστε να "
+"πειραματιστείτε."
 
 #. Tag: para
 #, no-c-format
-msgid "A final tip – it can be difficult to copy longer commands accurately. If you select the text with the mouse, in Linux, clicking the middle button or wheel will paste it accurately into the command line or wherever you wish."
+msgid ""
+"A final tip – it can be difficult to copy longer commands accurately. If you"
+" select the text with the mouse, in Linux, clicking the middle button or "
+"wheel will paste it accurately into the command line or wherever you wish."
 msgstr ""
+"Ένα τελευταίο κόλπο - μπορεί να είναι δύσκολο να αντιγράψετε μεγάλες εντολές"
+" με ακρίβεια. Εάν επιλέξετε το κείμενο με το ποντίκι, στο Linux, κάνοντας "
+"κλικ στο μεσαίο κουμπί ή τροχό θα το επικολλήσετε με ακρίβεια στη γραμμή "
+"εντολών ή όπου αλλού θέλετε."
 
 #. Tag: title
 #, no-c-format
 msgid "Getting started with Salix Ratpoison"
-msgstr ""
+msgstr "Ξεκινώντας με το Salix Ratpoison"
 
 #. Tag: title
 #, no-c-format
 msgid "Overview"
-msgstr ""
+msgstr "Επισκόπηση"
 
 #. Tag: para
 #, no-c-format
-msgid "Ratpoison is a tiling window manager, somewhat like xmonad or scrotwm. Its two main features are that applications fill the whole screen, with no bars or buttons; and the user interface can be controlled entirely from the keyboard, with no mouse. If needed, any number of windows may be shown simultaneously, and rearranged at will - whence the term \"tiling\" WM. All this may take some getting used to, but although - or perhaps because - the interface is so very different from the conventional point-and-click approach, it can quickly become highly intuitive. Learning which actual keys do what takes far less time than might be imagined. Apart from its efficiency and lack of clutter, ratpoison is a good choice for anyone concerned about RSI (cumulative strain from long-term mouse use), or for netbook users, because \"every pixel counts\". It is also highly configurable - and fast!"
+msgid ""
+"Ratpoison is a tiling window manager, somewhat like xmonad or scrotwm. Its "
+"two main features are that applications fill the whole screen, with no bars "
+"or buttons; and the user interface can be controlled entirely from the "
+"keyboard, with no mouse. If needed, any number of windows may be shown "
+"simultaneously, and rearranged at will - whence the term \"tiling\" WM. All "
+"this may take some getting used to, but although - or perhaps because - the "
+"interface is so very different from the conventional point-and-click "
+"approach, it can quickly become highly intuitive. Learning which actual keys"
+" do what takes far less time than might be imagined. Apart from its "
+"efficiency and lack of clutter, ratpoison is a good choice for anyone "
+"concerned about RSI (cumulative strain from long-term mouse use), or for "
+"netbook users, because \"every pixel counts\". It is also highly "
+"configurable - and fast!"
 msgstr ""
+"Το Ratpoison είναι ένα διαχειριστής παραθύρων παράθεσης, κάπως σαν το xmonad"
+" ή το scrotwm. Δύο κύρια χαρακτηριστικά του είναι ότι οι αιτήσεις γεμίζουν "
+"όλη την οθόνη, χωρίς μπάρες ή κουμπιά. Και η διεπαφή χρήστη μπορεί να "
+"ελέγχεται εξ ολοκλήρου από το πληκτρολόγιο, χωρίς το ποντίκι. Εάν είναι "
+"απαραίτητο, οποιοδήποτε αριθμός των παραθύρων μπορεί να φαίνεται ταυτόχρονα,"
+" και να αναδιαρθρώνεται κατά βούληση - εξ ου και ο όρος \"παράθεσης\" WM. "
+"Όλα αυτά μπορεί να χρειαστεί κάποιος να τα συνηθίσει, αλλά αν και - ή ίσως "
+"επειδή - το interface είναι τόσο πολύ διαφορετικό από τη συμβατική "
+"προσέγγιση point-and-click, μπορεί γρήγορα να γίνει πολύ διαισθητική. Η "
+"μάθηση ποιά πραγματικά πλήκτρα κάνουν τι, παίρνει πολύ λιγότερο χρόνο από ό,"
+" τι θα μπορούσαμε να φανταστούμε. Εκτός από την αποτελεσματικότητά της και "
+"την έλλειψη ακαταστασίας, το ratpoison είναι μια καλή επιλογή για όσους "
+"ενδιαφέρονται για RSI (σωρευτική επιβάρυνση από τη μακροχρόνια χρήση του "
+"ποντικιού), ή για χρήστες netbook, επειδή \"κάθε pixel μετράει\". Είναι "
+"επίσης εξαιρετικά διαμορφώσιμο - και γρήγορο!"
 
 #. Tag: para
 #, no-c-format
-msgid "The applications present for the Ratpoison edition aim to fit in with its minimalist (but not spartan) approach. The majority use vim-style keybindings, even though ratpoison itself does not, so users will need to become comfortable with these if they are not already; cheatsheets are available online to help assimilate them, as well as guides (and manpages) for the individual applications. Common operations use only a small subset of keys, which makes the learning curve smoother: for basic browsing, for instance, all you need to get started is page and history navigation and to know how to open links and tabs or windows. Other functions can be learned by exploration at your own pace. To begin using Vim itself, try running vimtutor from a terminal, and just follow the instructions."
+msgid ""
+"The applications present for the Ratpoison edition aim to fit in with its "
+"minimalist (but not spartan) approach. The majority use vim-style "
+"keybindings, even though ratpoison itself does not, so users will need to "
+"become comfortable with these if they are not already; cheatsheets are "
+"available online to help assimilate them, as well as guides (and manpages) "
+"for the individual applications. Common operations use only a small subset "
+"of keys, which makes the learning curve smoother: for basic browsing, for "
+"instance, all you need to get started is page and history navigation and to "
+"know how to open links and tabs or windows. Other functions can be learned "
+"by exploration at your own pace. To begin using Vim itself, try running "
+"vimtutor from a terminal, and just follow the instructions."
 msgstr ""
+"Οι εφαρμογές που υπάρχουν στην έκδοση Ratpoison είναι για να ταιριάζουν με "
+"τη μινιμαλιστική (αλλά όχι Σπαρτιατική) προσέγγισή του. Η κατά πλειοψηφία "
+"χρήση vim-style συνδυασμών πλήκτρων, ακόμα κι αν το ratpoison από μόνο του "
+"δεν το κάνει, απαιτεί οι χρήστες να αποκτήσουν ευχέρεια με αυτούς,αν δεν "
+"έχουν ήδη: Τα cheatsheets είναι διαθέσιμα στο διαδίκτυο για να τα "
+"αφομοιώσετε, καθώς και οδηγοί (και manpages) για ειδικές εφαρμογές. Οι "
+"κοινές λειτουργίες χρησιμοποιούν μόνο ένα μικρό υποσύνολο των κλειδιών, "
+"γεγονός που καθιστά τη καμπύλη μάθησης ομαλότερη: για τη βασική περιήγηση, "
+"για παράδειγμα, όλα όσα χρειάζεστε για να ξεκινήσετε είναι η σελίδα και η "
+"ιστορία πλοήγησης και να ξέρετε πώς να ανοίξετε συνδέσμους και καρτέλες ή "
+"παράθυρα. Άλλες λειτουργίες μπορούν να μαθευτούν από την εξερεύνηση στο δικό"
+" σας ρυθμό. Για να αρχίσετε να χρησιμοποιείτε το Vim, προσπαθήστε να "
+"εκτελέσετε vimtutor από ένα τερματικό, και απλώς ακολουθήστε τις οδηγίες."
 
 #. Tag: title
 #, no-c-format
 msgid "Starting Ratpoison and running applications"
-msgstr ""
+msgstr "Ξεκινήστε το Ratpoison και εκτελέστε τις εφαρμογές"
 
 #. Tag: para
 #, no-c-format
-msgid "When you boot Salix Ratpoison, there is no graphical login screen: when you log in, you enter the linux terminal. Log in as your normal user (not root) and type startx to start Ratpoison itself."
+msgid ""
+"When you boot Salix Ratpoison, there is no graphical login screen: when you "
+"log in, you enter the linux terminal. Log in as your normal user (not root) "
+"and type startx to start Ratpoison itself."
 msgstr ""
+"Όταν κάνετε εκκίνηση του Salix Ratpoison, δεν υπάρχει καμία γραφική οθόνη "
+"σύνδεσης: όταν συνδεθείτε, βρίσκεστε σε ένα τερματικό του Linux. Συνδεθείτε "
+"ως ο κανονικός χρήστης σας (όχι root) και πληκτρολογήστε startx να "
+"ξεκινήσετε το Ratpoison."
 
 #. Tag: para
 #, no-c-format
-msgid "You should then see the Salix wallpaper, and a message will appear briefly telling you how to view a list of commands. Type Ctrl-t (C-t, in Ratpoison's own notation) then a question mark; pressing any key takes you back to where you were before. There is nothing to see (apart from the beautiful Salix wallpaper)! But it's just as easy to set Ratpoison to work as with any more conventional desktop."
+msgid ""
+"You should then see the Salix wallpaper, and a message will appear briefly "
+"telling you how to view a list of commands. Type Ctrl-t (C-t, in Ratpoison's"
+" own notation) then a question mark; pressing any key takes you back to "
+"where you were before. There is nothing to see (apart from the beautiful "
+"Salix wallpaper)! But it's just as easy to set Ratpoison to work as with any"
+" more conventional desktop."
 msgstr ""
+"Θα πρέπει να δείτε στη συνέχεια, την ταπετσαρία του Salix, και θα εμφανιστεί"
+" ένα μήνυμα που σας ενημερώνει εν συντομία πώς να δείτε μια λίστα εντολών. "
+"Πληκτρολογήστε Ctrl-t (C-t, στη σημειογραφία του Ratpoison), τότε ένα "
+"ερωτηματικό; Πατώντας οποιοδήποτε πλήκτρο θα σας μεταφέρει πίσω εκεί που "
+"ήσασταν πριν. Δεν υπάρχει τίποτα να δείτε (εκτός από την όμορφη ταπετσαρία "
+"Salix)! Αλλά είναι εξίσου εύκολο να ρυθμίσετε το Ratpoison να εργαστεί όπως "
+"συμβαίνει με πιο συμβατικά desktop."
 
 #. Tag: para
 #, no-c-format
-msgid "To select an application from the menu, type C-t r, and use the arrow keys to navigate (Vim's hjkl keys also work). Right arrow (or l) accesses submenus (such as \"Network\"), and left arrow (or h) goes back up a level. Right arrow or enter runs the application (if you open one by mistake, don't worry, just type C-t r again - we will see how to close windows and applications later)."
+msgid ""
+"To select an application from the menu, type C-t r, and use the arrow keys "
+"to navigate (Vim's hjkl keys also work). Right arrow (or l) accesses "
+"submenus (such as \"Network\"), and left arrow (or h) goes back up a level. "
+"Right arrow or enter runs the application (if you open one by mistake, don't"
+" worry, just type C-t r again - we will see how to close windows and "
+"applications later)."
 msgstr ""
+"Για να επιλέξετε μια εφαρμογή από το μενού, πληκτρολογήστε C-t r, και "
+"χρησιμοποιήστε τα βελάκια για να περιηγηθείτε (τα κλειδιά του Vim hjkl "
+"επίσης δουλεύουν). Δεξί βέλος (ή l) έχει πράσβαση σε υπομενού (όπως το "
+"«Δίκτυο»), και το αριστερό βέλος (ή h) πάει πίσω ένα επίπεδο. Το Δεξί βέλος "
+"ή το enter τρέχει την εφαρμογή (αν ανοίξετε ένα κατά λάθος, μην ανησυχείτε, "
+"απλά πληκτρολογήστε C-t r και πάλι - θα δούμε πώς να κλείνετε τα παράθυρα "
+"και τις εφαρμογές αργότερα)."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Ratpoison menu browsing"
-msgstr ""
+msgstr "Στιγμιότυπο περιήγησης μενού Ratpoison"
 
 #. Tag: para
 #, no-c-format
-msgid "Some common options are available directly at the top. The Vimprobable2 browser, for instance, can be found under Network but also by just selecting \"Browser\". Remember to use the keyboard and not the mouse! A third way to open it bypasses the menu altogether: C-t v. You can create more shortcuts like this for applications you use a lot by adding them to the configuration file, which we will look at below."
+msgid ""
+"Some common options are available directly at the top. The Vimprobable2 "
+"browser, for instance, can be found under Network but also by just selecting"
+" \"Browser\". Remember to use the keyboard and not the mouse! A third way to"
+" open it bypasses the menu altogether: C-t v. You can create more shortcuts "
+"like this for applications you use a lot by adding them to the configuration"
+" file, which we will look at below."
 msgstr ""
+"Μερικές κοινές επιλογές είναι διαθέσιμες άμεσα στην κορυφή. Το πρόγραμμα "
+"περιήγησης, Vimprobable2 για παράδειγμα, μπορεί να βρεθεί κάτω από το "
+"Δίκτυο, αλλά και πιο απλά επιλέγοντας \"Browser\". Θυμηθείτε να "
+"χρησιμοποιήτε το πληκτρολόγιο και όχι το ποντίκι! Ένας τρίτος τρόπος για να "
+"το ανοίξετε παρακάμπτοντας το μενού εντελώς: C-t v. Μπορείτε να "
+"δημιουργήσετε περισσότερες συντομεύσεις, όπως αυτή για τις εφαρμογές που "
+"χρησιμοποιείτε συχνά, προσθέτοντάς τες στο αρχείο ρυθμίσεων, το οποίο θα "
+"εξετάσουμε παρακάτω."
 
 #. Tag: para
 #, no-c-format
-msgid "apvlv, under Accessories, can be used to read pdf documents such as this guide. Also under accessories, 'Unit conversion' starts the console application units, which will convert between a large range of scales, such as time, weight, or currency, including some quite unusual ones."
+msgid ""
+"apvlv, under Accessories, can be used to read pdf documents such as this "
+"guide. Also under accessories, 'Unit conversion' starts the console "
+"application units, which will convert between a large range of scales, such "
+"as time, weight, or currency, including some quite unusual ones."
 msgstr ""
+"apvlv, κάτω απο τα Accessories, μπορεί να χρησιμοποιηθεί για να διαβάσετε "
+"έγγραφα PDF, όπως αυτός ο οδηγός. Επίσης, κάτω από τα accessories, "
+"'Μετατροπή μονάδων» ξεκινά την εφαρμογή κονσόλας μονάδων, η οποία θα "
+"μετατρέψει μεταξύ ένα μεγάλου φάσματος κλιμάκων, όπως ο χρόνος, το βάρος, ή "
+"το νόμισμα, συμπεριλαμβανομένων και μερικών ασυνήθιστων."
 
 #. Tag: title
 #, no-c-format
 msgid "Vimprobable browsing"
-msgstr ""
+msgstr "Vimprobable περιήγηση"
 
 #. Tag: para
 #, no-c-format
-msgid "Notice that there are no menus, toolbars, buttons, or scrolling - just a line at the bottom containing the URL. To open a different page, type o, and :open should appear at the very bottom left of the screen. Type <ulink url=\"http://www.nongnu.org/ratpoison/doc/\">http://www.nongnu.org/ratpoison/doc/</ulink>. When the page has loaded, type f and then select a number to follow a link:"
+msgid ""
+"Notice that there are no menus, toolbars, buttons, or scrolling - just a "
+"line at the bottom containing the URL. To open a different page, type o, and"
+" :open should appear at the very bottom left of the screen. Type <ulink "
+"url=\"http://www.nongnu.org/ratpoison/doc/\">http://www.nongnu.org/ratpoison/doc/</ulink>."
+" When the page has loaded, type f and then select a number to follow a link:"
 msgstr ""
+"Σημειώστε ότι δεν υπάρχουν μενού, γραμμές εργαλείων, κουμπιά, ή κύλιση - "
+"απλώς μια γραμμή στο κάτω μέρος που περιέχει το URL. Για να ανοίξετε μια "
+"διαφορετική σελίδα, πληκτρολογήστε o, και: ανοιχτή θα πρέπει να εμφανισθεί "
+"στο κάτω αριστερό μέρος της οθόνης. Πληκτρολογείστε <ulink "
+"url=\"http://www.nongnu.org/ratpoison/doc/\"> "
+"http://www.nongnu.org/ratpoison/doc/ </ulink> . Όταν φορτωθεί η σελίδα, "
+"γράψτε f και στη συνέχεια επιλέξτε έναν αριθμό για να ακολουθήσετε ένα "
+"σύνδεσμο:"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Vimprobable browsing"
-msgstr ""
+msgstr "Στιγμιότυπο του Vimprobable περιήγηση"
 
 #. Tag: para
 #, no-c-format
-msgid "Shift-h takes you back to where you were before. t works like o but opens the URL in a new window, as does shift-f instead of f. Pressing TAB after typing the beginning of a URL will suggest completions taken from the history; use TAB again to move through the choices (shift-TAB to go back up) and Enter to select. O rather than o (and T rather than t) allows you to edit the URL of the current page - try it. j and k scroll down and up. Shift-l moves one page forward in your browsing history. d closes the current window. For more details, consult man vimprobable2 as well as the Vimprobable website; see also man vimprobablerc for configuration options. Note that . and , are handy alternatives to f and shift-f."
+msgid ""
+"Shift-h takes you back to where you were before. t works like o but opens "
+"the URL in a new window, as does shift-f instead of f. Pressing TAB after "
+"typing the beginning of a URL will suggest completions taken from the "
+"history; use TAB again to move through the choices (shift-TAB to go back up)"
+" and Enter to select. O rather than o (and T rather than t) allows you to "
+"edit the URL of the current page - try it. j and k scroll down and up. "
+"Shift-l moves one page forward in your browsing history. d closes the "
+"current window. For more details, consult man vimprobable2 as well as the "
+"Vimprobable website; see also man vimprobablerc for configuration options. "
+"Note that . and , are handy alternatives to f and shift-f."
 msgstr ""
+"Το Shift-h θα σας οδηγήσει πίσω εκεί που ήσασταν πριν. Το t λειτουργεί όπως "
+"το o αλλά ανοίγει το URL σε ένα νέο παράθυρο, όπως και το shift-f αντί του "
+"f. Πατώντας TAB μετά την πληκτρολόγηση στην αρχή ενός URL θα προτείνει "
+"συμπληρώσεις που λαμβάνονται από το ιστορικό? χρησιμοποιήσετε TAB ξανά για "
+"να μετακινηθείτε στις επιλογές (Shift-TAB για να πάει να δημιουργήσετε "
+"αντίγραφα ασφαλείας) και Enter για να επιλέξετε. O αντί o (και t αντί t) σας"
+" επιτρέπει να επεξεργαστείτε το URL της τρέχουσας σελίδας - δοκιμάστε το. j "
+"και k μετακινηθείτε προς τα κάτω και πάνω. Shift-l κινείται μία σελίδα προς "
+"τα εμπρός στο ιστορικό περιήγησής σας. d κλείνει το τρέχον παράθυρο. Για "
+"περισσότερες λεπτομέρειες, συμβουλευτείτε το man vimprobable2 καθώς και την "
+"ιστοσελίδα Vimprobable? Βλ. επίσης man vimprobablerc για τις επιλογές "
+"διαμόρφωσης. Σημειώστε ότι. και, υπάρχουν βολικές εναλλακτικές λύσεις για f "
+"και shift-f."
 
 #. Tag: para
 #, no-c-format
-msgid "There are no tabs. In the next section, we will see how Ratpoison allows you to use windows to do the work of tabs, but more informatively."
+msgid ""
+"There are no tabs. In the next section, we will see how Ratpoison allows you"
+" to use windows to do the work of tabs, but more informatively."
 msgstr ""
+"Δεν υπάρχουν καρτέλες. Στην επόμενη ενότητα, θα δούμε πώς το Ratpoison σας "
+"επιτρέπει να χρησιμοποιείτε τα παράθυρα για να κάνετε τη δουλειά των "
+"καρτελών, αλλά πιο πληροφοριακά."
 
 #. Tag: para
 #, no-c-format
-msgid "Note that if the input received by o or t can't be resolved into a URL, it will be sent to a search engine; the default is duckduckgo. If the first item is i, s, w, wd, or y, a different search engine is used in each case. These shorcuts are described in the Vimprobable man page, and may also be customised in the .vimprobablerc configuration file."
+msgid ""
+"Note that if the input received by o or t can't be resolved into a URL, it "
+"will be sent to a search engine; the default is duckduckgo. If the first "
+"item is i, s, w, wd, or y, a different search engine is used in each case. "
+"These shorcuts are described in the Vimprobable man page, and may also be "
+"customised in the .vimprobablerc configuration file."
 msgstr ""
+"Σημειώστε ότι αν τα στοιχεία που ελήφθησαν από o ή t δεν μπορούν να "
+"επιλυθούν σε μια διεύθυνση URL, θα σταλεί σε μια μηχανή αναζήτησης? Η "
+"προεπιλογή είναι duckduckgo. Εάν το πρώτο στοιχείο είναι i, s, w, wd, ή y, "
+"μια διαφορετική μηχανή αναζήτησης χρησιμοποιείται σε κάθε περίπτωση. Αυτά τα"
+" shorcuts περιγράφονται στην Vimprobable σελίδα man, και μπορεί επίσης να "
+"προσαρμοστεί στo αρχείο ρυθμίσεων .vimprobablerc."
 
 #. Tag: para
 #, no-c-format
-msgid "To insert data in forms (for instance, login and password) use tab till the cursor is in the right place. Another TAB moves to the next field or link; you may then use ESC to leave insert mode and return to command mode."
+msgid ""
+"To insert data in forms (for instance, login and password) use tab till the "
+"cursor is in the right place. Another TAB moves to the next field or link; "
+"you may then use ESC to leave insert mode and return to command mode."
 msgstr ""
+"Για την εισαγωγή δεδομένων σε φόρμες (για παράδειγμα, login και password) "
+"χρησιμοποιήστε το tab μέχρι ο δρομέας να βρίσκεται στο σωστό μέρος. Ένα άλλο"
+" TAB μετακινεί στο επόμενο πεδίο ή τη σύνδεση? Μπορείτε να χρησιμοποιήσετε "
+"στη συνέχεια, το ESC για να βγείτε από την κατάσταση εισάγωγής και να "
+"επιστρέψετε στη κατάσταση εντολών."
 
 #. Tag: para
 #, no-c-format
-msgid "If you find your keystrokes are still being interpreted as browser commands, which may happen as a result of the way certain sites are designed, try C-z. The converse problem may arise if you have inadvertently passed keystrokes to o or t; they will appear at the very bottom right of the browser window. To ignore them and return to command mode, clearing the buffer, press ESC."
+msgid ""
+"If you find your keystrokes are still being interpreted as browser commands,"
+" which may happen as a result of the way certain sites are designed, try "
+"C-z. The converse problem may arise if you have inadvertently passed "
+"keystrokes to o or t; they will appear at the very bottom right of the "
+"browser window. To ignore them and return to command mode, clearing the "
+"buffer, press ESC."
 msgstr ""
+"Αν δείτε οτι οι πληκτρολογήσεις σας εξακολουθούν να ερμηνεύονται ως εντολές "
+"του προγράμματος περιήγησης, το οποίο μπορεί να συμβεί ως αποτέλεσμα του "
+"τρόπου με τον οποίο έχουν σχεδιαστεί ορισμένες τοποθεσίες, δοκιμάστε το C-z."
+" Το αντίστροφο πρόβλημα μπορεί να προκύψει αν έχετε περάσει κατά λάθος "
+"πληκτρολογήσεις το o ή t? Θα εμφανιστούν στο κάτω δεξιά μέρος του παραθύρου "
+"του προγράμματος περιήγησης. Για να τα αγνοήσετε και να επιστρέψετε στη "
+"κατάσταση εντολών, εκκαθαρίζοντας τη μνήμη, πατήστε το πλήκτρο ESC."
 
 #. Tag: para
 #, no-c-format
-msgid "As described in Vimprobable's man page, it is necessary to create some files for all its features to work: touch ~/.config/vimprobable/histor though some of these may already be present."
+msgid ""
+"As described in Vimprobable's man page, it is necessary to create some files"
+" for all its features to work: touch ~/.config/vimprobable/histor though "
+"some of these may already be present."
 msgstr ""
+"Όπως περιγράφεται στη σελίδα man Vimprobable, είναι απαραίτητο να "
+"δημιουργηθούν κάποια αρχεία για να δουλέψουν όλες οι δυνατότητες του: touch "
+"~ /.config/vimprobable/histor αν και ορισμένες από αυτές μπορεί να είναι ήδη"
+" παρόντες."
 
 #. Tag: title
 #, no-c-format
 msgid "Window management"
-msgstr ""
+msgstr "Διαχείριση Παράθυρων"
 
 #. Tag: para
 #, no-c-format
-msgid "Let's now see how ratpoison deals with several open windows. C-t e reveals all of them:"
+msgid ""
+"Let's now see how ratpoison deals with several open windows. C-t e reveals "
+"all of them:"
 msgstr ""
+"Ας δούμε τώρα πώς το ratpoison ασχολείται με πολλά ανοιχτά παράθυρα. C-t e "
+"αποκαλύπτει όλα αυτά:"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Vimprobable multiple Windows browsing"
-msgstr ""
+msgstr "Στιγμιότυπο του Vimprobable περιήγησης πολλαπλών παραθύρων"
 
 #. Tag: para
 #, no-c-format
-msgid "Notice that each one is associated with a number: typing it focuses on that window and hides all the others. (C-t w simply provides a list of open windows.) C-t C-t returns to the previous window. This is very useful indeed for switching rapidly back and forth between two apps - for instance, an editor and a browser - and is an example of how Ratpoison shines ergonomically. C-t k closes the current window, and C-t shift-k kills the current application. To see a list of commands, type C-t ?; for further detail, see also man ratpoison and the online manual, which we opened above with Vimprobable2."
+msgid ""
+"Notice that each one is associated with a number: typing it focuses on that "
+"window and hides all the others. (C-t w simply provides a list of open "
+"windows.) C-t C-t returns to the previous window. This is very useful indeed"
+" for switching rapidly back and forth between two apps - for instance, an "
+"editor and a browser - and is an example of how Ratpoison shines "
+"ergonomically. C-t k closes the current window, and C-t shift-k kills the "
+"current application. To see a list of commands, type C-t ?; for further "
+"detail, see also man ratpoison and the online manual, which we opened above "
+"with Vimprobable2."
 msgstr ""
+"Παρατηρήστε ότι κάθε ένα σχετίζεται με έναν αριθμό: πληκτρολογώντας εστιάζει"
+" σε αυτό το παράθυρο και κρύβει όλα τα άλλα. (C-t w παρέχει απλώς έναν "
+"κατάλογο των ανοικτών παραθύρων.) C-t C-t επιστρέφει στο προηγούμενο "
+"παράθυρο. Αυτό είναι πολύ χρήσιμο πράγματι για την αλλαγή γρήγορα πέρα ​​"
+"δώθε ανάμεσα σε δύο εφαρμογές - για παράδειγμα, ένα πρόγραμμα επεξεργασίας "
+"και ένα πρόγραμμα περιήγησης - και είναι ένα παράδειγμα του πώς το Ratpoison"
+" λάμπει εργονομικά. C-t k κλείνει το τρέχον παράθυρο, και C-t shift-k "
+"σκοτώνει την τρέχουσα εφαρμογή. Για να δείτε μια λίστα εντολών, "
+"πληκτρολογήστε C-t?; Για περισσότερες λεπτομέρειες, βλ. επίσης τη σελίδα man"
+" του ratpoison  και το online εγχειρίδιο, το οποίο ανοίξαμε παραπάνω με "
+"Vimprobable2."
 
 #. Tag: para
 #, no-c-format
-msgid "To work with two or more windows together, Ratpoison allows the user to tile windows. C-t s splits the screen with the current window above whichever window was last open; C-t S splits them horizontally. These steps can be repeated to split the focused window further. C-t TAB (or C-t and an arrow key) moves the focus around, and C-t C-[arrow] swaps the tiled windows over. C-t Q undoes the splitting and allows the currently focused window to fill the screen. In practice, it's rarely useful to have more than one or two windows visible:"
+msgid ""
+"To work with two or more windows together, Ratpoison allows the user to tile"
+" windows. C-t s splits the screen with the current window above whichever "
+"window was last open; C-t S splits them horizontally. These steps can be "
+"repeated to split the focused window further. C-t TAB (or C-t and an arrow "
+"key) moves the focus around, and C-t C-[arrow] swaps the tiled windows over."
+" C-t Q undoes the splitting and allows the currently focused window to fill "
+"the screen. In practice, it's rarely useful to have more than one or two "
+"windows visible:"
 msgstr ""
+"Για να εργαστείτε με δύο ή περισσότερα παράθυρα μαζί, to Ratpoison επιτρέπει"
+" στο χρήστη να παραθέσουν παράθυρα. C-t s χωρίζει την οθόνη με το τρέχον "
+"παράθυρο παραπάνω ανάλογα με το ποιο ήταν το τελευταίο παράθυρο ανοιχτό? C-t"
+" S τα χωρίζει οριζόντια. Αυτά τα βήματα μπορεί να επαναληφθούν για να "
+"χωρίσετε το εστιασμένο παράθυρο περαιτέρω. C-t TAB (ή C-t και ένα πλήκτρο "
+"βέλους) μετακινεί την εστίαση γύρω, και C-t C-[arrow] εναλλάσσει τo παράθυρο"
+" σε παράθεση πάνω από τα παράθυρα. C-t Q αναιρεί το διαχωρισμό και επιτρέπει"
+" στο τρέχον εστιασμένο παράθυρο να γεμίσει την οθόνη. Στην πράξη, είναι "
+"σπάνια χρήσιμο να έχετε περισσότερα από ένα ή δύο παράθυρα ορατά:"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Another screenshot of Vimprobable multiple Windows browsing"
-msgstr ""
+msgstr "Ένα άλλο στιγμιότυπο του Vimprobable περιήγησης πολλαπλών παραθύρων"
 
 #. Tag: title
 #, no-c-format
 msgid "The console and package management"
-msgstr ""
+msgstr "Η κονσόλα και διαχείριση πακέτων"
 
 #. Tag: para
 #, no-c-format
-msgid "To open the command line, type C-t c. There is no automatic package management in the Ratpoison edition, so you will need to make regular manual checks for updates:"
+msgid ""
+"To open the command line, type C-t c. There is no automatic package "
+"management in the Ratpoison edition, so you will need to make regular manual"
+" checks for updates:"
 msgstr ""
+"Για να ανοίξετε τη γραμμή εντολών, πληκτρολογήστε C-t c. Δεν υπάρχει "
+"αυτόματη διαχείριση των πακέτων στην έκδοση Ratpoison, έτσι θα πρέπει να "
+"κάνετε τακτικά χειροκίνητο έλεγχο για ενημερώσεις:"
 
 #. Tag: para
 #, no-c-format
 msgid "$su #change to root"
-msgstr ""
+msgstr "$su #αλλαγή σε root"
 
 #. Tag: para
 #, no-c-format
 msgid "#slapt-get --update #update the package list"
-msgstr ""
+msgstr "#slapt-get --update #Ανανεώστε την λίστα πακέτων"
 
 #. Tag: para
 #, no-c-format
 msgid "#slapt-get --upgrade #upgrade to reflect any changes"
-msgstr ""
+msgstr "#slapt-get --upgrade #αναβάθμιση ώστε να αντικατοπτρίζει τις αλλαγές"
 
 #. Tag: para
 #, no-c-format
-msgid "Apart from the Vimprobable2 browser, the default applications include Mutt as the mail client and Gnome Commander as the file manager. Music On Console and Whaaw Media Player are the audio and video players, with GVim as text/code editor. apvlv can be used to view pdf files. As we have just seen, package management is console-based, using slapt-get and slapt-src. Further options are available in the repository. Firefox may be installed adding the pentadactyl or vimperator addon for mouse-free browsing, or alternatively Jumanji, XXXTerm or w3m, a browser for the command line. Thunderbird can be used with the Muttator addon while Claws-mail works almost entirely from the keyboard; Alpine is a friendly console email client."
+msgid ""
+"Apart from the Vimprobable2 browser, the default applications include Mutt "
+"as the mail client and Gnome Commander as the file manager. Music On Console"
+" and Whaaw Media Player are the audio and video players, with GVim as "
+"text/code editor. apvlv can be used to view pdf files. As we have just seen,"
+" package management is console-based, using slapt-get and slapt-src. Further"
+" options are available in the repository. Firefox may be installed adding "
+"the pentadactyl or vimperator addon for mouse-free browsing, or "
+"alternatively Jumanji, XXXTerm or w3m, a browser for the command line. "
+"Thunderbird can be used with the Muttator addon while Claws-mail works "
+"almost entirely from the keyboard; Alpine is a friendly console email "
+"client."
 msgstr ""
+"Εκτός από το πρόγραμμα περιήγησης Vimprobable2, προεπιλεγμένες εφαρμογές "
+"περιλαμβάνουν το Mutt, σαν τον πελάτη ηλεκτρονικού ταχυδρομείου και το Gnome"
+" Commander ως το διαχειριστή αρχείων. Το Music on Console και το Whaaw Media"
+" Player είναι οι εφαρμογές ήχου και εικόνας, με το Gvim ως επεξεργαστής "
+"κειμένου/κώδικα. Το apvlv μπορεί να χρησιμοποιηθεί για την προβολή αρχείων "
+"PDF. Όπως μόλις είδαμε, η διαχείριση των πακέτων είναι console-based, με τη "
+"χρήση των slapt-get και slapt-src. Περισσότερες επιλογές είναι διαθέσιμες "
+"στο αποθετήριο. Ο Firefox μπορεί να εγκατασταθεί με τη προσθήκη του "
+"pentadactyl ή Vimperator addon για τη περιήγηση χωρίς το ποντίκι, ή, "
+"εναλλακτικά, Jumanji, XXXTerm ή w3m, ένα πρόγραμμα περιήγησης για τη γραμμή "
+"εντολών. Το Thunderbird μπορεί να χρησιμοποιηθεί με το addon Muttator ενώ το"
+" Claws-mail λειτουργεί σχεδόν εξ ολοκλήρου από το πληκτρολόγιο? Το Alpine "
+"είναι ένα φιλικός πελάτη e-mail κονσόλας."
 
 #. Tag: para
 #, no-c-format
-msgid "No office suite is included, and in this as in other respects, the user is encouraged to tailor the system by installing their preferred applications. Flash is not included, but is available from the repositories. Screen for managing multiple consoles works well with Ratpoison. Sc is a console-based spreadsheet. For writers, PyRoom is an elegant choice for full-screen, distraction-free writing, and it might be complemented by Antiword to convert proprietary file formats into plain text."
+msgid ""
+"No office suite is included, and in this as in other respects, the user is "
+"encouraged to tailor the system by installing their preferred applications. "
+"Flash is not included, but is available from the repositories. Screen for "
+"managing multiple consoles works well with Ratpoison. Sc is a console-based "
+"spreadsheet. For writers, PyRoom is an elegant choice for full-screen, "
+"distraction-free writing, and it might be complemented by Antiword to "
+"convert proprietary file formats into plain text."
 msgstr ""
+"Δεν περιλαμβάνεται καμμία σουίτα γραφείου , και σε αυτό όπως και σε άλλες "
+"απόψεις, ο χρήστης ενθαρρύνεται να προσαρμόσει το σύστημα εγκαθιστώντας τις "
+"προτιμώμενες εφαρμογές τους. Το Flash δεν συμπεριλαμβάνεται, αλλά διατίθεται"
+" από τα αποθετήρια. Η Οθόνη για τη διαχείριση πολλαπλών κονσόλων λειτουργεί "
+"καλά στο Ratpoison. Sc είναι μια κονσόλα με βάση το λογιστικό φύλλο. Για "
+"τους συγγραφείς, PyRoom είναι μια κομψή επιλογή για πλήρη οθόνη, αποσπά την "
+"προσοχή χωρίς τη γραφή, και θα μπορούσε να συμπληρωθεί με το Antiword για να"
+" μετατρέψετε ιδιόκτητες μορφές αρχείων σε μορφή απλού κειμένου."
 
 #. Tag: para
 #, no-c-format
-msgid "Note that the Gslapt and Sourcery graphical package management tools (equivalent to slapt-get and slapt-src) may also be used mouse-lessly, though this is perhaps more awkward than working on the command line. In either case, regular manual upgrading will still be necessary."
+msgid ""
+"Note that the Gslapt and Sourcery graphical package management tools "
+"(equivalent to slapt-get and slapt-src) may also be used mouse-lessly, "
+"though this is perhaps more awkward than working on the command line. In "
+"either case, regular manual upgrading will still be necessary."
 msgstr ""
+"Σημειώστε ότι τα γραφικά εργαλεία διαχείρισης πακέτων Gslapt και Sourcery "
+"(που είναι ισοδύναμα με τα slapt-get και slapt-src), μπορεί επίσης να "
+"χρησιμοποιηθούν με το ποντίκι-lessly, αν και αυτό είναι ίσως πιο δύσκολο από"
+" ό, τι λειτουργεί στην γραμμή εντολών. Σε κάθε περίπτωση, η τακτική "
+"χειροκίνητη αναβάθμιση θα εξακολουθήσει να είναι απαραίτητη."
 
 #. Tag: para
 #, no-c-format
-msgid "As an example, we will install Alpine, derived from the classic Pine mail client."
+msgid ""
+"As an example, we will install Alpine, derived from the classic Pine mail "
+"client."
 msgstr ""
+"Για παράδειγμα, εμείς θα εγκαταστήσουμε το Alpine, που προέρχεται από το "
+"κλασικό πελάτη ηλεκτρονικού ταχυδρομείου Pine."
 
 #. Tag: para
 #, no-c-format
 msgid "#slapt-get -u"
-msgstr ""
+msgstr "#slapt-get -u"
 
 #. Tag: para
 #, no-c-format
 msgid "#slapt-get -i alpine"
-msgstr ""
+msgstr "#slapt-get -i alpine"
 
 #. Tag: para
 #, no-c-format
-msgid "Note: To see how to edit Alpine's configuration file to access mail from one popular provider via smtp, see the page in the <ulink url=\"http://www.salixos.org/wiki/index.php/How%20to%20set%20up%20Alpine%20with%20a%20Gmail%20account\">Salix wiki</ulink>."
+msgid ""
+"Note: To see how to edit Alpine's configuration file to access mail from one"
+" popular provider via smtp, see the page in the <ulink "
+"url=\"http://www.salixos.org/wiki/index.php/How%20to%20set%20up%20Alpine%20with%20a%20Gmail%20account\">Salix"
+" wiki</ulink>."
 msgstr ""
+"Σημείωση: Για να δείτε πως να επεξεργαστείτε το αρχείο ρυθμίσεων του Alpine "
+"να αποκτήσουν πρόσβαση στην αλληλογραφία από ένα δημοφιλές πάροχο μέσω SMTP,"
+" ανατρέξτε στην σελίδα του <ulink "
+"url=\"http://www.salixos.org/wiki/index.php/How%20to%20set%20up%20Alpine%20with%20a%20Gmail%20account\">Salix"
+" wiki</ulink>."
 
 #. Tag: para
 #, no-c-format
-msgid "For Mutt, see <ulink url=\"http://crunchbanglinux.org/wiki/howto/howto_setup_mutt_with_gmail_imap\">this wiki entry</ulink>."
+msgid ""
+"For Mutt, see <ulink "
+"url=\"http://crunchbanglinux.org/wiki/howto/howto_setup_mutt_with_gmail_imap\">this"
+" wiki entry</ulink>."
 msgstr ""
+"Για το Mutt, βλέπε <ulink "
+"url=\"http://crunchbanglinux.org/wiki/howto/howto_setup_mutt_with_gmail_imap\">this"
+" wiki entry</ulink>."
 
 #. Tag: title
 #, no-c-format
 msgid "Editing the configuration file"
-msgstr ""
+msgstr "Επεξεργασία του αρχείου ρυθμίσεων"
 
 #. Tag: para
 #, no-c-format
-msgid "After using Alpine a little, one problem may become apparent. Its shortcut for selecting a file, for example to attach it, is C-t. But that's Ratpoison's escape key combination! In fact, Ratpoison has a solution for such conflicts, referred to somewhat cryptically in the shortcut list as meta: C-t t should send C-t to the application in the active window. However, this does not work in the terminal, which does not recognise the character if it receives it in this form."
+msgid ""
+"After using Alpine a little, one problem may become apparent. Its shortcut "
+"for selecting a file, for example to attach it, is C-t. But that's "
+"Ratpoison's escape key combination! In fact, Ratpoison has a solution for "
+"such conflicts, referred to somewhat cryptically in the shortcut list as "
+"meta: C-t t should send C-t to the application in the active window. "
+"However, this does not work in the terminal, which does not recognise the "
+"character if it receives it in this form."
 msgstr ""
+"Μετά από σύντομη χρήση του Alpine, ένα πρόβλημα μπορεί να καταστεί εμφανές. "
+"Η συντόμευση του για την επιλογή ενός αρχείου, για παράδειγμα για να το "
+"συνδέσετε, είναι C-t. Αλλά αυτό είναι το κλειδί συνδυασμού διαφυγής του "
+"Ratpoison! Στην πραγματικότητα, το Ratpoison έχει μια λύση για τις "
+"συγκρούσεις αυτές, που αναφέρονται κάπως κρυφά στη λίστα με τις συντομεύσεις"
+" ως meta: C-t t θα πρέπει να στείλει C-t στην εφαρμογή στο ενεργό παράθυρο. "
+"Ωστόσο, αυτό δεν λειτουργεί στον τερματικό σταθμό, η οποία δεν αναγνωρίζει "
+"το χαρακτήρα, εφόσον το κερδίσει σε αυτή τη μορφή."
 
 #. Tag: para
 #, no-c-format
-msgid "Everything in Ratpoison is configurable, and the C-t combination itself is no exception. A temporary solution is to reassign the binding using Ratpoison's command input feature. C-t : conjures up an input line at the top right of the screen. This can be used for passing instructions to Ratpoison. For instance, one way of opening an application in a new console is:"
+msgid ""
+"Everything in Ratpoison is configurable, and the C-t combination itself is "
+"no exception. A temporary solution is to reassign the binding using "
+"Ratpoison's command input feature. C-t : conjures up an input line at the "
+"top right of the screen. This can be used for passing instructions to "
+"Ratpoison. For instance, one way of opening an application in a new console "
+"is:"
 msgstr ""
+"Τα πάντα στο Ratpoison είναι διαμορφώσιμα, και ο συνδυασμός C-t ο ίδιος δεν "
+"αποτελεί εξαίρεση. Μια προσωρινή λύση είναι να αναθέσετε τη δεσμευτική "
+"εντολή χρησιμοποιώντας τη χαρακτηριστική εντολή εισόδου του Ratpoison. C-t: "
+"δημιουργεί μια γραμμή εισόδου στο πάνω δεξιά μέρος της οθόνης. Αυτό μπορεί "
+"να χρησιμοποιηθεί για τη περαστούν οδηγίες στο Ratpoison. Για παράδειγμα, "
+"ένας τρόπος για το άνοιγμα μιας εφαρμογής σε μια νέα κονσόλα είναι:"
 
 #. Tag: para
 #, no-c-format
 msgid ":exec xterm -e alpine"
-msgstr ""
+msgstr ":exec xterm -e alpine"
 
 #. Tag: para
 #, no-c-format
-msgid "(that is, C-t : exec xterm -e alpine) which starts the program we just installed. The colon command can be used to pass a number of instructions to Ratpoison; see man Ratpoison for a full list together with shortcuts where they have been defined. In fact, there is a shortcut for exec. Just type C-t ! [application]; C-t C-! opens it in a console."
+msgid ""
+"(that is, C-t : exec xterm -e alpine) which starts the program we just "
+"installed. The colon command can be used to pass a number of instructions to"
+" Ratpoison; see man Ratpoison for a full list together with shortcuts where "
+"they have been defined. In fact, there is a shortcut for exec. Just type C-t"
+" ! [application]; C-t C-! opens it in a console."
 msgstr ""
+"(Δηλαδή, C-t: exec xterm-e Alpine), το οποίο ξεκινά το πρόγραμμα που μόλις "
+"έχει εγκατασταθεί. Η εντολή της άνω κάτω τελείας μπορεί να χρησιμοποιηθεί "
+"για να περάσετε μια σειρά οδηγιών στο Ratpoison; Δείτε τη σελίδα βοήθειας "
+"man του Ratpoison, για τον πλήρη κατάλογο μαζί με τις συντομεύσεις που έχουν"
+" οριστεί. Στην πραγματικότητα, υπάρχει μια συντόμευση για το exec. Απλά "
+"πληκτρολογήστε C-t! [Εφαρμογή]; C-t C-! την ανοίγει σε μια κονσόλα."
 
 #. Tag: para
 #, no-c-format
 msgid "To change the C-t default, do: :escape Super_L."
-msgstr ""
+msgstr "Για να αλλάξετε τo προεπιλεγμένo C-t, κάντε:: escape Super_L."
 
 #. Tag: para
 #, no-c-format
-msgid "which is the so-called \"Windows key\" to the left of the keyboard. As well as resolving the conflict with Alpine, this has the great benefit of being just one keystroke. Some functions may not work correctly, in particular the very useful C-t C-t to go back to where you just were, and performance varies from one keyboard to another, so it's worth experimenting. Another possibility is the \"Menu\" key. To return to the default: :escape C-t."
+msgid ""
+"which is the so-called \"Windows key\" to the left of the keyboard. As well "
+"as resolving the conflict with Alpine, this has the great benefit of being "
+"just one keystroke. Some functions may not work correctly, in particular the"
+" very useful C-t C-t to go back to where you just were, and performance "
+"varies from one keyboard to another, so it's worth experimenting. Another "
+"possibility is the \"Menu\" key. To return to the default: :escape C-t."
 msgstr ""
+"η οποία είναι η λεγόμενη \"Windows key\" στα αριστερά του πληκτρολογίου. "
+"Εκτός από την επίλυση της σύγκρουσης με το Alpine, αυτό έχει το μεγάλο "
+"πλεονέκτημα να είναι μόνο το πάτημα ενός πλήκτρου. Ορισμένες λειτουργίες "
+"ενδέχεται να μην λειτουργούν σωστά, και ιδίως το πολύ χρήσιμο C-t C-t να "
+"επιστρέψει εκεί που ακριβώς ήταν και η απόδοση ποικίλλει από το ένα "
+"πληκτρολόγιο στο άλλο, οπότε αξίζει να πειραματίζεστε. Μια άλλη πιθανότητα "
+"είναι το \"Μενού\" key. Για να επιστρέψετε στo προεπιλεγμένo:: escape C-t."
 
 #. Tag: para
 #, no-c-format
-msgid "To make such a change permanent, edit ~/.ratpoisonrc. If you are using Ratpoison, you can open the file now (with GVim or Vim) and tile it horizontally with the window where you are reading this guide (C-t shift-s). Let's go through some items in the file."
+msgid ""
+"To make such a change permanent, edit ~/.ratpoisonrc. If you are using "
+"Ratpoison, you can open the file now (with GVim or Vim) and tile it "
+"horizontally with the window where you are reading this guide (C-t shift-s)."
+" Let's go through some items in the file."
 msgstr ""
+"Για να κάνετε αυτή την αλλαγή μόνιμη, επεξεργαστείτε το ~/.ratpoisonrc. Εάν "
+"χρησιμοποιείτε το Ratpoison, μπορείτε να ανοίξετε το αρχείο τώρα (με το Gvim"
+" ή το Vim) και παραθέστε το οριζόντια με το παράθυρο όπου διαβάζετε αυτό τον"
+" οδηγό (C-t shift-s). Ας εξετάσουμε κάποια στοιχεία στο αρχείο."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Make permanent configuragtion changes by editing ~/.ratpoisonrc"
-msgstr ""
+msgstr "Κάντε μόνιμες αλλαγές διαμόρφωσης με επεξεργασία του ~/.ratpoisonrc"
 
 #. Tag: para
 #, no-c-format
-msgid "banish sends the mouse pointer to bottom right (incidentally, you may wish to install unclutter, which makes it fade out altogether after a few seconds' stillness; place the line unclutter &amp; in your ~/.xinitrc to run it automatically when X is started). We've seen all but one of the custom keybindings in the \"bind\" statements. To change the wallpaper, point to a different image. The final item sets up workspaces, which we'll look at next - including C-t W."
+msgid ""
+"banish sends the mouse pointer to bottom right (incidentally, you may wish "
+"to install unclutter, which makes it fade out altogether after a few "
+"seconds' stillness; place the line unclutter &amp; in your ~/.xinitrc to run"
+" it automatically when X is started). We've seen all but one of the custom "
+"keybindings in the \"bind\" statements. To change the wallpaper, point to a "
+"different image. The final item sets up workspaces, which we'll look at next"
+" - including C-t W."
 msgstr ""
+"banish στέλνει το δείκτη του ποντικιού προς τα κάτω δεξιά (παρεμπιπτόντως, "
+"μπορεί να θέλετε να εγκαταστήσετε το unclutter, γεγονός που το καθιστά να "
+"σβήσει εντελώς μετά από ακινησία σε μερικά μόνο δευτερόλεπτα? τοποθετήστε τη"
+" γραμμή unclutter &amp;στο ~/.xinitrc σας για να εκτελείται αυτόματα όταν το"
+" Χ ξεκινά). Τα έχουμε δει όλα, αλλά μια από τις προσαρμοσμένες συντομεύσεις "
+"πληκτρολογίου στις δηλώσεις \"bind\". Για να αλλάξετε την ταπετσαρία, δείξτε"
+" σε μια διαφορετική εικόνα. Το τελικό στοιχείο δημιουργεί χώρους εργασίας, "
+"τα οποία θα δούμε στη συνέχεια - συμπεριλαμβανομένου του C-t W."
 
 #. Tag: para
 #, no-c-format
-msgid "Before editing the file, create a backup copy in case anything goes wrong. To change the C-t default, simply add a line :"
+msgid ""
+"Before editing the file, create a backup copy in case anything goes wrong. "
+"To change the C-t default, simply add a line :"
 msgstr ""
+"Πριν από την επεξεργασία του αρχείου, δημιουργήστε ένα αντίγραφο ασφαλείας "
+"σε περίπτωση που κάτι πάει στραβά. Για να αλλάξετε την προεπιλεγμένη C-t, "
+"απλά προσθέστε μια γραμμή:"
 
 #. Tag: para
 #, no-c-format
 msgid "escape Menu # make sure you test your choice first using ':'"
 msgstr ""
+"Μενού διαφυγής#βεβαιωθείτε ότι έχετε δοκιμάσει την επιλογή σας πρώτα με ':'"
 
 #. Tag: para
 #, no-c-format
 msgid "We've seen many of the custom keybindings in the \"bind\" statements."
 msgstr ""
+"Έχουμε δει πολλές από τις συχνές συντομεύσεις πληκτρολογίου στις δηλώσεις "
+"\"bind\"."
 
 #. Tag: para
 #, no-c-format
-msgid "The final item, together with the bindings to function keys, sets up workspaces; we'll look at these next - including C-t W."
+msgid ""
+"The final item, together with the bindings to function keys, sets up "
+"workspaces; we'll look at these next - including C-t W."
 msgstr ""
+"Το τελικό στοιχείο, μαζί με τα bindings σε πλήκτρα λειτουργιών, δημιουργεί "
+"χώρους εργασίας? Θα εξετάσουμε αυτά τα επόμενα - συμπεριλαμβανομένου του C-t"
+" W."
 
 #. Tag: title
 #, no-c-format
 msgid "Using workspaces"
-msgstr ""
+msgstr "Χρησιμοποιώντας τους χώρους εργασίας"
 
 #. Tag: para
 #, no-c-format
-msgid "If you have several terminals open, and various browser windows, and some other applications, the number of windows may become unwieldy. To help with this, Ratpoison allows you to use workspaces. (In the online Ratpoison manual, these are referred to more precisely as \"groups\".) You might then put all browser windows in one workspace, so that C-t e has the same effect as tabs, but with \"thumbnails\"."
+msgid ""
+"If you have several terminals open, and various browser windows, and some "
+"other applications, the number of windows may become unwieldy. To help with "
+"this, Ratpoison allows you to use workspaces. (In the online Ratpoison "
+"manual, these are referred to more precisely as \"groups\".) You might then "
+"put all browser windows in one workspace, so that C-t e has the same effect "
+"as tabs, but with \"thumbnails\"."
 msgstr ""
+"Εάν έχετε διάφορα τερματικά ανοικτά, και διάφορα παράθυρα του προγράμματος "
+"περιήγησης, και κάποιες άλλες εφαρμογές, ο αριθμός των παραθύρων μπορεί να "
+"γίνει ανυπόφορος. Για να βοηθήσει με αυτό, το Ratpoison σας επιτρέπει να "
+"χρησιμοποιείτε τους χώρους εργασίας. (Σε απευθείας σύνδεση με το εγχειρίδιο "
+"του Ratpoison, αυτά είναι που αναφέρονται πιο συγκεκριμένα ως \"ομάδες\".) "
+"Μπορείτε να θέσετε τότε όλα τα παράθυρα του προγράμματος περιήγησης σε ένα "
+"χώρο εργασίας, έτσι ώστε C-t e έχει το ίδιο αποτέλεσμα με τις καρτέλες, αλλά"
+" με \"μικρογραφίες\"."
 
 #. Tag: para
 #, no-c-format
-msgid "Managing these is roughly analogous to how windows are managed within each workspace. As we saw, C-t e shows all windows in the current workspace; C-t w lists them. C-t W shows four more workspaces, which were set up in the last line of the configuration file. In a console, type rpws help."
+msgid ""
+"Managing these is roughly analogous to how windows are managed within each "
+"workspace. As we saw, C-t e shows all windows in the current workspace; C-t "
+"w lists them. C-t W shows four more workspaces, which were set up in the "
+"last line of the configuration file. In a console, type rpws help."
 msgstr ""
+"Η διαχείριση αυτών είναι περίπου ανάλογη με το γίνεται η διαχείριση των "
+"παραθύρων στο κάθε χώρο εργασίας. Όπως είδαμε, C-t e δείχνει όλα τα παράθυρα"
+" στον τρέχοντα χώρο εργασίας? C-t w τους καταλόγους. C-t W δείχνει τέσσερις "
+"χώρους εργασίας, που δημιουργήθηκαν στην τελευταία γραμμή του αρχείου "
+"ρυθμίσεων. Σε μια κονσόλα, πληκτρολογήστε rpws help."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Terminal showing rpws help page for managing workspaces"
 msgstr ""
+"Terminal που δείχνει τη σελίδα βοήθειας rpws για τη διαχείριση των χώρων "
+"εργασίας"
 
 #. Tag: para
 #, no-c-format
-msgid "The usage summary you will see may be a little cryptic. Just as \"C\" means Control, \"M\" refers to Alt. Use Alt with the function keys to access each workspace. Ctrl-Alt and the arrows move up and down workspaces. The remaining options move the current window to a different workspace."
+msgid ""
+"The usage summary you will see may be a little cryptic. Just as \"C\" means "
+"Control, \"M\" refers to Alt. Use Alt with the function keys to access each "
+"workspace. Ctrl-Alt and the arrows move up and down workspaces. The "
+"remaining options move the current window to a different workspace."
 msgstr ""
+"Η περίληψη χρήσης που θα δείτε μπορεί να είναι λίγο δυσνόητη. Ακριβώς όπως "
+"\"C\" σημαίνει Έλεγχος, \"M\" αναφέρεται στο Alt. Χρησιμοποιήστε το Alt με "
+"τα πλήκτρα λειτουργιών για να αποκτήσετε πρόσβαση σε κάθε χώρο εργασίας. Το "
+"Ctrl-Alt και τα βέλη κινούν πάνω-κάτω τους χώρους εργασίας. Οι υπόλοιπες "
+"επιλογές μετακινούν το τρέχον παράθυρο σε έναν διαφορετικό χώρο εργασίας."
 
 #. Tag: title
 #, no-c-format
 msgid "Adding an item to the menu"
-msgstr ""
+msgstr "Προσθέτοντας ένα στοιχείο στο μενού"
 
 #. Tag: para
 #, no-c-format
-msgid "The directory ~/.ratmenu contains the main menu file menu.sh, and the submenus it calls; all these are editable scripts. We will now edit the Network menu using GVim. GVim is in the menu, but try calling it using the colon (C-t :)"
+msgid ""
+"The directory ~/.ratmenu contains the main menu file menu.sh, and the "
+"submenus it calls; all these are editable scripts. We will now edit the "
+"Network menu using GVim. GVim is in the menu, but try calling it using the "
+"colon (C-t :)"
 msgstr ""
+"Ο κατάλογος ~/.ratmenu περιέχει το κύριο αρχείο μενού menu.sh και τα "
+"υπομενού που καλεί? Όλα αυτά είναι σενάρια δυνατόν να επεξεργαστούν. Θα "
+"επεξεργαστείτε τώρα το μενού Network χρησιμοποιώντας το Gvim. Το Gvim είναι "
+"στο μενού, αλλά δοκιμάστε να το καλέσετε χρησιμοποιώντας την άνω και κάτω "
+"τελεία (C-t:)"
 
 #. Tag: para
 #, no-c-format
 msgid ":exec gvim ~/.ratmenu/network.sh"
-msgstr ""
+msgstr ":exec gvim ~/.ratmenu/network.sh"
 
 #. Tag: para
 #, no-c-format
 msgid "or simply"
-msgstr ""
+msgstr "ή απλά"
 
 #. Tag: para
 #, no-c-format
 msgid "C-t ! gvim ~/.ratmenu/network.sh ."
-msgstr ""
+msgstr "C-t ! gvim ~/.ratmenu/network.sh ."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Adding an item to the menu with gvim"
-msgstr ""
+msgstr "Προσθέτοντας ένα στοιχείο στο μενού με το gvim"
 
 #. Tag: para
 #, no-c-format
-msgid "Note that graphical applications are called directly, but command line programs need to be opened inside a terminal."
+msgid ""
+"Note that graphical applications are called directly, but command line "
+"programs need to be opened inside a terminal."
 msgstr ""
+"Σημειώστε ότι οι γραφικές εφαρμογές καλούνται άμεσα, αλλά τα προγράμματα της"
+" γραμμής εντολών πρέπει να ανοιχτούν μέσα σε ένα τερματικό."
 
 #. Tag: para
 #, no-c-format
-msgid "Use j and k to navigate to where you want to add the entry for Alpine, type i to insert, ESC to return to command mode, and :wq to write and save. Test the change by typing C-t r - the new item should already appear. If all is well, you may close the editor."
+msgid ""
+"Use j and k to navigate to where you want to add the entry for Alpine, type "
+"i to insert, ESC to return to command mode, and :wq to write and save. Test "
+"the change by typing C-t r - the new item should already appear. If all is "
+"well, you may close the editor."
 msgstr ""
+"Χρησιμοποιήστε j και k για να πλοηγηθείτε στο σημείο όπου θέλετε να "
+"προσθέσετε την καταχώρηση για το Alpine, πληκτρολογήστε i για την εισαγωγή, "
+"ESC για να επιστρέψετε στην κατάσταση εντολών, και: wq για να σώσετε και να "
+"αποθηκεύσετε. Ελέγξτε την αλλαγή πληκτρολογώντας C-t r - το νέο στοιχείο θα "
+"πρέπει να έχει ήδη εμφανιστεί. Αν όλα είναι καλά, μπορείτε να κλείσετε το "
+"πρόγραμμα επεξεργασίας."
 
 #. Tag: title
 #, no-c-format
 msgid "Summary"
-msgstr ""
+msgstr "Περίληψη"
 
 #. Tag: para
 #, no-c-format
-msgid "Here is a short list of key bindings common to many of the Salix Ratpoison edition's applications."
+msgid ""
+"Here is a short list of key bindings common to many of the Salix Ratpoison "
+"edition's applications."
 msgstr ""
+"Εδώ είναι μια σύντομη λίστα των πλήκτρων κοινά σε πολλές από τις εφαρμογές "
+"της έκδοσης του Salix Ratpoison."
 
 #. Tag: para
 #, no-c-format
 msgid "Shortcuts"
-msgstr ""
+msgstr "Συντομεύσεις"
 
 #. Tag: para
 #, no-c-format
 msgid "Description"
-msgstr ""
+msgstr "Περιγραφή"
 
 #. Tag: para
 #, no-c-format
 msgid "gg"
-msgstr ""
+msgstr "gg"
 
 #. Tag: para
 #, no-c-format
 msgid "go to the top"
-msgstr ""
+msgstr "Πηγαίνετε στην κορυφή"
 
 #. Tag: para
 #, no-c-format
 msgid "G"
-msgstr ""
+msgstr "G"
 
 #. Tag: para
 #, no-c-format
 msgid "go to the bottom"
-msgstr ""
+msgstr "πηγαίνετε προς τα κάτω"
 
 #. Tag: para
 #, no-c-format
 msgid "h"
-msgstr ""
+msgstr "h"
 
 #. Tag: para
 #, no-c-format
 msgid "left"
-msgstr ""
+msgstr "αριστερά"
 
 #. Tag: para
 #, no-c-format
 msgid "j"
-msgstr ""
+msgstr "j"
 
 #. Tag: para
 #, no-c-format
 msgid "down"
-msgstr ""
+msgstr "κάτω"
 
 #. Tag: para
 #, no-c-format
 msgid "k"
-msgstr ""
+msgstr "k"
 
 #. Tag: para
 #, no-c-format
 msgid "up"
-msgstr ""
+msgstr "επάνω"
 
 #. Tag: para
 #, no-c-format
 msgid "l"
-msgstr ""
+msgstr "l"
 
 #. Tag: para
 #, no-c-format
 msgid "right"
-msgstr ""
+msgstr "δεξιά"
 
 #. Tag: para
 #, no-c-format
 msgid "TAB"
-msgstr ""
+msgstr "TAB"
 
 #. Tag: para
 #, no-c-format
 msgid "select form fields, links. C-z to type in some forms"
 msgstr ""
+"επιλέξετε πεδία φόρμας, σύνδεσμοι. C-z να πληκτρολογήσετε σε ορισμένες "
+"μορφές"
 
 #. Tag: para
 #, no-c-format
 msgid "o"
-msgstr ""
+msgstr "o"
 
 #. Tag: para
 #, no-c-format
 msgid "open"
-msgstr ""
+msgstr "άνοιγμα"
 
 #. Tag: para
 #, no-c-format
 msgid "t"
-msgstr ""
+msgstr "t"
 
 #. Tag: para
 #, no-c-format
 msgid "open in new tab/window"
-msgstr ""
+msgstr "Άνοιγμα σε νέα καρτέλα/παράθυρο"
 
 #. Tag: para
 #, no-c-format
 msgid "f"
-msgstr ""
+msgstr "f"
 
 #. Tag: para
 #, no-c-format
 msgid "follow a link"
-msgstr ""
+msgstr "ακολουθήστε ένα σύνδεσμο"
 
 #. Tag: para
 #, no-c-format
 msgid "d"
-msgstr ""
+msgstr "d"
 
 #. Tag: para
 #, no-c-format
 msgid "close/delete"
-msgstr ""
+msgstr "Κλείσιμο/διαγραφή"
 
 #. Tag: para
 #, no-c-format
 msgid "H"
-msgstr ""
+msgstr "H"
 
 #. Tag: para
 #, no-c-format
 msgid "go back"
-msgstr ""
+msgstr "πήγαινε πίσω"
 
 #. Tag: para
 #, no-c-format
 msgid "/"
-msgstr ""
+msgstr "/"
 
 #. Tag: para
 #, no-c-format
 msgid "search forwards"
-msgstr ""
+msgstr "προς τα εμπρός αναζήτηση"
 
 #. Tag: para
 #, no-c-format
 msgid "?"
-msgstr ""
+msgstr "?"
 
 #. Tag: para
 #, no-c-format
 msgid "search backwards"
-msgstr ""
+msgstr "αναζήτηση προς τα πίσω"
 
 #. Tag: para
 #, no-c-format
 msgid "ESC"
-msgstr ""
+msgstr "ESC"
 
 #. Tag: para
 #, no-c-format
-msgid "return to command mode (and clear the buffer of any mistyped keystrokes)"
+msgid ""
+"return to command mode (and clear the buffer of any mistyped keystrokes)"
 msgstr ""
+"επιστροφή στην κατάσταση εντολών (και καθάρισε το buffer από λάθος "
+"πληκτρολογήσεις)"
 
 #. Tag: para
 #, no-c-format
 msgid ":"
-msgstr ""
+msgstr ":"
 
 #. Tag: para
 #, no-c-format
 msgid "pass a non-shortcut command to the application"
-msgstr ""
+msgstr "περάσει μια μη εντολή συντόμευσης στην εφαρμογή"
 
 #. Tag: para
 #, no-c-format
 msgid "For a summary of Ratpoison's own shortcuts, type C-t ? ."
-msgstr ""
+msgstr "Για μια σύνοψη των συντομεύσεων του Ratpoison, πληκτρολογήστε C-t; ."
 
 #. Tag: para
 #, no-c-format
-msgid "While what is covered here should be enough to get you started, many more features of the applications and especially Ratpoison itself are described in online manuals, guides and the manpages. Once you are used to the core features and have them at your fingertips, it's worth digging around further, as well as investigating suitable applications to add to the set. Configuration may be done straightforwardly by editing the files - suggestions may be found online. One of Ratpoison's principal charms is how easily it can be tailored to fit each user's needs and taste."
+msgid ""
+"While what is covered here should be enough to get you started, many more "
+"features of the applications and especially Ratpoison itself are described "
+"in online manuals, guides and the manpages. Once you are used to the core "
+"features and have them at your fingertips, it's worth digging around "
+"further, as well as investigating suitable applications to add to the set. "
+"Configuration may be done straightforwardly by editing the files - "
+"suggestions may be found online. One of Ratpoison's principal charms is how "
+"easily it can be tailored to fit each user's needs and taste."
 msgstr ""
+"Ενώ αυτό που καλύπτεται εδώ θα πρέπει να είναι αρκετό για να ξεκινήσετε, "
+"πολλά άλλα χαρακτηριστικά των αιτήσεων και ιδιαίτερα το ίδιο το Ratpoison "
+"περιγράφονται σε εγχειρίδια online, οδηγούς και τις manpages. Μόλις έχετε "
+"συνηθίσει τα βασικά χαρακτηριστικά και τα έχετε στα χέρια σας, αξίζει να "
+"αρχείσετε να εξερευνείτε περαιτέρω, καθώς και με τον εντοπισμό κατάλληλων "
+"εφαρμογών για να τις προσθέσετε στο σύνολο. Διαμόρφωση μπορεί να γίνει "
+"ευθέως με την επεξεργασία των αρχείων - προτάσεις μπορούν να βρεθούν online."
+" Μία από τις βασικές γοητίες του Ratpoison είναι το πόσο εύκολα μπορεί να "
+"προσαρμοστεί για να ανταποκρίνεται στις ανάγκες και τη γεύση του κάθε "
+"χρήστη."
 
 #. Tag: para
 #, no-c-format
-msgid "One miscellaneous item is the mount manager in the System menu, which may also be called from the command line as gmountman. When needed, this deals with the mounting of removable devices, including DVDs. Also, banish may be called at any time by the shortcut C-t b."
+msgid ""
+"One miscellaneous item is the mount manager in the System menu, which may "
+"also be called from the command line as gmountman. When needed, this deals "
+"with the mounting of removable devices, including DVDs. Also, banish may be "
+"called at any time by the shortcut C-t b."
 msgstr ""
+"Ένα διαφορετικό στοιχείο είναι ο διαχειριστής προσαρτήσεων στο μενού System,"
+" το οποίο μπορεί επίσης να κληθεί από την γραμμή εντολών ως gmountman. Όταν "
+"απαιτείται, αυτή ασχολείται με την τοποθέτηση των αφαιρούμενων συσκευών, "
+"συμπεριλαμβανομένων των DVD. Επίσης, το banish μπορεί να κληθεί οποιαδήποτε "
+"στιγμή από τη συντόμευση C-t b."
 
 #. Tag: para
 #, no-c-format
 msgid "Remember to check frequently for package updates using slapt-get."
 msgstr ""
+"Μην ξεχνάτε να ελέγχετε συχνά για ενημερώσεις πακέτων χρησιμοποιώντας το "
+"slapt-get."
 
 #. Tag: para
 #, no-c-format
-msgid "Finally, to shut down Ratpoison, there is an entry in the Exit submenu, from where it is also possible to reboot or shut down the computer."
+msgid ""
+"Finally, to shut down Ratpoison, there is an entry in the Exit submenu, from"
+" where it is also possible to reboot or shut down the computer."
 msgstr ""
+"Τέλος, για να κλείσετε το Ratpoison, υπάρχει μια καταχώρηση στο υπομενού "
+"εξόδου, από όπου είναι επίσης δυνατό να επανεκκινήσετε ή να τερματίσετε τη "
+"λειτουργία του υπολογιστή."
+
 

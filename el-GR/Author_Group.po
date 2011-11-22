@@ -1,74 +1,78 @@
-# 
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Translators:
+# Dimitris Tzemos <djemos@slackel.gr>, 2011.
 msgid ""
 msgstr ""
-"Project-Id-Version: 0\n"
+"Project-Id-Version: Salix documentation\n"
 "POT-Creation-Date: 2011-11-08T17:18:00\n"
-"PO-Revision-Date: 2011-11-08T17:18:00\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2011-11-20 20:14+0000\n"
+"Last-Translator: djemos <djemos@slackel.gr>\n"
 "Language-Team: None\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #. Tag: firstname
 #, no-c-format
 msgid "Tomoki"
-msgstr ""
+msgstr "Tomoki"
 
 #. Tag: surname
 #, no-c-format
 msgid "Tsuchiya"
-msgstr ""
+msgstr "Tsuchiya"
 
 #. Tag: orgdiv
 #, no-c-format
 msgid "Author"
-msgstr ""
+msgstr "Συγγραφέας"
 
 #. Tag: firstname
 #, no-c-format
 msgid "Pierrick"
-msgstr ""
+msgstr "Pierrick"
 
 #. Tag: surname
 #, no-c-format
 msgid "Le Brun"
-msgstr ""
+msgstr "Le Brun"
 
 #. Tag: firstname
 #, no-c-format
 msgid "Cyrille"
-msgstr ""
+msgstr "Cyrille"
 
 #. Tag: surname
 #, no-c-format
 msgid "Pontvieux"
-msgstr ""
+msgstr "Pontvieux"
 
 #. Tag: firstname
 #, no-c-format
 msgid "Tim"
-msgstr ""
+msgstr "Tim"
 
 #. Tag: surname
 #, no-c-format
 msgid "Beech"
-msgstr ""
+msgstr "Beech"
 
 #. Tag: firstname
 #, no-c-format
 msgid "Max"
-msgstr ""
+msgstr "Max"
 
 #. Tag: surname
 #, no-c-format
 msgid "Boon"
-msgstr ""
+msgstr "Boon"
 
 #. Tag: orgdiv
 #, no-c-format
 msgid "Editor"
-msgstr ""
+msgstr "Συντάκτης"
+
 

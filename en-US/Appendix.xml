@@ -4,10 +4,11 @@
 %BOOK_ENTITIES;
 ]>
 <appendix id="appe-Startup_Guide-List_of_Applications">
-	<title>List of Applications</title>
-	 <informaltable frame="all">
+   <title>List of Applications</title>
+	 <table frame="all">
+		<title>List of Applications</title>
 		<tgroup cols="6">
-			<tbody>
+			<thead>
 				<row>
 					<entry>
 						<para>
@@ -45,8 +46,10 @@
 						</para>
 
 					</entry>
-
 				</row>
+			</thead>
+			<tbody>
+
 				 <row>
 					<entry>
 						<para>
@@ -86,7 +89,7 @@
 					</entry>
 
 				</row>
-				 <row>
+				 <row><?dbhtml class="even"?>
 					<entry>
 						<para>
 							Word Processor
@@ -164,7 +167,7 @@
 					</entry>
 
 				</row>
-				 <row>
+				 <row><?dbhtml class="even"?>
 					<entry>
 						<para>
 							Picture Viewer
@@ -1087,7 +1090,7 @@
 
 		</tgroup>
 
-	</informaltable>
+	</table>
 	 <section id="sect-Startup_Guide-List_of_Applications-Selected_Applications_found_in_Salix">
 		<title>Selected Applications found in Salix</title>
 		 <section id="sect-Startup_Guide-Selected_Applications_found_in_Salix-Abiword">

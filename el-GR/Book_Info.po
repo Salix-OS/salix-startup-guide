@@ -1,34 +1,51 @@
-# 
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Translators:
+# Dimitris Tzemos <djemos@slackel.gr>, 2011.
 msgid ""
 msgstr ""
-"Project-Id-Version: 0\n"
+"Project-Id-Version: Salix documentation\n"
 "POT-Creation-Date: 2011-11-08T17:18:00\n"
-"PO-Revision-Date: 2011-11-08T17:18:00\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2011-11-20 20:19+0000\n"
+"Last-Translator: djemos <djemos@slackel.gr>\n"
 "Language-Team: None\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #. Tag: title
 #, no-c-format
 msgid "Startup Guide"
-msgstr ""
+msgstr "οδηγός χρήσης"
 
 #. Tag: subtitle
 #, no-c-format
 msgid "Getting familiar with your new operating System"
-msgstr ""
+msgstr "Γνωριμία με το νέο λειτουργικό σας σύστημα"
 
 #. Tag: productname
 #, no-c-format
 msgid "SalixOS"
-msgstr ""
+msgstr "SalixOS"
 
 #. Tag: para
 #, no-c-format
-msgid "The purpose of this manual is to enable you to take full advantage of the many functionalities of Salix OS. While particular attention has been given to help newcomers quickly get familiar with common computer tasks, more advanced material is also available for intermediate users who want to learn more about the inner workings of their operating system, its administration and its customisation."
+msgid ""
+"The purpose of this manual is to enable you to take full advantage of the "
+"many functionalities of Salix OS. While particular attention has been given "
+"to help newcomers quickly get familiar with common computer tasks, more "
+"advanced material is also available for intermediate users who want to learn"
+" more about the inner workings of their operating system, its administration"
+" and its customisation."
 msgstr ""
+"Ο σκοπός του παρόντος εγχειριδίου είναι να σας δώσει τη δυνατότητα να "
+"επωφεληθείτε πλήρως από τις πολλές λειτουργίες του Salix OS. Παρά την "
+"ιδιαίτερη προσοχή που έχει δοθεί για να βοηθήσει τους καινούργιους χρήστες "
+"να εξοικειωθούν γρήγορα με τις κοινές εργασίες στον υπολογιστή, πιο "
+"προχωρημένο υλικό είναι επίσης διαθέσιμο για τους ενδιάμεσους χρήστες που "
+"θέλουν να μάθουν περισσότερα για τις εσωτερικές διεργασίες του λειτουργικού "
+"συστήματος τους, τη διαχείρισή του και τη προσαρμογή του."
+
 

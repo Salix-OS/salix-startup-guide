@@ -1,914 +1,1117 @@
-# 
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Translators:
+# Ingemar Karlsson <ingemar@ingk.se>, 2011.
 msgid ""
 msgstr ""
-"Project-Id-Version: 0\n"
+"Project-Id-Version: Salix documentation\n"
 "POT-Creation-Date: 2011-11-08T17:18:00\n"
-"PO-Revision-Date: 2011-11-08T17:18:00\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2011-11-20 15:56+0000\n"
+"Last-Translator: ingemar <ingemar@ingk.se>\n"
 "Language-Team: None\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #. Tag: title
 #, no-c-format
 msgid "List of Applications"
-msgstr ""
+msgstr "Lista över program"
 
 #. Tag: para
 #, no-c-format
 msgid "Salix Edition"
-msgstr ""
+msgstr "Salix Edition"
 
 #. Tag: para
 #, no-c-format
 msgid "Xfce"
-msgstr ""
+msgstr "Xfce"
 
 #. Tag: para
 #, no-c-format
 msgid "KDE"
-msgstr ""
+msgstr "KDE"
 
 #. Tag: para
 #, no-c-format
 msgid "Fluxbox"
-msgstr ""
+msgstr "Fluxbox"
 
 #. Tag: para
 #, no-c-format
 msgid "LXDE"
-msgstr ""
+msgstr "LXDE"
 
 #. Tag: para
 #, no-c-format
 msgid "Ratpoison"
-msgstr ""
+msgstr "Ratpoison"
 
 #. Tag: para
 #, no-c-format
 msgid "Web Browser"
-msgstr ""
+msgstr "Webbläsare"
 
 #. Tag: para
 #, no-c-format
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 #. Tag: para
 #, no-c-format
 msgid "Midori"
-msgstr ""
+msgstr "Midori"
 
 #. Tag: para
 #, no-c-format
 msgid "Vimprobable2"
-msgstr ""
+msgstr "Vimprobable2"
 
 #. Tag: para
 #, no-c-format
 msgid "Word Processor"
-msgstr ""
+msgstr "Ordbehandlare"
 
 #. Tag: para
 #, no-c-format
 msgid "LibreOffice Writer"
-msgstr ""
+msgstr "LibreOffice Writer"
 
 #. Tag: para
 #, no-c-format
 msgid "KWord"
-msgstr ""
+msgstr "KWord"
 
 #. Tag: para
 #, no-c-format
 msgid "AbiWord"
-msgstr ""
+msgstr "AbiWord"
 
 #. Tag: para
 #, no-c-format
 msgid "Email Client"
-msgstr ""
+msgstr "E-postklient"
 
 #. Tag: para
 #, no-c-format
 msgid "Claws–mail"
-msgstr ""
+msgstr "Claws–mail"
 
 #. Tag: para
 #, no-c-format
 msgid "KMail"
-msgstr ""
+msgstr "KMail"
 
 #. Tag: para
 #, no-c-format
 msgid "Mutt"
-msgstr ""
+msgstr "Mutt"
 
 #. Tag: para
 #, no-c-format
 msgid "Picture Viewer"
-msgstr ""
+msgstr "Bildvisare"
 
 #. Tag: para
 #, no-c-format
 msgid "Viewnior"
-msgstr ""
+msgstr "Viewnior"
 
 #. Tag: para
 #, no-c-format
 msgid "Gwenview"
-msgstr ""
+msgstr "Gwenview"
 
 #. Tag: para
 #, no-c-format
 msgid "Image Editing"
-msgstr ""
+msgstr "Bildredigering"
 
 #. Tag: para
 #, no-c-format
 msgid "GIMP"
-msgstr ""
+msgstr "GIMP"
 
 #. Tag: para
 #, no-c-format
 msgid "Krita"
-msgstr ""
+msgstr "Krita"
 
 #. Tag: para
 #, no-c-format
 msgid "KolorPaint"
-msgstr ""
+msgstr "KolorPaint"
 
 #. Tag: para
 #, no-c-format
 msgid "Karbon14"
-msgstr ""
+msgstr "Karbon14"
 
 #. Tag: para
 #, no-c-format
 msgid "mtPaint"
-msgstr ""
+msgstr "mtPaint"
 
 #. Tag: para
 #, no-c-format
 msgid "—"
-msgstr ""
+msgstr "—"
 
 #. Tag: para
 #, no-c-format
 msgid "Video Editing"
-msgstr ""
+msgstr "Videoredigering"
 
 #. Tag: para
 #, no-c-format
 msgid "PiTiVi"
-msgstr ""
+msgstr "PiTiVi"
 
 #. Tag: para
 #, no-c-format
 msgid "File Manager"
-msgstr ""
+msgstr "Filhanterare"
 
 #. Tag: para
 #, no-c-format
 msgid "Thunar"
-msgstr ""
+msgstr "Thunar"
 
 #. Tag: para
 #, no-c-format
 msgid "Dolphin"
-msgstr ""
+msgstr "Dolphin"
 
 #. Tag: para
 #, no-c-format
 msgid "PCMan"
-msgstr ""
+msgstr "PCMan"
 
 #. Tag: para
 #, no-c-format
 msgid "Gnome-commander"
-msgstr ""
+msgstr "Gnome-commander"
 
 #. Tag: para
 #, no-c-format
 msgid "Window Manager"
-msgstr ""
+msgstr "Fönsterhanterare"
 
 #. Tag: para
 #, no-c-format
 msgid "KWin"
-msgstr ""
+msgstr "KWin"
 
 #. Tag: para
 #, no-c-format
 msgid "openbox"
-msgstr ""
+msgstr "openbox"
 
 #. Tag: para
 #, no-c-format
 msgid "Instant Messaging"
-msgstr ""
+msgstr "Snabbmeddelanden"
 
 #. Tag: para
 #, no-c-format
 msgid "Pidgin"
-msgstr ""
+msgstr "Pidgin"
 
 #. Tag: para
 #, no-c-format
 msgid "Kopete"
-msgstr ""
+msgstr "Kopete"
 
 #. Tag: para
 #, no-c-format
 msgid "VoIP"
-msgstr ""
+msgstr "VoIP"
 
 #. Tag: para
 #, no-c-format
 msgid "Spreadsheet"
-msgstr ""
+msgstr "Kalkylblad"
 
 #. Tag: para
 #, no-c-format
 msgid "LibreOffice Calc"
-msgstr ""
+msgstr "LibreOffice Calc"
 
 #. Tag: para
 #, no-c-format
 msgid "KSpread"
-msgstr ""
+msgstr "KSpread"
 
 #. Tag: para
 #, no-c-format
 msgid "Gnumeric"
-msgstr ""
+msgstr "Gnumeric"
 
 #. Tag: para
 #, no-c-format
 msgid "sc"
-msgstr ""
+msgstr "sc"
 
 #. Tag: para
 #, no-c-format
 msgid "Text Editor"
-msgstr ""
+msgstr "Textredigerare"
 
 #. Tag: para
 #, no-c-format
 msgid "Mousepad"
-msgstr ""
+msgstr "Mousepad"
 
 #. Tag: para
 #, no-c-format
 msgid "KWriter"
-msgstr ""
+msgstr "KWriter"
 
 #. Tag: para
 #, no-c-format
 msgid "Leafpad"
-msgstr ""
+msgstr "Leafpad"
 
 #. Tag: para
 #, no-c-format
 msgid "gvim"
-msgstr ""
+msgstr "gvim"
 
 #. Tag: para
 #, no-c-format
 msgid "Integrated Development Environment"
-msgstr ""
+msgstr "Integrated Development Environment"
 
 #. Tag: para
 #, no-c-format
 msgid "Geany"
-msgstr ""
+msgstr "Geany"
 
 #. Tag: para
 #, no-c-format
 msgid "Pdf Reader"
-msgstr ""
+msgstr "PDF Läsare"
 
 #. Tag: para
 #, no-c-format
 msgid "Document Viewer (Evince)"
-msgstr ""
+msgstr "Document Visare (Evince)"
 
 #. Tag: para
 #, no-c-format
 msgid "OKular"
-msgstr ""
+msgstr "OKular"
 
 #. Tag: para
 #, no-c-format
 msgid "ePDFViewer"
-msgstr ""
+msgstr "ePDFViewer"
 
 #. Tag: para
 #, no-c-format
 msgid "apvlv"
-msgstr ""
+msgstr "apvlv"
 
 #. Tag: para
 #, no-c-format
 msgid "Multimedia Player"
-msgstr ""
+msgstr "Multimedia Spelare"
 
 #. Tag: para
 #, no-c-format
 msgid "Parole Media Player"
-msgstr ""
+msgstr "Parole Media Spelare"
 
 #. Tag: para
 #, no-c-format
 msgid "Bangarang"
-msgstr ""
+msgstr "Bangarang"
 
 #. Tag: para
 #, no-c-format
 msgid "Whaawmp"
-msgstr ""
+msgstr "Whaawmp"
 
 #. Tag: para
 #, no-c-format
 msgid "Music Player"
-msgstr ""
+msgstr "Musikspelare"
 
 #. Tag: para
 #, no-c-format
 msgid "Exaile"
-msgstr ""
+msgstr "Exaile"
 
 #. Tag: para
 #, no-c-format
 msgid "Clementine Music Player"
-msgstr ""
+msgstr "Clementine Musikspelare"
 
 #. Tag: para
 #, no-c-format
 msgid "Music On Console"
-msgstr ""
+msgstr "Musik på konsol"
 
 #. Tag: para
 #, no-c-format
 msgid "Disk Burner"
-msgstr ""
+msgstr "Skiv-brännare"
 
 #. Tag: para
 #, no-c-format
 msgid "Brasero"
-msgstr ""
+msgstr "Brasero"
 
 #. Tag: para
 #, no-c-format
 msgid "K3b"
-msgstr ""
+msgstr "K3b"
 
 #. Tag: para
 #, no-c-format
 msgid "bashburn"
-msgstr ""
+msgstr "bashburn"
 
 #. Tag: para
 #, no-c-format
 msgid "CD Ripper"
-msgstr ""
+msgstr "CD Ripper"
 
 #. Tag: para
 #, no-c-format
 msgid "Asunder CD Ripper"
-msgstr ""
+msgstr "Asunder CD Ripper"
 
 #. Tag: para
 #, no-c-format
 msgid "Torrent Client"
-msgstr ""
+msgstr "Torrent-klient"
 
 #. Tag: para
 #, no-c-format
 msgid "Transmission"
-msgstr ""
+msgstr "Transmission"
 
 #. Tag: para
 #, no-c-format
 msgid "KTorrent"
-msgstr ""
+msgstr "KTorrent"
 
 #. Tag: para
 #, no-c-format
 msgid "rtorrent"
-msgstr ""
+msgstr "rtorrent"
 
 #. Tag: para
 #, no-c-format
 msgid "Blogging Client"
-msgstr ""
+msgstr "Blogg-klient"
 
 #. Tag: para
 #, no-c-format
 msgid "Blogilo"
-msgstr ""
+msgstr "Blogilo"
 
 #. Tag: para
 #, no-c-format
 msgid "Organiser"
-msgstr ""
+msgstr "Organiser"
 
 #. Tag: para
 #, no-c-format
 msgid "Orage"
-msgstr ""
+msgstr "Orage"
 
 #. Tag: para
 #, no-c-format
 msgid "KOrganizer"
-msgstr ""
+msgstr "KOrganizer"
 
 #. Tag: para
 #, no-c-format
 msgid "PIM"
-msgstr ""
+msgstr "PIM"
 
 #. Tag: para
 #, no-c-format
 msgid "Akonadi"
-msgstr ""
+msgstr "Akonadi"
 
 #. Tag: para
 #, no-c-format
 msgid "Desktop Wiki"
-msgstr ""
+msgstr "Skrivbords Wiki"
 
 #. Tag: para
 #, no-c-format
 msgid "zim"
-msgstr ""
+msgstr "zim"
 
 #. Tag: para
 #, no-c-format
 msgid "KJots"
-msgstr ""
+msgstr "KJots"
 
 #. Tag: para
 #, no-c-format
 msgid "Multilingual Input"
-msgstr ""
+msgstr "Flerspråkig inmatning"
 
 #. Tag: para
 #, no-c-format
 msgid "Ibus"
-msgstr ""
+msgstr "Ibus"
 
 #. Tag: para
 #, no-c-format
 msgid "Terminal Emulator"
-msgstr ""
+msgstr "Terminal Emulator"
 
 #. Tag: para
 #, no-c-format
 msgid "Xfce Terminal"
-msgstr ""
+msgstr "Xfce Terminal"
 
 #. Tag: para
 #, no-c-format
 msgid "Konsole"
-msgstr ""
+msgstr "Konsole"
 
 #. Tag: para
 #, no-c-format
 msgid "urxvt"
-msgstr ""
+msgstr "urxvt"
 
 #. Tag: para
 #, no-c-format
 msgid "LXTerminal"
-msgstr ""
+msgstr "LXTerminal"
 
 #. Tag: para
 #, no-c-format
 msgid "xterm"
-msgstr ""
+msgstr "xterm"
 
 #. Tag: para
 #, no-c-format
 msgid "Package Management"
-msgstr ""
+msgstr "Pakethantering"
 
 #. Tag: para
 #, no-c-format
 msgid "Gslapt"
-msgstr ""
+msgstr "Gslapt"
 
 #. Tag: para
 #, no-c-format
 msgid "Sourcery"
-msgstr ""
+msgstr "Sourcery"
 
 #. Tag: title
 #, no-c-format
 msgid "Selected Applications found in Salix"
-msgstr ""
+msgstr "Utvalda applikationer som finns i Salix"
 
 #. Tag: title
 #, no-c-format
 msgid "Abiword"
-msgstr ""
+msgstr "Abiword"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Abiword"
-msgstr ""
+msgstr "Skärmdump av Abiword"
 
 #. Tag: para
 #, no-c-format
-msgid "AbiWord is a word processing program suitable for a wide variety of word processing tasks."
+msgid ""
+"AbiWord is a word processing program suitable for a wide variety of word "
+"processing tasks."
 msgstr ""
+"AbiWord är ett ordbehandlingsprogram lämplig för en mängd olika "
+"ordbehandlingar."
 
 #. Tag: title
 #, no-c-format
 msgid "Asunder"
-msgstr ""
+msgstr "Asunder"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Asunder"
-msgstr ""
+msgstr "Skärmdump av Asunder"
 
 #. Tag: para
 #, no-c-format
-msgid "Asunder is an Audio CD ripper and encoder for Linux. You can use Asunder to save tracks from an Audio CD as any of WAV, MP3, OGG, FLAC, WavPack, Musepack, AAC, and Monkey's Audio files."
+msgid ""
+"Asunder is an Audio CD ripper and encoder for Linux. You can use Asunder to "
+"save tracks from an Audio CD as any of WAV, MP3, OGG, FLAC, WavPack, "
+"Musepack, AAC, and Monkey's Audio files."
 msgstr ""
+"Asunder är en ljud-CD Ripper och kodare för Linux. Du kan använda Asunder "
+"för att spara spår från en ljud-CD i någon av WAV, MP3, OGG, FLAC, WavPack, "
+"Musepack, AAC och Monkey ljudfiler."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Brasero"
-msgstr ""
+msgstr "Skärmdump av Brasero"
 
 #. Tag: para
 #, no-c-format
-msgid "Brasero is an application to burn CD/DVD. It is designed to be as simple as possible and has some unique features to enable users to create their discs easily and quickly."
+msgid ""
+"Brasero is an application to burn CD/DVD. It is designed to be as simple as "
+"possible and has some unique features to enable users to create their discs "
+"easily and quickly."
 msgstr ""
+"Brasero är ett program för att bränna CD/DVD. Den är utformad för att vara "
+"så enkel som möjligt och har några unika egenskaper att göra det möjligt för"
+" användare att skapa sina skivor enkelt och snabbt."
 
 #. Tag: title
 #, no-c-format
 msgid "Catfish"
-msgstr ""
+msgstr "Catfish"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Catfish"
-msgstr ""
+msgstr "Skärmdump av Catfish"
 
 #. Tag: para
 #, no-c-format
-msgid "Catfish is a handy file searching tool which provides a unified, lightweight and simple interface for different search engines such as find, (s)locate, doodle, tracker and beagle."
+msgid ""
+"Catfish is a handy file searching tool which provides a unified, lightweight"
+" and simple interface for different search engines such as find, (s)locate, "
+"doodle, tracker and beagle."
 msgstr ""
+"Catfish är en händig filsökning verktyg som ger en enhetlig, lätt och enkelt"
+" gränssnitt för olika sökmotorer såsom find, (s)locate, doodle, tracker och "
+"beagle."
 
 #. Tag: title
 #, no-c-format
 msgid "Claws-mail"
-msgstr ""
+msgstr "Claws-mail"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Claws Mail"
-msgstr ""
+msgstr "Skärmdump av Claws Mail"
 
 #. Tag: para
 #, no-c-format
-msgid "Claws Mail is an open source email and news client. It offers easy configuration and an abundance of features. It stores mail in the MH mailbox format as well as the Mbox mailbox format via a plugin."
+msgid ""
+"Claws Mail is an open source email and news client. It offers easy "
+"configuration and an abundance of features. It stores mail in the MH mailbox"
+" format as well as the Mbox mailbox format via a plugin."
 msgstr ""
+"Claws Mail är ett open source e-post och nyhets klient. Det erbjuder enkel "
+"konfiguration och ett överflöd av funktioner. Den lagrar post i MH mailbox "
+"format samt Mbox mailboc format via ett plugin."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Evince"
-msgstr ""
+msgstr "Skärmdump av Evince"
 
 #. Tag: para
 #, no-c-format
 msgid "Document Viewer is a a very lightweight, simple PDF document viewer."
 msgstr ""
+"Document Viewer är en mycket lätt, enkel PDF-dokument visningsprogram."
 
 #. Tag: title
 #, no-c-format
 msgid "ePDFview"
-msgstr ""
+msgstr "ePDFview"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of ePDFView"
-msgstr ""
+msgstr "Skärmdump av ePDFview"
 
 #. Tag: para
 #, no-c-format
-msgid "ePDFView is a lightweight PDF document viewer that only uses the GTK+ and Poppler libraries. It opens PDF files, save copies of documents, and has support for printing using CUPS."
+msgid ""
+"ePDFView is a lightweight PDF document viewer that only uses the GTK+ and "
+"Poppler libraries. It opens PDF files, save copies of documents, and has "
+"support for printing using CUPS."
 msgstr ""
+"ePDFview är en lättviktig PDF-dokument visningsprogram som bara använder "
+"GTK+ och Poppler bibliotek. Det öppnar PDF-filer, spara kopior av "
+"handlingar, och har stöd för utskrift med CUPS."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Exaile"
-msgstr ""
+msgstr "Skärmdump av Exaile"
 
 #. Tag: para
 #, no-c-format
-msgid "Exaile is a music manager which incorporates automatic fetching of album art, lyrics fetching, Last.fm scrobbling, support for many portable media players, Internet radio such as Shoutcast, tabbed playlists, etc."
+msgid ""
+"Exaile is a music manager which incorporates automatic fetching of album "
+"art, lyrics fetching, Last.fm scrobbling, support for many portable media "
+"players, Internet radio such as Shoutcast, tabbed playlists, etc."
 msgstr ""
+"Exaile är en musik hanterare som innefattar automatisk hämtning av "
+"skivomslag, lyrics hämtning, Last.fm skrobbling, stöd för många bärbara "
+"mediaspelare, Internet radio som Shoutcast, flikar spellistor etc."
 
 #. Tag: title
 #, no-c-format
 msgid "File Roller"
-msgstr ""
+msgstr "File Roller"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of File Roller"
-msgstr ""
+msgstr "Skärmdump av File Roller"
 
 #. Tag: para
 #, no-c-format
-msgid "File Roller is an archive manager. Supported archive types include gzip, bzip, bzip2, compress, lzop, zip, jar, lha, rar, zoo, arj, 7-zip, etc."
+msgid ""
+"File Roller is an archive manager. Supported archive types include gzip, "
+"bzip, bzip2, compress, lzop, zip, jar, lha, rar, zoo, arj, 7-zip, etc."
 msgstr ""
+"File Roller är ett arkivhanterare. Som stöder arkiv typer som gzip, bzip, "
+"bzip2, compress, lzop, zip, jar, lha, rar, zoo, arj, 7-zip, m.f."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Mozilla Firefox"
-msgstr ""
+msgstr "Skärmdump av Mozilla Firefox"
 
 #. Tag: para
 #, no-c-format
-msgid "Mozilla Firefox is a free and open source web browser with tabbed browsing, spell checking, incremental find, private browsing and numerous plugins."
+msgid ""
+"Mozilla Firefox is a free and open source web browser with tabbed browsing, "
+"spell checking, incremental find, private browsing and numerous plugins."
 msgstr ""
+"Mozilla Firefox är en fri och öppen källkods webbläsare med flikar, "
+"stavningskontroll, inkrementell sökning, privat surfning och många plugins."
 
 #. Tag: title
 #, no-c-format
 msgid "Galculator"
-msgstr ""
+msgstr "Galculator"
 
 #. Tag: para
 #, no-c-format
-msgid "Galculator is a calculator featuring two user modes: basic and scientific mode. Basic mode is intended for simple computations while Scientific Mode is Galculator's state of the art."
+msgid ""
+"Galculator is a calculator featuring two user modes: basic and scientific "
+"mode. Basic mode is intended for simple computations while Scientific Mode "
+"is Galculator's state of the art."
 msgstr ""
+"Galculator är en miniräknare med två användarlägen: grundläggande och "
+"vetenskapligt läge. Basic-läget är avsett för enkla beräkningar medan "
+"vetenskapligt läge är galculator's toppmoderna läge."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Geany"
-msgstr ""
+msgstr "Skärmdump av Geany"
 
 #. Tag: para
 #, no-c-format
-msgid "Geany is a small and lightweight Integrated Development Environment which only has a few dependencies and is independent of any particular Desktop Environment."
+msgid ""
+"Geany is a small and lightweight Integrated Development Environment which "
+"only has a few dependencies and is independent of any particular Desktop "
+"Environment."
 msgstr ""
+"Geany är en liten och lätt Integrated Development Environment, som bara har "
+"ett par beroenden och är oberoende av enskilda skrivbordsmiljön."
 
 #. Tag: title
 #, no-c-format
 msgid "gFTP"
-msgstr ""
+msgstr "gFTP"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of gFTP"
-msgstr ""
+msgstr "Skärmdump av gFTP"
 
 #. Tag: para
 #, no-c-format
-msgid "gFTP is an FTP client with both a text and a GUI interface. gFTP aims to be simple to use yet powerful."
+msgid ""
+"gFTP is an FTP client with both a text and a GUI interface. gFTP aims to be "
+"simple to use yet powerful."
 msgstr ""
+"gFTP är en FTP-klient med både text och ett grafiskt gränssnitt. gFTP ska "
+"vara enkel att använda men ändå kraftfullt."
 
 #. Tag: title
 #, no-c-format
 msgid "Gigolo"
-msgstr ""
+msgstr "Gigolo"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Gigolo"
-msgstr ""
+msgstr "Skärmdump av Gigolo"
 
 #. Tag: para
 #, no-c-format
-msgid "Gigolo is a frontend to easily manage connections to remote filesystems using GIO/GVfs. It allows you to quickly connect/mount a remote filesystem and browse local networks shares."
+msgid ""
+"Gigolo is a frontend to easily manage connections to remote filesystems "
+"using GIO/GVfs. It allows you to quickly connect/mount a remote filesystem "
+"and browse local networks shares."
 msgstr ""
+"Gigolo är ett gränssnitt för att enkelt hantera anslutningar till fjärr-"
+"filsystem med hjälp av GIO/GVFS. Det gör att du snabbt kan ansluta/montera "
+"ett fjärrfilsystem och bläddra i lokala nätverk utdelningar."
 
 #. Tag: title
 #, no-c-format
 msgid "Gimp"
-msgstr ""
+msgstr "Gimp"
 
 #. Tag: para
 #, no-c-format
-msgid "GIMP (GNU Image Manipulation Program) is an image retouching and editing tool. In addition to offering free form drawing, it can accomplish essential image workflow steps such as resizing, editing, and cropping photos, combining multiple images, converting between different image formats as well as create basic animated images in GIF."
+msgid ""
+"GIMP (GNU Image Manipulation Program) is an image retouching and editing "
+"tool. In addition to offering free form drawing, it can accomplish essential"
+" image workflow steps such as resizing, editing, and cropping photos, "
+"combining multiple images, converting between different image formats as "
+"well as create basic animated images in GIF."
 msgstr ""
+"GIMP (GNU Image Manipulation Program) är en bildretusch och "
+"redigeringsverktyg. Förutom att erbjuda fri formritning kan den åstadkomma "
+"väsentliga steg som storleksändring, redigering och beskärning av bilder, "
+"kombinera flera bilder, konvertera mellan olika bildformat samt skapa "
+"grundläggande animerade bilder i GIF."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Gnumeric"
-msgstr ""
+msgstr "Skärmdump av Gnumeric"
 
 #. Tag: para
 #, no-c-format
-msgid "The goal of Gnumeric is to be the best possible spreadsheet. While not attempting to clone existing applications, Gnumeric can however read files saved with other spreadsheets and offers a customizable feel that attempts to minimize the costs of transition."
+msgid ""
+"The goal of Gnumeric is to be the best possible spreadsheet. While not "
+"attempting to clone existing applications, Gnumeric can however read files "
+"saved with other spreadsheets and offers a customizable feel that attempts "
+"to minimize the costs of transition."
 msgstr ""
+"Målet med Gnumeric är att vara det bästa möjliga kalkylprogram. Även om den "
+"inte försöker klona befintliga applikationer kan dock Gnumeric läsa filer "
+"sparade med andra kalkylprogram och erbjuder en anpassningsbar känsla som "
+"försöker att minimera kostnaderna för övergången."
 
 #. Tag: title
 #, no-c-format
 msgid "Gtkman"
-msgstr ""
+msgstr "Gtkman"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of GTKMan"
-msgstr ""
+msgstr "Skärmdump av GTKMan"
 
 #. Tag: para
 #, no-c-format
-msgid "GTKMan is a simple manual page viewer. Manual pages are viewed by specifying their name and optionally the section they are in, just as with the original man command. The manual pages are displayed in simple text form using the default system monospace font."
+msgid ""
+"GTKMan is a simple manual page viewer. Manual pages are viewed by specifying"
+" their name and optionally the section they are in, just as with the "
+"original man command. The manual pages are displayed in simple text form "
+"using the default system monospace font."
 msgstr ""
+"GTKMan är en enkel manual visare. Manual sidor visas genom att ange deras "
+"namn och valfritt avsnitt de är i, precis som med den ursprungliga man-"
+"kommandot. Manual sidor visas i enkelt text form med standardteckensnittet "
+"monospace."
 
 #. Tag: para
 #, no-c-format
-msgid "Ibus is a new generation of input method editors after SCIM. It supports for more than thirty languages (Chinese, Japanese, Korean and other languages) on both qt and non-qt environments. (You may have to go to qtconfig and select \"ibus\" instead of \"xim\" in \"Interface\" -&gt; \"Default Input Method\")."
+msgid ""
+"Ibus is a new generation of input method editors after SCIM. It supports for"
+" more than thirty languages (Chinese, Japanese, Korean and other languages) "
+"on both qt and non-qt environments. (You may have to go to qtconfig and "
+"select \"ibus\" instead of \"xim\" in \"Interface\" -&gt; \"Default Input "
+"Method\")."
 msgstr ""
+"Ibus är en ny generation av inmatningsmetod efter SCIM. Den stöder mer än "
+"trettio språk (kinesiska, japanska, koreanska och andra språk) på både qt "
+"och icke-qt miljöer. (Du kanske måste gå till qtconfig och välj \"ibus\" "
+"istället för \"Xim\" i \"Interface\" -&gt; \"Metod Standard Input\")."
 
 #. Tag: title
 #, no-c-format
 msgid "ISO Master"
-msgstr ""
+msgstr "ISO Master"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of ISO Master"
-msgstr ""
+msgstr "Skärmdump av ISO Mästare"
 
 #. Tag: para
 #, no-c-format
-msgid "ISO Master is an application for creating and modifying ISO9660 files (ISO images). Its functionalities include: creating an ISO image from scratch, adding or removing files and directories to/from a CD image, and creating bootable CDs using various boot record types."
+msgid ""
+"ISO Master is an application for creating and modifying ISO9660 files (ISO "
+"images). Its functionalities include: creating an ISO image from scratch, "
+"adding or removing files and directories to/from a CD image, and creating "
+"bootable CDs using various boot record types."
 msgstr ""
+"ISO-Master är ett program för att skapa och modifiera ISO9660-filer (ISO-"
+"avbilder). Dess funktioner inkluderar: att skapa en ISO-avbild från grunden,"
+" lägga till eller ta bort filer och kataloger till/från en cd-avbild och "
+"skapa startbara CD-skivor med olika typer boot record."
 
 #. Tag: para
 #, no-c-format
 msgid "Leafpad is a very light simple text editor with printing support."
-msgstr ""
+msgstr "Leafpad är en mycket lätt enkel textredigerare med utskriftsstöd."
 
 #. Tag: title
 #, no-c-format
 msgid "Meld"
-msgstr ""
+msgstr "Meld"
 
 #. Tag: para
 #, no-c-format
-msgid "Meld is a visual diff and merge tool. You can compare two or three files and edit them in place (diffs update dynamically). You can compare two or three folders and launch file comparisons. You can browse and view a working copy from popular version control systems such such as CVS, Subversion, Bazaar-ng and Mercurial."
+msgid ""
+"Meld is a visual diff and merge tool. You can compare two or three files and"
+" edit them in place (diffs update dynamically). You can compare two or three"
+" folders and launch file comparisons. You can browse and view a working copy"
+" from popular version control systems such such as CVS, Subversion, Bazaar-"
+"ng and Mercurial."
 msgstr ""
+"Meld är en visuell skillnad och slå ihop verktyg. Du kan jämföra två eller "
+"tre filer och redigera dem på plats (skillnader uppdateras dynamiskt). Du "
+"kan jämföra två eller tre mappar och starta filjämförelser. Du kan bläddra "
+"och visa en arbetskopia från populära system för versionshantering såsom "
+"exempelvis CVS, Subversion, Bazaar-ng och Mercurial."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Midori"
-msgstr ""
+msgstr "Skärmdump av Midori"
 
 #. Tag: para
 #, no-c-format
-msgid "Midori (Japanese for green) is a web browser that aims to be lightweight and fast. It uses the WebKit rendering engine."
+msgid ""
+"Midori (Japanese for green) is a web browser that aims to be lightweight and"
+" fast. It uses the WebKit rendering engine."
 msgstr ""
+"Midori (japanska för grön) är en webbläsare som ska vara lätt och snabb. Den"
+" använder WebKit renderingsmotor."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Mousepad"
-msgstr ""
+msgstr "Skärmdump av Mousepad"
 
 #. Tag: para
 #, no-c-format
 msgid "Mousepad is a simple text editor with printing support."
-msgstr ""
+msgstr "Mousepad är en enkel textredigerare med utskriftsstöd."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of mPaint"
-msgstr ""
+msgstr "Skärmdump av mPaint"
 
 #. Tag: para
 #, no-c-format
-msgid "mtPaint is a painting program designed to easily create pixel art and manipulate digital photos. Due to its efficient design it can run on older PC hardware (e.g. a 200MHz CPU and 16MB of free RAM)."
+msgid ""
+"mtPaint is a painting program designed to easily create pixel art and "
+"manipulate digital photos. Due to its efficient design it can run on older "
+"PC hardware (e.g. a 200MHz CPU and 16MB of free RAM)."
 msgstr ""
+"mtPaint är ett målnings program för att enkelt skapa pixel konst och "
+"manipulera digitala foton. Tack vare sin effektiva design den kan köras på "
+"äldre PC-hårdvara (exempelvis en 200MHz processor och 16 MB ledigt RAM-"
+"minne)."
 
 #. Tag: title
 #, no-c-format
 msgid "LibreOffice"
-msgstr ""
+msgstr "LibreOffice"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of LibreOffice"
-msgstr ""
+msgstr "Skärmdump av LibreOffice"
 
 #. Tag: para
 #, no-c-format
-msgid "LibreOffice is the leading open-source office software suite for word processing, spreadsheets, presentations, graphics, databases and more. It is available in many languages and works on all common computers. It stores all your data in an international open standard format and can also read and write files from other common office software packages."
+msgid ""
+"LibreOffice is the leading open-source office software suite for word "
+"processing, spreadsheets, presentations, graphics, databases and more. It is"
+" available in many languages and works on all common computers. It stores "
+"all your data in an international open standard format and can also read and"
+" write files from other common office software packages."
 msgstr ""
+"LibreOffice är den ledande öppen källkods kontors programvarusvit för "
+"ordbehandling, kalkylblad, presentationer, grafik, databaser och mer. Den "
+"finns på många språk och fungerar på alla vanliga datorer. Det lagrar alla "
+"dina data i ett internationellt öppet standardformat och kan även läsa och "
+"skriva filer från andra vanliga kontorsprogram."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Orage"
-msgstr ""
+msgstr "Skärmdump av Orage"
 
 #. Tag: para
 #, no-c-format
-msgid "Orage provides a calendar which integrates nicely into the Xfce Desktop Environment. It is highly configurable and supports alerts based on dates. It warns you with pop up or audible alarms. As it is an application for everyday use, it launches itself in the background and can be accessed using the Orage Clock plugin for the panel. Simply click on a date to display or set the agenda for the day."
+msgid ""
+"Orage provides a calendar which integrates nicely into the Xfce Desktop "
+"Environment. It is highly configurable and supports alerts based on dates. "
+"It warns you with pop up or audible alarms. As it is an application for "
+"everyday use, it launches itself in the background and can be accessed using"
+" the Orage Clock plugin for the panel. Simply click on a date to display or "
+"set the agenda for the day."
 msgstr ""
+"Orage innehåller en kalender som integrerar fint in i skrivbordsmiljön Xfce."
+" Det är mycket konfigurerbar och stöder varningar baserat på datum. Den "
+"varnar dig med popupp eller hörbara larm. Eftersom det är ett program för "
+"dagligt bruk, startar den sig själv i bakgrunden och kan nås med hjälp av "
+"Orages Klock-plugin för panelen. Klicka bara på datum för att visa eller "
+"sätta agendan för dagen."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Parole Media Player"
-msgstr ""
+msgstr "Skärmdump av Parole Media Player"
 
 #. Tag: para
 #, no-c-format
-msgid "Parole Media Player is a media player (audio and video) which utilises the GStreamer framework for playback."
+msgid ""
+"Parole Media Player is a media player (audio and video) which utilises the "
+"GStreamer framework for playback."
 msgstr ""
+"Parole Media Player är en mediaspelare (audio och video) som använder "
+"GStreamer ram för uppspelning."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Pidgin"
-msgstr ""
+msgstr "Skärmdump av Pidgin"
 
 #. Tag: para
 #, no-c-format
-msgid "Pidgin is an easy to use and free chat client which lets you log in to accounts on multiple chat networks simultaneously. Pidgin is compatible with numerous chat networks out of the box: AIM, ICQ, Google Talk, Jabber/XMPP, MSN Messenger, Yahoo, etc."
+msgid ""
+"Pidgin is an easy to use and free chat client which lets you log in to "
+"accounts on multiple chat networks simultaneously. Pidgin is compatible with"
+" numerous chat networks out of the box: AIM, ICQ, Google Talk, Jabber/XMPP, "
+"MSN Messenger, Yahoo, etc."
 msgstr ""
+"Pidgin är ett lättanvänt och gratis chatt-klient som låter dig logga in på "
+"konton på flera chatt-nätverk samtidigt. Pidgin är kompatibel med många "
+"chatt nätverk som standard: AIM, ICQ, Google Talk, Jabber / XMPP, MSN "
+"Messenger, Yahoo, etc."
 
 #. Tag: title
 #, no-c-format
 msgid "PiTiVi Video Editor"
-msgstr ""
+msgstr "Pitivi Video Redigerare"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of PiTiVi"
-msgstr ""
+msgstr "Skärmdump av pitivi"
 
 #. Tag: para
 #, no-c-format
-msgid "PiTiVi is an easy to use video editor. The interface is intuitive to most users. Just by dragging your video clips, you can create your own film clips."
+msgid ""
+"PiTiVi is an easy to use video editor. The interface is intuitive to most "
+"users. Just by dragging your video clips, you can create your own film "
+"clips."
 msgstr ""
+"Pitivi är ett lättanvänt videoredigeringsprogram. Gränssnittet är intuitivt "
+"att de flesta användare. Bara genom att dra dina videoklipp kan du skapa "
+"dina egna filmklipp."
 
 #. Tag: title
 #, no-c-format
 msgid "Simple Scan"
-msgstr ""
+msgstr "Simple Scan"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Simple Scan"
-msgstr ""
+msgstr "Skärmdump av Simple Scan"
 
 #. Tag: para
 #, no-c-format
-msgid "Simple Scan allows you to scan your documents/photos with your scanner or even with your webcam!"
+msgid ""
+"Simple Scan allows you to scan your documents/photos with your scanner or "
+"even with your webcam!"
 msgstr ""
+"Med simple Scan kan du skanna dina dokument/bilder med din skanner eller "
+"till och med med din webbkamera!"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Transmission"
-msgstr ""
+msgstr "Skärmdump av Transmission"
 
 #. Tag: para
 #, no-c-format
-msgid "Transmission is a <ulink url=\"http://fr.wikipedia.org/wiki/BitTorrent_(protocole)\">BitTorrent</ulink> client that is simple, lean and powerful."
+msgid ""
+"Transmission is a <ulink "
+"url=\"http://fr.wikipedia.org/wiki/BitTorrent_(protocole)\">BitTorrent</ulink>"
+" client that is simple, lean and powerful."
 msgstr ""
+"Transmission är en <ulink "
+"url=\"http://fr.wikipedia.org/wiki/BitTorrent_(protocole)\">BitTorrent</ulink>"
+" klient som är enkel, slimmad och kraftfull."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Viewnior"
-msgstr ""
+msgstr "Skärmdump av Viewnior"
 
 #. Tag: para
 #, no-c-format
 msgid "Viewnior is a fast and lightweight picture viewer."
-msgstr ""
+msgstr "Viewnior är en snabb och lätt bildvisare."
 
 #. Tag: title
 #, no-c-format
 msgid "Whaaw! MediaPlayer"
-msgstr ""
+msgstr "Whaaw! MediaPlayer"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Whaaw! Media Player"
-msgstr ""
+msgstr "Skärmdump av Whaaw! Media Player"
 
 #. Tag: para
 #, no-c-format
-msgid "Whaaw! Media Player will play any audio/video files which GStreamer can manage. It supports fullscreen mode, seeking, changing video colour settings and more. It is intended to be a basic media player with few dependencies."
+msgid ""
+"Whaaw! Media Player will play any audio/video files which GStreamer can "
+"manage. It supports fullscreen mode, seeking, changing video colour settings"
+" and more. It is intended to be a basic media player with few dependencies."
 msgstr ""
+"Whaaw! Media Player spelar alla audio/video-filer som GStreamer kan hantera."
+" Den stöder helskärmsläge, söka, ändra video färg och mer. Det är tänkt att "
+"vara en grundläggande mediaspelare med få beroenden."
 
 #. Tag: title
 #, no-c-format
 msgid "Zim"
-msgstr ""
+msgstr "Zim"
 
 #. Tag: para
 #, no-c-format
-msgid "Zim is a bit of everything. In essence, it is a desktop wiki, and it allows you a great deal of flexibility regarding what you can do with it. For instance, one can use it to keep track of TODO lists of ideas, to take notes in a meeting, as a drafting tool for blog entries, mails and so on."
+msgid ""
+"Zim is a bit of everything. In essence, it is a desktop wiki, and it allows "
+"you a great deal of flexibility regarding what you can do with it. For "
+"instance, one can use it to keep track of TODO lists of ideas, to take notes"
+" in a meeting, as a drafting tool for blog entries, mails and so on."
 msgstr ""
+"Zim är lite av allt. I huvudsak är det en desktop wiki, och det gör att du "
+"har stor flexibilitet när det gäller vad du kan göra med det. Till exempel "
+"kan man använda den för att hålla reda på TODO listor av idéer, att göra "
+"anteckningar under ett möte, som utarbetar verktyg för blogginlägg, mail och"
+" så vidare."
+
 
