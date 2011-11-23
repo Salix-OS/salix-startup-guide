@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "../Startup_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<section lang="el-GR">
+	<title> Η συνεισφορά σας είναι πολύτιμη! </title>
+	 <indexterm>
+		<primary> Aνατροφοδότηση </primary>
+		 <secondary> Πληροφορίες για επικοινωνία για αυτόν τον οδηγό </secondary>
+
+	</indexterm>
+	 <para>
+		Θα θέλαμε να βελτιωθεί η ποιότητα αυτού του οδηγού και να παρέχει περισσότερη μετάφραση στη μητρική σας γλώσσα. Η βοήθειά σας είναι πάντα ευπρόσδεκτη.
+	</para>
+	 <para>
+		Αν θέλετε να βοηθήσετε με την μετάφραση του, ή αν έχετε κάποιο σχόλιο, μια τυπογραφική διόρθωση ή υποβολής άρθρου που θα θέλατε να δείτε να περιλαμβάνονται στον οδηγό αυτό, μπορείτε να στείλετε μήνυμα στη διεύθυνση <ulink url="http://www.salixos.org/forum/viewforum.php?f=30">φόρουμ Τεκμηρίωσης του Salix</ulink> ή γράψτε στη διεύθυνση: <email>salix-main@lists.sourceforge.net</email>
+	</para>
+</section>
+
+

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE legalnotice PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "../Startup_Guide.ent">
+%BOOK_ENTITIES;
+]>
+<legalnotice lang="el-GR">
+	<para>
+		Copyright <trademark class="copyright"></trademark> &YEAR; &HOLDER;.
+	</para>
+	 <para>
+		Το έγγραφο αυτό διατίθεται βάσει της άδειας Creative Commons Attribution-Share Alike 3.0 Unported ("CC-BY-SA"). Μια ανθρώπινη αναγνώσιμη περίληψη του CC-BY-SA είναι διαθέσιμη στην διεύθυνση <ulink url="http://creativecommons.org/licenses/by-sa/3.0/" />. Είστε ευπρόσδεκτοι να διανείμετε το παρόν έγγραφο ή μια προσαρμογή αυτού εφόσον παρέχετε έναν σύνδεσμο στην αρχική του μορφή.
+	</para>
+</legalnotice>
+
