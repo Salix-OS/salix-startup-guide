@@ -1,0 +1,50 @@
+# AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+#   <sgasior1@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: Salix documentation\n"
+"POT-Creation-Date: 2011-11-22T18:04:45\n"
+"PO-Revision-Date: 2011-11-27 15:57+0000\n"
+"Last-Translator: ink3 <sgasior1@gmail.com>\n"
+"Language-Team: Polish (http://www.transifex.net/projects/p/salix/team/pl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Startup Guide"
+msgstr "Przewodnik"
+
+#. Tag: subtitle
+#, no-c-format
+msgid "Getting familiar with your new operating System"
+msgstr "Zapoznanie się z nowym systemem operacyjnym"
+
+#. Tag: productname
+#, no-c-format
+msgid "SalixOS"
+msgstr "SalixOS "
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The purpose of this manual is to enable you to take full advantage of the "
+"many functionalities of Salix OS. While particular attention has been given "
+"to help newcomers quickly get familiar with common computer tasks, more "
+"advanced material is also available for intermediate users who want to learn"
+" more about the inner workings of their operating system, its administration"
+" and its customisation."
+msgstr ""
+"Celem tego podręcznika jest umożliwienie, w pełni skorzystanie z wielu "
+"funkcjonalności Salix OS. Szczególną uwagę zwrócono na pomoc nowo przybyłym "
+"aby szybko zapoznali się z typowymi zadaniami, bardziej zaawansowane "
+"materiały są także dostępne dla średnio zaawansowanych użytkowników, którzy "
+"chcą dowiedzieć się więcej na temat działania ich systemu operacyjnego, jego"
+" administracji i jego dostosowywania."
+
+

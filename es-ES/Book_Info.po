@@ -1,34 +1,50 @@
-#
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: 0\n"
+"Project-Id-Version: Salix documentation\n"
 "POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-11-08T17:18:00\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2012-01-01 21:36+0000\n"
+"Last-Translator: seacat <seacat.linux@gmail.com>\n"
 "Language-Team: None\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #. Tag: title
 #, no-c-format
 msgid "Startup Guide"
-msgstr ""
+msgstr "Guía de iniciación"
 
 #. Tag: subtitle
 #, no-c-format
 msgid "Getting familiar with your new operating System"
-msgstr ""
+msgstr "Familiarizarse con el nuevo sistema operativo"
 
 #. Tag: productname
 #, no-c-format
 msgid "SalixOS"
-msgstr ""
+msgstr "SalixOS"
 
 #. Tag: para
 #, no-c-format
-msgid "The purpose of this manual is to enable you to take full advantage of the many functionalities of Salix OS. While particular attention has been given to help newcomers quickly get familiar with common computer tasks, more advanced material is also available for intermediate users who want to learn more about the inner workings of their operating system, its administration and its customisation."
+msgid ""
+"The purpose of this manual is to enable you to take full advantage of the "
+"many functionalities of Salix OS. While particular attention has been given "
+"to help newcomers quickly get familiar with common computer tasks, more "
+"advanced material is also available for intermediate users who want to learn"
+" more about the inner workings of their operating system, its administration"
+" and its customisation."
 msgstr ""
+"El propósito de este manual es permitirle sacar el máximo provecho de las "
+"muchas funcionalidades de Salix OS. Aunque se ha prestado especial atención "
+"en ayudar a los recién llegados a que se familiaricen rápido con las tareas "
+"comunes de la computadora, el material más avanzado está también disponible "
+"para los usuarios intermedios que quieren aprender más sobre el "
+"funcionamiento interno de su sistema operativo, su administración y su "
+"personalización."
+
+

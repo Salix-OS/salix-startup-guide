@@ -1,34 +1,50 @@
-#
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Translators:
+#   <gambit73@gmail.com>, 2011.
 msgid ""
 msgstr ""
-"Project-Id-Version: 0\n"
+"Project-Id-Version: Salix documentation\n"
 "POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-11-08T17:18:00\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: None\n"
-"Language: \n"
+"PO-Revision-Date: 2011-11-29 18:23+0000\n"
+"Last-Translator: gambit73 <gambit73@gmail.com>\n"
+"Language-Team: Dutch (http://www.transifex.net/projects/p/salix/team/nl/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #. Tag: title
 #, no-c-format
 msgid "Startup Guide"
-msgstr ""
+msgstr "Beginners handleiding"
 
 #. Tag: subtitle
 #, no-c-format
 msgid "Getting familiar with your new operating System"
-msgstr ""
+msgstr "Kennismaken met uw nieuwe besturingssysteem"
 
 #. Tag: productname
 #, no-c-format
 msgid "SalixOS"
-msgstr ""
+msgstr "SalixOS"
 
 #. Tag: para
 #, no-c-format
-msgid "The purpose of this manual is to enable you to take full advantage of the many functionalities of Salix OS. While particular attention has been given to help newcomers quickly get familiar with common computer tasks, more advanced material is also available for intermediate users who want to learn more about the inner workings of their operating system, its administration and its customisation."
+msgid ""
+"The purpose of this manual is to enable you to take full advantage of the "
+"many functionalities of Salix OS. While particular attention has been given "
+"to help newcomers quickly get familiar with common computer tasks, more "
+"advanced material is also available for intermediate users who want to learn"
+" more about the inner workings of their operating system, its administration"
+" and its customisation."
 msgstr ""
+"Het doel van deze handleiding is om ten volste te profiteren van de vele "
+"functionaliteiten van Salix OS. Terwijl er veel aandacht is besteed om "
+"nieuwkomers snel vertrouwd te laten raken met standaard "
+"computeractiviteiten, meer geavanceerde activiteiten zijn ook beschikbaar "
+"voor meer gevorderde gebruikers die meer willen weten over de interne "
+"werking van hun besturingssysteem, de administratie en de aanpassing ervan."
+
+

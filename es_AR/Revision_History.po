@@ -1,0 +1,99 @@
+# AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Fernando Velo <seacat.linux@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: Salix documentation\n"
+"POT-Creation-Date: 2011-11-22T18:04:45\n"
+"PO-Revision-Date: 2012-01-01 21:33+0000\n"
+"Last-Translator: seacat <seacat.linux@gmail.com>\n"
+"Language-Team: None\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_AR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Revision History"
+msgstr "Historial de revisiones"
+
+#. Tag: firstname
+#, no-c-format
+msgid "Tomoki"
+msgstr "Tomoki"
+
+#. Tag: surname
+#, no-c-format
+msgid "Tsuchiya"
+msgstr "Tsuchiya"
+
+#. Tag: member
+#, no-c-format
+msgid "Original draft."
+msgstr "Borrador original."
+
+#. Tag: member
+#, no-c-format
+msgid ""
+"Based partly on 13.1.2 guide with new articles to reflect changes and "
+"updates."
+msgstr ""
+"Basado parcilmente en la guía 13.1.2 con nuevos artículos que reflejan "
+"cambios y actualizaciones."
+
+#. Tag: member
+#, no-c-format
+msgid "Fixed some typos"
+msgstr "Se corrigieron algunos errores de tipeo"
+
+#. Tag: member
+#, no-c-format
+msgid "Tim (Mimosa) prepared new section on Ratpoison"
+msgstr "Tim (Mimosa) preparó una nueva seccion en Ratpoison"
+
+#. Tag: member
+#, no-c-format
+msgid "Ratpoison added in Application tables"
+msgstr "Se agregó Ratpoison en las tablas de Aplicación"
+
+#. Tag: member
+#, no-c-format
+msgid "Incorporated some suggestions and corrections from the forum"
+msgstr "Se agregaron algunas sugerencias y correcciones del foro"
+
+#. Tag: member
+#, no-c-format
+msgid "Tim added Ratpoison walktrough"
+msgstr "Tim agregó un tutorial de Ratpoison"
+
+#. Tag: firstname
+#, no-c-format
+msgid "Pierrick"
+msgstr "Pierrick"
+
+#. Tag: surname
+#, no-c-format
+msgid "Le Brun"
+msgstr "Le Brun"
+
+#. Tag: member
+#, no-c-format
+msgid "Converted draft n°4 from ODT to docbook format"
+msgstr "Borrador Nº 4 convertido desde ODT a formato docbook"
+
+#. Tag: member
+#, no-c-format
+msgid "First tests with Publican publishing stack"
+msgstr "Primeras pruebas con la pila de pucblicación Publican"
+
+#. Tag: member
+#, no-c-format
+msgid "Some small modifications regarding new SaLT LiveCD build script"
+msgstr ""
+"Algunas pequeñas modificaciones respecto de los nuevos scripts de "
+"compilación de SaLT LiveCD"
+
+
