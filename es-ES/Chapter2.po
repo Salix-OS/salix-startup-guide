@@ -1,7 +1,6 @@
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-#   <seacat.linux@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
@@ -115,7 +114,7 @@ msgid ""
 " suits your personal taste."
 msgstr ""
 "Salix Live es la versión Live CD de <ulink url=\"http://www.salixos.org/\"> "
-"Salix OS </ ulink>. Por lo tanto, puede usarlo de manera segura para "
+"Salix OS </ulink>. Por lo tanto, puede usarlo de manera segura para "
 "'probar' Salix OS sin tener que instalar nada en su ordenador. De este modo "
 "será capaz de determinar si y hasta qué punto Salix OS es compatible con su "
 "configuración de hardware y si se adapta a su gusto personal."

@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-12-28 12:52+0000\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-02-14 15:46+0000\n"
 "Last-Translator: Yarema aka Knedlyk <yupadmin@gmail.com>\n"
 "Language-Team: None\n"
 "MIME-Version: 1.0\n"
@@ -530,9 +530,7 @@ msgstr "Знімок Abiword"
 msgid ""
 "AbiWord is a word processing program suitable for a wide variety of word "
 "processing tasks."
-msgstr ""
-"AbiWord є програмою обробки тексту, яка підходить для широкого спектра задач"
-" обробки текстів."
+msgstr "AbiWord є програмою обробки тексту, яка підходить для широкого спектра задач обробки текстів."
 
 #. Tag: title
 #, no-c-format
@@ -550,10 +548,7 @@ msgid ""
 "Asunder is an Audio CD ripper and encoder for Linux. You can use Asunder to "
 "save tracks from an Audio CD as any of WAV, MP3, OGG, FLAC, WavPack, "
 "Musepack, AAC, and Monkey's Audio files."
-msgstr ""
-"Asunder є видирач Audio CD та кодер для Linux. Ви можете використовувати "
-"Asunder для збереження треків з аудіо CD у форматі WAV, MP3, OGG, FLAC, "
-"WavPack, Musepack, AAC, і аудіо файлів Monkey."
+msgstr "Asunder є видирач Audio CD та кодер для Linux. Ви можете використовувати Asunder для збереження треків з аудіо CD у форматі WAV, MP3, OGG, FLAC, WavPack, Musepack, AAC, і аудіо файлів Monkey."
 
 #. Tag: phrase
 #, no-c-format
@@ -566,10 +561,7 @@ msgid ""
 "Brasero is an application to burn CD/DVD. It is designed to be as simple as "
 "possible and has some unique features to enable users to create their discs "
 "easily and quickly."
-msgstr ""
-"Brasero це програма для запису CD / DVD. Він розроблений, щоб бути якомога "
-"простішим і має деякі унікальні можливості, які дозволяють користувачам "
-"створювати свої диски легко і швидко."
+msgstr "Brasero це програма для запису CD / DVD. Він розроблений, щоб бути якомога простішим і має деякі унікальні можливості, які дозволяють користувачам створювати свої диски легко і швидко."
 
 #. Tag: title
 #, no-c-format
@@ -587,10 +579,7 @@ msgid ""
 "Catfish is a handy file searching tool which provides a unified, lightweight"
 " and simple interface for different search engines such as find, (s)locate, "
 "doodle, tracker and beagle."
-msgstr ""
-"Catfish є зручним інструментом пошуку файлів, що забезпечує єдиний, легкий і"
-" простий інтерфейс для різних пошукових машин, таких як find, (s)locate, "
-"doodle, tracker та beagle."
+msgstr "Catfish є зручним інструментом пошуку файлів, що забезпечує єдиний, легкий і простий інтерфейс для різних пошукових машин, таких як find, (s)locate, doodle, tracker та beagle."
 
 #. Tag: title
 #, no-c-format
@@ -608,11 +597,7 @@ msgid ""
 "Claws Mail is an open source email and news client. It offers easy "
 "configuration and an abundance of features. It stores mail in the MH mailbox"
 " format as well as the Mbox mailbox format via a plugin."
-msgstr ""
-"Claws Mail є клієнтом електронної пошти і новин з відкритим джерельним "
-"кодом. Він має просту конфігурацію і велику кількість функцій. Він зберігає "
-"пошту в поштовій скриньці формату MH, а також у форматі поштової скриньки "
-"Mbox за допомогою додатка."
+msgstr "Claws Mail є клієнтом електронної пошти і новин з відкритим джерельним кодом. Він має просту конфігурацію і велику кількість функцій. Він зберігає пошту в поштовій скриньці формату MH, а також у форматі поштової скриньки Mbox за допомогою додатка."
 
 #. Tag: phrase
 #, no-c-format
@@ -622,8 +607,7 @@ msgstr "Знімок Evince"
 #. Tag: para
 #, no-c-format
 msgid "Document Viewer is a a very lightweight, simple PDF document viewer."
-msgstr ""
-"Переглядач документів є дуже легкий і простим переглядачем PDF-файлів."
+msgstr "Переглядач документів є дуже легкий і простим переглядачем PDF-файлів."
 
 #. Tag: title
 #, no-c-format
@@ -641,10 +625,7 @@ msgid ""
 "ePDFView is a lightweight PDF document viewer that only uses the GTK+ and "
 "Poppler libraries. It opens PDF files, save copies of documents, and has "
 "support for printing using CUPS."
-msgstr ""
-"ePDFView являє собою легкий PDF переглядач документів, який використовує "
-"тільки GTK + і бібліотеки Poppler. Він відкриває PDF файли, зберігає копії "
-"документів, а також має підтримку друку з використанням CUPS."
+msgstr "ePDFView являє собою легкий PDF переглядач документів, який використовує тільки GTK + і бібліотеки Poppler. Він відкриває PDF файли, зберігає копії документів, а також має підтримку друку з використанням CUPS."
 
 #. Tag: phrase
 #, no-c-format
@@ -657,11 +638,7 @@ msgid ""
 "Exaile is a music manager which incorporates automatic fetching of album "
 "art, lyrics fetching, Last.fm scrobbling, support for many portable media "
 "players, Internet radio such as Shoutcast, tabbed playlists, etc."
-msgstr ""
-"Exaile це музичний менеджер, який включає в себе автоматичне отримання "
-"обкладинок альбомів, текстів пісень, Last.fm scrobbling, підтримку багатьох "
-"портативних медіа-програвачів, Інтернет-радіо, таких як Shoutcast, списків "
-"програвання вкладками, і т.п."
+msgstr "Exaile це музичний менеджер, який включає в себе автоматичне отримання обкладинок альбомів, текстів пісень, Last.fm scrobbling, підтримку багатьох портативних медіа-програвачів, Інтернет-радіо, таких як Shoutcast, списків програвання вкладками, і т.п."
 
 #. Tag: title
 #, no-c-format
@@ -678,9 +655,7 @@ msgstr "Знімок File Roller"
 msgid ""
 "File Roller is an archive manager. Supported archive types include gzip, "
 "bzip, bzip2, compress, lzop, zip, jar, lha, rar, zoo, arj, 7-zip, etc."
-msgstr ""
-"File Roller є менеджер архівів. Підтримувані типи архівів включають GZIP, "
-"BZIP, bzip2, compress, lzop, ZIP, JAR, LHA, RAR, zoo, ARJ, 7-Zip та інші."
+msgstr "File Roller є менеджер архівів. Підтримувані типи архівів включають GZIP, BZIP, bzip2, compress, lzop, ZIP, JAR, LHA, RAR, zoo, ARJ, 7-Zip та інші."
 
 #. Tag: phrase
 #, no-c-format
@@ -692,10 +667,7 @@ msgstr "Знімок Mozilla Firefox"
 msgid ""
 "Mozilla Firefox is a free and open source web browser with tabbed browsing, "
 "spell checking, incremental find, private browsing and numerous plugins."
-msgstr ""
-"Mozilla Firefox є вільним веб-переглядачем з відкритим вихідним кодом, який "
-"має вкладки, перевірку орфографії, пошук, приватний перегляд і численні "
-"додатки."
+msgstr "Mozilla Firefox є вільним веб-переглядачем з відкритим вихідним кодом, який має вкладки, перевірку орфографії, пошук, приватний перегляд і численні додатки."
 
 #. Tag: title
 #, no-c-format
@@ -708,10 +680,7 @@ msgid ""
 "Galculator is a calculator featuring two user modes: basic and scientific "
 "mode. Basic mode is intended for simple computations while Scientific Mode "
 "is Galculator's state of the art."
-msgstr ""
-"Galculator це калькулятор з двома користувацькими режимами: основним та "
-"науковим. Основний режим призначений для простих обчислень, а науковий режим"
-" - це щось видатне!"
+msgstr "Galculator це калькулятор з двома користувацькими режимами: основним та науковим. Основний режим призначений для простих обчислень, а науковий режим - це щось видатне!"
 
 #. Tag: phrase
 #, no-c-format
@@ -724,10 +693,7 @@ msgid ""
 "Geany is a small and lightweight Integrated Development Environment which "
 "only has a few dependencies and is independent of any particular Desktop "
 "Environment."
-msgstr ""
-"Geany це невелике і легке інтегроване середовище розробки, яке має тільки "
-"кілька залежностей і не залежить від будь-якого конкретного середовища "
-"робочого столу."
+msgstr "Geany це невелике і легке інтегроване середовище розробки, яке має тільки кілька залежностей і не залежить від будь-якого конкретного середовища робочого столу."
 
 #. Tag: title
 #, no-c-format
@@ -744,9 +710,7 @@ msgstr "Знімок gFTP"
 msgid ""
 "gFTP is an FTP client with both a text and a GUI interface. gFTP aims to be "
 "simple to use yet powerful."
-msgstr ""
-"gFTP це FTP-клієнт з текстовим і графічним інтерфейсом. gFTP є простим у "
-"використанні, але водночас дуже потужним."
+msgstr "gFTP це FTP-клієнт з текстовим і графічним інтерфейсом. gFTP є простим у використанні, але водночас дуже потужним."
 
 #. Tag: title
 #, no-c-format
@@ -764,11 +728,7 @@ msgid ""
 "Gigolo is a frontend to easily manage connections to remote filesystems "
 "using GIO/GVfs. It allows you to quickly connect/mount a remote filesystem "
 "and browse local networks shares."
-msgstr ""
-"Gigolo є інтерфейс для легкого управління з'єднанням з віддаленими файловими"
-" системами, використовуючи GIO/GVFS. Він дозволяє Вам швидко "
-"підключити/змонтувати віддалену файлову систему і переглядати локальні "
-"мережеві ресурси."
+msgstr "Gigolo є інтерфейс для легкого управління з'єднанням з віддаленими файловими системами, використовуючи GIO/GVFS. Він дозволяє Вам швидко підключити/змонтувати віддалену файлову систему і переглядати локальні мережеві ресурси."
 
 #. Tag: title
 #, no-c-format
@@ -783,13 +743,7 @@ msgid ""
 " image workflow steps such as resizing, editing, and cropping photos, "
 "combining multiple images, converting between different image formats as "
 "well as create basic animated images in GIF."
-msgstr ""
-"GIMP (GNU Image Manipulation Program) є програмою для зображення, "
-"ретушування і редагування. На додаток вона пропонує вільне малювання форм, "
-"він може досягти істотних результатів у зміна розміру, редагуванні і "
-"кадруванні фотографій, об'єднання декількох зображень, конвертації між "
-"різними форматами зображень, а також створення базових анімованих зображень "
-"у форматі GIF."
+msgstr "GIMP (GNU Image Manipulation Program) є програмою для зображення, ретушування і редагування. На додаток вона пропонує вільне малювання форм, він може досягти істотних результатів у зміна розміру, редагуванні і кадруванні фотографій, об'єднання декількох зображень, конвертації між різними форматами зображень, а також створення базових анімованих зображень у форматі GIF."
 
 #. Tag: phrase
 #, no-c-format
@@ -803,11 +757,7 @@ msgid ""
 "attempting to clone existing applications, Gnumeric can however read files "
 "saved with other spreadsheets and offers a customizable feel that attempts "
 "to minimize the costs of transition."
-msgstr ""
-"Ціль Gnumeric - бути якнайкращою калькуляційною таблицею. Намагаючись не "
-"клонувати вже існуючі програми, Gnumeric, однак, може читати файли, створені"
-" іншими програмами-таблицями, і пропонує вигляд, що зменшує відчуття "
-"незручності при переході на Gnumeric."
+msgstr "Ціль Gnumeric - бути якнайкращою калькуляційною таблицею. Намагаючись не клонувати вже існуючі програми, Gnumeric, однак, може читати файли, створені іншими програмами-таблицями, і пропонує вигляд, що зменшує відчуття незручності при переході на Gnumeric."
 
 #. Tag: title
 #, no-c-format
@@ -826,9 +776,7 @@ msgid ""
 " their name and optionally the section they are in, just as with the "
 "original man command. The manual pages are displayed in simple text form "
 "using the default system monospace font."
-msgstr ""
-"GTKMan є простим переглядачем сторінок допомоги. Сторінки допомоги "
-"показуються у простому текстовому вигляді використовуючи системний шрифт."
+msgstr "GTKMan є простим переглядачем сторінок допомоги. Сторінки допомоги показуються у простому текстовому вигляді використовуючи системний шрифт."
 
 #. Tag: para
 #, no-c-format
@@ -838,11 +786,7 @@ msgid ""
 "on both qt and non-qt environments. (You may have to go to qtconfig and "
 "select \"ibus\" instead of \"xim\" in \"Interface\" -&gt; \"Default Input "
 "Method\")."
-msgstr ""
-"Ibus є новим поколінням редактором методу вводу після SCIM. Він підтримує "
-"більш ніж тридцять мов (Китайську, Японську, Корейську та інші мови) для "
-"обох середовищ qt і не qt. (Ви можете запустити qtconfig і вибрати \"ibus\" "
-"замість \"xim\" в \"Interface\" -&gt; \"Default Input Method\")."
+msgstr "Ibus є новим поколінням редактором методу вводу після SCIM. Він підтримує більш ніж тридцять мов (Китайську, Японську, Корейську та інші мови) для обох середовищ qt і не qt. (Ви можете запустити qtconfig і вибрати \"ibus\" замість \"xim\" в \"Interface\" -&gt; \"Default Input Method\")."
 
 #. Tag: title
 #, no-c-format
@@ -861,11 +805,7 @@ msgid ""
 "images). Its functionalities include: creating an ISO image from scratch, "
 "adding or removing files and directories to/from a CD image, and creating "
 "bootable CDs using various boot record types."
-msgstr ""
-"Майстер ISO є програмою для створення та зміни файлів ISO9660 (образів ISO)."
-" Вона має такі можливості: створення образу ISO з нуля, додавання та "
-"вилучення файлів і тек до/з образу CD, створення завантажувальних CD "
-"використовуючи різні типи завантаження."
+msgstr "Майстер ISO є програмою для створення та зміни файлів ISO9660 (образів ISO). Вона має такі можливості: створення образу ISO з нуля, додавання та вилучення файлів і тек до/з образу CD, створення завантажувальних CD використовуючи різні типи завантаження."
 
 #. Tag: para
 #, no-c-format
@@ -885,13 +825,7 @@ msgid ""
 " folders and launch file comparisons. You can browse and view a working copy"
 " from popular version control systems such such as CVS, Subversion, Bazaar-"
 "ng and Mercurial."
-msgstr ""
-"Meld є програмою-оболонкою для утиліт diff та merge. Ви зможете порівняти "
-"два або й трии файли і редагувати їх на місці (diffs оновить їх "
-"автоматично). Ви зможете порівняти дві або й три теки і підключити "
-"порівняння файлів. Ви можете відкривати і переглядати робочі копії з таких "
-"популярних систем контролю версій як CVS, Subversion, Bazaar-ng та "
-"Mercurial."
+msgstr "Meld є програмою-оболонкою для утиліт diff та merge. Ви зможете порівняти два або й трии файли і редагувати їх на місці (diffs оновить їх автоматично). Ви зможете порівняти дві або й три теки і підключити порівняння файлів. Ви можете відкривати і переглядати робочі копії з таких популярних систем контролю версій як CVS, Subversion, Bazaar-ng та Mercurial."
 
 #. Tag: phrase
 #, no-c-format
@@ -903,9 +837,7 @@ msgstr "Знімок Мідорі"
 msgid ""
 "Midori (Japanese for green) is a web browser that aims to be lightweight and"
 " fast. It uses the WebKit rendering engine."
-msgstr ""
-"Мідорі (по-японськи зелений) є легким і швидким веб-переглядачем. Для роботи"
-" він використовує двигун WebKit."
+msgstr "Мідорі (по-японськи зелений) є легким і швидким веб-переглядачем. Для роботи він використовує двигун WebKit."
 
 #. Tag: phrase
 #, no-c-format
@@ -928,10 +860,7 @@ msgid ""
 "mtPaint is a painting program designed to easily create pixel art and "
 "manipulate digital photos. Due to its efficient design it can run on older "
 "PC hardware (e.g. a 200MHz CPU and 16MB of free RAM)."
-msgstr ""
-"mtPaint є програмою для малювання та обробки цифрових фото. Завдяки чудовій "
-"розробці вона може працювати на старих комп’ютерах (наприклад 200Мгц CPU і "
-"16Мб вільної пам’яті RAM)."
+msgstr "mtPaint є програмою для малювання та обробки цифрових фото. Завдяки чудовій розробці вона може працювати на старих комп’ютерах (наприклад 200Мгц CPU і 16Мб вільної пам’яті RAM)."
 
 #. Tag: title
 #, no-c-format
@@ -951,13 +880,7 @@ msgid ""
 " available in many languages and works on all common computers. It stores "
 "all your data in an international open standard format and can also read and"
 " write files from other common office software packages."
-msgstr ""
-"LibreOffice є провідним програмним пакетом офісу з відкритим кодом для "
-"роботи з текстами, електронними таблицями, презентаціями, графіками, базами "
-"даних та багато іншого. Він доступний на багатьох мовах і працює на всіх "
-"поширених комп'ютерах. Він зберігає всі Ваші дані у міжнародному відкритому "
-"стандарті формату, а також може читати і записувати файли з інших поширених "
-"програмних офісних пакетів."
+msgstr "LibreOffice є провідним програмним пакетом офісу з відкритим кодом для роботи з текстами, електронними таблицями, презентаціями, графіками, базами даних та багато іншого. Він доступний на багатьох мовах і працює на всіх поширених комп'ютерах. Він зберігає всі Ваші дані у міжнародному відкритому стандарті формату, а також може читати і записувати файли з інших поширених програмних офісних пакетів."
 
 #. Tag: phrase
 #, no-c-format
@@ -973,14 +896,7 @@ msgid ""
 "everyday use, it launches itself in the background and can be accessed using"
 " the Orage Clock plugin for the panel. Simply click on a date to display or "
 "set the agenda for the day."
-msgstr ""
-"Orage - це календар, який чудово інтегрується в оточення робочого столу "
-"Xfce. Він легко настроюється і підтримує сповіщення на основі дат. Він "
-"попереджає Вас за допомогою вигулькних повідомлень або звукової "
-"сигналізації. Як додаток для повсякденного використання, він запускається у "
-"фоновому режимі і може бути доступним за допомогою додатку Годинник Orage "
-"для панелі. Просто натисніть на дату для відображення або налаштування "
-"порядку денного на день."
+msgstr "Orage - це календар, який чудово інтегрується в оточення робочого столу Xfce. Він легко настроюється і підтримує сповіщення на основі дат. Він попереджає Вас за допомогою вигулькних повідомлень або звукової сигналізації. Як додаток для повсякденного використання, він запускається у фоновому режимі і може бути доступним за допомогою додатку Годинник Orage для панелі. Просто натисніть на дату для відображення або налаштування порядку денного на день."
 
 #. Tag: phrase
 #, no-c-format
@@ -992,9 +908,7 @@ msgstr "Знімок програвача медіа Parole"
 msgid ""
 "Parole Media Player is a media player (audio and video) which utilises the "
 "GStreamer framework for playback."
-msgstr ""
-"Parole Media Player є медіа-ппрогравач (аудіо і відео), який використовує "
-"GStreamer як основу для відтворення."
+msgstr "Parole Media Player є медіа-ппрогравач (аудіо і відео), який використовує GStreamer як основу для відтворення."
 
 #. Tag: phrase
 #, no-c-format
@@ -1008,11 +922,7 @@ msgid ""
 "accounts on multiple chat networks simultaneously. Pidgin is compatible with"
 " numerous chat networks out of the box: AIM, ICQ, Google Talk, Jabber/XMPP, "
 "MSN Messenger, Yahoo, etc."
-msgstr ""
-"Pidgin є простим у використанні та безкоштовним чат-клієнтом, який дозволяє "
-"ввійти в систему облікових записів у декількох мережах чатів одночасно. "
-"Pidgin сумісний з численними мережами чату: AIM, ICQ, Google Talk, "
-"Jabber/XMPP, MSN Messenger, Yahoo та інші."
+msgstr "Pidgin є простим у використанні та безкоштовним чат-клієнтом, який дозволяє ввійти в систему облікових записів у декількох мережах чатів одночасно. Pidgin сумісний з численними мережами чату: AIM, ICQ, Google Talk, Jabber/XMPP, MSN Messenger, Yahoo та інші."
 
 #. Tag: title
 #, no-c-format
@@ -1030,10 +940,7 @@ msgid ""
 "PiTiVi is an easy to use video editor. The interface is intuitive to most "
 "users. Just by dragging your video clips, you can create your own film "
 "clips."
-msgstr ""
-"PiTiVi є дуже легким редактором відео. Він має інтуїтивний інтерфейс. За "
-"допомогою перетягування відеофайлів Ви можете створити Ваш власний відео-"
-"кліп."
+msgstr "PiTiVi є дуже легким редактором відео. Він має інтуїтивний інтерфейс. За допомогою перетягування відеофайлів Ви можете створити Ваш власний відео-кліп."
 
 #. Tag: title
 #, no-c-format
@@ -1050,9 +957,7 @@ msgstr "Знімок 'Просте сканування'"
 msgid ""
 "Simple Scan allows you to scan your documents/photos with your scanner or "
 "even with your webcam!"
-msgstr ""
-"Просте сканування дозволяє сканувати документи/фотографії зі сканера або "
-"навіть з веб-камери!"
+msgstr "Просте сканування дозволяє сканувати документи/фотографії зі сканера або навіть з веб-камери!"
 
 #. Tag: phrase
 #, no-c-format
@@ -1065,9 +970,7 @@ msgid ""
 "Transmission is a <ulink "
 "url=\"http://fr.wikipedia.org/wiki/BitTorrent_(protocole)\">BitTorrent</ulink>"
 " client that is simple, lean and powerful."
-msgstr ""
-"Transmission є простим і потужним клієнтом  <ulink "
-"url=\"http://fr.wikipedia.org/wiki/BitTorrent_(protocole)\">Бітторрент</ulink>."
+msgstr "Transmission є простим і потужним клієнтом  <ulink url=\"http://fr.wikipedia.org/wiki/BitTorrent_(protocole)\">Бітторрент</ulink>."
 
 #. Tag: phrase
 #, no-c-format
@@ -1095,11 +998,7 @@ msgid ""
 "Whaaw! Media Player will play any audio/video files which GStreamer can "
 "manage. It supports fullscreen mode, seeking, changing video colour settings"
 " and more. It is intended to be a basic media player with few dependencies."
-msgstr ""
-"Ууууух! Програвач медіа програє будь-які аудіо/відео файли, якими тільки "
-"може керувати GStreamer. Він підтримує повноекранний режим, перемотку, зміну"
-" кольорів відео і ще багато іншого. Він може бути базовим програвачем тільки"
-" з кількома залежностями."
+msgstr "Ууууух! Програвач медіа програє будь-які аудіо/відео файли, якими тільки може керувати GStreamer. Він підтримує повноекранний режим, перемотку, зміну кольорів відео і ще багато іншого. Він може бути базовим програвачем тільки з кількома залежностями."
 
 #. Tag: title
 #, no-c-format
@@ -1113,10 +1012,4 @@ msgid ""
 "you a great deal of flexibility regarding what you can do with it. For "
 "instance, one can use it to keep track of TODO lists of ideas, to take notes"
 " in a meeting, as a drafting tool for blog entries, mails and so on."
-msgstr ""
-"Zim це всього потроху. По суті, це робочий стіл Вікі, і це дозволяє велику "
-"гнучкість щодо роботи з ним. Наприклад, його можна використовувати для "
-"відстеження TODO списків ідей, щоб робити нотатки в ході зустрічі, як "
-"інструмент для чорновиків записів в блогах, листів і т.п."
-
-
+msgstr "Zim це всього потроху. По суті, це робочий стіл Вікі, і це дозволяє велику гнучкість щодо роботи з ним. Наприклад, його можна використовувати для відстеження TODO списків ідей, щоб робити нотатки в ході зустрічі, як інструмент для чорновиків записів в блогах, листів і т.п."

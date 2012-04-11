@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2012-01-12 21:45+0000\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-02-15 22:33+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: None\n"
 "MIME-Version: 1.0\n"
@@ -73,7 +73,7 @@ msgstr ""
 #. Tag: para
 #, no-c-format
 msgid "Word Processor"
-msgstr ""
+msgstr "Processador de texto"
 
 #. Tag: para
 #, no-c-format
@@ -1013,5 +1013,3 @@ msgid ""
 "instance, one can use it to keep track of TODO lists of ideas, to take notes"
 " in a meeting, as a drafting tool for blog entries, mails and so on."
 msgstr ""
-
-

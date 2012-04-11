@@ -1,12 +1,12 @@
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Yarema aka Knedlyk <yupadmin@gmail.com>, 2011.
+# Yarema aka Knedlyk <yupadmin@gmail.com>, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
 "POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-12-17 17:25+0000\n"
+"PO-Revision-Date: 2012-03-09 16:57+0000\n"
 "Last-Translator: Yarema aka Knedlyk <yupadmin@gmail.com>\n"
 "Language-Team: None\n"
 "MIME-Version: 1.0\n"
@@ -34,18 +34,7 @@ msgid ""
 "community and get instant help if necessary. If you do however, you might "
 "want to modify the default qwebircxxx login to something more personal and "
 "human readable."
-msgstr ""
-"Якщо Ви все ще нові в Salix, Slackware або навіть у Linux в загальному, тоді"
-" Ви повинні перш за все викроїти час на прочитання Путівник по Salix, "
-"оскільки він спеціально розроблений для нових користувачів. Посилання на "
-"стільниці, Salix Online, перенесе Вас до <ulink "
-"url=\"http://www.salixos.org/wiki/index.php/Home\">Домашньої "
-"сторінки</ulink> Salix. Також використайте <ulink "
-"url=\"http://webchat.freenode.net/?randomnick=1&amp;channels=salix&amp;prompt=1\">посилання"
-" IRC</ulink>, щоб вживу поспілкуватися з членами спільноти і отримати "
-"негайну допомогу у випадку необхідності. Якщо бажаєте, Ви  можете змінити "
-"типовий логін входу qwebircxxx на якийсь інший, більш персональний та "
-"простіший."
+msgstr "Якщо Ви ще нестикалися з Salix, Slackware або навіть з Linux в загальному, тоді Ви повинні перш за все знайти час на прочитання Путівника по Salix, оскільки він спеціально розроблений для нових користувачів. Посилання на стільниці, Salix Online, перенесе Вас до <ulink url=\"http://www.salixos.org/wiki/index.php/Home\">Домашньої сторінки</ulink> Salix. Також використайте <ulink url=\"http://webchat.freenode.net/?randomnick=1&amp;channels=salix&amp;prompt=1\">посилання IRC</ulink>, щоб вживу поспілкуватися з членами спільноти і отримати негайну допомогу у випадку необхідності. Якщо бажаєте, Ви  можете змінити типовий логін входу qwebircxxx на якийсь інший, більш персональний та простіший."
 
 #. Tag: phrase
 #, no-c-format
@@ -59,11 +48,7 @@ msgid ""
 " fairly straightforwardly, to begin exploring its potential, and above all "
 "to use it for what you want to do. Nonetheless, sometimes you may not know "
 "how to do something or be able to make it work."
-msgstr ""
-"Ми сподіваємося, що розміщена тут інформація дозволить Вам отримати і "
-"запустити Salix, почати досліджувати її потенціал, і взагалі використовувати"
-" її для Ваших потреб. Тим не менш, іноді Ви можете не знати, як щось зробити"
-" або заставити працювати."
+msgstr "Ми сподіваємося, що розміщена тут інформація дозволить Вам отримати і запустити Salix, почати досліджувати її потенціал, і взагалі використовувати її для Ваших потреб. Тим не менш, іноді Ви можете не знати, як щось зробити або заставити працювати."
 
 #. Tag: para
 #, no-c-format
@@ -81,7 +66,7 @@ msgid ""
 "similar look and feel to those found on other operating systems, such as the"
 " office suite LibreOffice, which offers full compatibility with common file "
 "formats."
-msgstr ""
+msgstr "Оскільки Salix намагається бути елегантним та інтуїтивним,  і, так як кожна операційна система, має свої власні характеристики, і якщо Ви вперше стикаєтесь з Linux, то сам факт, що є настільки багато різниць, неминуче буде впливати на процес адаптації (дивіться Лінукс це<ulink url=\"http://linux.oneandoneis2.org/LNW.htm\">не Віндовс</ulink>).  Єдиний спосіб опанувати систему - це користуватися нею. Чим більше Ви будете використовувати Salix, тим швидше ви ознайомитеся з ним. Тим не менш, варто підкреслити, що набір програм за замовчуванням  (вони відрізняються в залежності від версії Salix, яку Ви вибрали, детальніше дивіться <xref linkend=\"appe-Startup_Guide-List_of_Applications\" />) містить багато таких програм, що мають такий самий вигляд як і в інших операційних системах, таких як офісна програма LibreOffice, яка забезпечує повну сумісність з поширеними форматами файлів."
 
 #. Tag: para
 #, no-c-format
@@ -106,7 +91,7 @@ msgid ""
 "another way, remember you are consulting a human community, not an "
 "interactive online encyclopedia; it is a conversation, something which can "
 "be easily lost sight of online."
-msgstr ""
+msgstr "Наше <ulink url=\"http://www.salixos.org/wiki/index.php?title=Documentation\">Wiki</ulink> та <ulink url=\"http://www.salixos.org/forum/\">Форум</ulink> будуть двома важливими джерелами інформації. Опція пошуку на форумі допоможе швидко знайти відповідь на питання, яке Вас цікавить. З певних причин також обов’язково пошукайте в інтернеті. Якщо Ви працюєте з командною стрічкою (дивіться <xref linkend=\"sect-Startup_Guide-Salix_Mini_Walkthroughs-Working_with_the_Command_Line_Interface\" />), пам’ятайте про man (і про man salix для опції, специфічні для цього дистрибутиву). Також є кілька форумів, присвячених Linux, таких як <ulink url=\"http://www.linuxquestions.org/\">www.linuxquestions.org</ulink>. Кожен форум має свою власну субкультуру і правила. Запитуючи на форумі, пам’ятайте про <ulink url=\"http://www.sas.upenn.edu/~haroldfs/dravling/grice.html\">максими спілкування Пола Грайса</ulink> , і що Ви консультуєтеся з людьми, а не з інтерактивною онлайн енциклопедією."
 
 #. Tag: para
 #, no-c-format
@@ -123,7 +108,7 @@ msgid ""
 "operating system ̶ where there is room for improvement, someone will dive in"
 " and tinker. The cumulative result is that Linux today is highly usable out "
 "of the box."
-msgstr ""
+msgstr "Форум є конкретним прикладом риси Linux, а саме базування на громаді . На відміну від комерційних продуктів, майже у всіх випадках він розроблений ентузіастами, які співпрацюють разом для створення гарного програмного забезпечення. Ця спільнота розширюється на користувачів на форумах. Навіть якщо Ви просто хочете використовувати офіс, мультимедійні та мережеві програми, з плином часу сила, яка надає користувачам Linux, як правило, сприяє впевненості в собі і можливості налаштування і виправлення самостійно настройок комп'ютера. Той же підхід лежить в основі розвитку Linux в якості операційної системи, тобто де є можливість для вдосконалення, хтось буде вивчати і вовтузитися, вдосконалюючи. Сукупний результат в тому, що Linux сьогодні став надзвичайно зручною системою."
 
 #. Tag: para
 #, no-c-format
@@ -140,7 +125,7 @@ msgid ""
 "reading up on the underlying issues over time to gain broader knowledge, "
 "especially when it comes to general features of Linux that may be unfamiliar"
 " to you, such as file permissions."
-msgstr ""
+msgstr "Найкращий спосіб навчитися Linux -  це використання його в повній мірі, з'ясувати в процесі, як зробити то, що Ви точно хочете. Через деякий час, однак, може бути корисним доповнювати цей досвід більш систематично. Як вже було сказано в розділі про командний рядок, дошка з <ulink url=\"http://www.salixos.org/forum/viewforum.php?f=30&amp;sid=8007ff0fe74d8ba139ecb29032db24d2\">Документацією</ulink> на форумі Salix містить корисний пост <ulink url=\"http://www.salixos.org/forum/viewtopic.php?f=30&amp;t=852\">підручники і довідники</ulink>. Проблеми повторюються, тому варто читати про різні випадки, щоб мати більше знань, особливо про загальні можливості Linux, які ще незнайомі Вам, наприклад права доступу до файлів."
 
 #. Tag: para
 #, no-c-format
@@ -152,11 +137,4 @@ msgid ""
 "and help in the wiki and forums, you should hopefully get the essentials set"
 " up as you wish reasonably quickly; then you will be able to take Linux at "
 "your own pace."
-msgstr ""
-"Деякі користувачі на самому початку можуть зіткнутися з проблемами з "
-"периферійними пристроями і мережею. Це може здатися складним, якщо Ви також "
-"адаптуєтеся до іншої операційної системи в той же час. Вивчіть уважно "
-"параметри в Меню/Система. Якщо у Вас виникли труднощі, використайте "
-"інформацію та допомогу у вікі і форумі. "
-
-
+msgstr "Деякі користувачі на самому початку можуть зіткнутися з проблемами з периферійними пристроями і мережею. Це може здатися складним, якщо Ви також адаптуєтеся до іншої операційної системи в той же час. Вивчіть уважно параметри в Меню/Система. Якщо у Вас виникли труднощі, використайте інформацію та допомогу у вікі і форумі. "

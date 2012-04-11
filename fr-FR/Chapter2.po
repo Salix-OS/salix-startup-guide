@@ -1,332 +1,487 @@
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 # Translators:
+# Cyrille Pontvieux <jrd@enialis.net>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
 "POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-11-17 20:46+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: French (http://www.transifex.net/projects/p/salix/team/fr/)\n"
-"Language: fr\n"
+"PO-Revision-Date: 2012-03-22 14:56+0000\n"
+"Last-Translator: Cyrille Pontvieux <jrd@enialis.net>\n"
+"Language-Team: French (http://www.transifex.net/projects/p/salix/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1)\n"
 
 #. Tag: title
 #, no-c-format
 msgid "Starting Up Salix OS"
-msgstr ""
+msgstr "Démarrage de Salix OS"
 
 #. Tag: title
 #, no-c-format
 msgid "Introduction"
-msgstr ""
+msgstr "Introduction"
 
 #. Tag: title
 #, no-c-format
 msgid "Downloading Salix OS"
-msgstr ""
+msgstr "Téléchargement de Salix OS"
 
 #. Tag: para
 #, no-c-format
-msgid "The latest Salix OS or Salix Live releases are freely and easily available as ISO image files from the Salix OS <ulink url=\"http://www.salixos.org/wiki/index.php?title=Download\">download page</ulink>."
-msgstr ""
+msgid ""
+"The latest Salix OS or Salix Live releases are freely and easily available "
+"as ISO image files from the Salix OS <ulink "
+"url=\"http://www.salixos.org/wiki/index.php?title=Download\">download "
+"page</ulink>."
+msgstr "Les dernières versions de Salix OS ou Salix Live sont disponibles gratuitement et facilement comme images ISO sur la <ulink url=\"http://www.salixos.org/wiki/index.php?title=Download\">page de téléchargement</ulink> de Salix OS."
 
 #. Tag: para
 #, no-c-format
-msgid "An ISO image is an archive file of an optical disc. It can be easily rendered or burned to a DVD or CD by using media authoring or disc burning software. The resulting CD must not contain the .iso file; if it does, you have made a mistake in the process."
-msgstr ""
+msgid ""
+"An ISO image is an archive file of an optical disc. It can be easily "
+"rendered or burned to a DVD or CD by using media authoring or disc burning "
+"software. The resulting CD must not contain the .iso file; if it does, you "
+"have made a mistake in the process."
+msgstr "Une image ISO est une archive d'un disque optique. Elle peut être facilement appliquée ou gravée sur un DVD ou un CD en utilisant un logiciel de gravure. The CD résultant ne doit pas contenir le fichier .iso ; si c'est le cas, vous avez faire une erreur lors du processus de gravure."
 
 #. Tag: para
 #, no-c-format
-msgid "It is recommended, if possible, to verify the integrity of your downloaded file by comparing its <ulink url=\"http://en.wikipedia.org/wiki/Md5sum\">md5sum</ulink> file with the original one uploaded besides the corresponding ISO image file by Salix OS. This ensures that your downloaded image file matches exactly with the one provided on the Salix OS website, and minimises the possibility of installation errors later on."
-msgstr ""
+msgid ""
+"It is recommended, if possible, to verify the integrity of your downloaded "
+"file by comparing its <ulink "
+"url=\"http://en.wikipedia.org/wiki/Md5sum\">md5sum</ulink> file with the "
+"original one uploaded besides the corresponding ISO image file by Salix OS. "
+"This ensures that your downloaded image file matches exactly with the one "
+"provided on the Salix OS website, and minimises the possibility of "
+"installation errors later on."
+msgstr "Il est recommandé, si possible, de vérifier l'intégrité de votre fichier téléchargé en comparant son <ulink url=\"http://en.wikipedia.org/wiki/Md5sum\">md5sum</ulink> avec l'original, mentionné par Salix OS à côté de l'image ISO. Cela vous permet d'être sûr que votre fichier correspond exactement à celui distribué par le site web de Salix OS et minimise donc les possibles erreurs lors d'installation future."
 
 #. Tag: title
 #, no-c-format
 msgid "What is a Live CD / USB?"
-msgstr ""
+msgstr "Qu'est-ce qu'un Live CD / USB ?"
 
 #. Tag: para
 #, no-c-format
-msgid "A Live CD is a CD-ROM holding a self-contained bootable and fully functional operating system. It loads into memory using only the data provided on the CD. It will not modify any operating system or data present on its host computer and will leave no trace after shutdown."
-msgstr ""
+msgid ""
+"A Live CD is a CD-ROM holding a self-contained bootable and fully functional"
+" operating system. It loads into memory using only the data provided on the "
+"CD. It will not modify any operating system or data present on its host "
+"computer and will leave no trace after shutdown."
+msgstr "Un Live CD est un CD-ROM contenant un système d'exploitation qui peut démarrer de lui-même et qui est pleinement fonctionnel. Il se charge en mémoire en utilisant uniquement les données présentes sur le CD. Il ne modifie en aucun cas les systèmes d'exploitations ou les données présentes sur l'ordinateur hôte et ne laisse aucun trace après extinction."
 
 #. Tag: para
 #, no-c-format
-msgid "A Live USB flash drive is similar to a Live CD, but it can have the added functionality of automatically and transparently writing changes back to its bootable medium."
-msgstr ""
+msgid ""
+"A Live USB flash drive is similar to a Live CD, but it can have the added "
+"functionality of automatically and transparently writing changes back to its"
+" bootable medium."
+msgstr "Une clé USB Live est similaire à un Live CD, mais elle a l'avantage d'ajouter la fonctionnalité de pouvoir automatiquement et de manière transparente enregistrer sur la clé les modifications apportées à l'environnement."
 
 #. Tag: para
 #, no-c-format
-msgid "Salix Live is the Live CD version of <ulink url=\"http://www.salixos.org/\">Salix OS</ulink>. You can therefore safely use it to 'test drive' Salix OS without having to install anything on your computer. You will thus be able to determine whether and to what extent Salix OS is compatible with your particular hardware configuration and if it suits your personal taste."
-msgstr ""
+msgid ""
+"Salix Live is the Live CD version of <ulink "
+"url=\"http://www.salixos.org/\">Salix OS</ulink>. You can therefore safely "
+"use it to 'test drive' Salix OS without having to install anything on your "
+"computer. You will thus be able to determine whether and to what extent "
+"Salix OS is compatible with your particular hardware configuration and if it"
+" suits your personal taste."
+msgstr "Salix Live est la version Live CD de <ulink url=\"http://www.salixos.org/\">Salix OS</ulink>. Vous pouvez donc l'utiliser afin de tester Salix OS sans installer quoique ce soit sur votre ordinateur. Vous serez en mesure de déterminer si votre matériel et compatible, et dans quelle mesure, avec Salix OS, et s'il répond à vos goûts personnels."
 
 #. Tag: para
 #, no-c-format
-msgid "If you are fully satisfied with your Live experience of Salix OS, you can then proceed to install it with the help of the Salix Live Installer."
-msgstr ""
+msgid ""
+"If you are fully satisfied with your Live experience of Salix OS, you can "
+"then proceed to install it with the help of the Salix Live Installer."
+msgstr "Si vous êtes pleinement satisfait par votre expérience avec la version Live de Salix OS, vous pouvez l'installer avec l'aide de Salix Live Installer."
 
 #. Tag: para
 #, no-c-format
-msgid "Salix Live will also come in handy as a mobile solution if you wish to carry Salix OS everywhere you go, or if you need to perform some basic rescue operation such as fixing an ailing LILO bootloader with Lilo Setup, configuring some partitions with Gparted, etc."
-msgstr ""
+msgid ""
+"Salix Live will also come in handy as a mobile solution if you wish to carry"
+" Salix OS everywhere you go, or if you need to perform some basic rescue "
+"operation such as fixing an ailing LILO bootloader with Lilo Setup, "
+"configuring some partitions with Gparted, etc."
+msgstr "Salix Live peut également être utile pour une solution mobile si vous souhaitez disposer de Salix OS partout où vous aller, ou si vous avez besoin de réaliser des opérations de maintenances basiques comme réparer un bootloader LILO foireux avec Lilo Setup, configurer des partitions avec Gparted, etc."
 
 #. Tag: title
 #, no-c-format
 msgid "Creating a Salix Live USB Key"
-msgstr ""
+msgstr "Création d'une clé USB Salix Live"
 
 #. Tag: para
 #, no-c-format
-msgid "Open the .iso file using a software archiver (file-roller, xarchiver, 7-zip, iso-master, …)."
-msgstr ""
+msgid ""
+"Open the .iso file using a software archiver (file-roller, xarchiver, 7-zip,"
+" iso-master, …)."
+msgstr "Ouvrir le fichier .iso en utilisant un logiciel d'archivage (file-roller, xarcher, 7-zip, iso-master, …)."
 
 #. Tag: para
 #, no-c-format
-msgid "Extract all files and folders (boot, packages and Salix Live) to your USB root directory."
-msgstr ""
+msgid ""
+"Extract all files and folders (boot, packages and Salix Live) to your USB "
+"root directory."
+msgstr "Extraire les fichiers et répertoires (boot, packages, salixlive) vers le répertoire racine de votre clé USB."
 
 #. Tag: para
 #, no-c-format
 msgid "Go to the \"boot\" directory on the USB key."
-msgstr ""
+msgstr "Aller dans le répertoire « boot » de votre clé USB."
 
 #. Tag: para
 #, no-c-format
-msgid "If you're running on Unix (Linux, BSD, Mac OS X), just run the file called “install-on-USB.sh”. If you're on Windows, just run the file called “install-on-USB.cmd” instead."
-msgstr ""
+msgid ""
+"If you're running on Unix (Linux, BSD, Mac OS X), just run the file called "
+"“install-on-USB.sh”. If you're on Windows, just run the file called "
+"“install-on-USB.cmd” instead."
+msgstr "Sous Unix (Linux, BSD, Max OS X), exécuter le fichier « install-on-USB.sh ». Sous Windows, exécuter le fichier « install-on-USB.cmd »."
 
 #. Tag: title
 #, no-c-format
 msgid "Booting from a Salix Installation CD/DVD/USB Key"
-msgstr ""
+msgstr "Démarrage depuis une Salix sur CD/DVD/Clé USB"
 
 #. Tag: para
 #, no-c-format
-msgid "Your computer must be set to boot on the optical drive / USB port first before defaulting to the internal hard disk drive."
-msgstr ""
+msgid ""
+"Your computer must be set to boot on the optical drive / USB port first "
+"before defaulting to the internal hard disk drive."
+msgstr "Votre ordinateur doit d'abord être configuré pour démarrer sur le lecteur optique ou le port USB avant de tenter de démarrer sur le disque dur interne."
 
 #. Tag: para
 #, no-c-format
-msgid "If that is not the case, you need to first modify the <ulink url=\"http://en.wikipedia.org/wiki/BIOS\">BIOS</ulink> setting, usually by pressing the Del key or the F2 key (or some other key combinations depending on your machine). Once in the BIOS, find the \"boot menu\" or similar and set the order of the boot devices properly, with your optical drive/USB port in the first position. Save your changes and reboot your computer."
-msgstr ""
+msgid ""
+"If that is not the case, you need to first modify the <ulink "
+"url=\"http://en.wikipedia.org/wiki/BIOS\">BIOS</ulink> setting, usually by "
+"pressing the Del key or the F2 key (or some other key combinations depending"
+" on your machine). Once in the BIOS, find the \"boot menu\" or similar and "
+"set the order of the boot devices properly, with your optical drive/USB port"
+" in the first position. Save your changes and reboot your computer."
+msgstr "Si ce n'est pas le cas, vous devez tout d'abord modifier la configuration du <ulink url=\"http://fr.wikipedia.org/wiki/Basic_Input_Output_System\">BIOS</ulink>, habituellement en pressant la touche Suppr. ou F2 (ou une autre combinaison de touche en fonction de votre équipement). Une fois dans le BIOS, trouvez le « menu de démarrage » ou « boot menu » en anglais et indiquer l'ordre de démarrage des périphérique de telle manière à avoir le démarrage sur disque optique ou port USB en première position. Enregistrez vos changements et redémarrez votre ordinateur."
 
 #. Tag: para
 #, no-c-format
-msgid "Insert the Salix OS (Live)CD/DVD or USB key, and start up your computer."
-msgstr ""
+msgid ""
+"Insert the Salix OS (Live)CD/DVD or USB key, and start up your computer."
+msgstr "Insérez le CD/DVD de Salix OS (Live) ou la clé USB, et démarrez votre ordinateur."
 
 #. Tag: title
 #, no-c-format
 msgid "Salix Live Boot Menu"
-msgstr ""
+msgstr "Menu de démarrage de Salix Live"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Salix Live Boot Menu"
-msgstr ""
+msgstr "Copie d'écran du menu de démarrage de Salix Live"
 
 #. Tag: para
 #, no-c-format
-msgid "The first screen to greet you will enable you to select your language. Once you have selected your language, simply press on the Enter key to activate your choice."
-msgstr ""
+msgid ""
+"The first screen to greet you will enable you to select your language. Once "
+"you have selected your language, simply press on the Enter key to activate "
+"your choice."
+msgstr "Le premier écran à s'afficher vous permet de sélectionner votre langue. Une fois que c'est fait, presser simplement la touche « Entrée » pour activer votre choix."
 
 #. Tag: para
 #, no-c-format
-msgid "On the following menu, you will be given the possibility to change your keyboard map if the default one for your language does not suit you."
-msgstr ""
+msgid ""
+"On the following menu, you will be given the possibility to change your "
+"keyboard map if the default one for your language does not suit you."
+msgstr "Dans le menu suivant vous avez la possibilité de changer la disposition de votre clavier sur celui par défaut ne vous convient pas."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Boot Menu edition options"
-msgstr ""
+msgstr "Copie d'écran du menu des options de démarrage."
 
 #. Tag: para
 #, no-c-format
-msgid "You also have the possibility to modify most default boot settings (see <xref linkend=\"sect-Startup_Guide-Advanced_Live_CD_Options-Advanced_Boot_Options\" />)."
-msgstr ""
+msgid ""
+"You also have the possibility to modify most default boot settings (see "
+"<xref linkend=\"sect-Startup_Guide-Advanced_Live_CD_Options-"
+"Advanced_Boot_Options\" />)."
+msgstr "Vous avez également la possibilité de modifier la plupart des options de démarrage (voir <xref linkend=\"sect-Startup_Guide-Advanced_Live_CD_Options-Advanced_Boot_Options\" />)."
 
 #. Tag: para
 #, no-c-format
-msgid "Simply press Enter on the default menu entry: Start Salix Live and a moment later you will see Salix starting up."
-msgstr ""
+msgid ""
+"Simply press Enter on the default menu entry: Start Salix Live and a moment "
+"later you will see Salix starting up."
+msgstr "Pressez simplement « Entrée » sur l'entrée de menu par défaut : « Démarrer Salix Live » et un moment plus tard vous verrez Salix démarrer."
 
 #. Tag: title
 #, no-c-format
 msgid "Root Password"
-msgstr ""
+msgstr "Mot de passe super‑utilisateur (root)"
 
 #. Tag: para
 #, no-c-format
-msgid "For a system wide change, such as installation of an application, you are required to type in the administrator's password (the “root” or “superuser” password)."
-msgstr ""
+msgid ""
+"For a system wide change, such as installation of an application, you are "
+"required to type in the administrator's password (the “root” or “superuser” "
+"password)."
+msgstr "Pour des modifications sur l'ensemble du système, comme l'installation d'une application, le mot de passe administrateur (« super‑utilisateur » ou « root ») vous sera demandé."
 
 #. Tag: para
 #, no-c-format
-msgid "The password for Salix Live is <emphasis role=\"bold\">live</emphasis> for all the Salix Live editions."
-msgstr ""
+msgid ""
+"The password for Salix Live is <emphasis role=\"bold\">live</emphasis> for "
+"all the Salix Live editions."
+msgstr "Le mot de passe pour Salix Live est <emphasis role=\"bold\">live</emphasis> pour toutes les éditions de Salix Live."
 
 #. Tag: title
 #, no-c-format
 msgid "Preparing Salix Installation"
-msgstr ""
+msgstr "Préparation de l'installation de Salix"
 
 #. Tag: title
 #, no-c-format
 msgid "Before starting"
-msgstr ""
+msgstr "Avant de commencer"
 
 #. Tag: para
 #, no-c-format
-msgid "Installing Salix OS on your computer is simple. But before starting, it is wise to check the following points:"
-msgstr ""
+msgid ""
+"Installing Salix OS on your computer is simple. But before starting, it is "
+"wise to check the following points:"
+msgstr "Installer Salix OS sur votre ordinateur est simple. Cependant, avant de commencer, il est de mise de vérifier les points suivants :"
 
 #. Tag: para
 #, no-c-format
 msgid "Have you backed-up all the important files you have?"
-msgstr ""
+msgstr "Avez-vous fait des sauvegardes de vos fichiers importants ?"
 
 #. Tag: para
 #, no-c-format
 msgid "Check if your computer comes with Linux-friendly/supported hardware*"
-msgstr ""
+msgstr "Vérifiez que le matériel de votre ordinateur est géré/reconnu par Linux *"
 
 #. Tag: para
 #, no-c-format
-msgid "Recommended running specification (Intel PIII 1 GHz, 512 Mb RAM, 8Gb HD space, or equivalent, though a lower spec machine may run without a problem)"
-msgstr ""
+msgid ""
+"Recommended running specification (Intel PIII 1 GHz, 512 Mb RAM, 8Gb HD "
+"space, or equivalent, though a lower spec machine may run without a problem)"
+msgstr "Configuration matériel minimale recommandée : Intel PIII 1 Ghz, 512 Mo de RAM, 8 Go d'espace disque, ou équivalent, bien qu'une machine moins puissante puisse fonctionner sans problème"
 
 #. Tag: para
 #, no-c-format
-msgid "At least one separate <ulink url=\"http://en.wikipedia.org/wiki/Disk_partitioning\">partition</ulink> dedicated for Salix on your computer"
-msgstr ""
+msgid ""
+"At least one separate <ulink "
+"url=\"http://en.wikipedia.org/wiki/Disk_partitioning\">partition</ulink> "
+"dedicated for Salix on your computer"
+msgstr "Au moins une <ulink url=\"http://fr.wikipedia.org/wiki/Partition_de_disque_dur\">partition</ulink> dédiée à Salix sur votre ordinateur"
 
 #. Tag: para
 #, no-c-format
-msgid "* Although it is possible to install Linux on a Mac computer, you have to install a bootcamp software called rEFIt beforehand. Certain file systems, such as xfs, cannot be used with a Mac."
-msgstr ""
+msgid ""
+"* Although it is possible to install Linux on a Mac computer, you have to "
+"install a bootcamp software called rEFIt beforehand. Certain file systems, "
+"such as xfs, cannot be used with a Mac."
+msgstr "* Bien qu'il est possible d'installer Linux sur un ordinateur Mac, vous devrez auparavant installer un logiciel de démarrage spécial appelé rEFIt. Certains système de fichier, comme XFS, ne peuvent pas être utilisés avec un Mac."
 
 #. Tag: para
 #, no-c-format
-msgid "The easiest way to check the compatibility of your computer is to use one of the available Salix OS Live editions."
-msgstr ""
+msgid ""
+"The easiest way to check the compatibility of your computer is to use one of"
+" the available Salix OS Live editions."
+msgstr "La façon la plus simple de vérifier la compatibilité de votre ordinateur est d'utiliser une des éditions Live de Salix OS."
 
 #. Tag: title
 #, no-c-format
 msgid "Partition Management"
-msgstr ""
+msgstr "Gestion du partitionnement"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Gparted"
-msgstr ""
+msgstr "Copie d'écran de Gparted"
 
 #. Tag: para
 #, no-c-format
-msgid "Before installing Salix (from the live CD or not), you need to have the necessary partition space available on your system, and if the computer does not have a separate partition for Linux, you must create one before installing Salix OS."
-msgstr ""
+msgid ""
+"Before installing Salix (from the live CD or not), you need to have the "
+"necessary partition space available on your system, and if the computer does"
+" not have a separate partition for Linux, you must create one before "
+"installing Salix OS."
+msgstr "Avant d'installer Salix (depuis le CD Live ou non), vous devez avoir de l'espace disponible sur une partition de votre système, ou si votre système n'a pas de partition séparée pour Linux, vous devrez en créer une avant d'installer Salix OS."
 
 #. Tag: para
 #, no-c-format
-msgid "It is advisable to back up any important files before modifying the partition table."
-msgstr ""
+msgid ""
+"It is advisable to back up any important files before modifying the "
+"partition table."
+msgstr "Il est conseillé de faire des sauvegardes de vos fichiers importants avant de modifier la table de partitions."
 
 #. Tag: para
 #, no-c-format
-msgid "Every Salix Live CD comes with <ulink url=\"http://gparted.sourceforge.net/docs/help-manual/C/gparted_manual.html\">Gparted</ulink>, which will enable you to change the partition organisation on a disk device while preserving the contents of the partitions. You may with to use this application to create/re-organise your partition table."
-msgstr ""
+msgid ""
+"Every Salix Live CD comes with <ulink "
+"url=\"http://gparted.sourceforge.net/docs/help-"
+"manual/C/gparted_manual.html\">Gparted</ulink>, which will enable you to "
+"change the partition organisation on a disk device while preserving the "
+"contents of the partitions. You may with to use this application to create"
+"/re-organise your partition table."
+msgstr "Chaque CD de Salix Live est livré avec <ulink url=\"http://gparted.sourceforge.net/display-doc.php?name=help-manual&lang=fr\">Gparted</ulink>, qui vous permettra de changer l'organisation des partitions d'un disque tout en préservant le contenu des partitions. Vous souhaiterez sûrement utiliser cette application pour créer et/ou réorganiser votre table de partitions."
 
 #. Tag: para
 #, no-c-format
-msgid "Alternatively, if you have an unformatted partition, unallocated disk space, or an existing partition you do not use, you can create or rewrite a new partition table using <ulink url=\"http://en.wikipedia.org/wiki/Cfdisk\">Cfdisk</ulink> (which comes with the Salix installation CD)."
-msgstr ""
+msgid ""
+"Alternatively, if you have an unformatted partition, unallocated disk space,"
+" or an existing partition you do not use, you can create or rewrite a new "
+"partition table using <ulink "
+"url=\"http://en.wikipedia.org/wiki/Cfdisk\">Cfdisk</ulink> (which comes with"
+" the Salix installation CD)."
+msgstr "Autrement, si vous avez une partition non‑formatée, de l'espace disque non‑alloué, ou une partition existante que vous n'utilisez pas, vous pouvez créer ou réécrire la table des partitions en utilisant <ulink url=\"http://en.wikipedia.org/wiki/Cfdisk\">Cfdisk</ulink> (qui est livré avec le CD d'installation de Salix)."
 
 #. Tag: para
 #, no-c-format
-msgid "Both applications are simple to use and require no further explanation on how to use them, except for a small comment about “partition types”."
-msgstr ""
+msgid ""
+"Both applications are simple to use and require no further explanation on "
+"how to use them, except for a small comment about “partition types”."
+msgstr "Les deux applications sont relativement simples à utiliser et ne nécessite pas d'explication complémentaires pour les exploiter, à l'exception d'une explication rapide sur les « types de partition »."
 
 #. Tag: para
 #, no-c-format
-msgid "A hard drive space can be divided into no more than four “primary” partitions, which can be problematic if you are hosting more than one operating system on the same hard drive. A hard drive can, however, be divided into three “primary” partitions and one “extended” partition. The extended partition can then be subdivided into “logical” partitions and hence overcome the limitation set by the “primary partition” (i.e. no more than four partitions). In practice, there is no difference between a logical and a primary partition except for that “Windows” OS cannot be installed on a logical partition."
-msgstr ""
+msgid ""
+"A hard drive space can be divided into no more than four “primary” "
+"partitions, which can be problematic if you are hosting more than one "
+"operating system on the same hard drive. A hard drive can, however, be "
+"divided into three “primary” partitions and one “extended” partition. The "
+"extended partition can then be subdivided into “logical” partitions and "
+"hence overcome the limitation set by the “primary partition” (i.e. no more "
+"than four partitions). In practice, there is no difference between a logical"
+" and a primary partition except for that “Windows” OS cannot be installed on"
+" a logical partition."
+msgstr "L'espace d'un disque dur ne peut pas être subdivisé en plus de quatre partitions « primaires », ce qui peut poser problème si vous héberger plus d'un système d'exploitation sur le même disque dur. Un disque dur peut, cependant, être divisé en trois partitions « primaires » et une partition dite « étendue ». Cette partition étendue peut être subdivisée en partitions « logiques » et donc circonvenir la limitation induite des partitions primaires (pas plus de quatre). En pratique, il n'y a aucune différence entre une partition logique et une partition primaire sauf pour l'OS « Windows » qui ne peut pas être installé dans une partition logique."
 
 #. Tag: title
 #, no-c-format
 msgid "So what kind of partitions do you need?"
-msgstr ""
+msgstr "Donc quelle type de partition avez-vous besoin ?"
 
 #. Tag: para
 #, no-c-format
-msgid "Salix needs, at the very minimum, one partition which holds the root directory and must be assigned as “/” (without the quotation marks)."
-msgstr ""
+msgid ""
+"Salix needs, at the very minimum, one partition which holds the root "
+"directory and must be assigned as “/” (without the quotation marks)."
+msgstr "Salix nécessite, au minimum, une partition qui contient le répertoire racine et doit être assigné comme « / » (sans les guillemets)."
 
 #. Tag: para
 #, no-c-format
-msgid "It is highly recommended to have one swap partition. If you already have another Linux OS running on your machine, its swap partition can be shared, and you do not need to create another. A swap partition size is in essence used as an extra RAM to improve the performance of your machine. If, for example, your machine doesn’t have a lot of physical RAM or you’re performing memory-intensive operations (such as video editing) that use up most or all of the physical RAM. It is normally recommended to have 1.5-2 times the size of your RAM, but for a modern desktop computer with more than a couple Gb of RAM, swap may not be necessary."
-msgstr ""
+msgid ""
+"It is highly recommended to have one swap partition. If you already have "
+"another Linux OS running on your machine, its swap partition can be shared, "
+"and you do not need to create another. A swap partition size is in essence "
+"used as an extra RAM to improve the performance of your machine. If, for "
+"example, your machine doesn’t have a lot of physical RAM or you’re "
+"performing memory-intensive operations (such as video editing) that use up "
+"most or all of the physical RAM. It is normally recommended to have 1.5-2 "
+"times the size of your RAM, but for a modern desktop computer with more than"
+" a couple Gb of RAM, swap may not be necessary."
+msgstr "Il est hautement recommandé d'avoir une partition de swap. Si vous avez déjà un autre système Linux sur votre machine, cette partition swap peut être partagée, et vous n'aurez pas besoin d'en créer une nouvelle. La taille d'une partition swap est par nature utilisée pour étendre la RAM afin d'améliorer les performances de l'ordinateur. Si, par exemple, votre machine n'a pas beaucoup de RAM physique ou que vous effectuez des opérations très consommatrices de mémoire (comme de l'édition vidéo) qui utilise beaucoup ou la totalité de votre RAM physique. Il est normalement recommandé d'avoir une taille correspondant à 1,5 à 2 fois la taille de votre RAM, mais pour un ordinateur de bureau moderne avec plusieurs Go de RAM, la swap peut ne pas être nécessaire (si vous n'utiliser pas l'hibernation)."
 
 #. Tag: para
 #, no-c-format
-msgid "It is also highly recommended to have one partition to hold your /home directory, where you can store all your personal data such as documents, photos, customised settings for the desktop environment etc."
-msgstr ""
+msgid ""
+"It is also highly recommended to have one partition to hold your /home "
+"directory, where you can store all your personal data such as documents, "
+"photos, customised settings for the desktop environment etc."
+msgstr "Il est aussi hautement recommandé d'avoir une partition pour contenir votre répertoire /home, là où vous pouvez stocker vos données personnelles telles que des documents, des photos, les paramètres personnalisés de l'environnement de bureau, etc."
 
 #. Tag: para
 #, no-c-format
-msgid "It is optional to have one partition to hold the /usr directory, where application files are stored (similar to the “Program Files” directory in Windows or the “/Apps” in Mac OS X)."
-msgstr ""
+msgid ""
+"It is optional to have one partition to hold the /usr directory, where "
+"application files are stored (similar to the “Program Files” directory in "
+"Windows or the “/Apps” in Mac OS X)."
+msgstr "Il est facultatif d'avoir une partition pour contenir le répertoire /usr, là où sont stockées les applications (de manière similaire au répertoire « Program File » sous Windows, ou « /Apps » sur Mac OS X)."
 
 #. Tag: para
 #, no-c-format
-msgid "Optionally you can create one partition to hold the /var directory, where system log files are stored. But unless you are running a server machine, this is probably unnecessary."
-msgstr ""
+msgid ""
+"Optionally you can create one partition to hold the /var directory, where "
+"system log files are stored. But unless you are running a server machine, "
+"this is probably unnecessary."
+msgstr "Éventuellement, vous pouvez créer une partition pour contenir le répertoire /var, là où sont stockés les fichiers de trace du système et les bases de données. Mais à moins d'avoir une machine de type serveur, c'est probablement inutile."
 
 #. Tag: para
 #, no-c-format
-msgid "An advantage of having more than one partition to hold separate directories is that you can reformat one partition without affecting others. For example, you can re-install Salix on your machine (and this goes to the partition holding the “/” directory) while leaving the partition holding the /home directory intact."
-msgstr ""
+msgid ""
+"An advantage of having more than one partition to hold separate directories "
+"is that you can reformat one partition without affecting others. For "
+"example, you can re-install Salix on your machine (and this goes to the "
+"partition holding the “/” directory) while leaving the partition holding the"
+" /home directory intact."
+msgstr "L'avantage d'avoir plus d'une partition pour contenir différents répertoires est de pouvoir re‑formater une partition sans affecter les autres. Par exemple, vous pouvez ré‑installer Salix sur votre ordinateur (et ceci va aller dans la partition contenant le répertoire « / ») tout en laissant intact la partition contenant le répertoire /home."
 
 #. Tag: para
 #, no-c-format
-msgid "Each partition can be formatted into one of several <ulink url=\"http://en.wikipedia.org/wiki/List_of_file_systems\">file systems</ulink>. Unless you have a particular favourite for a reason, we recommend you format your partitions with the ext4 file system."
-msgstr ""
+msgid ""
+"Each partition can be formatted into one of several <ulink "
+"url=\"http://en.wikipedia.org/wiki/List_of_file_systems\">file "
+"systems</ulink>. Unless you have a particular favourite for a reason, we "
+"recommend you format your partitions with the ext4 file system."
+msgstr "Chaque partition peut être formatée dans un des divers <ulink url=\"http://fr.wikipedia.org/wiki/Système_de_fichiers\">systèmes de fichiers</ulink>. À moins d'avoir un favori, nous vous recommandons de formater vos partitions avec le système de fichiers ext4."
 
 #. Tag: title
 #, no-c-format
 msgid "Installing from a Live CD / USB"
-msgstr ""
+msgstr "Installer depuis un CD Live / une clé USB"
 
 #. Tag: para
 #, no-c-format
-msgid "Salix Live Installer is found on the Desktop of every Live CD and is very easy to use. Contextual help triggered by the position of the mouse will be displayed above the application and will guide you every step of the way."
-msgstr ""
+msgid ""
+"Salix Live Installer is found on the Desktop of every Live CD and is very "
+"easy to use. Contextual help triggered by the position of the mouse will be "
+"displayed above the application and will guide you every step of the way."
+msgstr "L'installeur Salix Live peut être trouvé sur le bureau de chaque CD Live et est très facile à utiliser. Une aide contextuelle s'affiche lorsqu'on survole la souris sur l'application et vous guidera à chaque étape."
 
 #. Tag: para
 #, no-c-format
-msgid "You will be greeted by a reminder that all the necessary partitions have to be created first. As we have seen, this can be done simply with the help of Gparted, which is included in Salix Live and is available directly on the desktop (see <xref linkend=\"sect-Startup_Guide-Salix_Live_Tools-Gparted\" />)."
-msgstr ""
+msgid ""
+"You will be greeted by a reminder that all the necessary partitions have to "
+"be created first. As we have seen, this can be done simply with the help of "
+"Gparted, which is included in Salix Live and is available directly on the "
+"desktop (see <xref linkend=\"sect-Startup_Guide-Salix_Live_Tools-Gparted\" "
+"/>)."
+msgstr "On vous informera qu'il faut que les partitions nécessaires aient été créées auparavant. Comme vous avons pu voir, ceci peut être réalisé simplement avec l'aide de Gparted, qui est inclus dans Salix Live et qui est directement disponible sur le bureau (voir <xref linkend=\"sect-Startup_Guide-Salix_Live_Tools-Gparted\" />)."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Salix Live Installer"
+msgstr "Copie d'écran de l'Installeur de Salix Live"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"On the left side of the application, you will notice the different sections "
+"that must be configured before launching the installation process: Time, "
+"Keyboard, Locale, Partitions, Users and Software. Clicking on one of these "
+"sections will display the corresponding options that need to be set. As you "
+"progress through the configuration process, a check will be displayed beside"
+" each completed section. Only when all the sections have been completed will"
+" the “Launch Salix Install” button be activated."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "On the left side of the application, you will notice the different sections that must be configured before launching the installation process: Time, Keyboard, Locale, Partitions, Users and Software. Clicking on one of these sections will display the corresponding options that need to be set. As you progress through the configuration process, a check will be displayed beside each completed section. Only when all the sections have been completed will the “Launch Salix Install” button be activated."
+msgid ""
+"So do take the time to familiarise yourself fully with Salix Live Installer."
+" Undo options are available and none of the settings will be applied until "
+"you click on the “Launch Salix Install” button."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "So do take the time to familiarise yourself fully with Salix Live Installer. Undo options are available and none of the settings will be applied until you click on the “Launch Salix Install” button."
-msgstr ""
-
-#. Tag: para
-#, no-c-format
-msgid "Remember that the existing swap partition will be automatically used by the Live installer without any prompting on your part."
+msgid ""
+"Remember that the existing swap partition will be automatically used by the "
+"Live installer without any prompting on your part."
 msgstr ""
 
 #. Tag: phrase
@@ -336,17 +491,37 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "Salix comes with three different installation modes. The Full installation mode includes a range of useful applications one could need on a daily basis while following the \"one application per task\" rationale, while the Basic Mode provides a user with a graphical desktop environment, a web browser and Gslapt package manager (see <xref linkend=\"sect-Startup_Guide-Package_Management-Gslapt\" />)."
+msgid ""
+"Salix comes with three different installation modes. The Full installation "
+"mode includes a range of useful applications one could need on a daily basis"
+" while following the \"one application per task\" rationale, while the Basic"
+" Mode provides a user with a graphical desktop environment, a web browser "
+"and Gslapt package manager (see <xref linkend=\"sect-Startup_Guide-"
+"Package_Management-Gslapt\" />)."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "This is ideal for advanced users who would like to have the basic desktop environment installed first, and then to add their own choice of applications. The Core Mode installs the minimum software essential for a console system to start (i.e. a graphical environment is not provided). This is ideal if you are an experienced user and love to customise your installation for any specific purpose, such as a web server, file server and so on."
+msgid ""
+"This is ideal for advanced users who would like to have the basic desktop "
+"environment installed first, and then to add their own choice of "
+"applications. The Core Mode installs the minimum software essential for a "
+"console system to start (i.e. a graphical environment is not provided). This"
+" is ideal if you are an experienced user and love to customise your "
+"installation for any specific purpose, such as a web server, file server and"
+" so on."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "Once the installation process is completed, you will be given the choice to launch Lilo Setup to configure your LILO bootloader (see <xref linkend=\"sect-Startup_Guide-Salix_Tools-Lilo_Setup\" />). Most of the time this is what you will want to do although occasionally, it might be preferable not to, for example if you want to use Grub instead or if you want to simply incorporate Salix into an existing bootloader configuration from another distribution in a multiple boot setup."
+msgid ""
+"Once the installation process is completed, you will be given the choice to "
+"launch Lilo Setup to configure your LILO bootloader (see <xref linkend"
+"=\"sect-Startup_Guide-Salix_Tools-Lilo_Setup\" />). Most of the time this is"
+" what you will want to do although occasionally, it might be preferable not "
+"to, for example if you want to use Grub instead or if you want to simply "
+"incorporate Salix into an existing bootloader configuration from another "
+"distribution in a multiple boot setup."
 msgstr ""
 
 #. Tag: phrase
@@ -356,12 +531,17 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "Lilo Setup is also very easy to use. Contextual help triggered by the position of the mouse will also be displayed above the application and will guide you every step of the way."
+msgid ""
+"Lilo Setup is also very easy to use. Contextual help triggered by the "
+"position of the mouse will also be displayed above the application and will "
+"guide you every step of the way."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "Once Lilo is set up, you are good to go! You can re-start your machine, and start enjoying Salix time."
+msgid ""
+"Once Lilo is set up, you are good to go! You can re-start your machine, and "
+"start enjoying Salix time."
 msgstr ""
 
 #. Tag: title
@@ -371,7 +551,10 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "Installing Salix from a Salix Installation CD is very similar to installing Slackware. Everything will be done efficiently in a semi-graphical command line interface."
+msgid ""
+"Installing Salix from a Salix Installation CD is very similar to installing "
+"Slackware. Everything will be done efficiently in a semi-graphical command "
+"line interface."
 msgstr ""
 
 #. Tag: para
@@ -381,42 +564,69 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "If you prefer to let Salix do everything including partition management, just select AUTOPARTITION. Note that this will delete everything on the hard drive."
+msgid ""
+"If you prefer to let Salix do everything including partition management, "
+"just select AUTOPARTITION. Note that this will delete everything on the hard"
+" drive."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "Partition management with cfdisk – you can select the hard drive you would like to modify with the arrow keys and the space key."
+msgid ""
+"Partition management with cfdisk – you can select the hard drive you would "
+"like to modify with the arrow keys and the space key."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "You can create a new partition by selecting a free disk space and choosing New. You will be asked to select “primary” partition / “extended” partition first and then set the size. Remember, you can have up to four primary partitions or three primary partition with one extended partition for more partitions. Let's say we want to create one swap partition and partitions for the “/” and “/home” directories."
+msgid ""
+"You can create a new partition by selecting a free disk space and choosing "
+"New. You will be asked to select “primary” partition / “extended” partition "
+"first and then set the size. Remember, you can have up to four primary "
+"partitions or three primary partition with one extended partition for more "
+"partitions. Let's say we want to create one swap partition and partitions "
+"for the “/” and “/home” directories."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "To create a swap partition, for example, select “primary” partition. Hit enter (for the default starting cylinder), and then type in “+1024M” for 1024 Mb. Choose Type to specify the file system type. Enter 82 (Linux swap)."
+msgid ""
+"To create a swap partition, for example, select “primary” partition. Hit "
+"enter (for the default starting cylinder), and then type in “+1024M” for "
+"1024 Mb. Choose Type to specify the file system type. Enter 82 (Linux swap)."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "Let's assume that you have already used up the first three primary partitions, the last one should be made into an “extended” partition as you would still like to create the partitions for “/” and for “/home”."
+msgid ""
+"Let's assume that you have already used up the first three primary "
+"partitions, the last one should be made into an “extended” partition as you "
+"would still like to create the partitions for “/” and for “/home”."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "To create an extended partition, select “extended” partition. Hit enter and again hit enter for the default value. This will create an extended partition out of the remaining disk space."
+msgid ""
+"To create an extended partition, select “extended” partition. Hit enter and "
+"again hit enter for the default value. This will create an extended "
+"partition out of the remaining disk space."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "Now select Free disk space from the extended partition, and create New. Create a “logical” partition as you did for the primary partition. Set the size to “+10240M” for roughly 10 Gb. This will be your partition for the root directory (“/”). Select Type, and type “83” (Linux partition)."
+msgid ""
+"Now select Free disk space from the extended partition, and create New. "
+"Create a “logical” partition as you did for the primary partition. Set the "
+"size to “+10240M” for roughly 10 Gb. This will be your partition for the "
+"root directory (“/”). Select Type, and type “83” (Linux partition)."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "Create again a new partition and this time, accept all the default selections. The remaing disk space will be put in this partition. This will be your partition for the “/home” directory. Select Type, and type “83”."
+msgid ""
+"Create again a new partition and this time, accept all the default "
+"selections. The remaing disk space will be put in this partition. This will "
+"be your partition for the “/home” directory. Select Type, and type “83”."
 msgstr ""
 
 #. Tag: para
@@ -426,32 +636,48 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "Your swap partition will be automatically detected. Say “yes” if the detected partition corresponds to that."
+msgid ""
+"Your swap partition will be automatically detected. Say “yes” if the "
+"detected partition corresponds to that."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "You will then be asked to specify the partition for the root “/” directory. Select the partition you have created for the “/”, and continue to format the partition. The ext4 file system is recommended here."
+msgid ""
+"You will then be asked to specify the partition for the root “/” directory. "
+"Select the partition you have created for the “/”, and continue to format "
+"the partition. The ext4 file system is recommended here."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "If you have other partitions to mount, you can do so. As we have a partition for a “/home” directory, we select the partition and continue. Unless the partition is new or you would like to erase the content of this partition, select not to format."
+msgid ""
+"If you have other partitions to mount, you can do so. As we have a partition"
+" for a “/home” directory, we select the partition and continue. Unless the "
+"partition is new or you would like to erase the content of this partition, "
+"select not to format."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "Other partitions such as Windows partitions will be detected automatically. If you would like to make those partitions automatically usable during your Salix session, include them all to mount."
+msgid ""
+"Other partitions such as Windows partitions will be detected automatically. "
+"If you would like to make those partitions automatically usable during your "
+"Salix session, include them all to mount."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "The installer will start installing Salix. You will be asked first where the source files are. As you are installing from the CD, select “from the CD”. Everything should be detected automatically."
+msgid ""
+"The installer will start installing Salix. You will be asked first where the"
+" source files are. As you are installing from the CD, select “from the CD”. "
+"Everything should be detected automatically."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "You will be asked to choose an installation mode (Full, Basic or Core)."
+msgid ""
+"You will be asked to choose an installation mode (Full, Basic or Core)."
 msgstr ""
 
 #. Tag: para
@@ -461,12 +687,17 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "After the installation, LILO set up will start up. Unless you are not using LILO, choose the default options."
+msgid ""
+"After the installation, LILO set up will start up. Unless you are not using "
+"LILO, choose the default options."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "You will be asked for some other questions regarding time-zone, user name and root password (superuser / administrator password). When all the basic questions are answered, the machine will restart itself."
+msgid ""
+"You will be asked for some other questions regarding time-zone, user name "
+"and root password (superuser / administrator password). When all the basic "
+"questions are answered, the machine will restart itself."
 msgstr ""
 
 #. Tag: para
@@ -481,12 +712,18 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "Installing Salix OS from a USB key is also possible (but consider installing from a Salix Live USB also). The most difficult part is to know the device name of your USB key. You may wish to issue the command “fdisk -l” as root to know which device is used for your USB key."
+msgid ""
+"Installing Salix OS from a USB key is also possible (but consider installing"
+" from a Salix Live USB also). The most difficult part is to know the device "
+"name of your USB key. You may wish to issue the command “fdisk -l” as root "
+"to know which device is used for your USB key."
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "Create your USB stick with <ulink url=\"http://unetbootin.sourceforge.net/\">unetbootin</ulink>"
+msgid ""
+"Create your USB stick with <ulink "
+"url=\"http://unetbootin.sourceforge.net/\">unetbootin</ulink>"
 msgstr ""
 
 #. Tag: para
@@ -496,12 +733,17 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "Enter the device of your USB stick: This probably is /dev/sdb1 if you only have one hard disk. Please note that a Few sticks are mounted by /dev/sdb instead of /dev/sdb1"
+msgid ""
+"Enter the device of your USB stick: This probably is /dev/sdb1 if you only "
+"have one hard disk. Please note that a Few sticks are mounted by /dev/sdb "
+"instead of /dev/sdb1"
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "The next dialog asks where the Salix packages are located on the USB stick. The correct answer here is /salix"
+msgid ""
+"The next dialog asks where the Salix packages are located on the USB stick. "
+"The correct answer here is /salix"
 msgstr ""
 
 #. Tag: para
@@ -516,7 +758,9 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "After starting up the set up screen, select your keyboard type and exit the setup"
+msgid ""
+"After starting up the set up screen, select your keyboard type and exit the "
+"setup"
 msgstr ""
 
 #. Tag: para
@@ -526,7 +770,9 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "Type “mount /dev/sdb /salix” (sdb can be sdb1, depending on the assignment by your machine)"
+msgid ""
+"Type “mount /dev/sdb /salix” (sdb can be sdb1, depending on the assignment "
+"by your machine)"
 msgstr ""
 
 #. Tag: para
@@ -536,5 +782,7 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "When asked for the source file, select “from a local directory” and type in “/salix/salix”"
+msgid ""
+"When asked for the source file, select “from a local directory” and type in "
+"“/salix/salix”"
 msgstr ""
