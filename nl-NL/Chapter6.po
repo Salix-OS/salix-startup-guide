@@ -1,59 +1,140 @@
-#
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Translators:
+# Gambit  <gambit73@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: 0\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-11-08T17:18:01\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: None\n"
-"Language: \n"
+"Project-Id-Version: Salix documentation\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-06-26 19:47+0000\n"
+"Last-Translator: Gambit <gambit73@gmail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/salix_documentation/language/nl/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Tag: title
 #, no-c-format
 msgid "Support"
-msgstr ""
+msgstr "Support"
 
 #. Tag: para
 #, no-c-format
-msgid "If you are still quite new to either Salix, Slackware or even Linux in general, then you should first of all take some time to study Salix Startup Guide, as it is specifically intended to be accessible to newcomers. The desktop link, Salix Online, will bring you to the Salix <ulink url=\"http://www.salixos.org/wiki/index.php/Home\">Homepage</ulink>. You could also use the <ulink url=\"http://webchat.freenode.net/?randomnick=1&amp;channels=salix&amp;prompt=1\">IRC link</ulink> above to be in live communication with members of the community and get instant help if necessary. If you do however, you might want to modify the default qwebircxxx login to something more personal and human readable."
-msgstr ""
+msgid ""
+"If you are still quite new to either Salix, Slackware or even Linux in "
+"general, then you should first of all take some time to study Salix Startup "
+"Guide, as it is specifically intended to be accessible to newcomers. The "
+"desktop link, Salix Online, will bring you to the Salix <ulink "
+"url=\"http://www.salixos.org/wiki/index.php/Home\">Homepage</ulink>. You "
+"could also use the <ulink "
+"url=\"http://webchat.freenode.net/?randomnick=1&amp;channels=salix&amp;prompt=1\">IRC"
+" link</ulink> above to be in live communication with members of the "
+"community and get instant help if necessary. If you do however, you might "
+"want to modify the default qwebircxxx login to something more personal and "
+"human readable."
+msgstr "Als Salix, Slackware of zelfs Linux nog nieuw voor u is in het algemeen, dan zou u eerst wat tijd moeten nemen om de Salix Startup Guide te bestuderen, omdat het specifiek bedoeld is om begripbaar te zijn voor beginners. De desktop link, Salix Online zal u naar de Salix <ulink url=\"http://www.salixos.org/wiki/index.php/Home\">Beginpagina</ulink> brengen. U kan ook de <ulink url=\"http://webchat.freenode.net/?randomnick=1&amp;channels=salix&amp;prompt=1\">IRC link</ulink> gebruiken hierboven om in direct contact met gebruikers van de gemeenschap te komen en meteen hulp te krijgen indien nodig. Indien u dat doet kan u de standaard qwebircxxx login wijzigen naar iets meer persoonlijks en menselijk leesbaar maken."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Adding an item to the menu with gvim"
-msgstr ""
+msgstr "Het toevoegen van een koppeling in het menu met gvim"
 
 #. Tag: para
 #, no-c-format
-msgid "We hope that the information here will allow you to get Salix up and running fairly straightforwardly, to begin exploring its potential, and above all to use it for what you want to do. Nonetheless, sometimes you may not know how to do something or be able to make it work."
-msgstr ""
+msgid ""
+"We hope that the information here will allow you to get Salix up and running"
+" fairly straightforwardly, to begin exploring its potential, and above all "
+"to use it for what you want to do. Nonetheless, sometimes you may not know "
+"how to do something or be able to make it work."
+msgstr "We hopen dat de informatie hier het u mogelijk maakt om Salix redelijk eenvoudig werkzaam te krijgen, om Salix' mogelijkheden te ontdekken, en bovenal om het te gebruiken zoals u wilt. U zult niettemin soms niet weten hoe iets te doen of iets werkzaam krijgen."
 
 #. Tag: para
 #, no-c-format
-msgid "While Salix aims to be elegant and intuitive, every operating system has its own characteristics, and if you are new to Linux, the sheer fact that it is different means there will inevitably be a process of adaptation (see Linux is <ulink url=\"http://linux.oneandoneis2.org/LNW.htm\">Not Windows</ulink>), even where its very best features are concerned. The only way to climb the learning curve is by trying things out and using them. The more you explore Salix, the quicker you will become familiar with it. However, it is worth emphasising that the default set of applications (they vary depending on the version of Salix you choose, see <xref linkend=\"appe-Startup_Guide-List_of_Applications\" />) include many that have a very similar look and feel to those found on other operating systems, such as the office suite LibreOffice, which offers full compatibility with common file formats."
-msgstr ""
+msgid ""
+"While Salix aims to be elegant and intuitive, every operating system has its"
+" own characteristics, and if you are new to Linux, the sheer fact that it is"
+" different means there will inevitably be a process of adaptation (see Linux"
+" is <ulink url=\"http://linux.oneandoneis2.org/LNW.htm\">Not "
+"Windows</ulink>), even where its very best features are concerned. The only "
+"way to climb the learning curve is by trying things out and using them. The "
+"more you explore Salix, the quicker you will become familiar with it. "
+"However, it is worth emphasising that the default set of applications (they "
+"vary depending on the version of Salix you choose, see <xref linkend=\"appe-"
+"Startup_Guide-List_of_Applications\" />) include many that have a very "
+"similar look and feel to those found on other operating systems, such as the"
+" office suite LibreOffice, which offers full compatibility with common file "
+"formats."
+msgstr "Alhoewel Salix als doel heeft elegant en intuïtief te zijn, heeft ieder besturingssysteem z'n eigenaardigheden en als Linux nieuw voor u is, betekent het enkele feit dat het anders is onherroepelijk dat er een aanpassingsproces bestaat (zie Linux is <ulink url=\"http://linux.oneandoneis2.org/LNW.htm\">Not Windows</ulink>), zelfs als het om de beste eigenschappen gaat. De enige manier om de leercurve te bestijgen is door dingen te proberen en te gebruiken. Hoe meer u Salix verkent, hoe sneller u zich er bekend mee maakt. Het is alsnog goed te benadrukken dat de standaard keuze van applicaties (ze verschillen afhankelijk van de versie van Salix die u kiest, zie <xref linkend=\"appe-Startup_Guide-List_of_Applications\" />) veel gelijkenis hebben met die op andere besturingssystemen, zoals het office pakket LibreOffice, welke volledige compatibiliteit biedt met bekende bestandsformaten."
 
 #. Tag: para
 #, no-c-format
-msgid "Our <ulink url=\"http://www.salixos.org/wiki/index.php?title=Documentation\">Wiki</ulink> and <ulink url=\"http://www.salixos.org/forum/\">Forum</ulink> will be two other important sources of information. The search option of the forum will quickly show you if the question you have in mind has already been posted by a member of the community and if it has been answered. For the same reason, please also search the internet. If you are working on the command line (see <xref linkend=\"sect-Startup_Guide-Salix_Mini_Walkthroughs-Working_with_the_Command_Line_Interface\" />), remember to consult man (and try man salix for a summary of key points specific to this distribution). There are several online forums devoted to Linux, such as <ulink url=\"http://www.linuxquestions.org/\">www.linuxquestions.org</ulink>. It should be noted that each forum has its own subculture, and sometimes explicit posting guidelines. If you post a query to a forum, bear <ulink url=\"http://www.sas.upenn.edu/~haroldfs/dravling/grice.html\">Paul Grice's conversational maxims</ulink> in mind: for instance, be as specific as possible and mention any information you have already found out. To put it another way, remember you are consulting a human community, not an interactive online encyclopedia; it is a conversation, something which can be easily lost sight of online."
-msgstr ""
+msgid ""
+"Our <ulink "
+"url=\"http://www.salixos.org/wiki/index.php?title=Documentation\">Wiki</ulink>"
+" and <ulink url=\"http://www.salixos.org/forum/\">Forum</ulink> will be two "
+"other important sources of information. The search option of the forum will "
+"quickly show you if the question you have in mind has already been posted by"
+" a member of the community and if it has been answered. For the same reason,"
+" please also search the internet. If you are working on the command line "
+"(see <xref linkend=\"sect-Startup_Guide-Salix_Mini_Walkthroughs-"
+"Working_with_the_Command_Line_Interface\" />), remember to consult man (and "
+"try man salix for a summary of key points specific to this distribution). "
+"There are several online forums devoted to Linux, such as <ulink "
+"url=\"http://www.linuxquestions.org/\">www.linuxquestions.org</ulink>. It "
+"should be noted that each forum has its own subculture, and sometimes "
+"explicit posting guidelines. If you post a query to a forum, bear <ulink "
+"url=\"http://www.sas.upenn.edu/~haroldfs/dravling/grice.html\">Paul Grice's "
+"conversational maxims</ulink> in mind: for instance, be as specific as "
+"possible and mention any information you have already found out. To put it "
+"another way, remember you are consulting a human community, not an "
+"interactive online encyclopedia; it is a conversation, something which can "
+"be easily lost sight of online."
+msgstr "Onze <ulink url=\"http://www.salixos.org/wiki/index.php?title=Documentation\">Wiki</ulink> en <ulink url=\"http://www.salixos.org/forum/\">Forum</ulink> zullen twee andere belangrijke bronnen van informatie zijn. De zoekoptie van het forum zullen snel tonen of uw vraag al 'gepost' is door een lid van de gemeenschap en of deze is beantwoord. Zoek alstublieft ook op het voor dezelfde reden. Indien u op de commandline werkt (zie <xref linkend=\"sect-Startup_Guide-Salix_Mini_Walkthroughs-Working_with_the_Command_Line_Interface\" />), onthoudt dan om man te raadplegen (en probeer man salix voor een samenvatting van hoofdpunten specifiek voor deze distributie). Er zijn verschillende online forums toegewijd aan Linux, zoals <ulink url=\"http://www.linuxquestions.org/\">www.linuxquestions.org</ulink>. Het is handig om te weten dat elk forum z'n eigen subcultuur heeft en soms expliciete regels heeft om te 'posten'. Indien u een vraag op een forum 'post', houdt <ulink url=\"http://www.sas.upenn.edu/~haroldfs/dravling/grice.html\">Paul Grice z'n conversatie stelregels</ulink> in gedachten: bijvoorbeeld, wees zo specifiek mogelijk en beschrijf alle informatie die u al heeft (uit)gevonden. Om het anders te zeggen, onthoudt dat u een menselijke gemeenschap raadpleegt, niet een interactieve online encyclopedie; het is een conversatie, iets dat gemakkelijk online verloren geraakt."
 
 #. Tag: para
 #, no-c-format
-msgid "Forums are a concrete example of one of the qualities at the heart of Linux, which is that it is community-based. Rather than being a commercial product, in almost all cases it is developed by enthusiasts collaborating together for the sheer delight of making good software. This community extends out into the users of the distribution on its forums. Even if you just want to use core office, multimedia or network applications productively, over time the power that Linux gives users tends to promote self-reliance and an ability to configure and fix their computer setup independently. The same approach underlies the development of Linux as an operating system ̶ where there is room for improvement, someone will dive in and tinker. The cumulative result is that Linux today is highly usable out of the box."
-msgstr ""
+msgid ""
+"Forums are a concrete example of one of the qualities at the heart of Linux,"
+" which is that it is community-based. Rather than being a commercial "
+"product, in almost all cases it is developed by enthusiasts collaborating "
+"together for the sheer delight of making good software. This community "
+"extends out into the users of the distribution on its forums. Even if you "
+"just want to use core office, multimedia or network applications "
+"productively, over time the power that Linux gives users tends to promote "
+"self-reliance and an ability to configure and fix their computer setup "
+"independently. The same approach underlies the development of Linux as an "
+"operating system ̶ where there is room for improvement, someone will dive in"
+" and tinker. The cumulative result is that Linux today is highly usable out "
+"of the box."
+msgstr "Forums zijn een concreet voorbeeld van één van de kwaliteiten in de basis van linux, dat het gebaseerd is op een gemeenschap. In plaats van het zijn van een commercieel product, is het in bijna elk geval ontwikkeld door enthousiastelingen die samenwerken uitsluitend voor het plezier om goede software te maken. Deze gemeenschap reikt ook tot de gebruikers van de forums van deze distributies. Zelfs als u alleen de basis applicaties van office, multimedia of netwerk productief wilt gebruiken, zal mettertijd merken dat de kracht die Linux een gebruiker geeft leiden tot zelfvertrouwen en een vermogen tot het onafhankelijk instellen en repareren van hun computerinstellingen. Dezelfde aanpak ligt aan de basis van de ontwikkeling van Linux als besturingssysteem; waar ruimte is voor verbetering, zal iemand er induiken en optimaliseren. Het cumulatieve resultaat is dat het huidige Linux standaard zeer bruikbaar is."
 
 #. Tag: para
 #, no-c-format
-msgid "The best way to learn Linux is by using it to the full, finding out in the process how to make it do exactly what you want. After a while, though, it may be helpful to supplement this experience with some more systematic background. As mentioned in the section introducing the command line, the <ulink url=\"http://www.salixos.org/forum/viewforum.php?f=30&amp;sid=8007ff0fe74d8ba139ecb29032db24d2\">Documentation</ulink> board on the Salix forums contains a useful post on <ulink url=\"http://www.salixos.org/forum/viewtopic.php?f=30&amp;t=852\">tutorials and guides</ulink>. Wherever you find problems recur, it may be worth reading up on the underlying issues over time to gain broader knowledge, especially when it comes to general features of Linux that may be unfamiliar to you, such as file permissions."
-msgstr ""
+msgid ""
+"The best way to learn Linux is by using it to the full, finding out in the "
+"process how to make it do exactly what you want. After a while, though, it "
+"may be helpful to supplement this experience with some more systematic "
+"background. As mentioned in the section introducing the command line, the "
+"<ulink "
+"url=\"http://www.salixos.org/forum/viewforum.php?f=30&amp;sid=8007ff0fe74d8ba139ecb29032db24d2\">Documentation</ulink>"
+" board on the Salix forums contains a useful post on <ulink "
+"url=\"http://www.salixos.org/forum/viewtopic.php?f=30&amp;t=852\">tutorials "
+"and guides</ulink>. Wherever you find problems recur, it may be worth "
+"reading up on the underlying issues over time to gain broader knowledge, "
+"especially when it comes to general features of Linux that may be unfamiliar"
+" to you, such as file permissions."
+msgstr "De beste manier om Linux te leren is door het volledig te gebruiken, tijdens het proces uitzoekend om het exact te laten doen wat je wilt. Na een tijdje kan het handig zijn om deze ervaringen aan te vullen met een meer systematische achtergrond. Zoals beschreven in de sectie welke de commandline introduceert, het <ulink url=\"http://www.salixos.org/forum/viewforum.php?f=30&amp;sid=8007ff0fe74d8ba139ecb29032db24d2\">Documentation</ulink> deel van de Salix forums bevat een bruikbaare 'post' over <ulink url=\"http://www.salixos.org/forum/viewtopic.php?f=30&amp;t=852\">handleidingen en gidsen</ulink>. Waar u maar terugkomende problemen tegenkomt, kan het waardevol zijn om bij te lezen over de onderliggende oorzaken van tijd tot tijd om uw kennis te verbreden, zeker wanneer het gaat om algemene eigenschappen van Linux welke onbekend voor u zijn, zoals bestandspermissies."
 
 #. Tag: para
 #, no-c-format
-msgid "Some users may face problems at the very beginning with peripherals or the network. This can seem daunting if you are also adapting to a different operating system at the same time. Explore the options under Menu/System carefully. If difficulties persist, with judicious use of the information and help in the wiki and forums, you should hopefully get the essentials set up as you wish reasonably quickly; then you will be able to take Linux at your own pace."
-msgstr ""
+msgid ""
+"Some users may face problems at the very beginning with peripherals or the "
+"network. This can seem daunting if you are also adapting to a different "
+"operating system at the same time. Explore the options under Menu/System "
+"carefully. If difficulties persist, with judicious use of the information "
+"and help in the wiki and forums, you should hopefully get the essentials set"
+" up as you wish reasonably quickly; then you will be able to take Linux at "
+"your own pace."
+msgstr "Sommige gebruikers kunnen in het begin problemen tegenkomen aangaande accessoires of het netwerk. Dit kan ontmoedigend zijn als u ook nog tegelijkertijd moet wennen aan een nieuw besturingsysteem. Verken zorvuldig de opties onder het Menu/Systeem. Als moeilijkheden blijven, met verstandig gebruik van informatie en hulp uit de wiki en forums, kunt u het noodzakelijke redelijk snel instellen naar wens; daarna kunt u op eigen snelheid Linux opnemen."

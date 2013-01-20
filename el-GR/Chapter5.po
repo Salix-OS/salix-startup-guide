@@ -1,19 +1,19 @@
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 # Translators:
 # Dimitris Tzemos <djemos@slackel.gr>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
 "PO-Revision-Date: 2011-11-20 20:13+0000\n"
-"Last-Translator: djemos <djemos@slackel.gr>\n"
-"Language-Team: None\n"
-"Language: el\n"
+"Last-Translator: Dimitris Tzemos <djemos@slackel.gr>\n"
+"Language-Team: Greek (http://www.transifex.com/projects/p/salix_documentation/language/el/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Tag: title
 #, no-c-format
@@ -27,7 +27,9 @@ msgstr "Προχωρημένες επιλογές εκκίνησης"
 
 #. Tag: para
 #, no-c-format
-msgid "By selecting 'Change boot options' on the Salix Live Boot menu, you will be offered a choice of supplementary boot options"
+msgid ""
+"By selecting 'Change boot options' on the Salix Live Boot menu, you will be "
+"offered a choice of supplementary boot options"
 msgstr "Επιλέγοντας 'Αλλαγή επιλογών εκκίνησης' στο μενού εκκίνησης του Salix Live, θα σας προσφερθεί μια επιλογή συμπληρωματικών επιλογών εκκίνησης"
 
 #. Tag: phrase
@@ -37,7 +39,9 @@ msgstr "Οδηγίες κάτω από το μενού εκκίνησης του
 
 #. Tag: para
 #, no-c-format
-msgid "The instructions below the Salix Live Boot menu will give you access to Salix Live 'manual' advanced Boot options."
+msgid ""
+"The instructions below the Salix Live Boot menu will give you access to "
+"Salix Live 'manual' advanced Boot options."
 msgstr "Οι οδηγίες κάτω από το μενού εκκίνησης του Salix Live θα σας δώσουν πρόσβαση σε προηγμένες επιλογές εκκίνησης του «εγχειριδίου» του Salix Live."
 
 #. Tag: phrase
@@ -47,7 +51,9 @@ msgstr "Συμπληρωματικές επιλογές εκκίνησης "
 
 #. Tag: para
 #, no-c-format
-msgid "Pressing “c” gives you access to the Grub shell. Type help to view all available commands."
+msgid ""
+"Pressing “c” gives you access to the Grub shell. Type help to view all "
+"available commands."
 msgstr "Πατώντας \"c\" σας δίνει πρόσβαση στο κέλυφος του Grub. Πληκτρολογήστε help για να δείτε όλες τις διαθέσιμες εντολές."
 
 #. Tag: phrase
@@ -62,7 +68,11 @@ msgstr "Παράμετροι εκκίνησης"
 
 #. Tag: para
 #, no-c-format
-msgid "Pressing 'e' while 'Start Salix Live' is selected opens up the following display, enabling you to modify some of the booting options, for example, in order to enter a boot parameter. For instance, “nomodeset” for those who use older graphic cards and have problem booting up properly."
+msgid ""
+"Pressing 'e' while 'Start Salix Live' is selected opens up the following "
+"display, enabling you to modify some of the booting options, for example, in"
+" order to enter a boot parameter. For instance, “nomodeset” for those who "
+"use older graphic cards and have problem booting up properly."
 msgstr "Πατώντας 'e', ενώ έχει επιλεγεί 'Έναρξη του Salix Live'  ανοίγει την ακόλουθη οθόνη, που σας επιτρέπει να τροποποιήσετε μερικές από τις επιλογές εκκίνησης, για παράδειγμα, για να εισάγετε μια παράμετρο εκκίνησης. Για παράδειγμα, \"nomodeset\" για όσους χρησιμοποιούν πιο παλιές κάρτες γραφικών και έχουν πρόβλημα να εκκινήσουν κανονικά."
 
 #. Tag: phrase
@@ -72,7 +82,11 @@ msgstr "Επεξεργασία εξ' ορισμού επιλογών του με
 
 #. Tag: para
 #, no-c-format
-msgid "Booting parameters or cheatcodes, are used to manipulate the booting process of Linux. To enter a cheatcode, you simply have to add it to the 'linux' line above (after changes=slxsave.xfs), ensuring a blank space separates it from the previous boot parameter."
+msgid ""
+"Booting parameters or cheatcodes, are used to manipulate the booting process"
+" of Linux. To enter a cheatcode, you simply have to add it to the 'linux' "
+"line above (after changes=slxsave.xfs), ensuring a blank space separates it "
+"from the previous boot parameter."
 msgstr "Οι παράμετροι εκκίνησης ή cheatcodes, χρησιμοποιούνται για την διαχείριση της διαδικασίας εκκίνησης του Linux. Για να εισάγετε ένα cheatcode, πρέπει απλά να το προσθέσετε στη παραπάνω γραμμή 'linux' (μετά από changes=slxsave.xfs), εξασφαλίζοντας ένα κενό διάστημα να τη χωρίζει από την προηγούμενη παράμετρο εκκίνησης."
 
 #. Tag: title
@@ -137,7 +151,9 @@ msgstr "load=module"
 
 #. Tag: para
 #, no-c-format
-msgid "(You can use the full module name (module.lzm) or you can skip the extension.)"
+msgid ""
+"(You can use the full module name (module.lzm) or you can skip the "
+"extension.)"
 msgstr "(Μπορείτε να χρησιμοποιήσετε το πλήρες όνομα του module (module.lzm) ή μπορείτε να παρακάμψετε την επέκταση.)"
 
 #. Tag: para
@@ -177,7 +193,10 @@ msgstr "changes=/dev/device/path/"
 
 #. Tag: para
 #, no-c-format
-msgid "(This cheatcode is already included in Salix Live boot menu and the Persistence Wizard can assist you in creating a persistent file that will be automatically managed by Salix Live.)"
+msgid ""
+"(This cheatcode is already included in Salix Live boot menu and the "
+"Persistence Wizard can assist you in creating a persistent file that will be"
+" automatically managed by Salix Live.)"
 msgstr "(Αυτό το cheatcode περιλαμβάνεται ήδη στο μενού εκκίνησης του Salix Live και ο Οδηγός μόνιμων αλλαγών μπορεί να σας βοηθήσει στη δημιουργία ενός αρχείου μόνιμων αλλαγών το οποίο αυτόματα διαχειρίζεται από το Salix Live.)"
 
 #. Tag: para
@@ -192,7 +211,8 @@ msgstr "debug"
 
 #. Tag: para
 #, no-c-format
-msgid "(Starts bash several times during boot. Press Ctrl+D to resume booting)"
+msgid ""
+"(Starts bash several times during boot. Press Ctrl+D to resume booting)"
 msgstr "(Ξεκινά το κέλυφος bash αρκετές φορές κατά τη διάρκεια της εκκίνησης. Πατήστε Ctrl + D για να συνεχίσετε την εκκίνηση)"
 
 #. Tag: title
@@ -282,7 +302,9 @@ msgstr "Προσαρμογή ενος αρθρώματος"
 
 #. Tag: para
 #, no-c-format
-msgid "You can fully customize the content of a module by removing or adding applications and by deleting, editing or adding new files inside it."
+msgid ""
+"You can fully customize the content of a module by removing or adding "
+"applications and by deleting, editing or adding new files inside it."
 msgstr "Μπορείτε να προσαρμόσετε πλήρως το περιεχόμενο ενος αρθρώματος με την αφαίρεση ή την προσθήκη εφαρμογών και με τη διαγραφή, επεξεργασία ή προσθήκη νέων αρχείων μέσα σε αυτό."
 
 #. Tag: para
@@ -297,7 +319,8 @@ msgstr "mkdir -p /mnt/hdxx/directoryx"
 
 #. Tag: para
 #, no-c-format
-msgid "2. Open up the module you want to customize under the working directory:"
+msgid ""
+"2. Open up the module you want to customize under the working directory:"
 msgstr "2. Ανοίξτε τη μονάδα που θέλετε να προσαρμόσετε κάτω από τον κατάλογο εργασίας:"
 
 #. Tag: para
@@ -307,7 +330,9 @@ msgstr "lzm2dir /mnt/hdc/salixlive/base/modulex.lzm /mnt/hdxx/directoryx"
 
 #. Tag: para
 #, no-c-format
-msgid "(TIP: You can check that the module contains the unwanted packages by listing the /mnt/hdxx/directoryx/var/log/packages/ directory.)"
+msgid ""
+"(TIP: You can check that the module contains the unwanted packages by "
+"listing the /mnt/hdxx/directoryx/var/log/packages/ directory.)"
 msgstr "(TIP:. Μπορείτε να ελέγξετε ότι το άρθρωμα περιέχει τα ανεπιθύμητα πακέτα του καταλόγου /mnt/hdxx/directoryx/var/log/packages/directory.)"
 
 #. Tag: para
@@ -362,7 +387,9 @@ msgstr "dir2lzm directoryx modulex.lzm"
 
 #. Tag: para
 #, no-c-format
-msgid "6. Replace the original module with your new module, rebuild the ISO image and reburn the CD."
+msgid ""
+"6. Replace the original module with your new module, rebuild the ISO image "
+"and reburn the CD."
 msgstr "6. Αντικαταστήστε το αρχικό module με τη νέα μονάδα σας, επαναδημιουργήστε την εικόνα ISO και ξανακάψτε το CD."
 
 #. Tag: title
@@ -372,7 +399,10 @@ msgstr "Ποιό module περιέχει την τάδε εφαρμογή;"
 
 #. Tag: para
 #, no-c-format
-msgid "By browsing /mnt/live/memory/images/xxx.lzm/, you can view the contents of each module, therefore you'll find which module holds a given package in /mnt/live/memory/images/xxx.lzm/var/log/packages/"
+msgid ""
+"By browsing /mnt/live/memory/images/xxx.lzm/, you can view the contents of "
+"each module, therefore you'll find which module holds a given package in "
+"/mnt/live/memory/images/xxx.lzm/var/log/packages/"
 msgstr "Με την περιήγηση του /mnt/live/memory/images/xxx.lzm/, μπορείτε να δείτε τα περιεχόμενα του κάθε module, ως εκ τούτου θα βρείτε ποιo module περιέχει ένα συγκεκριμένο πακέτο στο /mnt/live/memory/images/xxx.lzm/var/log/packages/"
 
 #. Tag: title
@@ -382,17 +412,27 @@ msgstr "Προσθέτοντας αρχεία στο Salix Live"
 
 #. Tag: para
 #, no-c-format
-msgid "Sometimes all you want to do is add a couple files to Salix Live, for example specific configuration files. In that case it is not necessary to create or modify a module."
+msgid ""
+"Sometimes all you want to do is add a couple files to Salix Live, for "
+"example specific configuration files. In that case it is not necessary to "
+"create or modify a module."
 msgstr "Μερικές φορές το μόνο που θέλετε να κάνετε είναι να προσθέσετε μερικά αρχεία στο Salix Live, για παράδειγμα ειδικά αρχεία ρυθμίσεων. Σε αυτή την περίπτωση δεν είναι απαραίτητο να δημιουργήσετε ή να τροποποιήσετε μια μονάδα."
 
 #. Tag: para
 #, no-c-format
-msgid "Salix Live CD holds a /salixlive/rootcopy/ directory. The content of this directory is copied to the root filesystem each time you boot, preserving all directories."
+msgid ""
+"Salix Live CD holds a /salixlive/rootcopy/ directory. The content of this "
+"directory is copied to the root filesystem each time you boot, preserving "
+"all directories."
 msgstr "Το Salix Live CD περιέχει ένα /salixlive/rootcopy/ κατάλογο. Το περιεχόμενο αυτού του καταλόγου αντιγράφεται στο ριζικό σύστημα αρχείων κάθε φορά που κάνετε εκκίνηση, διατηρώντας όλους τους καταλόγους."
 
 #. Tag: para
 #, no-c-format
-msgid "So, for example, if you wish to just use your own xorg.conf file, create etc/X11/ directories inside of /salixlive/rootcopy and store your xorg.conf in it. Note that you need to recreate the full directory hierarchy for the patches to work as desired."
+msgid ""
+"So, for example, if you wish to just use your own xorg.conf file, create "
+"etc/X11/ directories inside of /salixlive/rootcopy and store your xorg.conf "
+"in it. Note that you need to recreate the full directory hierarchy for the "
+"patches to work as desired."
 msgstr "Έτσι, για παράδειγμα, εάν επιθυμείτε να χρησιμοποιήσετε το δικό σας αρχείο xorg.conf, δημιουργήστε καταλόγους etc/X11 /μέσα στο /salixlive/rootcopy και αποθηκεύστε το αρχείο σας xorg.conf σε αυτό. Σημειώστε ότι χρειάζεστε να αναδημιουργήσει την πλήρη ιεραρχία καταλόγων για τα patches για να εργαστούν ως επιθυμείτε."
 
 #. Tag: title
@@ -402,5 +442,10 @@ msgstr "Τροποποίηση του Salix Live ISO"
 
 #. Tag: para
 #, no-c-format
-msgid "To remaster Salix Live, you could simply use the program Isomaster. You must open an ISO file of Salix Live (for example the one you downloaded) and then add to and/or remove from the modules situated in /salixlive/base, /salixlive/modules or /salixlive/optional. Once you are done, save the modified ISO to your hard drive and use Brasero to burn it on a CD-ROM."
+msgid ""
+"To remaster Salix Live, you could simply use the program Isomaster. You must"
+" open an ISO file of Salix Live (for example the one you downloaded) and "
+"then add to and/or remove from the modules situated in /salixlive/base, "
+"/salixlive/modules or /salixlive/optional. Once you are done, save the "
+"modified ISO to your hard drive and use Brasero to burn it on a CD-ROM."
 msgstr "Για να επαναδημιουργήσετε το Salix Live, θα μπορούσατε να χρησιμοποιήσετε απλά το πρόγραμμα Isomaster. Πρέπει να ανοίξετε ένα αρχείο ISO του Salix Live (για παράδειγμα αυτό που κατεβάσατε) και στη συνέχεια να προσθέσετε και/ή να αφαιρέσετε από τα αρθρώματα που βρίσκονται στο /salixlive/abse, /salixlive/modules ή /salixlive/optional. Μόλις τελειώσετε, αποθηκεύστε το τροποποιημένο ISO στο σκληρό σας δίσκο και χρησιμοποιήστε το Brasero να το κάψετε σε ένα CD-ROM."

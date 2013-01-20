@@ -1,0 +1,450 @@
+# AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: Salix documentation\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-01-16 02:02+0000\n"
+"Last-Translator: seacat <seacat.linux@gmail.com>\n"
+"Language-Team: Spanish (Argentina) (http://www.transifex.com/projects/p/salix_documentation/language/es_AR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_AR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Advanced Live CD Options"
+msgstr "Opciones avanzadas del Live CD"
+
+#. Tag: title
+#, no-c-format
+msgid "Advanced Boot Options"
+msgstr "Opciones avanzada de arranque"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"By selecting 'Change boot options' on the Salix Live Boot menu, you will be "
+"offered a choice of supplementary boot options"
+msgstr "Al seleccionar 'Cambiar opciones de arranque' en el menú de arranque de Salix Live, se le ofrecerán un grupo de opciones complementarias de arranque"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Instructions below the Salix Live Boot menu"
+msgstr "Instrucciones a continuación del menú de arranque de Salix Live"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The instructions below the Salix Live Boot menu will give you access to "
+"Salix Live 'manual' advanced Boot options."
+msgstr "Las instrucciones de abajo del menú de Arranque de Salix Live le permitirán acceder a las opciones de arranque avanzadas 'manuales' de Salix Live."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Supplementary boot options"
+msgstr "Opciones complementarias de arranque "
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Pressing “c” gives you access to the Grub shell. Type help to view all "
+"available commands."
+msgstr "Presionar 'c' le da acceso al shell de Grub. Escriba help para ver todos los comandos disponibles."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Grub Shell"
+msgstr "Shell de Grub"
+
+#. Tag: title
+#, no-c-format
+msgid "Boot Parameters"
+msgstr "Parámetros de arranque"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Pressing 'e' while 'Start Salix Live' is selected opens up the following "
+"display, enabling you to modify some of the booting options, for example, in"
+" order to enter a boot parameter. For instance, “nomodeset” for those who "
+"use older graphic cards and have problem booting up properly."
+msgstr "Presionar 'e' mientras se selecciona 'Arrancar Salix Live' abre la siguiente pantalla, permitiéndole modificar algunas de las opciones de arranque, por ejemplo, para ingresar un parámetro de arranque. Por ejemplo, \"nomodeset\" para aquellos quienes usan tarjetas gráficas antiguas y tienen problemas para arrancar correctamente."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Editing Salix default menu options"
+msgstr "Editar las opciones de menú por defecto de Salix"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Booting parameters or cheatcodes, are used to manipulate the booting process"
+" of Linux. To enter a cheatcode, you simply have to add it to the 'linux' "
+"line above (after changes=slxsave.xfs), ensuring a blank space separates it "
+"from the previous boot parameter."
+msgstr "Los parámetros de arranque o cheatcodes, se usan para manipular el proceso de arranque de Linux. Para ingresar un parámetro de arranque, sencillamente tiene que agregarlo a la línea 'linux' de arriba (después de changes=slxsave.xfs), asegurando que un espacio en blanco lo separa del parámetro de arranque anterior."
+
+#. Tag: title
+#, no-c-format
+msgid "Useful Boot Parameters"
+msgstr "Parámetros de arranque útiles"
+
+#. Tag: para
+#, no-c-format
+msgid "To load in console only without executing Xorg (runlevel 3)"
+msgstr "Cargar en consola solamente sin ejecutar Xorg (runlevel 3)"
+
+#. Tag: para
+#, no-c-format
+msgid "3"
+msgstr "3"
+
+#. Tag: para
+#, no-c-format
+msgid "To load Salix Live from a different location than the boot device:"
+msgstr "Cargar Salix Live desde una ubicación distinta que el dispositivo de arranque:"
+
+#. Tag: para
+#, no-c-format
+msgid "from=/dev/device/salixlive-version.iso"
+msgstr "from=/dev/dispositivo/salixlive-version.iso"
+
+#. Tag: para
+#, no-c-format
+msgid "from=path/to/salixlive-version.iso"
+msgstr "from=ruta/a/salixlive-version.iso"
+
+#. Tag: para
+#, no-c-format
+msgid "from=path/to/exploded/salixlive-version.iso"
+msgstr "from=ruta/a/expandido/salixlive-version.iso"
+
+#. Tag: para
+#, no-c-format
+msgid "To set root's password to \"somepass\", or ask for a new password:"
+msgstr "Establecer la contraseña de root a \"alguna_contraseña\", o pedir una nueva contraseña:"
+
+#. Tag: para
+#, no-c-format
+msgid "passwd=somepass"
+msgstr "passwd=alguna_contraseña"
+
+#. Tag: para
+#, no-c-format
+msgid "passwd=ask"
+msgstr "passwd=ask"
+
+#. Tag: para
+#, no-c-format
+msgid "To load optional modules from /optional/ directory on the CD:"
+msgstr "Cargar módulos opcionales desde el directorio /optional/ en el CD:"
+
+#. Tag: para
+#, no-c-format
+msgid "load=module"
+msgstr "load=módulo"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"(You can use the full module name (module.lzm) or you can skip the "
+"extension.)"
+msgstr "(Puede usar el nombre completo del módulo (modulo.lzm) o puede saltear la extensión.)"
+
+#. Tag: para
+#, no-c-format
+msgid "To safeguard all changes made in a Salix Live session:"
+msgstr "Para proteger todos los cambios realizados en una sesión de Salix Live:"
+
+#. Tag: para
+#, no-c-format
+msgid "changes=file"
+msgstr "changes=archivo"
+
+#. Tag: para
+#, no-c-format
+msgid "changes=/dev/device"
+msgstr "changes=/dev/dispositivo"
+
+#. Tag: para
+#, no-c-format
+msgid "changes=/dev/device/file"
+msgstr "changes=/dev/dispositivo/archivo"
+
+#. Tag: para
+#, no-c-format
+msgid "changes=/path/"
+msgstr "changes=/ruta/"
+
+#. Tag: para
+#, no-c-format
+msgid "changes=/path/file"
+msgstr "changes=/ruta/archivo"
+
+#. Tag: para
+#, no-c-format
+msgid "changes=/dev/device/path/"
+msgstr "changes=/dev/dispositivo/ruta/"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"(This cheatcode is already included in Salix Live boot menu and the "
+"Persistence Wizard can assist you in creating a persistent file that will be"
+" automatically managed by Salix Live.)"
+msgstr "(Este parámetro ya está incluido en el menú de arranque de Salix Live y el Asistente de Persistencia puede ayudarlo a crear un archivo persistente que será administrado automáticamente por Salix Live)."
+
+#. Tag: para
+#, no-c-format
+msgid "To enable debug mode:"
+msgstr "Para habilitar el modo de depuración:"
+
+#. Tag: para
+#, no-c-format
+msgid "debug"
+msgstr "debug"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"(Starts bash several times during boot. Press Ctrl+D to resume booting)"
+msgstr "(Inicia bash varias veces durante el arranque. Presionar Ctrl+D para continuar el arranque)"
+
+#. Tag: title
+#, no-c-format
+msgid "Personalising a Module"
+msgstr "Personalizar un módulo"
+
+#. Tag: title
+#, no-c-format
+msgid "Creating a module"
+msgstr "Crear un módulo"
+
+#. Tag: para
+#, no-c-format
+msgid "1. Create a working directory"
+msgstr "1. Crear el directorio de trabajo"
+
+#. Tag: para
+#, no-c-format
+msgid "mkdir -p /mnt/hdxx/directory1"
+msgstr "mkdir -p /mnt/hdxx/directorio1"
+
+#. Tag: para
+#, no-c-format
+msgid "2. Install all software packages using this directory as root:"
+msgstr "2. Instalar todos los paquetes de software usando este directorio como raíz:"
+
+#. Tag: para
+#, no-c-format
+msgid "installpkg --root=/mnt/hdxx/directory1 packagea-x.x.x.txz"
+msgstr "installpkg --root=/mnt/hdxx/directorio1 paquetea-x.x.x.txz"
+
+#. Tag: para
+#, no-c-format
+msgid "installpkg –-root=/mnt/hdxx/directory1 packageb-x.x.x.txz"
+msgstr "installpkg –-root=/mnt/hdxx/directorio1 paqueteb-x.x.x.txz"
+
+#. Tag: para
+#, no-c-format
+msgid "installpkg –-root=/mnt/hdxx/directory1 packagec-x.x.x.txz"
+msgstr "installpkg –-root=/mnt/hdxx/directorio1 paquetec-x.x.x.txz"
+
+#. Tag: para
+#, no-c-format
+msgid "etc."
+msgstr "etc."
+
+#. Tag: para
+#, no-c-format
+msgid "3. Remove all unneeded files:"
+msgstr "3. Eliminar todos los archivos innecesarios:"
+
+#. Tag: para
+#, no-c-format
+msgid "rm -rf /mnt/hdxx/directory1/usr/doc/*"
+msgstr "rm -rf /mnt/hdxx/directorio1/usr/doc/*"
+
+#. Tag: para
+#, no-c-format
+msgid "4. Make any modifications you want:"
+msgstr "4. Hacer cualquier modificación que desee:"
+
+#. Tag: para
+#, no-c-format
+msgid "echo \"whatever\" &gt; /mnt/hdxx/directory1/foo/bar"
+msgstr "echo \"lo que sea\" &gt; /mnt/hdxx/directorio1/foo/bar"
+
+#. Tag: para
+#, no-c-format
+msgid "5. Build the module:"
+msgstr "5. Compilar el módulo:"
+
+#. Tag: para
+#, no-c-format
+msgid "cd /mnt/hdxx/"
+msgstr "cd /mnt/hdxx/"
+
+#. Tag: para
+#, no-c-format
+msgid "dir2lzm directory1 module1.lzm"
+msgstr "dir2lzm directorio1 modulo1.lzm"
+
+#. Tag: title
+#, no-c-format
+msgid "Customizing a module"
+msgstr "Personalizar un módulo"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You can fully customize the content of a module by removing or adding "
+"applications and by deleting, editing or adding new files inside it."
+msgstr "Puede personalizar completamente el contenido de un módulo quitando o agregando aplicaciones al eliminar, editar o agregar nuevos archivos dentro suyo."
+
+#. Tag: para
+#, no-c-format
+msgid "1. Create a working directory:"
+msgstr "1. Crear el directorio de trabajo:"
+
+#. Tag: para
+#, no-c-format
+msgid "mkdir -p /mnt/hdxx/directoryx"
+msgstr "mkdir -p /mnt/hdxx/directoriox"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"2. Open up the module you want to customize under the working directory:"
+msgstr "2. Abrir el módulo que quiere personalizar dentro del directorio de trabajo:"
+
+#. Tag: para
+#, no-c-format
+msgid "lzm2dir /mnt/hdc/salixlive/base/modulex.lzm /mnt/hdxx/directoryx"
+msgstr "lzm2dir /mnt/hdc/salixlive/base/modulox.lzm /mnt/hdxx/directoriox"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"(TIP: You can check that the module contains the unwanted packages by "
+"listing the /mnt/hdxx/directoryx/var/log/packages/ directory.)"
+msgstr "(TIP: Puede verificar que el módulo contiene los paquetes no deseados al listar el directorio /mnt/hdxx/directoriox/var/log/packages/.)"
+
+#. Tag: para
+#, no-c-format
+msgid "3. Remove the packages from the working directory:"
+msgstr "3. Eliminar los paquetes del directorio de trabajo:"
+
+#. Tag: para
+#, no-c-format
+msgid "ROOT=/mnt/hdxx/directoryx removepkg packagex"
+msgstr "ROOT=/mnt/hdxx/directoriox removepkg paquetex"
+
+#. Tag: para
+#, no-c-format
+msgid "ROOT=/mnt/hdxx/directoryx removepkg packagey"
+msgstr "ROOT=/mnt/hdxx/directoriox removepkg paquetey"
+
+#. Tag: para
+#, no-c-format
+msgid "ROOT=/mnt/hdxx/directoryx removepkg packagez"
+msgstr "ROOT=/mnt/hdxx/directoriox removepkg paquetez"
+
+#. Tag: para
+#, no-c-format
+msgid "4. Install new packages to the working directory:"
+msgstr "4. Instalar los paquetes nuevos en el directorio de trabajo:"
+
+#. Tag: para
+#, no-c-format
+msgid "installpkg –-root=/mnt/hdxx/directoryx package1-x.x.x.txz"
+msgstr "installpkg –-root=/mnt/hdxx/directoriox paquete1-x.x.x.txz"
+
+#. Tag: para
+#, no-c-format
+msgid "installpkg –-root=/mnt/hdxx/directoryx package2-x.x.x.txz"
+msgstr "installpkg –-root=/mnt/hdxx/directoriox paquete2-x.x.x.txz"
+
+#. Tag: para
+#, no-c-format
+msgid "installpkg –-root=/mnt/hdxx/directoryx package3-x.x.x.txz"
+msgstr "installpkg –-root=/mnt/hdxx/directoriox paquete3-x.x.x.txz"
+
+#. Tag: para
+#, no-c-format
+msgid "5. Rebuild the module:"
+msgstr "5. Recompilar el módulo:"
+
+#. Tag: para
+#, no-c-format
+msgid "dir2lzm directoryx modulex.lzm"
+msgstr "dir2lzm directoriox modulox.lzm"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"6. Replace the original module with your new module, rebuild the ISO image "
+"and reburn the CD."
+msgstr "6. Reemplazar el módulo original con el nuevo, recompilar la imagen ISO y volver a grabar el CD."
+
+#. Tag: title
+#, no-c-format
+msgid "Which module contains application XXX?"
+msgstr "¿Qué módulo contiene la aplicación XXX?"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"By browsing /mnt/live/memory/images/xxx.lzm/, you can view the contents of "
+"each module, therefore you'll find which module holds a given package in "
+"/mnt/live/memory/images/xxx.lzm/var/log/packages/"
+msgstr "Al inspeccionar /mnt/live/memory/images/xxx.lzm/, puede ver los contenidos de cada módulo, por lo tanto, encontrará que el módulo contiene un paquete dado en /mnt/live/memory/images/xxx.lzm/var/log/packages/"
+
+#. Tag: title
+#, no-c-format
+msgid "Adding files to Salix Live"
+msgstr "Agregar archivos a Salix Live"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Sometimes all you want to do is add a couple files to Salix Live, for "
+"example specific configuration files. In that case it is not necessary to "
+"create or modify a module."
+msgstr "A veces, todo lo que quiere hacer es agregar un par de archivos a Salix Live, por ejemplo, archivos de configuración específicos. En ese caso, no es necesario crear o modificar un módulo."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Salix Live CD holds a /salixlive/rootcopy/ directory. The content of this "
+"directory is copied to the root filesystem each time you boot, preserving "
+"all directories."
+msgstr "Salix Live CD contiene el directorio /salixlive/rootcopy/. El contenido de este directorio se copia a la raíz del sistema de archivos cada vez que arranca, preservando todos los directorios."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"So, for example, if you wish to just use your own xorg.conf file, create "
+"etc/X11/ directories inside of /salixlive/rootcopy and store your xorg.conf "
+"in it. Note that you need to recreate the full directory hierarchy for the "
+"patches to work as desired."
+msgstr "Por lo tanto, por ejemplo, si desea usar su propio archivo xorg.conf, crear un directorio etc/X11/ dentro de /salixlive/rootcopy y almacenar su xorg.conf en él. Advierta que Ud necesita recrear la jerarquía de directorios completa para que el parche trabaje según lo deseado."
+
+#. Tag: title
+#, no-c-format
+msgid "Modify Salix Live ISO"
+msgstr "Modificar el ISO de Salix Live"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To remaster Salix Live, you could simply use the program Isomaster. You must"
+" open an ISO file of Salix Live (for example the one you downloaded) and "
+"then add to and/or remove from the modules situated in /salixlive/base, "
+"/salixlive/modules or /salixlive/optional. Once you are done, save the "
+"modified ISO to your hard drive and use Brasero to burn it on a CD-ROM."
+msgstr "Para remasterizar Salix Live, podría usar el programa Isomaster. Tiene que abrir un archivo ISO de Salix Live (por ejemplo, el que descargó) y luego agregar y/o eliminar de los módulos localizados en /salixlive/base, /salixlive/modules o /salixlive/optional. Una vez que esté listo, guardar el ISO modificado a su disco duro y usar Brasero para grabarlo a un CD-ROM."

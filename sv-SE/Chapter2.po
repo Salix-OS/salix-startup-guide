@@ -1,19 +1,19 @@
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 # Translators:
-# Ingemar Karlsson <ingemar@ingk.se>, 2011.
+# Ingemar Karlsson <ingemar@ingk.se>, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-11-20 17:23+0000\n"
-"Last-Translator: ingemar <ingemar@ingk.se>\n"
-"Language-Team: None\n"
-"Language: sv\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-04-09 07:31+0000\n"
+"Last-Translator: Ingemar Karlsson <ingemar@ingk.se>\n"
+"Language-Team: Swedish (http://www.transifex.com/projects/p/salix_documentation/language/sv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Tag: title
 #, no-c-format
@@ -32,18 +32,33 @@ msgstr "Ladda ner Salix OS"
 
 #. Tag: para
 #, no-c-format
-msgid "The latest Salix OS or Salix Live releases are freely and easily available as ISO image files from the Salix OS <ulink url=\"http://www.salixos.org/wiki/index.php?title=Download\">download page</ulink>."
+msgid ""
+"The latest Salix OS or Salix Live releases are freely and easily available "
+"as ISO image files from the Salix OS <ulink "
+"url=\"http://www.salixos.org/wiki/index.php?title=Download\">download "
+"page</ulink>."
 msgstr "Den senaste Salix OS eller Salix Live-releaser är fritt och lätt tillgängliga som ISO-bildfiler från Salix OS <ulink url=\"http://www.salixos.org/wiki/index.php?title=Download\"> Hämtningssida </ulink> ."
 
 #. Tag: para
 #, no-c-format
-msgid "An ISO image is an archive file of an optical disc. It can be easily rendered or burned to a DVD or CD by using media authoring or disc burning software. The resulting CD must not contain the .iso file; if it does, you have made a mistake in the process."
-msgstr "En ISO-bild är en arkivfil av en optisk skiva. Den kan lätt återges eller brännas till en DVD eller CD med hjälp av media redigering eller brännar programvara. Den resulterande CD får inte innehålla ISO-filen,. Om det gör det, har du gjort ett misstag i processen."
+msgid ""
+"An ISO image is an archive file of an optical disc. It can be easily "
+"rendered or burned to a DVD or CD by using media authoring or disc burning "
+"software. The resulting CD must not contain the .iso file; if it does, you "
+"have made a mistake in the process."
+msgstr "En ISO-bild är en arkivfil av en optisk skiva. Den kan lätt återges eller brännas till en DVD eller CD med hjälp av mediaredigerings eller brännar programvara. Den resulterande CD får inte innehålla ISO-filen,. Om det gör det, har du gjort ett misstag i processen."
 
 #. Tag: para
 #, no-c-format
-msgid "It is recommended, if possible, to verify the integrity of your downloaded file by comparing its <ulink url=\"http://en.wikipedia.org/wiki/Md5sum\">md5sum</ulink> file with the original one uploaded besides the corresponding ISO image file by Salix OS. This ensures that your downloaded image file matches exactly with the one provided on the Salix OS website, and minimises the possibility of installation errors later on."
-msgstr "Det rekommenderas, om möjligt, att verifiera integriteten av din nedladdade filen genom att jämföra dess <ulink url=\"http://en.wikipedia.org/wiki/Md5sum\">md5sum</ulink> fil med original uppladdade ISO-avbild av Salix OS. Detta garanterar att din nedladdade bildfilen matchar exakt med den som finns på Salix OS hemsida, och minimerar risken för installationsfel senare."
+msgid ""
+"It is recommended, if possible, to verify the integrity of your downloaded "
+"file by comparing its <ulink "
+"url=\"http://en.wikipedia.org/wiki/Md5sum\">md5sum</ulink> file with the "
+"original one uploaded besides the corresponding ISO image file by Salix OS. "
+"This ensures that your downloaded image file matches exactly with the one "
+"provided on the Salix OS website, and minimises the possibility of "
+"installation errors later on."
+msgstr "Det rekommenderas, om möjligt, att verifiera integriteten av din nedladdade filen genom att jämföra dess <ulink url=\"http://en.wikipedia.org/wiki/Md5sum\">md5sum</ulink> fil med original uppladdade ISO-avbild av Salix OS. Detta garanterar att din nedladdade ISO-abild matchar exakt med den som finns på Salix OS hemsida, och minimerar risken för installationsfel senare."
 
 #. Tag: title
 #, no-c-format
@@ -52,27 +67,46 @@ msgstr "Vad är en Live CD / USB?"
 
 #. Tag: para
 #, no-c-format
-msgid "A Live CD is a CD-ROM holding a self-contained bootable and fully functional operating system. It loads into memory using only the data provided on the CD. It will not modify any operating system or data present on its host computer and will leave no trace after shutdown."
+msgid ""
+"A Live CD is a CD-ROM holding a self-contained bootable and fully functional"
+" operating system. It loads into memory using only the data provided on the "
+"CD. It will not modify any operating system or data present on its host "
+"computer and will leave no trace after shutdown."
 msgstr "En Live CD är en CD-ROM innehållande en startbar och fullt fungerande operativsystem. Den laddas i minnet användandet av endast de uppgifter som lämnas på CD-skivan. Det kommer inte ändra något operativsystem eller data som finns på värddatorn och lämnar inga spår efter avstängning."
 
 #. Tag: para
 #, no-c-format
-msgid "A Live USB flash drive is similar to a Live CD, but it can have the added functionality of automatically and transparently writing changes back to its bootable medium."
+msgid ""
+"A Live USB flash drive is similar to a Live CD, but it can have the added "
+"functionality of automatically and transparently writing changes back to its"
+" bootable medium."
 msgstr "En Live USB-minne liknar en Live CD, men det kan ha en ny funktion som automatiskt och transparent skriver ändringar tillbaka till sitt startbara mediet."
 
 #. Tag: para
 #, no-c-format
-msgid "Salix Live is the Live CD version of <ulink url=\"http://www.salixos.org/\">Salix OS</ulink>. You can therefore safely use it to 'test drive' Salix OS without having to install anything on your computer. You will thus be able to determine whether and to what extent Salix OS is compatible with your particular hardware configuration and if it suits your personal taste."
+msgid ""
+"Salix Live is the Live CD version of <ulink "
+"url=\"http://www.salixos.org/\">Salix OS</ulink>. You can therefore safely "
+"use it to 'test drive' Salix OS without having to install anything on your "
+"computer. You will thus be able to determine whether and to what extent "
+"Salix OS is compatible with your particular hardware configuration and if it"
+" suits your personal taste."
 msgstr "Salix Live är Live CD-versionen av <ulink url=\"http://www.salixos.org/\"> Salix OS </ulink> . Du kan därför tryggt använda den för att \"provköra\" Salix OS utan att behöva installera något på din dator. Du kommer alltså att kunna avgöra om och i vilken utsträckning Salix OS är kompatibel med din hårdvarukonfiguration och om det passar din personliga smak."
 
 #. Tag: para
 #, no-c-format
-msgid "If you are fully satisfied with your Live experience of Salix OS, you can then proceed to install it with the help of the Salix Live Installer."
+msgid ""
+"If you are fully satisfied with your Live experience of Salix OS, you can "
+"then proceed to install it with the help of the Salix Live Installer."
 msgstr "Om du är helt nöjd med din Live erfarenhet av Salix OS kan du gå vidare och installera det med hjälp av Salix Live Installer."
 
 #. Tag: para
 #, no-c-format
-msgid "Salix Live will also come in handy as a mobile solution if you wish to carry Salix OS everywhere you go, or if you need to perform some basic rescue operation such as fixing an ailing LILO bootloader with Lilo Setup, configuring some partitions with Gparted, etc."
+msgid ""
+"Salix Live will also come in handy as a mobile solution if you wish to carry"
+" Salix OS everywhere you go, or if you need to perform some basic rescue "
+"operation such as fixing an ailing LILO bootloader with Lilo Setup, "
+"configuring some partitions with Gparted, etc."
 msgstr "Salix Live kommer också väl till pass som en mobil lösning om du vill köra Salix OS vart du än går, eller om du behöver utföra några grundläggande räddningsoperation som fixa en sjuklig lilo med Lilo installation, konfigurera vissa partitioner med Gparted, etc. ."
 
 #. Tag: title
@@ -82,12 +116,16 @@ msgstr "Skapa en Salix Live USB-minne"
 
 #. Tag: para
 #, no-c-format
-msgid "Open the .iso file using a software archiver (file-roller, xarchiver, 7-zip, iso-master, …)."
+msgid ""
+"Open the .iso file using a software archiver (file-roller, xarchiver, 7-zip,"
+" iso-master, …)."
 msgstr "Öppna. Iso-filen med hjälp av en arkiv programvara (file-roller, xarchiver, 7-zip, iso-master, ...)."
 
 #. Tag: para
 #, no-c-format
-msgid "Extract all files and folders (boot, packages and Salix Live) to your USB root directory."
+msgid ""
+"Extract all files and folders (boot, packages and Salix Live) to your USB "
+"root directory."
 msgstr "Extrahera alla filer och mappar (boot, packages och Salix Live) till ditt USB-rotkatalog."
 
 #. Tag: para
@@ -97,7 +135,10 @@ msgstr "Gå till \"boot\"-katalogen på USB-minnet."
 
 #. Tag: para
 #, no-c-format
-msgid "If you're running on Unix (Linux, BSD, Mac OS X), just run the file called “install-on-USB.sh”. If you're on Windows, just run the file called “install-on-USB.cmd” instead."
+msgid ""
+"If you're running on Unix (Linux, BSD, Mac OS X), just run the file called "
+"“install-on-USB.sh”. If you're on Windows, just run the file called "
+"“install-on-USB.cmd” instead."
 msgstr "Om du kör Unix (Linux, BSD, Mac OS X), kör filen \"install-on-USB.sh\". Om du är i Windows, kör filen \"install-on-USB.cmd\" istället."
 
 #. Tag: title
@@ -107,17 +148,26 @@ msgstr "Starta upp från en Salix Installation CD/DVD/USB-minne"
 
 #. Tag: para
 #, no-c-format
-msgid "Your computer must be set to boot on the optical drive / USB port first before defaulting to the internal hard disk drive."
+msgid ""
+"Your computer must be set to boot on the optical drive / USB port first "
+"before defaulting to the internal hard disk drive."
 msgstr "Din dator måste vara inställd att starta upp på den optiska enheten / USB-port före den interna hårddisken."
 
 #. Tag: para
 #, no-c-format
-msgid "If that is not the case, you need to first modify the <ulink url=\"http://en.wikipedia.org/wiki/BIOS\">BIOS</ulink> setting, usually by pressing the Del key or the F2 key (or some other key combinations depending on your machine). Once in the BIOS, find the \"boot menu\" or similar and set the order of the boot devices properly, with your optical drive/USB port in the first position. Save your changes and reboot your computer."
+msgid ""
+"If that is not the case, you need to first modify the <ulink "
+"url=\"http://en.wikipedia.org/wiki/BIOS\">BIOS</ulink> setting, usually by "
+"pressing the Del key or the F2 key (or some other key combinations depending"
+" on your machine). Once in the BIOS, find the \"boot menu\" or similar and "
+"set the order of the boot devices properly, with your optical drive/USB port"
+" in the first position. Save your changes and reboot your computer."
 msgstr "Om så inte är fallet, måste du först ändra <ulink url=\"http://en.wikipedia.org/wiki/BIOS\">BIOS</ulink> inställning, vanligtvis genom att trycka på Delete-tangenten eller på F2 (eller några andra viktiga kombinationer beroende på din maskin). Väl inne i BIOS, leta upp \"boot menu\" eller liknande och ställ in ordningen på startenheter korrekt med din optiska enhet / USB-port i den första positionen. Spara ändringarna och starta om datorn."
 
 #. Tag: para
 #, no-c-format
-msgid "Insert the Salix OS (Live)CD/DVD or USB key, and start up your computer."
+msgid ""
+"Insert the Salix OS (Live)CD/DVD or USB key, and start up your computer."
 msgstr "Sätt in Salix OS (Live) CD/DVD eller USB-minne, och starta om datorn."
 
 #. Tag: title
@@ -132,12 +182,17 @@ msgstr "Skärmdump av Salix Live Boot Meny"
 
 #. Tag: para
 #, no-c-format
-msgid "The first screen to greet you will enable you to select your language. Once you have selected your language, simply press on the Enter key to activate your choice."
+msgid ""
+"The first screen to greet you will enable you to select your language. Once "
+"you have selected your language, simply press on the Enter key to activate "
+"your choice."
 msgstr "Den första skärmen som visar sig ger dig möjlighet att välja språk. När du har valt ditt språk, tryck på Enter för att aktivera ditt val."
 
 #. Tag: para
 #, no-c-format
-msgid "On the following menu, you will be given the possibility to change your keyboard map if the default one for your language does not suit you."
+msgid ""
+"On the following menu, you will be given the possibility to change your "
+"keyboard map if the default one for your language does not suit you."
 msgstr "På följande meny kommer du ges möjlighet att ändra ditt tangentbords layout om standarden för ditt språk inte passar dig."
 
 #. Tag: phrase
@@ -147,12 +202,17 @@ msgstr "Skärmdump av Boot Options Menu"
 
 #. Tag: para
 #, no-c-format
-msgid "You also have the possibility to modify most default boot settings (see <xref linkend=\"sect-Startup_Guide-Advanced_Live_CD_Options-Advanced_Boot_Options\" />)."
+msgid ""
+"You also have the possibility to modify most default boot settings (see "
+"<xref linkend=\"sect-Startup_Guide-Advanced_Live_CD_Options-"
+"Advanced_Boot_Options\" />)."
 msgstr "Du har också möjlighet att ändra standardinställningar för boot (se <xref linkend=\"sect-Startup_Guide-Advanced_Live_CD_Options-Advanced_Boot_Options\" /> )."
 
 #. Tag: para
 #, no-c-format
-msgid "Simply press Enter on the default menu entry: Start Salix Live and a moment later you will see Salix starting up."
+msgid ""
+"Simply press Enter on the default menu entry: Start Salix Live and a moment "
+"later you will see Salix starting up."
 msgstr "Tryck bara på Enter på standard menyposten: Start Salix Live och en stund senare kommer du att se Salix starta upp."
 
 #. Tag: title
@@ -162,12 +222,17 @@ msgstr "Lösenord för root"
 
 #. Tag: para
 #, no-c-format
-msgid "For a system wide change, such as installation of an application, you are required to type in the administrator's password (the “root” or “superuser” password)."
+msgid ""
+"For a system wide change, such as installation of an application, you are "
+"required to type in the administrator's password (the “root” or “superuser” "
+"password)."
 msgstr "För ett system förändring, till exempel installation av ett program, måste du skriva in administratörens lösenord (\"root\" eller \"superanvändarens\" lösenord)."
 
 #. Tag: para
 #, no-c-format
-msgid "The password for Salix Live is <emphasis role=\"bold\">live</emphasis> for all the Salix Live editions."
+msgid ""
+"The password for Salix Live is <emphasis role=\"bold\">live</emphasis> for "
+"all the Salix Live editions."
 msgstr "Lösenordet för Salix Live är <emphasis role=\"bold\">live</emphasis> för alla Salix Live-utgåvorna."
 
 #. Tag: title
@@ -182,7 +247,9 @@ msgstr "Innan du börjar"
 
 #. Tag: para
 #, no-c-format
-msgid "Installing Salix OS on your computer is simple. But before starting, it is wise to check the following points:"
+msgid ""
+"Installing Salix OS on your computer is simple. But before starting, it is "
+"wise to check the following points:"
 msgstr "Installera Salix OS på datorn är enkelt. Men innan du börjar, är det klokt att kontrollera följande punkter:"
 
 #. Tag: para
@@ -197,22 +264,32 @@ msgstr "Kontrollera om din dator kommer med Linux-friendly/supported hårdvara *
 
 #. Tag: para
 #, no-c-format
-msgid "Recommended running specification (Intel PIII 1 GHz, 512 Mb RAM, 8Gb HD space, or equivalent, though a lower spec machine may run without a problem)"
+msgid ""
+"Recommended running specification (Intel PIII 1 GHz, 512 Mb RAM, 8Gb HD "
+"space, or equivalent, though a lower spec machine may run without a problem)"
 msgstr "Rekommenderad specifikation (Intel PIII 1 GHz, 512 MB RAM, 8 GB hårddiskutrymme, eller motsvarande, men en lägre spec maskin kan köras utan problem)"
 
 #. Tag: para
 #, no-c-format
-msgid "At least one separate <ulink url=\"http://en.wikipedia.org/wiki/Disk_partitioning\">partition</ulink> dedicated for Salix on your computer"
+msgid ""
+"At least one separate <ulink "
+"url=\"http://en.wikipedia.org/wiki/Disk_partitioning\">partition</ulink> "
+"dedicated for Salix on your computer"
 msgstr "Minst en separat <ulink url=\"http://en.wikipedia.org/wiki/Disk_partitioning\">partition</ulink> dedikerad för Salix på din dator"
 
 #. Tag: para
 #, no-c-format
-msgid "* Although it is possible to install Linux on a Mac computer, you have to install a bootcamp software called rEFIt beforehand. Certain file systems, such as xfs, cannot be used with a Mac."
+msgid ""
+"* Although it is possible to install Linux on a Mac computer, you have to "
+"install a bootcamp software called rEFIt beforehand. Certain file systems, "
+"such as xfs, cannot be used with a Mac."
 msgstr "* Även om det är möjligt att installera Linux på en Mac-dator, måste du installera en bootcamp programvara som kallas rEFIt i förväg. Vissa filsystem, såsom xfs, kan inte användas med en Mac."
 
 #. Tag: para
 #, no-c-format
-msgid "The easiest way to check the compatibility of your computer is to use one of the available Salix OS Live editions."
+msgid ""
+"The easiest way to check the compatibility of your computer is to use one of"
+" the available Salix OS Live editions."
 msgstr "Det enklaste sättet att kontrollera kompatibiliteten mellan din dator är att använda en av de tillgängliga Salix OS Live upplagor."
 
 #. Tag: title
@@ -227,33 +304,61 @@ msgstr "Skärmdump av Gparted"
 
 #. Tag: para
 #, no-c-format
-msgid "Before installing Salix (from the live CD or not), you need to have the necessary partition space available on your system, and if the computer does not have a separate partition for Linux, you must create one before installing Salix OS."
+msgid ""
+"Before installing Salix (from the live CD or not), you need to have the "
+"necessary partition space available on your system, and if the computer does"
+" not have a separate partition for Linux, you must create one before "
+"installing Salix OS."
 msgstr "Innan du installerar Salix (från live-CD eller inte), måste du ha de nödvändiga partitionerna på ditt system, och om datorn inte har en separat partition för Linux, måste du skapa ett innan du installerar Salix OS."
 
 #. Tag: para
 #, no-c-format
-msgid "It is advisable to back up any important files before modifying the partition table."
+msgid ""
+"It is advisable to back up any important files before modifying the "
+"partition table."
 msgstr "Det är tillrådligt att säkerhetskopiera alla viktiga filer innan du ändrar partitionstabellen."
 
 #. Tag: para
 #, no-c-format
-msgid "Every Salix Live CD comes with <ulink url=\"http://gparted.sourceforge.net/docs/help-manual/C/gparted_manual.html\">Gparted</ulink>, which will enable you to change the partition organisation on a disk device while preserving the contents of the partitions. You may with to use this application to create/re-organise your partition table."
+msgid ""
+"Every Salix Live CD comes with <ulink "
+"url=\"http://gparted.sourceforge.net/docs/help-"
+"manual/C/gparted_manual.html\">Gparted</ulink>, which will enable you to "
+"change the partition organisation on a disk device while preserving the "
+"contents of the partitions. You may with to use this application to create"
+"/re-organise your partition table."
 msgstr "I varje Salix Live CD medföljer <ulink url=\"http://gparted.sourceforge.net/docs/help-manual/C/gparted_manual.html\">Gparted</ulink> , vilket gör att du kan ändra partitioner på en diskenhet samtidigt som innehållet i partitioner behålls. Du kan använda detta program för att skapa/omorganisera din partitionstabell."
 
 #. Tag: para
 #, no-c-format
-msgid "Alternatively, if you have an unformatted partition, unallocated disk space, or an existing partition you do not use, you can create or rewrite a new partition table using <ulink url=\"http://en.wikipedia.org/wiki/Cfdisk\">Cfdisk</ulink> (which comes with the Salix installation CD)."
+msgid ""
+"Alternatively, if you have an unformatted partition, unallocated disk space,"
+" or an existing partition you do not use, you can create or rewrite a new "
+"partition table using <ulink "
+"url=\"http://en.wikipedia.org/wiki/Cfdisk\">Cfdisk</ulink> (which comes with"
+" the Salix installation CD)."
 msgstr "Alternativt, om du har en oformaterad partition, ledigt diskutrymme, eller en befintlig partition som du inte använder kan du skapa eller skriva en ny partitionstabell med hjälp av <ulink url=\"http://en.wikipedia.org/wiki/Cfdisk\">Cfdisk</ulink> (Som kommer med Salix installations-CD)."
 
 #. Tag: para
 #, no-c-format
-msgid "Both applications are simple to use and require no further explanation on how to use them, except for a small comment about “partition types”."
+msgid ""
+"Both applications are simple to use and require no further explanation on "
+"how to use them, except for a small comment about “partition types”."
 msgstr "Båda programmen är enkla att använda och kräver ingen ytterligare förklaring på hur man använder dem, förutom en liten kommentar om \"partitions typer\"."
 
 #. Tag: para
 #, no-c-format
-msgid "A hard drive space can be divided into no more than four “primary” partitions, which can be problematic if you are hosting more than one operating system on the same hard drive. A hard drive can, however, be divided into three “primary” partitions and one “extended” partition. The extended partition can then be subdivided into “logical” partitions and hence overcome the limitation set by the “primary partition” (i.e. no more than four partitions). In practice, there is no difference between a logical and a primary partition except for that “Windows” OS cannot be installed on a logical partition."
-msgstr "Ett hårddiskutrymme kan delas in i högst fyra \"Primära\" partitioner, vilket kan vara problematiskt om du är värd för mer än ett operativsystem på samma hårddisk. En hårddisk kan dock delas in i tre \"Primära\" partitioner och en \"utökad\" partition. Den utökade partitionen kan sedan delas upp i \"logiska\" partitioner och därmed övervinna den begränsning som fastställts av \"Primär partition\" (dvs inte mer än fyra partitioner). I praktiken är det ingen skillnad mellan en logisk och en primär partition med undantag för att \"Windows\" OS kan inte installeras på en logisk partition."
+msgid ""
+"A hard drive space can be divided into no more than four “primary” "
+"partitions, which can be problematic if you are hosting more than one "
+"operating system on the same hard drive. A hard drive can, however, be "
+"divided into three “primary” partitions and one “extended” partition. The "
+"extended partition can then be subdivided into “logical” partitions and "
+"hence overcome the limitation set by the “primary partition” (i.e. no more "
+"than four partitions). In practice, there is no difference between a logical"
+" and a primary partition except for that “Windows” OS cannot be installed on"
+" a logical partition."
+msgstr "Ett hårddiskutrymme kan delas in i högst fyra \"Primära\" partitioner, vilket kan vara problematiskt om du är värd för mer än ett operativsystem på samma hårddisk. En hårddisk kan dock delas in i tre \"Primära\" partitioner och en \"utökad\" partition. Den utökade partitionen kan sedan delas upp i \"logiska\" partitioner och därmed övervinna den begränsning som fastställts av \"Primär partition\" (dvs inte mer än fyra partitioner). I praktiken är det ingen skillnad mellan en logisk och en primär partition med undantag för att \"Windows\" OS inte kan installeras på en logisk partition."
 
 #. Tag: title
 #, no-c-format
@@ -262,37 +367,66 @@ msgstr "Så vilka typer av partitioner behöver du?"
 
 #. Tag: para
 #, no-c-format
-msgid "Salix needs, at the very minimum, one partition which holds the root directory and must be assigned as “/” (without the quotation marks)."
+msgid ""
+"Salix needs, at the very minimum, one partition which holds the root "
+"directory and must be assigned as “/” (without the quotation marks)."
 msgstr "Salix behöver, allra minst en partition som håller rotkatalogen och måste tilldelas som \"/\" (utan citattecken)."
 
 #. Tag: para
 #, no-c-format
-msgid "It is highly recommended to have one swap partition. If you already have another Linux OS running on your machine, its swap partition can be shared, and you do not need to create another. A swap partition size is in essence used as an extra RAM to improve the performance of your machine. If, for example, your machine doesn’t have a lot of physical RAM or you’re performing memory-intensive operations (such as video editing) that use up most or all of the physical RAM. It is normally recommended to have 1.5-2 times the size of your RAM, but for a modern desktop computer with more than a couple Gb of RAM, swap may not be necessary."
+msgid ""
+"It is highly recommended to have one swap partition. If you already have "
+"another Linux OS running on your machine, its swap partition can be shared, "
+"and you do not need to create another. A swap partition size is in essence "
+"used as an extra RAM to improve the performance of your machine. If, for "
+"example, your machine doesn’t have a lot of physical RAM or you’re "
+"performing memory-intensive operations (such as video editing) that use up "
+"most or all of the physical RAM. It is normally recommended to have 1.5-2 "
+"times the size of your RAM, but for a modern desktop computer with more than"
+" a couple Gb of RAM, swap may not be necessary."
 msgstr "Det rekommenderas starkt att ha en swap-partition. Om du redan har ett annat Linux OS som körs på din maskin, kan dess swap-partition delas, och du behöver inte skapa en annan. En swap-partitions storlek används i huvudsak som ett extra RAM för att förbättra prestandan för din maskin. Om till exempel din maskin inte har mycket fysiskt RAM-minne eller du utför minneskrävande behandlingar (t.ex. videoredigering) som använder det mesta eller alla fysiska RAM. Det rekommenderas normalt att ha 1,5-2 gånger storleken på ditt RAM-minne, men för en modern stationär dator med mer än ett par GB RAM, behöver en swap inte vara nödvändig."
 
 #. Tag: para
 #, no-c-format
-msgid "It is also highly recommended to have one partition to hold your /home directory, where you can store all your personal data such as documents, photos, customised settings for the desktop environment etc."
-msgstr "Det är också starkt rekommenderat att ha en partition för att hålla din /home katalog, där du kan lagra alla dina personliga data såsom dokument, bilder anpassade inställningar för skrivbordet miljö etc."
+msgid ""
+"It is also highly recommended to have one partition to hold your /home "
+"directory, where you can store all your personal data such as documents, "
+"photos, customised settings for the desktop environment etc."
+msgstr "Det är också starkt rekommenderat att ha en partition för att hålla din /home katalog, där du kan lagra alla dina personliga data såsom dokument, bilder anpassade inställningar för skrivbordsmiljön etc."
 
 #. Tag: para
 #, no-c-format
-msgid "It is optional to have one partition to hold the /usr directory, where application files are stored (similar to the “Program Files” directory in Windows or the “/Apps” in Mac OS X)."
-msgstr "Det är valfritt att ha en partition som /usr katalogen, där program filer lagras (liknande \"Program Files\" katalogen i Windows eller \"/ apps\" i Mac OS X)."
+msgid ""
+"It is optional to have one partition to hold the /usr directory, where "
+"application files are stored (similar to the “Program Files” directory in "
+"Windows or the “/Apps” in Mac OS X)."
+msgstr "Det är valfritt att ha en partition som /usr katalogen, där program filer lagras (liknande \"Program Files\" katalogen i Windows eller \"/Apps\" i Mac OS X)."
 
 #. Tag: para
 #, no-c-format
-msgid "Optionally you can create one partition to hold the /var directory, where system log files are stored. But unless you are running a server machine, this is probably unnecessary."
+msgid ""
+"Optionally you can create one partition to hold the /var directory, where "
+"system log files are stored. But unless you are running a server machine, "
+"this is probably unnecessary."
 msgstr "Alternativt kan du skapa en partition för att hålla /var katalogen, där systemets loggfiler lagras. Men om du inte kör en server maskin, är det förmodligen onödigt."
 
 #. Tag: para
 #, no-c-format
-msgid "An advantage of having more than one partition to hold separate directories is that you can reformat one partition without affecting others. For example, you can re-install Salix on your machine (and this goes to the partition holding the “/” directory) while leaving the partition holding the /home directory intact."
-msgstr "En fördel med att ha mer än en partition att hålla separata kataloger är att du kan formatera en partition utan att påverka andra. Till exempel kan du installera Salix på din dator (och detta går till partitionen som tillhandahåller \"/\" katalog) samtidigt som partitionen som innehåller katalogen /home intakt."
+msgid ""
+"An advantage of having more than one partition to hold separate directories "
+"is that you can reformat one partition without affecting others. For "
+"example, you can re-install Salix on your machine (and this goes to the "
+"partition holding the “/” directory) while leaving the partition holding the"
+" /home directory intact."
+msgstr "En fördel med att ha mer än en partition att hålla separata kataloger är att du kan formatera en partition utan att påverka andra. Till exempel kan du installera Salix på din dator (och detta går till partitionen som tillhandahåller \"/\" katalog) samtidigt som partitionen som innehåller katalogen /home är intakt."
 
 #. Tag: para
 #, no-c-format
-msgid "Each partition can be formatted into one of several <ulink url=\"http://en.wikipedia.org/wiki/List_of_file_systems\">file systems</ulink>. Unless you have a particular favourite for a reason, we recommend you format your partitions with the ext4 file system."
+msgid ""
+"Each partition can be formatted into one of several <ulink "
+"url=\"http://en.wikipedia.org/wiki/List_of_file_systems\">file "
+"systems</ulink>. Unless you have a particular favourite for a reason, we "
+"recommend you format your partitions with the ext4 file system."
 msgstr "Varje partition kan formateras till en av flera <ulink url=\"http://en.wikipedia.org/wiki/List_of_file_systems\">filsystem</ulink> . Om du inte har en särskild favorit av en anledning rekommenderar vi att du formatera dina partitioner med filsystemet ext4."
 
 #. Tag: title
@@ -302,12 +436,20 @@ msgstr "Installera från en Live CD / USB"
 
 #. Tag: para
 #, no-c-format
-msgid "Salix Live Installer is found on the Desktop of every Live CD and is very easy to use. Contextual help triggered by the position of the mouse will be displayed above the application and will guide you every step of the way."
+msgid ""
+"Salix Live Installer is found on the Desktop of every Live CD and is very "
+"easy to use. Contextual help triggered by the position of the mouse will be "
+"displayed above the application and will guide you every step of the way."
 msgstr "Salix Live Installer finns på skrivbordet på varje Live CD och är mycket lätt att använda. Sammanhangsberoende hjälp utlöses av positionen på musen och kommer att visas ovanför programmet och kommer att guida dig genom varje steg på vägen."
 
 #. Tag: para
 #, no-c-format
-msgid "You will be greeted by a reminder that all the necessary partitions have to be created first. As we have seen, this can be done simply with the help of Gparted, which is included in Salix Live and is available directly on the desktop (see <xref linkend=\"sect-Startup_Guide-Salix_Live_Tools-Gparted\" />)."
+msgid ""
+"You will be greeted by a reminder that all the necessary partitions have to "
+"be created first. As we have seen, this can be done simply with the help of "
+"Gparted, which is included in Salix Live and is available directly on the "
+"desktop (see <xref linkend=\"sect-Startup_Guide-Salix_Live_Tools-Gparted\" "
+"/>)."
 msgstr "Du kommer att välkomnas av en påminnelse om att alla nödvändiga partitioner måste skapas först. Som vi har sett, kan detta göras enkelt med hjälp av Gparted, som ingår i Salix Live och är tillgängligt direkt på skrivbordet (se <xref linkend=\"sect-Startup_Guide-Salix_Live_Tools-Gparted\" /> )."
 
 #. Tag: phrase
@@ -317,17 +459,29 @@ msgstr "Skärmdump av Salix Live Installer"
 
 #. Tag: para
 #, no-c-format
-msgid "On the left side of the application, you will notice the different sections that must be configured before launching the installation process: Time, Keyboard, Locale, Partitions, Users and Software. Clicking on one of these sections will display the corresponding options that need to be set. As you progress through the configuration process, a check will be displayed beside each completed section. Only when all the sections have been completed will the “Launch Salix Install” button be activated."
-msgstr "På vänster sida av programmet kommer du att märka de olika sektionerna som måste konfigureras innan du startar installationen: Tid, tangentbord, Språk, Partitioner, användare och mjukvara. När du klickar på ett av dessa avsnitt visas motsvarande alternativ som behöver ställas in. När du kommer igenom konfigurationen, kommer en markering att visas bredvid varje avslutad avsnitt. Först när alla avsnitt har slutförts kommer \"Launch Salix Install\"-knappen att aktiveras."
+msgid ""
+"On the left side of the application, you will notice the different sections "
+"that must be configured before launching the installation process: Time, "
+"Keyboard, Locale, Partitions, Users and Software. Clicking on one of these "
+"sections will display the corresponding options that need to be set. As you "
+"progress through the configuration process, a check will be displayed beside"
+" each completed section. Only when all the sections have been completed will"
+" the “Launch Salix Install” button be activated."
+msgstr "På vänster sida av programmet kommer du att märka de olika sektionerna som måste konfigureras innan du startar installationen: Tid, tangentbord, Språk, Partitioner, användare och mjukvara. När du klickar på ett av dessa avsnitt visas motsvarande alternativ som behöver ställas in. När du kommer igenom konfigurationen, kommer en markering att visas bredvid varje avslutad avsnitt. Först när alla avsnitt har slutförts kommer \"Starta Salix installation\"-knappen att aktiveras."
 
 #. Tag: para
 #, no-c-format
-msgid "So do take the time to familiarise yourself fully with Salix Live Installer. Undo options are available and none of the settings will be applied until you click on the “Launch Salix Install” button."
-msgstr "Så ta dig tid att sätta dig in i Salix Live Installer. Ångra alternativ är tillgängliga och ingen av de inställningar kommer att tillämpas förrän du klickar på \"Launch Salix Install\"-knappen."
+msgid ""
+"So do take the time to familiarise yourself fully with Salix Live Installer."
+" Undo options are available and none of the settings will be applied until "
+"you click on the “Launch Salix Install” button."
+msgstr "Så ta dig tid att sätta dig in i Salix Live Installer. Ångra alternativ är tillgängliga och ingen av de inställningar kommer att tillämpas förrän du klickar på \"Starta Salix installation\"-knappen."
 
 #. Tag: para
 #, no-c-format
-msgid "Remember that the existing swap partition will be automatically used by the Live installer without any prompting on your part."
+msgid ""
+"Remember that the existing swap partition will be automatically used by the "
+"Live installer without any prompting on your part."
 msgstr "Kom ihåg att befintliga växlingspartitioner automatiskt kommer att användas av Live installationsprogrammet utan att fråga dig."
 
 #. Tag: phrase
@@ -337,17 +491,37 @@ msgstr "Skärmdump av Salix Live Installer partitioner konfiguration"
 
 #. Tag: para
 #, no-c-format
-msgid "Salix comes with three different installation modes. The Full installation mode includes a range of useful applications one could need on a daily basis while following the \"one application per task\" rationale, while the Basic Mode provides a user with a graphical desktop environment, a web browser and Gslapt package manager (see <xref linkend=\"sect-Startup_Guide-Package_Management-Gslapt\" />)."
+msgid ""
+"Salix comes with three different installation modes. The Full installation "
+"mode includes a range of useful applications one could need on a daily basis"
+" while following the \"one application per task\" rationale, while the Basic"
+" Mode provides a user with a graphical desktop environment, a web browser "
+"and Gslapt package manager (see <xref linkend=\"sect-Startup_Guide-"
+"Package_Management-Gslapt\" />)."
 msgstr "Salix levereras med tre olika installations lägen. Fullständig läget innehåller en rad användbara applikationer man kan behöva på en daglig basis följande \"ett program per uppgift\" motivering, medan grundläggande läget ger användaren en grafisk skrivbordsmiljö, en webbläsare och Gslapt pakethanterare (se <xref linkend=\"sect-Startup_Guide-Package_Management-Gslapt\" /> )."
 
 #. Tag: para
 #, no-c-format
-msgid "This is ideal for advanced users who would like to have the basic desktop environment installed first, and then to add their own choice of applications. The Core Mode installs the minimum software essential for a console system to start (i.e. a graphical environment is not provided). This is ideal if you are an experienced user and love to customise your installation for any specific purpose, such as a web server, file server and so on."
+msgid ""
+"This is ideal for advanced users who would like to have the basic desktop "
+"environment installed first, and then to add their own choice of "
+"applications. The Core Mode installs the minimum software essential for a "
+"console system to start (i.e. a graphical environment is not provided). This"
+" is ideal if you are an experienced user and love to customise your "
+"installation for any specific purpose, such as a web server, file server and"
+" so on."
 msgstr "Detta är perfekt för avancerade användare som vill ha grundläggande skrivbordsmiljö installerad först, och sedan lägga till egna val av applikationer. Core-läge installerar programvara nödvändig för en konsol som ska startas (dvs en grafisk miljö tillhandahålls inte). Detta är perfekt om du är en erfaren användare och älskar att anpassa installationen för något specifikt syfte, till exempel en webbserver, filserver och så vidare."
 
 #. Tag: para
 #, no-c-format
-msgid "Once the installation process is completed, you will be given the choice to launch Lilo Setup to configure your LILO bootloader (see <xref linkend=\"sect-Startup_Guide-Salix_Tools-Lilo_Setup\" />). Most of the time this is what you will want to do although occasionally, it might be preferable not to, for example if you want to use Grub instead or if you want to simply incorporate Salix into an existing bootloader configuration from another distribution in a multiple boot setup."
+msgid ""
+"Once the installation process is completed, you will be given the choice to "
+"launch Lilo Setup to configure your LILO bootloader (see <xref linkend"
+"=\"sect-Startup_Guide-Salix_Tools-Lilo_Setup\" />). Most of the time this is"
+" what you will want to do although occasionally, it might be preferable not "
+"to, for example if you want to use Grub instead or if you want to simply "
+"incorporate Salix into an existing bootloader configuration from another "
+"distribution in a multiple boot setup."
 msgstr "När installationen är klar kommer du att få välja att starta Lilo Setup för att konfigurera starthanteraren lilo (se <xref linkend=\"sect-Startup_Guide-Salix_Tools-Lilo_Setup\" /> ). För det mesta är detta vad du vill göra men ibland kan det vara bättre att inte göra det, till exempel om du vill använda Grub i stället, eller om du helt enkelt vill inför Salix i en befintlig starthanterarens konfiguration från en annan distribution i en multipel boot setup."
 
 #. Tag: phrase
@@ -357,12 +531,17 @@ msgstr "Skärmdump av Salix Live Installer paket alternativ"
 
 #. Tag: para
 #, no-c-format
-msgid "Lilo Setup is also very easy to use. Contextual help triggered by the position of the mouse will also be displayed above the application and will guide you every step of the way."
+msgid ""
+"Lilo Setup is also very easy to use. Contextual help triggered by the "
+"position of the mouse will also be displayed above the application and will "
+"guide you every step of the way."
 msgstr "Lilo Installationen är också mycket lätt att använda. Sammanhangsberoende hjälp utlöses av positionen på musen kommer också att visas ovanför programmet och kommer att guida dig varje steg på vägen."
 
 #. Tag: para
 #, no-c-format
-msgid "Once Lilo is set up, you are good to go! You can re-start your machine, and start enjoying Salix time."
+msgid ""
+"Once Lilo is set up, you are good to go! You can re-start your machine, and "
+"start enjoying Salix time."
 msgstr "När Lilo är uppsatt, är det bra att köra! Du kan starta din maskin, och börja njuta av Salix."
 
 #. Tag: title
@@ -372,7 +551,10 @@ msgstr "Installera från en Salix Installation CD"
 
 #. Tag: para
 #, no-c-format
-msgid "Installing Salix from a Salix Installation CD is very similar to installing Slackware. Everything will be done efficiently in a semi-graphical command line interface."
+msgid ""
+"Installing Salix from a Salix Installation CD is very similar to installing "
+"Slackware. Everything will be done efficiently in a semi-graphical command "
+"line interface."
 msgstr "Installera Salix från en Salix installations-CD är mycket likt att installera Slackware. Allt kommer att ske effektivt i en semi-grafiskt kommandoradsgränssnitt."
 
 #. Tag: para
@@ -382,42 +564,69 @@ msgstr "Välj din tangentbordslayout."
 
 #. Tag: para
 #, no-c-format
-msgid "If you prefer to let Salix do everything including partition management, just select AUTOPARTITION. Note that this will delete everything on the hard drive."
+msgid ""
+"If you prefer to let Salix do everything including partition management, "
+"just select AUTOPARTITION. Note that this will delete everything on the hard"
+" drive."
 msgstr "Om du föredrar att låta Salix göra allt inklusive partition management, väljer du bara partitionera automatiskt. Observera att detta kommer att radera allt på hårddisken."
 
 #. Tag: para
 #, no-c-format
-msgid "Partition management with cfdisk – you can select the hard drive you would like to modify with the arrow keys and the space key."
+msgid ""
+"Partition management with cfdisk – you can select the hard drive you would "
+"like to modify with the arrow keys and the space key."
 msgstr "Partition hantering med cfdisk - du kan välja den hårddisk du vill ändra med piltangenterna och mellanslagstangenten."
 
 #. Tag: para
 #, no-c-format
-msgid "You can create a new partition by selecting a free disk space and choosing New. You will be asked to select “primary” partition / “extended” partition first and then set the size. Remember, you can have up to four primary partitions or three primary partition with one extended partition for more partitions. Let's say we want to create one swap partition and partitions for the “/” and “/home” directories."
+msgid ""
+"You can create a new partition by selecting a free disk space and choosing "
+"New. You will be asked to select “primary” partition / “extended” partition "
+"first and then set the size. Remember, you can have up to four primary "
+"partitions or three primary partition with one extended partition for more "
+"partitions. Let's say we want to create one swap partition and partitions "
+"for the “/” and “/home” directories."
 msgstr "Du kan skapa en ny partition genom att välja ett ledigt utrymme på hårddisken och välja Ny. Du blir ombedd att välja \"primära\" partitionen / \"extended\" partition först och sedan ange storlek. Kom ihåg, kan du ha upp till fyra primära partitioner eller tre primära partition med en utökad partition för fler partitioner. Låt oss säga att vi vill skapa en swap-partition och partitioner för \"/\" och \"/home\" kataloger."
 
 #. Tag: para
 #, no-c-format
-msgid "To create a swap partition, for example, select “primary” partition. Hit enter (for the default starting cylinder), and then type in “+1024M” for 1024 Mb. Choose Type to specify the file system type. Enter 82 (Linux swap)."
+msgid ""
+"To create a swap partition, for example, select “primary” partition. Hit "
+"enter (for the default starting cylinder), and then type in “+1024M” for "
+"1024 Mb. Choose Type to specify the file system type. Enter 82 (Linux swap)."
 msgstr "För att skapa en swap-partition, till exempel, välj \"primära\" partitionen. Enter (för den förvalda start cylindern) och skriv in \"+1024M\" för 1024 Mb. Välj typ för att ange vilken typ av filsystem. Skriv 82 (Linux swap)."
 
 #. Tag: para
 #, no-c-format
-msgid "Let's assume that you have already used up the first three primary partitions, the last one should be made into an “extended” partition as you would still like to create the partitions for “/” and for “/home”."
+msgid ""
+"Let's assume that you have already used up the first three primary "
+"partitions, the last one should be made into an “extended” partition as you "
+"would still like to create the partitions for “/” and for “/home”."
 msgstr "Låt oss anta att du redan har använt upp de första tre primära partitioner, bör den sista göras om till en \"utökad\" partition som du ändå vill skapa partitioner för \"/\" och för \"/home\"."
 
 #. Tag: para
 #, no-c-format
-msgid "To create an extended partition, select “extended” partition. Hit enter and again hit enter for the default value. This will create an extended partition out of the remaining disk space."
+msgid ""
+"To create an extended partition, select “extended” partition. Hit enter and "
+"again hit enter for the default value. This will create an extended "
+"partition out of the remaining disk space."
 msgstr "För att skapa en utökad partition, välj \"utökad\" partition. Tryck enter och tryck enter igen för standardvärdet. Detta kommer att skapa en utökad partition av det återstående diskutrymmet."
 
 #. Tag: para
 #, no-c-format
-msgid "Now select Free disk space from the extended partition, and create New. Create a “logical” partition as you did for the primary partition. Set the size to “+10240M” for roughly 10 Gb. This will be your partition for the root directory (“/”). Select Type, and type “83” (Linux partition)."
+msgid ""
+"Now select Free disk space from the extended partition, and create New. "
+"Create a “logical” partition as you did for the primary partition. Set the "
+"size to “+10240M” for roughly 10 Gb. This will be your partition for the "
+"root directory (“/”). Select Type, and type “83” (Linux partition)."
 msgstr "Nu väljer Ledigt utrymme från den utökade partitionen och skapa nya. Skapa en \"logisk\" partition som du gjorde för den primära partitionen. Ställ in storleken på \"+10240M\" för ca 10 Gb. Detta kommer att vara din partition för rotkatalogen (\"/\"). Välj typ och skriv \"83\" (Linux partition)."
 
 #. Tag: para
 #, no-c-format
-msgid "Create again a new partition and this time, accept all the default selections. The remaing disk space will be put in this partition. This will be your partition for the “/home” directory. Select Type, and type “83”."
+msgid ""
+"Create again a new partition and this time, accept all the default "
+"selections. The remaing disk space will be put in this partition. This will "
+"be your partition for the “/home” directory. Select Type, and type “83”."
 msgstr "Skapa återigen en ny partition och den här gången, acceptera alla förvalda val. De återstående diskutrymmet kommer att placeras i denna partition. Detta kommer att vara din partition för \"/home\" katalogen. Välj typ och skriv \"83\"."
 
 #. Tag: para
@@ -427,32 +636,48 @@ msgstr "Välj Skriv och avsluta för att avsluta partitions hanteringen."
 
 #. Tag: para
 #, no-c-format
-msgid "Your swap partition will be automatically detected. Say “yes” if the detected partition corresponds to that."
+msgid ""
+"Your swap partition will be automatically detected. Say “yes” if the "
+"detected partition corresponds to that."
 msgstr "Din Växlingspartitionen kommer automatiskt att upptäckas. Säg \"ja\" om den upptäckta partition motsvarar den."
 
 #. Tag: para
 #, no-c-format
-msgid "You will then be asked to specify the partition for the root “/” directory. Select the partition you have created for the “/”, and continue to format the partition. The ext4 file system is recommended here."
+msgid ""
+"You will then be asked to specify the partition for the root “/” directory. "
+"Select the partition you have created for the “/”, and continue to format "
+"the partition. The ext4 file system is recommended here."
 msgstr "Du blir då ombedd att ange partition för root \"/\" katalogen. Välj den partition du har skapat för \"/\", och fortsätter att formatera partitionen. Filsystemet ext4 rekommenderas här."
 
 #. Tag: para
 #, no-c-format
-msgid "If you have other partitions to mount, you can do so. As we have a partition for a “/home” directory, we select the partition and continue. Unless the partition is new or you would like to erase the content of this partition, select not to format."
+msgid ""
+"If you have other partitions to mount, you can do so. As we have a partition"
+" for a “/home” directory, we select the partition and continue. Unless the "
+"partition is new or you would like to erase the content of this partition, "
+"select not to format."
 msgstr "Om du har andra partitioner att montera, kan du göra det. Eftersom vi har en partition för en \"/home\" katalog, väljer vi den partitionen och fortsätter. Om inte partitionen är ny eller om du vill radera innehållet på denna partition, välj att inte formatera."
 
 #. Tag: para
 #, no-c-format
-msgid "Other partitions such as Windows partitions will be detected automatically. If you would like to make those partitions automatically usable during your Salix session, include them all to mount."
+msgid ""
+"Other partitions such as Windows partitions will be detected automatically. "
+"If you would like to make those partitions automatically usable during your "
+"Salix session, include them all to mount."
 msgstr "Andra partitioner som Windows partitioner kommer att upptäckas automatiskt. Om du vill göra dessa partitioner automatiskt användbara under din Salix session omfattar dem alla att montera."
 
 #. Tag: para
 #, no-c-format
-msgid "The installer will start installing Salix. You will be asked first where the source files are. As you are installing from the CD, select “from the CD”. Everything should be detected automatically."
+msgid ""
+"The installer will start installing Salix. You will be asked first where the"
+" source files are. As you are installing from the CD, select “from the CD”. "
+"Everything should be detected automatically."
 msgstr "Installationsprogrammet kommer att starta installationen av Salix. Du ombeds först att ange var källfilerna finns. När du installerar från cd-skivan, välj \"från CD\". Allt ska identifieras automatiskt."
 
 #. Tag: para
 #, no-c-format
-msgid "You will be asked to choose an installation mode (Full, Basic or Core)."
+msgid ""
+"You will be asked to choose an installation mode (Full, Basic or Core)."
 msgstr "Du ombeds välja en installationstyp (Fullständig, Basic eller Core)."
 
 #. Tag: para
@@ -462,12 +687,17 @@ msgstr "Installation av paket kommer att starta."
 
 #. Tag: para
 #, no-c-format
-msgid "After the installation, LILO set up will start up. Unless you are not using LILO, choose the default options."
+msgid ""
+"After the installation, LILO set up will start up. Unless you are not using "
+"LILO, choose the default options."
 msgstr "Efter installationen, kommer LILO setupp att starta. Såvida du inte använder LILO, välj den förvalda alternativ."
 
 #. Tag: para
 #, no-c-format
-msgid "You will be asked for some other questions regarding time-zone, user name and root password (superuser / administrator password). When all the basic questions are answered, the machine will restart itself."
+msgid ""
+"You will be asked for some other questions regarding time-zone, user name "
+"and root password (superuser / administrator password). When all the basic "
+"questions are answered, the machine will restart itself."
 msgstr "Du får några andra frågor om tidzon, användarnamn och lösenordet för root (superanvändare/administratör lösenord). När alla grundläggande frågor besvaras, kommer maskinen att starta om sig själv."
 
 #. Tag: para
@@ -482,12 +712,18 @@ msgstr "Installera från en Salix installation USB"
 
 #. Tag: para
 #, no-c-format
-msgid "Installing Salix OS from a USB key is also possible (but consider installing from a Salix Live USB also). The most difficult part is to know the device name of your USB key. You may wish to issue the command “fdisk -l” as root to know which device is used for your USB key."
+msgid ""
+"Installing Salix OS from a USB key is also possible (but consider installing"
+" from a Salix Live USB also). The most difficult part is to know the device "
+"name of your USB key. You may wish to issue the command “fdisk -l” as root "
+"to know which device is used for your USB key."
 msgstr "Installera Salix OS från ett USB-minne är också möjligt (men överväg att installera från en Salix Live USB också). Den svåraste delen är att veta enhetsnamnet för ditt USB-minne. Du kanske vill att utfärda kommandot \"fdisk-l\" som root för att veta vilken enhet som används för din USB-minne."
 
 #. Tag: para
 #, no-c-format
-msgid "Create your USB stick with <ulink url=\"http://unetbootin.sourceforge.net/\">unetbootin</ulink>"
+msgid ""
+"Create your USB stick with <ulink "
+"url=\"http://unetbootin.sourceforge.net/\">unetbootin</ulink>"
 msgstr "Skapa ditt USB-minne med <ulink url=\"http://unetbootin.sourceforge.net/\"> UNetbootin </ulink>"
 
 #. Tag: para
@@ -497,12 +733,17 @@ msgstr "På Salix installation välj \"Installera från hårddisken\""
 
 #. Tag: para
 #, no-c-format
-msgid "Enter the device of your USB stick: This probably is /dev/sdb1 if you only have one hard disk. Please note that a Few sticks are mounted by /dev/sdb instead of /dev/sdb1"
+msgid ""
+"Enter the device of your USB stick: This probably is /dev/sdb1 if you only "
+"have one hard disk. Please note that a Few sticks are mounted by /dev/sdb "
+"instead of /dev/sdb1"
 msgstr "Ange enheten för ditt USB-minne: Det här är förmodligen /dev/sdb1 om du bara har en hårddisk. Observera att några pinnar monteras som /dev/sdb istället för /dev/sdb1"
 
 #. Tag: para
 #, no-c-format
-msgid "The next dialog asks where the Salix packages are located on the USB stick. The correct answer here is /salix"
+msgid ""
+"The next dialog asks where the Salix packages are located on the USB stick. "
+"The correct answer here is /salix"
 msgstr "I nästa dialogruta frågas var Salix-paketen finns på USB-minne. Rätt svar här är /salix"
 
 #. Tag: para
@@ -517,7 +758,9 @@ msgstr "Alternativt kan du montera din USB-minne först."
 
 #. Tag: para
 #, no-c-format
-msgid "After starting up the set up screen, select your keyboard type and exit the setup"
+msgid ""
+"After starting up the set up screen, select your keyboard type and exit the "
+"setup"
 msgstr "Efter att ha startat upp uppsättningsskärmen, välja ditt tangentbords typ och avsluta setup"
 
 #. Tag: para
@@ -527,7 +770,9 @@ msgstr "Skriv \"mkdir /salix\" (utan citattecken)"
 
 #. Tag: para
 #, no-c-format
-msgid "Type “mount /dev/sdb /salix” (sdb can be sdb1, depending on the assignment by your machine)"
+msgid ""
+"Type “mount /dev/sdb /salix” (sdb can be sdb1, depending on the assignment "
+"by your machine)"
 msgstr "Skriv \"mount /dev/sdb/salix\" (sdb kan vara sdb1, beroende på tilldelning av din maskin)"
 
 #. Tag: para
@@ -537,5 +782,7 @@ msgstr "Skriv setup för att starta installationen"
 
 #. Tag: para
 #, no-c-format
-msgid "When asked for the source file, select “from a local directory” and type in “/salix/salix”"
+msgid ""
+"When asked for the source file, select “from a local directory” and type in "
+"“/salix/salix”"
 msgstr "När du tillfrågas om källfilen, välj \"från en lokal katalog\" och skriv \"/salix/salix\""

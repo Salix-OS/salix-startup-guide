@@ -4,25 +4,25 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-11-17 20:45+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: None\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-04-20 14:22+0000\n"
+"Last-Translator: Jiří Šůla <jiri.sula@gmail.com>\n"
+"Language-Team: Czech (http://www.transifex.com/projects/p/salix_documentation/language/cs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: cs\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 #. Tag: title
 #, no-c-format
 msgid "Salix OS at a Glance"
-msgstr ""
+msgstr "Salix OS v kostce"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of SalixOS 13.37 default desktop"
-msgstr ""
+msgstr "Screenshot defaultní plochy SalixOS 13.37"
 
 #. Tag: para
 #, no-c-format
@@ -35,87 +35,87 @@ msgid ""
 "url=\"http://en.wikipedia.org/wiki/KISS_principle\">KISS</ulink> principle "
 "that Slackware adheres to refers to the viewpoint of system design, Salix OS"
 " also applies it to the viewpoint of the end user."
-msgstr ""
+msgstr "Salix OS je <ulink url=\"http://en.wikipedia.org/wiki/Linux_distro\">linuxovou distribucí</ulink> založené na <ulink url=\"http://en.wikipedia.org/wiki/Slackware\">Slackware</ulink>, která zůstává plně zpětně kompatibilní s jeho významným předchůdcem. A  pokud  Slackware sympatizuje s principem <ulink url=\"http://en.wikipedia.org/wiki/KISS_principle\">KISS</ulink> při odkazování na design celého systému, Salix OS se také k tomuto dědictví hlásí."
 
 #. Tag: title
 #, no-c-format
 msgid "Salix Features"
-msgstr ""
+msgstr "Funkcionality Salixu"
 
 #. Tag: para
 #, no-c-format
 msgid "One application per task rationale"
-msgstr ""
+msgstr "Jedna aplikace pro jednu funkci"
 
 #. Tag: para
 #, no-c-format
 msgid "Fully backwards compatible with Slackware"
-msgstr ""
+msgstr "Plně zpětně kompatibilní se Slackware"
 
 #. Tag: para
 #, no-c-format
 msgid "Optimised for desktop usage"
-msgstr ""
+msgstr "Optimalizovaný pro desktopové použití"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "With Salix tools to assist system management (See <xref linkend=\"sect-"
 "Startup_Guide-Your_Salix-Salix_Tools\" />)"
-msgstr ""
+msgstr "S nástroji Salixu pomoci systémové správě (Podívejte se na <xref linkend=\"sect-Startup_Guide-Your_Salix-Salix_Tools\" />)"
 
 #. Tag: para
 #, no-c-format
 msgid "High quality package repositories with dependency support"
-msgstr ""
+msgstr "Vysoce kvalitní repozitář balíčků s podporou závislostí"
 
 #. Tag: para
 #, no-c-format
 msgid "Simple and fully localised system administration tools"
-msgstr ""
+msgstr "Jednoduché a plně lokalizované nástroje pro systémovou administraci"
 
 #. Tag: para
 #, no-c-format
 msgid "Salix artwork"
-msgstr ""
+msgstr "Salixový artwork"
 
 #. Tag: para
 #, no-c-format
 msgid "Live CD / USB option"
-msgstr ""
+msgstr "Možnost Live CD / USB"
 
 #. Tag: para
 #, no-c-format
 msgid "Supports 32-bit and 64-bit architectures"
-msgstr ""
+msgstr "Podpora 32-bit a 64-bit architektury"
 
 #. Tag: para
 #, no-c-format
 msgid "Comes with a complete development environment"
-msgstr ""
+msgstr "Přichází s kompletním vývojovým prostředím"
 
 #. Tag: title
 #, no-c-format
 msgid "In Short, Salix OS is..."
-msgstr ""
+msgstr "Ve zkratce, Salix OS je..."
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "“Like a bonsai, Salix is small, light and the product of infinite care!”"
-msgstr ""
+msgstr "“Salix je, stejně jako bonzaj, malý, nenáročný a je výsledkem bezmezné péče!”"
 
 #. Tag: title
 #, no-c-format
 msgid "Salix Editions"
-msgstr ""
+msgstr "Edice Salixu"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Salix OS comes in five different editions – Xfce, LXDE, KDE, Fluxbox and "
 "Ratpoison."
-msgstr ""
+msgstr "Salix OS přichází v pěti různých edicích - Xfce, LXDE, KDE, Fluxbox a Ratpoison."
 
 #. Tag: para
 #, no-c-format
@@ -124,151 +124,151 @@ msgid ""
 "KDE 4.5.5 accompanied by a very rich collection of KDE centric software, "
 "minimalistic Fluxbox window manager, wickedly fast LXDE desktop or “say "
 "good-bye to the rodent” Ratpoison, all with the Salix look and feel!"
-msgstr ""
+msgstr "Výběr je na vás: se svižným Xfce desktop prostředím, ve společnosti elegantního KDE 4.5.5 s velice bohatou sbírkou KDE softwaru, minimalistickým Fluxbox okenním manažerem, podivuhodně rychlým LXDE prostředním nebo můžete \"říci sbohem všem hlodavcům\" s Ratpoisonem - to vše je v možnostech Salixu!"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of the different edition of SalixOS 13.37"
-msgstr ""
+msgstr "Screenshot rozdílné edice SalixOS 13.37"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "For a list of applications available in each Edition, please refer to <xref "
 "linkend=\"appe-Startup_Guide-List_of_Applications\" />."
-msgstr ""
+msgstr "Pro seznam aplikací, který je k dispozici k jednotlivé edici, se prosím podívejte na <xref linkend=\"appe-Startup_Guide-List_of_Applications\" />."
 
 #. Tag: title
 #, no-c-format
 msgid "Installation Mode"
-msgstr ""
+msgstr "Instalační mód"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Salix offers three software installation options: Full, Basic and Core, to "
 "meet your demands!"
-msgstr ""
+msgstr "Salix nabízí tři možnosti softwarové instalace: Plnou, Základní a Core, to vše vstříc vašim potřebám!"
 
 #. Tag: para
 #, no-c-format
 msgid "Installation Type"
-msgstr ""
+msgstr "Instalační typ"
 
 #. Tag: para
 #, no-c-format
 msgid "Target Users"
-msgstr ""
+msgstr "Cílový uživatel"
 
 #. Tag: para
 #, no-c-format
 msgid "Features"
-msgstr ""
+msgstr "Funkcionality"
 
 #. Tag: para
 #, no-c-format
 msgid "Examples of Available Applications"
-msgstr ""
+msgstr "Příklady dostupných aplikací"
 
 #. Tag: para
 #, no-c-format
 msgid "Full"
-msgstr ""
+msgstr "Plný"
 
 #. Tag: para
 #, no-c-format
 msgid "All users"
-msgstr ""
+msgstr "Všuchni uživatelé"
 
 #. Tag: para
 #, no-c-format
 msgid "▫ Graphical environment"
-msgstr ""
+msgstr "▫ Grafické prostředí"
 
 #. Tag: para
 #, no-c-format
 msgid "▫ Full software installation"
-msgstr ""
+msgstr "▫ Instalace celého softwaru"
 
 #. Tag: para
 #, no-c-format
 msgid "▫ Libreoffice"
-msgstr ""
+msgstr "▫ Libreoffice"
 
 #. Tag: para
 #, no-c-format
 msgid "▫ Exaile"
-msgstr ""
+msgstr "▫ Exaile"
 
 #. Tag: para
 #, no-c-format
 msgid "▫ Firefox / Midori"
-msgstr ""
+msgstr "▫ Firefox / Midori"
 
 #. Tag: para
 #, no-c-format
 msgid "▫ Pidgin"
-msgstr ""
+msgstr "▫ Pidgin"
 
 #. Tag: para
 #, no-c-format
 msgid "Basic"
-msgstr ""
+msgstr "Základní"
 
 #. Tag: para
 #, no-c-format
 msgid "Advanced users who would like to add their own choice of applications"
-msgstr ""
+msgstr "Pokročilí uživatelé, kteří by si rádi přidali jejich vlastní výběr aplikací"
 
 #. Tag: para
 #, no-c-format
 msgid "▫ Minimum selection of software"
-msgstr ""
+msgstr "▫ Minimální výběr software balíků"
 
 #. Tag: para
 #, no-c-format
 msgid "▫ Gslapt"
-msgstr ""
+msgstr "▫ Gslapt"
 
 #. Tag: para
 #, no-c-format
 msgid "▫ Desktop"
-msgstr ""
+msgstr "▫ Desktop"
 
 #. Tag: para
 #, no-c-format
 msgid "Core"
-msgstr ""
+msgstr "Core"
 
 #. Tag: para
 #, no-c-format
 msgid "Advanced users who would like to run a console system"
-msgstr ""
+msgstr "Pokročilí uživatelé, kteří by rádi pouštěli systém v konzolovém režimu"
 
 #. Tag: para
 #, no-c-format
 msgid "Server maintainers"
-msgstr ""
+msgstr "Správci serveru"
 
 #. Tag: para
 #, no-c-format
 msgid "▫ No graphical environment"
-msgstr ""
+msgstr "▫ Bez grafického prostředí"
 
 #. Tag: para
 #, no-c-format
 msgid "▫ Minimum number of software essential for a console system"
-msgstr ""
+msgstr "▫ Minimální počet základního softwaru, který je nutný pro ovládání systému z konzole"
 
 #. Tag: para
 #, no-c-format
 msgid "▫ vi"
-msgstr ""
+msgstr "▫ vi"
 
 #. Tag: title
 #, no-c-format
 msgid "Salix Repositories &amp; Package Management"
-msgstr ""
+msgstr "Salix Repozitáře &amp; Správce balíčků"
 
 #. Tag: para
 #, no-c-format
@@ -276,13 +276,13 @@ msgid ""
 "slapt-get and its graphical interface Gslapt are used for package "
 "management, including slapt-src and Sourcery for even wider selection of "
 "software to choose from!"
-msgstr ""
+msgstr "slapt-get a jeho grafická podoba Gslapt jsou používány pro správu balíčků; slapt-src a Sourcery nabízí ještě ěirší základnu softwaru, ze kterého si můžete vybírat!"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "A wide range of packages from Slackware, Slackbuild and Salix repositories"
-msgstr ""
+msgstr "Široká škála balíčku ze Slackware, Slackbuild a Salix repozitářů"
 
 #. Tag: para
 #, no-c-format
@@ -290,11 +290,11 @@ msgid ""
 "The Salix repositories offer dependency resolution support and are the "
 "largest third party software package repositories for Slackware offered to "
 "date"
-msgstr ""
+msgstr "Salixový repozitář poskytuje řešení závislostí a je nyní největším balíčkovacím repozitářem třetí strany, který je používán Slackwarem"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "The Salix repositories are offered for both the 32-bit and 64-bit "
 "architectures"
-msgstr ""
+msgstr "Repozitáře Salix jsou nabízeny pro 32-bit a 64-bit architektury"

@@ -5,15 +5,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
 "PO-Revision-Date: 2012-01-01 21:33+0000\n"
 "Last-Translator: seacat <seacat.linux@gmail.com>\n"
-"Language-Team: None\n"
+"Language-Team: Spanish (http://www.transifex.com/projects/p/salix_documentation/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Tag: title
 #, no-c-format
@@ -40,9 +40,7 @@ msgstr "Borrador original."
 msgid ""
 "Based partly on 13.1.2 guide with new articles to reflect changes and "
 "updates."
-msgstr ""
-"Basado parcilmente en la guía 13.1.2 con nuevos artículos que reflejan "
-"cambios y actualizaciones."
+msgstr "Basado parcilmente en la guía 13.1.2 con nuevos artículos que reflejan cambios y actualizaciones."
 
 #. Tag: member
 #, no-c-format
@@ -92,8 +90,4 @@ msgstr "Primeras pruebas con la pila de pucblicación Publican"
 #. Tag: member
 #, no-c-format
 msgid "Some small modifications regarding new SaLT LiveCD build script"
-msgstr ""
-"Algunas pequeñas modificaciones respecto de los nuevos scripts de "
-"compilación de SaLT LiveCD"
-
-
+msgstr "Algunas pequeñas modificaciones respecto de los nuevos scripts de compilación de SaLT LiveCD"

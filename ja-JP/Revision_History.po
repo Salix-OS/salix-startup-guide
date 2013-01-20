@@ -1,89 +1,93 @@
-#
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Translators:
+#   <hydrangea_and_snail@hotmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: 0\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-11-08T17:18:01\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: None\n"
-"Language: \n"
+"Project-Id-Version: Salix documentation\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-02-03 21:53+0000\n"
+"Last-Translator: tsuren <hydrangea_and_snail@hotmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/projects/p/salix_documentation/language/ja/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #. Tag: title
 #, no-c-format
 msgid "Revision History"
-msgstr ""
+msgstr "改訂履歴"
 
 #. Tag: firstname
 #, no-c-format
 msgid "Tomoki"
-msgstr ""
+msgstr "Tomoki"
 
 #. Tag: surname
 #, no-c-format
 msgid "Tsuchiya"
-msgstr ""
+msgstr "Tsuchiya"
 
 #. Tag: member
 #, no-c-format
 msgid "Original draft."
-msgstr ""
+msgstr "草案"
 
 #. Tag: member
 #, no-c-format
-msgid "Based partly on 13.1.2 guide with new articles to reflect changes and updates."
-msgstr ""
+msgid ""
+"Based partly on 13.1.2 guide with new articles to reflect changes and "
+"updates."
+msgstr "スタートアップガイドの13.1.2板を基に、13.37でアップデートされたことも含み、新らしいスタートアップガイドを作成しました。"
 
 #. Tag: member
 #, no-c-format
 msgid "Fixed some typos"
-msgstr ""
+msgstr "誤字修正"
 
 #. Tag: member
 #, no-c-format
 msgid "Tim (Mimosa) prepared new section on Ratpoison"
-msgstr ""
+msgstr "RatpoisonについてTim (Mimosa)が、加筆"
 
 #. Tag: member
 #, no-c-format
 msgid "Ratpoison added in Application tables"
-msgstr ""
+msgstr "アプリケーション一覧表にRatpoisonのアプリを加えました。"
 
 #. Tag: member
 #, no-c-format
 msgid "Incorporated some suggestions and corrections from the forum"
-msgstr ""
+msgstr "誤字修正、その他、フォーラムからでた提案をくみこみました。"
 
 #. Tag: member
 #, no-c-format
 msgid "Tim added Ratpoison walktrough"
-msgstr ""
+msgstr "RatpoisonのセクションにTimが、加筆しました。"
 
 #. Tag: firstname
 #, no-c-format
 msgid "Pierrick"
-msgstr ""
+msgstr "Pierrick"
 
 #. Tag: surname
 #, no-c-format
 msgid "Le Brun"
-msgstr ""
+msgstr "Le Brun"
 
 #. Tag: member
 #, no-c-format
 msgid "Converted draft n°4 from ODT to docbook format"
-msgstr ""
+msgstr "草案4板をODTフォーマットからdocbookフォーマットに変換"
 
 #. Tag: member
 #, no-c-format
 msgid "First tests with Publican publishing stack"
-msgstr ""
+msgstr "Publicanを使っての実用化テスト"
 
 #. Tag: member
 #, no-c-format
 msgid "Some small modifications regarding new SaLT LiveCD build script"
-msgstr ""
+msgstr "SaLT Live CDのビルド·スクリプトに関していくつかの小さな変更をおこないました。"

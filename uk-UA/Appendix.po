@@ -1,19 +1,19 @@
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Yarema aka Knedlyk <yupadmin@gmail.com>, 2011.
+# Yarema aka Knedlyk <yupadmin@gmail.com>, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
 "POT-Creation-Date: 2012-02-03T19:56:06\n"
-"PO-Revision-Date: 2012-02-14 15:46+0000\n"
+"PO-Revision-Date: 2012-08-05 13:55+0000\n"
 "Last-Translator: Yarema aka Knedlyk <yupadmin@gmail.com>\n"
-"Language-Team: None\n"
+"Language-Team: Ukrainian (http://www.transifex.com/projects/p/salix_documentation/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: uk\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. Tag: title
 #, no-c-format
@@ -589,7 +589,7 @@ msgstr "Claws-mail"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Claws Mail"
-msgstr "Знімок Claws Mail"
+msgstr "Знімок екрану Claws Mail"
 
 #. Tag: para
 #, no-c-format
@@ -602,7 +602,7 @@ msgstr "Claws Mail є клієнтом електронної пошти і но
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Evince"
-msgstr "Знімок Evince"
+msgstr "Знімок екрану Evince"
 
 #. Tag: para
 #, no-c-format
@@ -617,7 +617,7 @@ msgstr "ePDFview"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of ePDFView"
-msgstr "Знімок ePDFView"
+msgstr "Знімок екрану ePDFView"
 
 #. Tag: para
 #, no-c-format
@@ -630,7 +630,7 @@ msgstr "ePDFView являє собою легкий PDF переглядач д�
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Exaile"
-msgstr "Знімок Exaile"
+msgstr "Знімок екрану Exaile"
 
 #. Tag: para
 #, no-c-format
@@ -648,7 +648,7 @@ msgstr "File Roller"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of File Roller"
-msgstr "Знімок File Roller"
+msgstr "Знімок екрану File Roller"
 
 #. Tag: para
 #, no-c-format
@@ -660,7 +660,7 @@ msgstr "File Roller є менеджер архівів. Підтримувані
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Mozilla Firefox"
-msgstr "Знімок Mozilla Firefox"
+msgstr "Знімок екрану Mozilla Firefox"
 
 #. Tag: para
 #, no-c-format
@@ -685,7 +685,7 @@ msgstr "Galculator це калькулятор з двома користува�
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Geany"
-msgstr "Знімок Geany"
+msgstr "Знімок екрану Geany"
 
 #. Tag: para
 #, no-c-format
@@ -703,7 +703,7 @@ msgstr "gFTP"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of gFTP"
-msgstr "Знімок gFTP"
+msgstr "Знімок екрану gFTP"
 
 #. Tag: para
 #, no-c-format
@@ -720,7 +720,7 @@ msgstr "Gigolo"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Gigolo"
-msgstr "Знімок жиголо"
+msgstr "Знімок екрану Gigolo"
 
 #. Tag: para
 #, no-c-format
@@ -748,7 +748,7 @@ msgstr "GIMP (GNU Image Manipulation Program) є програмою для зо�
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Gnumeric"
-msgstr "Знімок Gnumeric"
+msgstr "Знімок екрану Gnumeric"
 
 #. Tag: para
 #, no-c-format
@@ -767,7 +767,7 @@ msgstr "Gtkman"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of GTKMan"
-msgstr "Знімок GTKMan"
+msgstr "Знімок екрану GTKMan"
 
 #. Tag: para
 #, no-c-format
@@ -796,7 +796,7 @@ msgstr "ISO Master"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of ISO Master"
-msgstr "Знімок ISO Master"
+msgstr "Знімок екрану ISO Master"
 
 #. Tag: para
 #, no-c-format
@@ -830,7 +830,7 @@ msgstr "Meld є програмою-оболонкою для утиліт diff �
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Midori"
-msgstr "Знімок Мідорі"
+msgstr "Знімок екрану Мідорі"
 
 #. Tag: para
 #, no-c-format
@@ -842,17 +842,17 @@ msgstr "Мідорі (по-японськи зелений) є легким і �
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Mousepad"
-msgstr "Знімок Mousepad"
+msgstr "Знімок екрану Mousepad"
 
 #. Tag: para
 #, no-c-format
 msgid "Mousepad is a simple text editor with printing support."
-msgstr " є простий текстовий редактор з підтримкою друку."
+msgstr "Mousepad є простий текстовий редактор з підтримкою друку."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of mPaint"
-msgstr "Знімок mPaint"
+msgstr "Знімок екрану mPaint"
 
 #. Tag: para
 #, no-c-format
@@ -870,7 +870,7 @@ msgstr "LibreOffice"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of LibreOffice"
-msgstr "Знімок LibreOffice"
+msgstr "Знімок екрану LibreOffice"
 
 #. Tag: para
 #, no-c-format
@@ -885,7 +885,7 @@ msgstr "LibreOffice є провідним програмним пакетом о
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Orage"
-msgstr "Знімок Orage"
+msgstr "Знімок екрану Orage"
 
 #. Tag: para
 #, no-c-format
@@ -901,19 +901,19 @@ msgstr "Orage - це календар, який чудово інтегруєт�
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Parole Media Player"
-msgstr "Знімок програвача медіа Parole"
+msgstr "Знімок екрану програвача медіа Parole"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Parole Media Player is a media player (audio and video) which utilises the "
 "GStreamer framework for playback."
-msgstr "Parole Media Player є медіа-ппрогравач (аудіо і відео), який використовує GStreamer як основу для відтворення."
+msgstr "Parole Media Player є медіа-програвач (аудіо і відео), який використовує GStreamer як основу для відтворення."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Pidgin"
-msgstr "Знімок Pidgin"
+msgstr "Знімок екрану Pidgin"
 
 #. Tag: para
 #, no-c-format
@@ -932,7 +932,7 @@ msgstr "Редактор відео PiTiVi"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of PiTiVi"
-msgstr "Знімок PiTiVi"
+msgstr "Знімок екрану PiTiVi"
 
 #. Tag: para
 #, no-c-format
@@ -950,7 +950,7 @@ msgstr "Просте сканування"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Simple Scan"
-msgstr "Знімок 'Просте сканування'"
+msgstr "Знімок екрану Просте сканування"
 
 #. Tag: para
 #, no-c-format
@@ -962,7 +962,7 @@ msgstr "Просте сканування дозволяє сканувати д
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Transmission"
-msgstr "Знімок Transmission"
+msgstr "Знімок екрану Transmission"
 
 #. Tag: para
 #, no-c-format
@@ -975,7 +975,7 @@ msgstr "Transmission є простим і потужним клієнтом  <ul
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Viewnior"
-msgstr "Знімок Viewnior"
+msgstr "Знімок екрану Viewnior"
 
 #. Tag: para
 #, no-c-format
@@ -990,7 +990,7 @@ msgstr "Whaaw! MediaPlayer"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Whaaw! Media Player"
-msgstr "Знімок Whaaw! Media Player"
+msgstr "Знімок екрану Whaaw! Media Player"
 
 #. Tag: para
 #, no-c-format
@@ -998,7 +998,7 @@ msgid ""
 "Whaaw! Media Player will play any audio/video files which GStreamer can "
 "manage. It supports fullscreen mode, seeking, changing video colour settings"
 " and more. It is intended to be a basic media player with few dependencies."
-msgstr "Ууууух! Програвач медіа програє будь-які аудіо/відео файли, якими тільки може керувати GStreamer. Він підтримує повноекранний режим, перемотку, зміну кольорів відео і ще багато іншого. Він може бути базовим програвачем тільки з кількома залежностями."
+msgstr "Whaaw! Media Player (Ууууух! Програвач медіа) програє будь-які аудіо/відео файли, якими тільки може керувати GStreamer. Він підтримує повноекранний режим, перемотку, зміну кольорів відео і ще багато іншого. Він може бути базовим програвачем тільки з кількома залежностями."
 
 #. Tag: title
 #, no-c-format

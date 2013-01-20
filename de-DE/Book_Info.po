@@ -1,34 +1,41 @@
-#
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: 0\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-11-08T17:18:00\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: None\n"
-"Language: \n"
+"Project-Id-Version: Salix documentation\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-10-17 08:46+0000\n"
+"Last-Translator: barchi <lpsregensburg@gmail.com>\n"
+"Language-Team: German (http://www.transifex.com/projects/p/salix_documentation/language/de/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Tag: title
 #, no-c-format
 msgid "Startup Guide"
-msgstr ""
+msgstr "Einsteiger Handbuch"
 
 #. Tag: subtitle
 #, no-c-format
 msgid "Getting familiar with your new operating System"
-msgstr ""
+msgstr "Sich mit deinem neuen Betriebssystem (kurz: OS) vertraut machen"
 
 #. Tag: productname
 #, no-c-format
 msgid "SalixOS"
-msgstr ""
+msgstr "SalixOS"
 
 #. Tag: para
 #, no-c-format
-msgid "The purpose of this manual is to enable you to take full advantage of the many functionalities of Salix OS. While particular attention has been given to help newcomers quickly get familiar with common computer tasks, more advanced material is also available for intermediate users who want to learn more about the inner workings of their operating system, its administration and its customisation."
-msgstr ""
+msgid ""
+"The purpose of this manual is to enable you to take full advantage of the "
+"many functionalities of Salix OS. While particular attention has been given "
+"to help newcomers quickly get familiar with common computer tasks, more "
+"advanced material is also available for intermediate users who want to learn"
+" more about the inner workings of their operating system, its administration"
+" and its customisation."
+msgstr "Das Ziel dieses Handbuchs ist es, dir zu ermöglichen, alle Vorteile und Funktionen von Salix OS zu nutzen. Während wir besonders  unseren Anfängern die Aufmerksamkeit schenken, damit sie sich schnell mit den grundlegenden Systemfunktionen vertraut machen können, bieten wir natürlich auch den fortgeschrittenen Nutzern, die mehr über die internen Prozesse, die Administration und die Konfiguration ihres OS lernen möchten, reichlich fundiertes Material an."

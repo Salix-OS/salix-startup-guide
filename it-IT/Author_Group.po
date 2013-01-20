@@ -1,74 +1,76 @@
-#
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Translators:
+#   <laplume@libero.it>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: 0\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-11-08T17:18:00\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: None\n"
-"Language: \n"
+"Project-Id-Version: Salix documentation\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-11-18 13:04+0000\n"
+"Last-Translator: laplume <laplume@libero.it>\n"
+"Language-Team: Italian (http://www.transifex.com/projects/p/salix_documentation/language/it/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Tag: firstname
 #, no-c-format
 msgid "Tomoki"
-msgstr ""
+msgstr "Tomoki"
 
 #. Tag: surname
 #, no-c-format
 msgid "Tsuchiya"
-msgstr ""
+msgstr "Tsuchiya"
 
 #. Tag: orgdiv
 #, no-c-format
 msgid "Author"
-msgstr ""
+msgstr "Autore"
 
 #. Tag: firstname
 #, no-c-format
 msgid "Pierrick"
-msgstr ""
+msgstr "Pierrick"
 
 #. Tag: surname
 #, no-c-format
 msgid "Le Brun"
-msgstr ""
+msgstr "Le Brun"
 
 #. Tag: firstname
 #, no-c-format
 msgid "Cyrille"
-msgstr ""
+msgstr "Cyrille"
 
 #. Tag: surname
 #, no-c-format
 msgid "Pontvieux"
-msgstr ""
+msgstr "Pontvieux"
 
 #. Tag: firstname
 #, no-c-format
 msgid "Tim"
-msgstr ""
+msgstr "Tim"
 
 #. Tag: surname
 #, no-c-format
 msgid "Beech"
-msgstr ""
+msgstr "Beech"
 
 #. Tag: firstname
 #, no-c-format
 msgid "Max"
-msgstr ""
+msgstr "Max"
 
 #. Tag: surname
 #, no-c-format
 msgid "Boon"
-msgstr ""
+msgstr "Boon"
 
 #. Tag: orgdiv
 #, no-c-format
 msgid "Editor"
-msgstr ""
+msgstr "Editor"

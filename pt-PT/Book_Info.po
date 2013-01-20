@@ -1,0 +1,42 @@
+# AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Hugo Carvalho <hugokarvalho@hotmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: Salix documentation\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-01-12 21:48+0000\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
+"Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/salix_documentation/language/pt_PT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Startup Guide"
+msgstr "Guia de Inicialização"
+
+#. Tag: subtitle
+#, no-c-format
+msgid "Getting familiar with your new operating System"
+msgstr "Familiarize-se com seu novo sistema operativo"
+
+#. Tag: productname
+#, no-c-format
+msgid "SalixOS"
+msgstr "SalixOS"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The purpose of this manual is to enable you to take full advantage of the "
+"many functionalities of Salix OS. While particular attention has been given "
+"to help newcomers quickly get familiar with common computer tasks, more "
+"advanced material is also available for intermediate users who want to learn"
+" more about the inner workings of their operating system, its administration"
+" and its customisation."
+msgstr "O propósito deste manual é para que você possa tirar o máximo partido das muitas funcionalidades do Salix OS. Enquanto a atenção especial tem sido dada para ajudar os recém-chegados rapidamente se familiarizar com as tarefas comuns do computador, material mais avançado também está disponível para utilizadores intermediários que desejam aprender mais sobre o funcionamento interno de seu sistema operativo, a sua administração e sua personalização."

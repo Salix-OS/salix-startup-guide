@@ -5,15 +5,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
 "PO-Revision-Date: 2011-12-11 11:44+0000\n"
 "Last-Translator: laplume <laplume@libero.it>\n"
-"Language-Team: None\n"
+"Language-Team: Italian (http://www.transifex.com/projects/p/salix_documentation/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Tag: title
 #, no-c-format
@@ -39,13 +39,4 @@ msgid ""
 "advanced material is also available for intermediate users who want to learn"
 " more about the inner workings of their operating system, its administration"
 " and its customisation."
-msgstr ""
-"Lo scopo del presente manuale è quello di farvi scoprire le molte "
-"funzionalità di Salix OS. Particolare attenzione è stata dedicata al "
-"supporto degli utenti inesperti in modo che possano apprendere velocemente "
-"le basi per utilizzare il computer per le attività più frequenti. Per gli "
-"utenti più addestrati è disponibile ulteriore materiale per apprendere il "
-"funzionamento interno del sistema operativo, nonché la sua amministrazione e"
-" personalizzazione."
-
-
+msgstr "Lo scopo del presente manuale è quello di farvi scoprire le molte funzionalità di Salix OS. Particolare attenzione è stata dedicata al supporto degli utenti inesperti in modo che possano apprendere velocemente le basi per utilizzare il computer per le attività più frequenti. Per gli utenti più addestrati è disponibile ulteriore materiale per apprendere il funzionamento interno del sistema operativo, nonché la sua amministrazione e personalizzazione."

@@ -5,15 +5,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
 "PO-Revision-Date: 2011-11-27 16:24+0000\n"
 "Last-Translator: ink3 <sgasior1@gmail.com>\n"
-"Language-Team: Polish (http://www.transifex.net/projects/p/salix/team/pl/)\n"
+"Language-Team: Polish (http://www.transifex.com/projects/p/salix_documentation/language/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. Tag: title
 #, no-c-format
@@ -36,15 +36,7 @@ msgid ""
 "url=\"http://en.wikipedia.org/wiki/KISS_principle\">KISS</ulink> principle "
 "that Slackware adheres to refers to the viewpoint of system design, Salix OS"
 " also applies it to the viewpoint of the end user."
-msgstr ""
-"Salix OS jest <ulink url=\"http://en.wikipedia.org/wiki/Linux_distro\"> "
-"Dystrybucją Linuksa </ulink> na podstawie <ulink "
-"url=\"http://en.wikipedia.org/wiki/Slackware\"> Slackware </ulink> zachowuje"
-" także pełną kompatybilność z jego sławnym rodzicem. Jednakże, gdy <ulink "
-"url=\"http://en.wikipedia.org/wiki/KISS_principle\"> KISS </ulink> jest "
-"zasadą, która przyległa do Slackware odnosi się do punktu widzenia dla Salix"
-" OS w konstrukcji systemu, ale Salix OS jest rówież dostosowany z punktu "
-"widzenia użytkownika końcowego."
+msgstr "Salix OS jest <ulink url=\"http://en.wikipedia.org/wiki/Linux_distro\"> Dystrybucją Linuksa </ulink> na podstawie <ulink url=\"http://en.wikipedia.org/wiki/Slackware\"> Slackware </ulink> zachowuje także pełną kompatybilność z jego sławnym rodzicem. Jednakże, gdy <ulink url=\"http://en.wikipedia.org/wiki/KISS_principle\"> KISS </ulink> jest zasadą, która przyległa do Slackware odnosi się do punktu widzenia dla Salix OS w konstrukcji systemu, ale Salix OS jest rówież dostosowany z punktu widzenia użytkownika końcowego."
 
 #. Tag: title
 #, no-c-format
@@ -71,9 +63,7 @@ msgstr "Zoptymalizowany do użycia na desktop"
 msgid ""
 "With Salix tools to assist system management (See <xref linkend=\"sect-"
 "Startup_Guide-Your_Salix-Salix_Tools\" />)"
-msgstr ""
-"Dzięki narzędziom Salix do zarządzania (patrz <xref linkend=\"sect-"
-"Startup_Guide-Your_Salix-Salix_Tools\" /> )"
+msgstr "Dzięki narzędziom Salix do zarządzania (patrz <xref linkend=\"sect-Startup_Guide-Your_Salix-Salix_Tools\" /> )"
 
 #. Tag: para
 #, no-c-format
@@ -126,9 +116,7 @@ msgstr "Edycje Salix"
 msgid ""
 "Salix OS comes in five different editions – Xfce, LXDE, KDE, Fluxbox and "
 "Ratpoison."
-msgstr ""
-"Salix OS jest w pięciu różnych edycjach - Xfce, LXDE, KDE, Fluxbox i "
-"Ratpoison."
+msgstr "Salix OS jest w pięciu różnych edycjach - Xfce, LXDE, KDE, Fluxbox i Ratpoison."
 
 #. Tag: para
 #, no-c-format
@@ -137,12 +125,7 @@ msgid ""
 "KDE 4.5.5 accompanied by a very rich collection of KDE centric software, "
 "minimalistic Fluxbox window manager, wickedly fast LXDE desktop or “say "
 "good-bye to the rodent” Ratpoison, all with the Salix look and feel!"
-msgstr ""
-"Wybór należy do Ciebie: oferujące uproszczone środowisko Xfce, eleganckie "
-"KDE 4.5.5 wraz z bardzo bogatą kolekcję oprogramowania KDE, "
-"minimalistycznego menedżera okien Fluxbox, niegodziwie szybki pulpit LXDE "
-"lub \"powiedz do widzenia gryzoniom\" Ratpoison, wszystkie one są  Salix "
-"wyglądem!"
+msgstr "Wybór należy do Ciebie: oferujące uproszczone środowisko Xfce, eleganckie KDE 4.5.5 wraz z bardzo bogatą kolekcję oprogramowania KDE, minimalistycznego menedżera okien Fluxbox, niegodziwie szybki pulpit LXDE lub \"powiedz do widzenia gryzoniom\" Ratpoison, wszystkie one są  Salix wyglądem!"
 
 #. Tag: phrase
 #, no-c-format
@@ -154,9 +137,7 @@ msgstr "Zrzut ekranu z różnych edycji SalixOS 13.37"
 msgid ""
 "For a list of applications available in each Edition, please refer to <xref "
 "linkend=\"appe-Startup_Guide-List_of_Applications\" />."
-msgstr ""
-"Z listą aplikacji dostępnych w każdej edycji, należy zapoznać się w <xref "
-"linkend=\"appe-Startup_Guide-List_of_Applications\" /> ."
+msgstr "Z listą aplikacji dostępnych w każdej edycji, należy zapoznać się w <xref linkend=\"appe-Startup_Guide-List_of_Applications\" /> ."
 
 #. Tag: title
 #, no-c-format
@@ -168,9 +149,7 @@ msgstr "Tryb instalacji"
 msgid ""
 "Salix offers three software installation options: Full, Basic and Core, to "
 "meet your demands!"
-msgstr ""
-"Salix oferuje trzy opcje instalacji oprogramowania: Full, Basic i Core, aby "
-"sprostać Twoim oczekiwaniom!"
+msgstr "Salix oferuje trzy opcje instalacji oprogramowania: Full, Basic i Core, aby sprostać Twoim oczekiwaniom!"
 
 #. Tag: para
 #, no-c-format
@@ -240,8 +219,7 @@ msgstr "Podstawowy"
 #. Tag: para
 #, no-c-format
 msgid "Advanced users who would like to add their own choice of applications"
-msgstr ""
-"Zaawansowani użytkownicy, którzy chcieliby, aby dodać własny wybór aplikacji"
+msgstr "Zaawansowani użytkownicy, którzy chcieliby, aby dodać własny wybór aplikacji"
 
 #. Tag: para
 #, no-c-format
@@ -299,10 +277,7 @@ msgid ""
 "slapt-get and its graphical interface Gslapt are used for package "
 "management, including slapt-src and Sourcery for even wider selection of "
 "software to choose from!"
-msgstr ""
-"slapt-get i jego interfejs graficzny Gslapt są używane do zarządzania "
-"pakietami, w tym slapt-src i Sourcery dają jeszcze większy wybór "
-"oprogramowania do wyboru!"
+msgstr "slapt-get i jego interfejs graficzny Gslapt są używane do zarządzania pakietami, w tym slapt-src i Sourcery dają jeszcze większy wybór oprogramowania do wyboru!"
 
 #. Tag: para
 #, no-c-format
@@ -316,10 +291,7 @@ msgid ""
 "The Salix repositories offer dependency resolution support and are the "
 "largest third party software package repositories for Slackware offered to "
 "date"
-msgstr ""
-"Repozytoria Salix oferują wsparcie rozwiązywania zależności i są największym"
-" zbiorem repozytoriów oprogramowania w paczkach dla Slackware oferowanych do"
-" tej pory"
+msgstr "Repozytoria Salix oferują wsparcie rozwiązywania zależności i są największym zbiorem repozytoriów oprogramowania w paczkach dla Slackware oferowanych do tej pory"
 
 #. Tag: para
 #, no-c-format
@@ -327,5 +299,3 @@ msgid ""
 "The Salix repositories are offered for both the 32-bit and 64-bit "
 "architectures"
 msgstr "Repozytoria Salix oferowane są dla architektur 32-bitowych i 64-bit"
-
-

@@ -1,19 +1,19 @@
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Yarema aka Knedlyk <yupadmin@gmail.com>, 2011.
+# Yarema aka Knedlyk <yupadmin@gmail.com>, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-12-28 23:15+0000\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-08-05 13:26+0000\n"
 "Last-Translator: Yarema aka Knedlyk <yupadmin@gmail.com>\n"
-"Language-Team: None\n"
+"Language-Team: Ukrainian (http://www.transifex.com/projects/p/salix_documentation/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: uk\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. Tag: title
 #, no-c-format
@@ -30,23 +30,19 @@ msgstr "Розширені параметри завантаження"
 msgid ""
 "By selecting 'Change boot options' on the Salix Live Boot menu, you will be "
 "offered a choice of supplementary boot options"
-msgstr ""
-"Після вибору 'Змінити параметри завантаження' в меню завантаження Salix Live"
-" Вам запропонують на вибір додаткові параметри завантаження"
+msgstr "Після вибору 'Змінити параметри завантаження' в меню завантаження Salix Live Вам запропонують на вибір додаткові параметри завантаження"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Instructions below the Salix Live Boot menu"
-msgstr "Інструкція під меню завантаження Salix Live"
+msgstr "Інструкції під меню завантаження Salix Live"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "The instructions below the Salix Live Boot menu will give you access to "
 "Salix Live 'manual' advanced Boot options."
-msgstr ""
-"Інструкція під меню завантаження Salix Live дасть Вам доступ до введення "
-"'вручну' додаткових параметрів завантаження Salix Live."
+msgstr "Інструкції під меню завантаження Salix Live дадуть Вам доступ до введення 'вручну' додаткових параметрів завантаження Salix Live."
 
 #. Tag: phrase
 #, no-c-format
@@ -58,9 +54,7 @@ msgstr "Додаткові параметри завантаження"
 msgid ""
 "Pressing “c” gives you access to the Grub shell. Type help to view all "
 "available commands."
-msgstr ""
-"Натискання “c” дасть Вам доступ до шелу Grub. Надрукуйте help для перегляду "
-"доступних команд."
+msgstr "Натискання “c” дасть Вам доступ до шелу Grub. Введіть команду help для перегляду доступних команд."
 
 #. Tag: phrase
 #, no-c-format
@@ -79,11 +73,7 @@ msgid ""
 "display, enabling you to modify some of the booting options, for example, in"
 " order to enter a boot parameter. For instance, “nomodeset” for those who "
 "use older graphic cards and have problem booting up properly."
-msgstr ""
-"Натискання 'e' коли вибрано 'Запустити Salix Live' відкриває вікно, що "
-"дозволяє змінювати деякі з параметрів завантаження. Наприклад, параметр "
-"“nomodeset” для користувачів, які використовують старіші карти графіки і "
-"мають проблеми з ними."
+msgstr "Натискання 'e' коли вибрано 'Запустити Salix Live' відкриває вікно, що дозволяє змінювати деякі з параметрів завантаження. Наприклад, параметр “nomodeset” для користувачів, які використовують старіші карти графіки і мають проблеми з ними."
 
 #. Tag: phrase
 #, no-c-format
@@ -97,11 +87,7 @@ msgid ""
 " of Linux. To enter a cheatcode, you simply have to add it to the 'linux' "
 "line above (after changes=slxsave.xfs), ensuring a blank space separates it "
 "from the previous boot parameter."
-msgstr ""
-"Параметри завантаження або чит-коди використовуються для керування процесом "
-"завантаження Лінукс. Для вводу чит-коду Вам достатньо додати його до стрічки"
-" 'linux' зверху (після changes=slxsave.xfs), розділивши пропуском від "
-"попереднього параметру завантаження."
+msgstr "Параметри завантаження або чит-коди використовуються для керування процесом завантаження Лінукс. Для вводу чит-коду Вам достатньо додати його до стрічки 'linux' зверху (після changes=slxsave.xfs), розділивши пропуском від попереднього параметру завантаження."
 
 #. Tag: title
 #, no-c-format
@@ -141,9 +127,7 @@ msgstr "from=path/to/exploded/salixlive-version.iso"
 #. Tag: para
 #, no-c-format
 msgid "To set root's password to \"somepass\", or ask for a new password:"
-msgstr ""
-"Для встановлення паролю суперкористувача на \"якийсь_пароль\", або запитання"
-" про новий пароль:"
+msgstr "Для встановлення паролю суперкористувача на \"якийсь_пароль\", або запитання про новий пароль:"
 
 #. Tag: para
 #, no-c-format
@@ -170,9 +154,7 @@ msgstr "load=модуль"
 msgid ""
 "(You can use the full module name (module.lzm) or you can skip the "
 "extension.)"
-msgstr ""
-"(Ви можете використовувати повне ім'я модуля (module.lzm), або Ви можете "
-"пропустити це розширення.)"
+msgstr "(Ви можете використовувати повне ім'я модуля (module.lzm), або Ви можете пропустити це розширення.)"
 
 #. Tag: para
 #, no-c-format
@@ -215,15 +197,12 @@ msgid ""
 "(This cheatcode is already included in Salix Live boot menu and the "
 "Persistence Wizard can assist you in creating a persistent file that will be"
 " automatically managed by Salix Live.)"
-msgstr ""
-"(Цей чит-код вже включений в меню завантаження Salix Live і майстер "
-"збереження може допомогти Вам у створенні файлу збереження, яким буде "
-"автоматично управляти Salix Live.)"
+msgstr "(Цей код вже включений в меню завантаження Salix Live і майстер збереження може допомогти Вам у створенні файлу збереження, яким буде автоматично управляти Salix Live.)"
 
 #. Tag: para
 #, no-c-format
 msgid "To enable debug mode:"
-msgstr "Для включення режиму відладки:"
+msgstr "Для включення режиму налаштування:"
 
 #. Tag: para
 #, no-c-format
@@ -234,9 +213,7 @@ msgstr "debug"
 #, no-c-format
 msgid ""
 "(Starts bash several times during boot. Press Ctrl+D to resume booting)"
-msgstr ""
-"(Запускає bash кілька разів під час завантаження. Натисніть Ctrl+D для "
-"відновлення завантаження)"
+msgstr "(Запускає bash кілька разів під час завантаження. Натисніть Ctrl+D для відновлення завантаження)"
 
 #. Tag: title
 #, no-c-format
@@ -261,9 +238,7 @@ msgstr "mkdir -p /mnt/hdxx/тека1"
 #. Tag: para
 #, no-c-format
 msgid "2. Install all software packages using this directory as root:"
-msgstr ""
-"2. Встановити всі пакунки програм, використовуючи цю теку з правами "
-"адміністратора:"
+msgstr "2. Встановити всі пакунки програм, використовуючи цю теку з правами адміністратора:"
 
 #. Tag: para
 #, no-c-format
@@ -330,14 +305,12 @@ msgstr "Налаштування модуля"
 msgid ""
 "You can fully customize the content of a module by removing or adding "
 "applications and by deleting, editing or adding new files inside it."
-msgstr ""
-"Ви можете повністю налаштувати зміст модуля, видаляючи або додаючи програми,"
-" а також видаляючи, редагуючи або додаючи нові файли всередині нього."
+msgstr "Ви можете повністю налаштувати зміст модуля, видаляючи або додаючи програми, а також видаляючи, редагуючи або додаючи нові файли всередині нього."
 
 #. Tag: para
 #, no-c-format
 msgid "1. Create a working directory:"
-msgstr "1. Створити робочу теку:"
+msgstr "1. Створення робочої теки:"
 
 #. Tag: para
 #, no-c-format
@@ -360,9 +333,7 @@ msgstr "lzm2dir /mnt/hdc/salixlive/base/модульx.lzm /mnt/hdxx/текаx"
 msgid ""
 "(TIP: You can check that the module contains the unwanted packages by "
 "listing the /mnt/hdxx/directoryx/var/log/packages/ directory.)"
-msgstr ""
-"(РАДА:. Ви можете перевірити, чи модуль містить непотрібні пакунки, "
-"переглядаючи теку /mnt/hdxx/текаx/var/log/packages/)"
+msgstr "(РАДА:. Ви можете перевірити, чи модуль містить непотрібні пакунки, переглядаючи теку /mnt/hdxx/текаx/var/log/packages/)"
 
 #. Tag: para
 #, no-c-format
@@ -407,7 +378,7 @@ msgstr "installpkg –-root=/mnt/hdxx/текаx пакунок3-x.x.x.txz"
 #. Tag: para
 #, no-c-format
 msgid "5. Rebuild the module:"
-msgstr "5. Перебудувати модуль:"
+msgstr "5. Перебудова модулю:"
 
 #. Tag: para
 #, no-c-format
@@ -419,9 +390,7 @@ msgstr "dir2lzm текаx модульx.lzm"
 msgid ""
 "6. Replace the original module with your new module, rebuild the ISO image "
 "and reburn the CD."
-msgstr ""
-"6. Замінити оригінальний модуль новим модулем, перебудувати образ ISO і "
-"записати на компакт-диск."
+msgstr "6. Замінити оригінальний модуль новим модулем, перебудувати образ ISO і записати на компакт-диск."
 
 #. Tag: title
 #, no-c-format
@@ -434,10 +403,7 @@ msgid ""
 "By browsing /mnt/live/memory/images/xxx.lzm/, you can view the contents of "
 "each module, therefore you'll find which module holds a given package in "
 "/mnt/live/memory/images/xxx.lzm/var/log/packages/"
-msgstr ""
-"Переглядаючи теку /mnt/live/memory/images/xxx.lzm/, Ви можете побачити вміст"
-" кожного модуля, таким чином Ви зможете знайти, який модуль містить даний "
-"пакунок в /mnt/live/memory/images/xxx.lzm/var/log/packages/"
+msgstr "Переглядаючи теку /mnt/live/memory/images/xxx.lzm/, Ви можете побачити вміст кожного модуля, таким чином Ви зможете знайти, який модуль містить даний пакунок в /mnt/live/memory/images/xxx.lzm/var/log/packages/"
 
 #. Tag: title
 #, no-c-format
@@ -450,10 +416,7 @@ msgid ""
 "Sometimes all you want to do is add a couple files to Salix Live, for "
 "example specific configuration files. In that case it is not necessary to "
 "create or modify a module."
-msgstr ""
-"Часом Вам потрібно додати кілька файлів до Salix Live, наприклад якісь "
-"специфічні файли конфігурації. У цьому випадку непотрібно створювати або "
-"змінювати модуль."
+msgstr "Часом Вам потрібно додати кілька файлів до Salix Live, наприклад якісь специфічні файли конфігурації. У цьому випадку непотрібно створювати або змінювати модуль."
 
 #. Tag: para
 #, no-c-format
@@ -461,10 +424,7 @@ msgid ""
 "Salix Live CD holds a /salixlive/rootcopy/ directory. The content of this "
 "directory is copied to the root filesystem each time you boot, preserving "
 "all directories."
-msgstr ""
-"Salix Live CD містить теку /salixlive/rootcopy/ . Вміст цієї теки копіюється"
-" до кореневої файлової системи кожного разу при завантаженні, зберігаючи всі"
-" теки."
+msgstr "Salix Live CD містить теку /salixlive/rootcopy/ . Вміст цієї теки копіюється до кореневої файлової системи кожного разу при завантаженні, зберігаючи всі теки."
 
 #. Tag: para
 #, no-c-format
@@ -473,11 +433,7 @@ msgid ""
 "etc/X11/ directories inside of /salixlive/rootcopy and store your xorg.conf "
 "in it. Note that you need to recreate the full directory hierarchy for the "
 "patches to work as desired."
-msgstr ""
-"Так, наприклад, якщо Ви бажаєте використовувати власний файл xorg.conf, "
-"створіть теку etc/X11 всередині /salixlive/rootcopy і збережіть Ваш "
-"xorg.conf в ній. Зауважте, Вам потрібно відтворювати повну ієрархію тек, щоб"
-" зміни запрацювали. "
+msgstr "Так, наприклад, якщо Ви бажаєте використовувати власний файл xorg.conf, створіть теку etc/X11 всередині /salixlive/rootcopy і збережіть Ваш xorg.conf в ній. Зауважте, Вам потрібно відтворювати повну ієрархію тек, щоб зміни запрацювали. "
 
 #. Tag: title
 #, no-c-format
@@ -492,12 +448,4 @@ msgid ""
 "then add to and/or remove from the modules situated in /salixlive/base, "
 "/salixlive/modules or /salixlive/optional. Once you are done, save the "
 "modified ISO to your hard drive and use Brasero to burn it on a CD-ROM."
-msgstr ""
-"Для зміни Salix Live Вам потрібно скористатися програмою Isomaster. Ви "
-"повинні відкрити файл ISO з Salix Live (наприклад, один з тих, що Ви "
-"завантажили) і тоді додати і/або вилучити модулі, що містяться в "
-"/salixlive/base, /salixlive/modules або /salixlive/optional. Після "
-"закінчення збережіть змінений файл ISO на Ваш твердий диск і використайте "
-"Brasero для запису на CD-ROM."
-
-
+msgstr "Для зміни Salix Live Вам потрібно скористатися програмою Isomaster. Ви повинні відкрити файл ISO з Salix Live (наприклад, один з тих, що Ви завантажили) і тоді додати і/або вилучити модулі, що містяться в /salixlive/base, /salixlive/modules або /salixlive/optional. Після закінчення збережіть змінений файл ISO на Ваш твердий диск і використайте Brasero для запису на CD-ROM."

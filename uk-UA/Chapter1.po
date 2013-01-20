@@ -1,24 +1,24 @@
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Yarema aka Knedlyk <yupadmin@gmail.com>, 2011.
+# Yarema aka Knedlyk <yupadmin@gmail.com>, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-12-01 21:23+0000\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-08-03 19:56+0000\n"
 "Last-Translator: Yarema aka Knedlyk <yupadmin@gmail.com>\n"
-"Language-Team: None\n"
+"Language-Team: Ukrainian (http://www.transifex.com/projects/p/salix_documentation/language/uk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: uk\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. Tag: title
 #, no-c-format
 msgid "Salix OS at a Glance"
-msgstr "Salix OS на перший погляд"
+msgstr "Salix OS - перший погляд"
 
 #. Tag: phrase
 #, no-c-format
@@ -36,13 +36,7 @@ msgid ""
 "url=\"http://en.wikipedia.org/wiki/KISS_principle\">KISS</ulink> principle "
 "that Slackware adheres to refers to the viewpoint of system design, Salix OS"
 " also applies it to the viewpoint of the end user."
-msgstr ""
-"Salix OS є <ulink url=\"http://en.wikipedia.org/wiki/Linux_distro\">виданням"
-" Linux</ulink>, базованим на <ulink "
-"url=\"http://en.wikipedia.org/wiki/Slackware\">Slackware</ulink>, що має "
-"повну сумісність з ним. Принцип Slackware <ulink "
-"url=\"http://en.wikipedia.org/wiki/KISS_principle\">KISS</ulink> щодо "
-"системи і її дизайну Salix OS застосовує з точки зору кінцевого користувача."
+msgstr "Salix OS є <ulink url=\"http://en.wikipedia.org/wiki/Linux_distro\">виданням Linux</ulink>, базованим на <ulink url=\"http://en.wikipedia.org/wiki/Slackware\">Slackware</ulink>, що має повну сумісність з ним. Принцип Slackware <ulink url=\"http://en.wikipedia.org/wiki/KISS_principle\">KISS</ulink> щодо системи і її дизайну Salix OS застосовує з точки зору кінцевого користувача."
 
 #. Tag: title
 #, no-c-format
@@ -69,9 +63,7 @@ msgstr "Оптимізовано для використання на стаці
 msgid ""
 "With Salix tools to assist system management (See <xref linkend=\"sect-"
 "Startup_Guide-Your_Salix-Salix_Tools\" />)"
-msgstr ""
-"З інструментами Salix для надання допомоги в керуванні системою (див. <xref "
-"linkend=\"sect-Startup_Guide-Your_Salix-Salix_Tools\" />)"
+msgstr "З інструментами Salix для надання допомоги в керуванні системою (див. <xref linkend=\"sect-Startup_Guide-Your_Salix-Salix_Tools\" />)"
 
 #. Tag: para
 #, no-c-format
@@ -96,7 +88,7 @@ msgstr "Можливість вибору Live CD / USB"
 #. Tag: para
 #, no-c-format
 msgid "Supports 32-bit and 64-bit architectures"
-msgstr "Підтримка 32-бітних і 64-розрядних архітектур"
+msgstr "Підтримка 32 та 64-розрядних архітектур"
 
 #. Tag: para
 #, no-c-format
@@ -112,8 +104,7 @@ msgstr "Коротше кажучи, Salix ОС є..."
 #, no-c-format
 msgid ""
 "“Like a bonsai, Salix is small, light and the product of infinite care!”"
-msgstr ""
-"\"Як бонсай, Salix є маленький, легкий і є продуктом постійного догляду!\""
+msgstr "\"Як бонсай, Salix є маленький, легкий, і є продуктом постійного догляду!\""
 
 #. Tag: title
 #, no-c-format
@@ -125,8 +116,7 @@ msgstr "Видання Salix"
 msgid ""
 "Salix OS comes in five different editions – Xfce, LXDE, KDE, Fluxbox and "
 "Ratpoison."
-msgstr ""
-"Salix OS має п'ять різних видань – Xfce, LXDE, KDE, Fluxbox i Ratpoison."
+msgstr "Salix OS має п'ять різних видань – Xfce, LXDE, KDE, Fluxbox i Ratpoison."
 
 #. Tag: para
 #, no-c-format
@@ -135,25 +125,19 @@ msgid ""
 "KDE 4.5.5 accompanied by a very rich collection of KDE centric software, "
 "minimalistic Fluxbox window manager, wickedly fast LXDE desktop or “say "
 "good-bye to the rodent” Ratpoison, all with the Salix look and feel!"
-msgstr ""
-"Це Ваш вибір: з сучасним середовищем робочого столу Xfce, елегантним KDE "
-"4.5.5 з багатою колекцією програм KDE, мінімалістичним віконним менеджером "
-"Flaxbox, страшенно швидким робочим столом LXDE, або з \"попрощайтесь з "
-"гризунами\" Ratpoison, всі з виглядом Salix!"
+msgstr "Ви можете вибирати Salix: з сучасним середовищем робочого столу Xfce, елегантним KDE 4.5.5 з багатою колекцією програм KDE, мінімалістичним віконним менеджером Flaxbox, страшенно швидким робочим столом LXDE, або з \"попрощайтесь з гризунами\" Ratpoison, всі з виглядом Salix!"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of the different edition of SalixOS 13.37"
-msgstr "Знімки різних видань SalixOS 13.37"
+msgstr "Знімки екрану різних видань SalixOS 13.37"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "For a list of applications available in each Edition, please refer to <xref "
 "linkend=\"appe-Startup_Guide-List_of_Applications\" />."
-msgstr ""
-"Для списку доступних програм у кожному виданні зверніться до <xref linkend"
-"=\"appe-Startup_Guide-List_of_Applications\" />."
+msgstr "Про список доступних програм у кожному виданні зверніться до <xref linkend=\"appe-Startup_Guide-List_of_Applications\" />."
 
 #. Tag: title
 #, no-c-format
@@ -235,7 +219,7 @@ msgstr "Основне"
 #. Tag: para
 #, no-c-format
 msgid "Advanced users who would like to add their own choice of applications"
-msgstr "Досвідчені користувачі, які хотіли б додати свій вибір програм"
+msgstr "Досвідчені користувачі, які хотіли б мати свій вибір програм"
 
 #. Tag: para
 #, no-c-format
@@ -275,9 +259,7 @@ msgstr "▫ Немає графічного середовища"
 #. Tag: para
 #, no-c-format
 msgid "▫ Minimum number of software essential for a console system"
-msgstr ""
-"▫ Мінімальна кількість програмного забезпечення, необхідного для консольної "
-"системи"
+msgstr "▫ Мінімальна кількість програмного забезпечення, необхідного для консольної системи"
 
 #. Tag: para
 #, no-c-format
@@ -295,16 +277,13 @@ msgid ""
 "slapt-get and its graphical interface Gslapt are used for package "
 "management, including slapt-src and Sourcery for even wider selection of "
 "software to choose from!"
-msgstr ""
-"Slapt-get і графічний інтерфейс Gslapt використовуються для керування "
-"пакунками, включаючи Slapt-src і Sourcery для ще більш широкого вибору "
-"програмного забезпечення!"
+msgstr "Slapt-get і графічний інтерфейс Gslapt використовуються для керування пакунками, включаючи Slapt-src і Sourcery для ще більш широкого вибору програмного забезпечення!"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "A wide range of packages from Slackware, Slackbuild and Salix repositories"
-msgstr "Широкий вибір пакунків з сховищ Slackware, SlackBuild і Salix"
+msgstr "Великий вибір пакунків з сховищ Slackware, SlackBuild і Salix"
 
 #. Tag: para
 #, no-c-format
@@ -312,17 +291,11 @@ msgid ""
 "The Salix repositories offer dependency resolution support and are the "
 "largest third party software package repositories for Slackware offered to "
 "date"
-msgstr ""
-"Сховища Salix пропонують підтримку залежностей і є найбільшими сховищами "
-"програмного забезпечення сторонніх пакунків для Slackware, пропонованих на "
-"сьогоднішній день"
+msgstr "Сховища Salix пропонують підтримку залежностей і є найбільшими сховищами програмного забезпечення сторонніх пакунків для Slackware, пропонованих на сьогоднішній день"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "The Salix repositories are offered for both the 32-bit and 64-bit "
 "architectures"
-msgstr ""
-"Сховища Salix пропонуються як для 32-бітних, так і для 64-бітних архітектур"
-
-
+msgstr "Сховища Salix пропонуються як для 32-бітних, так і для 64-бітних архітектур"

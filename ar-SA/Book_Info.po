@@ -1,0 +1,42 @@
+# AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# mohammad <malham1@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: Salix documentation\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-06-09 11:29+0000\n"
+"Last-Translator: mohammad alhargan <malham1@hotmail.com>\n"
+"Language-Team: Arabic (http://www.transifex.com/projects/p/salix_documentation/language/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Startup Guide"
+msgstr "دليل بدء التشغيل"
+
+#. Tag: subtitle
+#, no-c-format
+msgid "Getting familiar with your new operating System"
+msgstr "الحصول على معلومات عن نظام التشغيل الجديد"
+
+#. Tag: productname
+#, no-c-format
+msgid "SalixOS"
+msgstr "نظام تشغيل Salix"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The purpose of this manual is to enable you to take full advantage of the "
+"many functionalities of Salix OS. While particular attention has been given "
+"to help newcomers quickly get familiar with common computer tasks, more "
+"advanced material is also available for intermediate users who want to learn"
+" more about the inner workings of their operating system, its administration"
+" and its customisation."
+msgstr "الغرض من هذا الدليل تمكينك من الاستفادة الكاملة من وظائف نظام التشغيل Salix. مع إيلاء اهتمام خاص لمساعدة القادمين الجدد بسرعة للحصول على معلومات عن مهام الكمبيوتر الشائعة، يتوفر أيضا مواد أكثر تقدما للمستخدمين الذين يرغبون في معرفة المزيد عن أعمال نظام التشغيل الداخلية وإدارتها وتخصيصها."

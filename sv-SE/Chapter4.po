@@ -1,19 +1,19 @@
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 # Translators:
-# Ingemar Karlsson <ingemar@ingk.se>, 2011.
+# Ingemar Karlsson <ingemar@ingk.se>, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-11-20 20:16+0000\n"
-"Last-Translator: ingemar <ingemar@ingk.se>\n"
-"Language-Team: None\n"
-"Language: sv\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-04-09 09:01+0000\n"
+"Last-Translator: Ingemar Karlsson <ingemar@ingk.se>\n"
+"Language-Team: Swedish (http://www.transifex.com/projects/p/salix_documentation/language/sv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Tag: title
 #, no-c-format
@@ -27,27 +27,55 @@ msgstr "Arbeta med kommandoradsgränssnitt"
 
 #. Tag: para
 #, no-c-format
-msgid "This section deals with working in a console mode or with a terminal (such as xfce terminal, xterm, konsole and so forth), and serves merely as a light introduction to what we call \"command line interface\" (CLI). The intended audience here is not seasoned travellers but new journeymen in the land of Linux, who are willing to discover more about what one can do with it. We will go through some examples in this section for you to follow, and hopefully by the end of this walkthrough, you will have no problem working in the “black screen”. For those who would like to know more about CLI, there are a couple of useful resources available on the net, and some are listed in the <ulink url=\"http://www.salixos.org/forum/viewtopic.php?f=30&amp;t=852\">Salix Forum</ulink>."
+msgid ""
+"This section deals with working in a console mode or with a terminal (such "
+"as xfce terminal, xterm, konsole and so forth), and serves merely as a light"
+" introduction to what we call \"command line interface\" (CLI). The intended"
+" audience here is not seasoned travellers but new journeymen in the land of "
+"Linux, who are willing to discover more about what one can do with it. We "
+"will go through some examples in this section for you to follow, and "
+"hopefully by the end of this walkthrough, you will have no problem working "
+"in the “black screen”. For those who would like to know more about CLI, "
+"there are a couple of useful resources available on the net, and some are "
+"listed in the <ulink "
+"url=\"http://www.salixos.org/forum/viewtopic.php?f=30&amp;t=852\">Salix "
+"Forum</ulink>."
 msgstr "Detta avsnitt behandlar arbetet i konsol läge eller med en terminal (t.ex. Xfce terminal, xterm, Terminal och så vidare), och fungerar bara som en lätt introduktion till vad vi kallar \"kommandoradsgränssnitt\" (CLI). Målgruppen här är inte rutinerade resenärerna men nya gesäller i landet av Linux, som är villiga att upptäcka mer om vad man kan göra med det. Vi går igenom några exempel i detta avsnitt för dig att följa, och förhoppningsvis i slutet av denna genomgång, har du inga problem att arbeta i \"svart skärm\". För den som vill veta mer om CLI, det finns ett par användbara resurser tillgängliga på nätet, och några är förtecknade i <ulink url=\"http://www.salixos.org/forum/viewtopic.php?f=30&amp;t=852\"> Salix Forum </ulink> ."
 
 #. Tag: para
 #, no-c-format
-msgid "So why learn CLI commands at all? Graphical user interfaces for applications have been steadily improving in Linux, and are probably now comparable to any OS in their ease of use. On the other hand, where Linux excels in particular is in the area of command line applications, its traditional strength. Without the CLI, you would be effectively missing out on half of what Linux can offer, if not more."
-msgstr "Så varför lära CLI-kommandon alls? Grafiska användargränssnitt för program har stadigt förbättrats i Linux, och är förmodligen nu jämförbar med någon OS i deras användarvänlighet. Å andra sidan, där Linux utmärker sig i synnerhet är inom området för kommandorads applikationer, sin traditionella styrka. Utan CLI, skulle du effektivt gå miste om hälften av vad Linux kan erbjuda, om inte mer."
+msgid ""
+"So why learn CLI commands at all? Graphical user interfaces for applications"
+" have been steadily improving in Linux, and are probably now comparable to "
+"any OS in their ease of use. On the other hand, where Linux excels in "
+"particular is in the area of command line applications, its traditional "
+"strength. Without the CLI, you would be effectively missing out on half of "
+"what Linux can offer, if not more."
+msgstr "Så varför lära CLI-kommandon alls? Grafiska användargränssnitt för program har stadigt förbättrats i Linux, och är förmodligen nu jämförbar med andra OS i deras användarvänlighet. Å andra sidan, där Linux utmärker sig i synnerhet är inom området för kommandorads applikationer, sin traditionella styrka. Utan CLI, skulle du effektivt gå miste om hälften av vad Linux kan erbjuda, om inte mer."
 
 #. Tag: para
 #, no-c-format
-msgid "There is another reason. From time to time, you might have to work in console. For instance, if the machine fails to start up a graphical desktop environment during booting, then you are more or less forced to fix the problem without GUI."
+msgid ""
+"There is another reason. From time to time, you might have to work in "
+"console. For instance, if the machine fails to start up a graphical desktop "
+"environment during booting, then you are more or less forced to fix the "
+"problem without GUI."
 msgstr "Det finns en annan anledning. Från tid till annan, kanske du måste arbeta i konsolen. Till exempel, om maskinen misslyckas att starta upp en grafisk skrivbordsmiljö under uppstart, då är man mer eller mindre tvungen att åtgärda problemet utan GUI."
 
 #. Tag: para
 #, no-c-format
-msgid "Of course, there are many other reasons to learn CLI commands, but for now we will start by learning how to move around directories."
+msgid ""
+"Of course, there are many other reasons to learn CLI commands, but for now "
+"we will start by learning how to move around directories."
 msgstr "Naturligtvis finns det många andra skäl att lära CLI-kommandon, men för nu kommer vi att börja med att lära dig att gå runt i kataloger."
 
 #. Tag: para
 #, no-c-format
-msgid "First, open up a terminal or move to a console (you can do this by pressing Ctrl+Alt+F2, for example. To get back to the graphical desktop, press Ctrl+Alt+F4, for example. F number keys are used to switch between consoles.)"
+msgid ""
+"First, open up a terminal or move to a console (you can do this by pressing "
+"Ctrl+Alt+F2, for example. To get back to the graphical desktop, press "
+"Ctrl+Alt+F4, for example. F number keys are used to switch between "
+"consoles.)"
 msgstr "Först, öppna upp en terminal eller flytta till en konsol (du kan göra detta genom att trycka Ctrl + Alt + F2, till exempel. För att komma tillbaka till det grafiska skrivbordet är tryck Ctrl + Alt + F4, till exempel. F sifferknapparna används att växla mellan konsoler.)"
 
 #. Tag: title
@@ -57,7 +85,12 @@ msgstr "Förflyttning - cd"
 
 #. Tag: para
 #, no-c-format
-msgid "You should be in your user directory (denoted as \"~\"), which is normally the same as \"/home/your user name\" (replace the “your user name” with your own). In Salix, this directory contains \"Desktop\", \"Music\", \"Documents\" and so on. To see its content, type \"ls\" and press enter. You will see something like this:"
+msgid ""
+"You should be in your user directory (denoted as \"~\"), which is normally "
+"the same as \"/home/your user name\" (replace the “your user name” with your"
+" own). In Salix, this directory contains \"Desktop\", \"Music\", "
+"\"Documents\" and so on. To see its content, type \"ls\" and press enter. "
+"You will see something like this:"
 msgstr "Du bör vara i den egna katalogen (betecknas som \"~\"), vilket normalt är det samma som \"/home/ditt användarnamn\" (ersätter \"ditt användarnamn\" med din egen). I Salix innehåller denna katalogen \"Skrivbord\", \"Musik\", \"Dokument\" och så vidare. Att se dess innehåll, skriv in \"ls\" och tryck enter. Du kommer att se ut ungefär så här:"
 
 #. Tag: phrase
@@ -67,7 +100,16 @@ msgstr "Skärmdump av en terminal med ett provkommando"
 
 #. Tag: para
 #, no-c-format
-msgid "Now to move around directories, we use \"cd\". If you just type in \"cd\" and enter, nothing will happen. \"cd\" must be followed either by a name of a directory which is within the directory you are in or by a full path to the directory you wish to move into. You can also go one directory up by typing \"cd ..\" (be careful, there is a space between cd and ..). Remember on Linux, arguments are separated by spaces. So for now, let's move to the root directory. The root directory is, as the name suggests, the core of your directories - every directory stems from here. Once you wipe out the root directory, you will not see your machine booting up again."
+msgid ""
+"Now to move around directories, we use \"cd\". If you just type in \"cd\" "
+"and enter, nothing will happen. \"cd\" must be followed either by a name of "
+"a directory which is within the directory you are in or by a full path to "
+"the directory you wish to move into. You can also go one directory up by "
+"typing \"cd ..\" (be careful, there is a space between cd and ..). Remember "
+"on Linux, arguments are separated by spaces. So for now, let's move to the "
+"root directory. The root directory is, as the name suggests, the core of "
+"your directories - every directory stems from here. Once you wipe out the "
+"root directory, you will not see your machine booting up again."
 msgstr "Nu för att flytta till kataloger använder vi \"cd\". Om du bara skriva in \"cd\" och trycker enter, kommer ingenting att hända. \"cd\" måste följas av antingen ett namn på en katalog som är inom den katalog du befinner dig i eller av en fullständig sökväg till katalogen som du vill flytta dig till. Du kan också gå en katalog upp genom att skriva \"cd ..\" (Var försiktig, det finns ett mellanslag mellan cd och ..). Tänk på att i Linux, är argument åtskilda av mellanslag. Så nu, låt oss gå till rotkatalogen. Rotkatalogen är, som namnet antyder, kärnan i dina kataloger - varje katalog kommer från här. När du utplånar rotkatalogen, kommer du inte att se din maskin startar upp igen."
 
 #. Tag: para
@@ -77,12 +119,19 @@ msgstr "För att flytta till roten \"/\", skriv \"cd /\"."
 
 #. Tag: para
 #, no-c-format
-msgid "Type in \"ls\" to see the list of files and directories in the directory. You should see something like \"tmp/\", \"usr/\", \"home/\" and so on. OK, not so interesting here. Let us move back to your home directory with \"cd /home/your user name\"."
+msgid ""
+"Type in \"ls\" to see the list of files and directories in the directory. "
+"You should see something like \"tmp/\", \"usr/\", \"home/\" and so on. OK, "
+"not so interesting here. Let us move back to your home directory with \"cd "
+"/home/your user name\"."
 msgstr "Skriv in \"ls\" för att se en lista över filer och kataloger i katalogen. Du bör se något som \"tmp/\", \"usr/\", \"home/\" och så vidare. OK, inte så intressant här. Låt oss gå tillbaka till din hemkatalog med \"cd /home/ditt användarnamn\"."
 
 #. Tag: para
 #, no-c-format
-msgid "Now move into the \"Music\" directory by issuing \"cd Music\". In fact, you do not have to type to the end. By pressing Tab after the first letter or two, you may complete the rest of the directory name automatically."
+msgid ""
+"Now move into the \"Music\" directory by issuing \"cd Music\". In fact, you "
+"do not have to type to the end. By pressing Tab after the first letter or "
+"two, you may complete the rest of the directory name automatically."
 msgstr "Nu går vi in i \"Musik\"-katalogen genom att utfärda \"cd Musik\". I själva verket behöver du inte skriva till slutet. Genom att trycka på Tabb efter den första bokstaven eller två, kan du fylla i resten av katalognamnet automatiskt."
 
 #. Tag: title
@@ -92,12 +141,19 @@ msgstr "Skapa en katalog - mkdir"
 
 #. Tag: para
 #, no-c-format
-msgid "You can create a folder by issuing \"mkdir name of a new folder\". For example, let's say we are going to create a photo folder. \"mkdir photo\" will place the new folder in the current directory. You can check this by typing \"ls\"."
+msgid ""
+"You can create a folder by issuing \"mkdir name of a new folder\". For "
+"example, let's say we are going to create a photo folder. \"mkdir photo\" "
+"will place the new folder in the current directory. You can check this by "
+"typing \"ls\"."
 msgstr "Du kan skapa en mapp genom att köra \"mkdir namnet på en ny mapp\". Till exempel, låt oss säga att vi ska skapa en foto mapp. \"mkdir foto\" kommer att placera den nya mappen i den aktuella katalogen. Du kan kontrollera detta genom att skriva \"ls\"."
 
 #. Tag: para
 #, no-c-format
-msgid "Next, let's create a log file for the photo folder. \"nano\" is a command line application for reading and writing texts. To bring up the program, type in \"nano\"."
+msgid ""
+"Next, let's create a log file for the photo folder. \"nano\" is a command "
+"line application for reading and writing texts. To bring up the program, "
+"type in \"nano\"."
 msgstr "Nästa, låt oss skapa en loggfil för fotot mappen. \"nano\" är ett kommandorads program för att läsa och skriva texter. För att få upp programmet, skriv \"nano\"."
 
 #. Tag: phrase
@@ -107,7 +163,10 @@ msgstr "Skärmdump av en terminal med textredigeraren nano"
 
 #. Tag: para
 #, no-c-format
-msgid "The application is simple to use, and you can see command options shown at the buttom. Type \"log file created\", and with Ctrl+x, save the document as \"log\" and quit the application."
+msgid ""
+"The application is simple to use, and you can see command options shown at "
+"the buttom. Type \"log file created\", and with Ctrl+x, save the document as"
+" \"log\" and quit the application."
 msgstr "Programmet är enkel att använda, och du kan se kommando alternativ som visas nederst. Skriv \"loggfil skapat\", och med Ctrl+x, spara dokumentet som \"logg\" och avsluta programmet."
 
 #. Tag: title
@@ -117,22 +176,51 @@ msgstr "Kopiering &amp; flytta &amp; ta bort en fil - cp och mv &amp; rm"
 
 #. Tag: para
 #, no-c-format
-msgid "\"cp\" is perhaps one of the most used commands in a console mode. \"cp\" copies a file or files from one location to another. Since we created the file called \"log\" and it is currently in the wrong directory, let us move it inside the \"photo\" directory. You can do so by issuing \"cp log photo/\" but perhaps it is better to call the log file not just \"log\" but \"log.txt\", so that it would be obvious to a Windows user that it is a text file. Type in \"cp log photo/log.txt\" and enter to execute the command."
+msgid ""
+"\"cp\" is perhaps one of the most used commands in a console mode. \"cp\" "
+"copies a file or files from one location to another. Since we created the "
+"file called \"log\" and it is currently in the wrong directory, let us move "
+"it inside the \"photo\" directory. You can do so by issuing \"cp log "
+"photo/\" but perhaps it is better to call the log file not just \"log\" but "
+"\"log.txt\", so that it would be obvious to a Windows user that it is a text"
+" file. Type in \"cp log photo/log.txt\" and enter to execute the command."
 msgstr "\"cp\" är kanske en av de mest använda kommandon i konsol läge. \"cp\" kopierar en fil eller filer från en plats till en annan. Sedan skapade vi filen \"logg\" och det är för närvarande i fel katalog, låt oss flytta den till \"foto\" katalogen. Du kan göra det genom att köra \"cp logg foto/\" men kanske det är bättre att kalla loggfilen inte bara \"logg\" men \"logg.txt\", så att det skulle vara uppenbart för en Windows-användare att det är en textfil . Skriv in \"cp logg foto/logg.txt\" och enter för att utföra kommandot."
 
 #. Tag: para
 #, no-c-format
-msgid "You can go inside the \"photo\" directory and check if the copying has been done properly. \"cd photo\" and then \"ls\". The file should be there. Let's add to the log file by saying that it has been moved from \"Music\" to \"photo\". Issuing \"nano log.txt\" will bring up the text. Add a line to say it has been moved, and then save and quit the application by Ctrl+x."
+msgid ""
+"You can go inside the \"photo\" directory and check if the copying has been "
+"done properly. \"cd photo\" and then \"ls\". The file should be there. Let's"
+" add to the log file by saying that it has been moved from \"Music\" to "
+"\"photo\". Issuing \"nano log.txt\" will bring up the text. Add a line to "
+"say it has been moved, and then save and quit the application by Ctrl+x."
 msgstr "Du kan gå in i \"foto\"-katalogen och kontrollera om kopieringen har skett på rätt sätt. \"cd foto\" och sedan \"ls\". Filen ska vara där. Låt oss lägga till i loggfilen genom att säga att den har flyttats från \"Musik\" till \"foto\". Kör \"nano logg.txt\" kommer att öppna texten. Lägg till en rad som säger att den har flyttats, och sedan spara och avsluta programmet med Ctrl+x."
 
 #. Tag: para
 #, no-c-format
-msgid "Oh, but we forgot to delete the original \"log\" file in the \"Music\" folder. Let's just get back to the \"Music\" directory using \"cd ..\" and remove the \"log\" file by issuing \"rm log\". The \"rm\" command removes a file or files. For example, if you would like to remove all photos with .jpg extension but not with .png, you can issue a command something like: \"rm *.jpg\". This will remove all the files with .jpg extension within the directory you are in. Note that the \"rm\" command will not ask you to confirm your order. It will just carry out your instructions without further ado and once a file is removed, it is deleted forever. You cannot recover it from the recycle bin."
-msgstr "Åh, men vi glömde att ta bort den ursprungliga \"logg\" fil i \"Musik\"-mappen. Låt oss bara gå tillbaka till \"Musik\" katalogen med \"cd ..\" och ta bort \"logg\"-fil genom att köra \"rm logg\". \"rm\"-kommandot tar bort en fil eller filer. .. Till exempel, om du vill ta bort alla bilder med jpg men inte med png, kan du köra ett kommando ungefär: \"rm *. jpg\". Detta tar bort alla filer med. Jpg i katalogen du är i. är Observera att \"rm\"-kommandot kommer inte att be dig bekräfta din beställning. Det kommer bara att utföra dina instruktioner utan vidare och när en fil tas bort, tas det bort för alltid. Du kan inte återställa det från papperskorgen."
+msgid ""
+"Oh, but we forgot to delete the original \"log\" file in the \"Music\" "
+"folder. Let's just get back to the \"Music\" directory using \"cd ..\" and "
+"remove the \"log\" file by issuing \"rm log\". The \"rm\" command removes a "
+"file or files. For example, if you would like to remove all photos with .jpg"
+" extension but not with .png, you can issue a command something like: \"rm "
+"*.jpg\". This will remove all the files with .jpg extension within the "
+"directory you are in. Note that the \"rm\" command will not ask you to "
+"confirm your order. It will just carry out your instructions without further"
+" ado and once a file is removed, it is deleted forever. You cannot recover "
+"it from the recycle bin."
+msgstr "Åh, men vi glömde att ta bort den ursprungliga \"logg\" fil i \"Musik\"-mappen. Låt oss bara gå tillbaka till \"Musik\" katalogen med \"cd ..\" och ta bort \"logg\"-fil genom att köra \"rm logg\". \"rm\"-kommandot tar bort en fil eller filer. Till exempel, om du vill ta bort alla bilder med jpg men inte med png, kan du köra ett kommando ungefär: \"rm *. jpg\". Detta tar bort alla filer med. Jpg i katalogen du är i. är Observera att \"rm\"-kommandot kommer inte att be dig bekräfta din beställning. Det kommer bara att utföra dina instruktioner utan vidare och när en fil tas bort, tas det bort för alltid. Du kan inte återställa det från papperskorgen."
 
 #. Tag: para
 #, no-c-format
-msgid "In this example, we used \"cp\" to copy the log file and then later on deleted it. Normally, this would be done by issuing a \"mv\" command; \"mv log photo/\". You can also use the \"mv\" command to rename a file. Let's say that you did not like the earlier decision to call the log file \"log.txt\" and you now want to rename it as \"log\" again. Type in \"mv photo/log.txt photo/log\" and execute the command. Now the file name has been changed back to \"log\"."
+msgid ""
+"In this example, we used \"cp\" to copy the log file and then later on "
+"deleted it. Normally, this would be done by issuing a \"mv\" command; \"mv "
+"log photo/\". You can also use the \"mv\" command to rename a file. Let's "
+"say that you did not like the earlier decision to call the log file "
+"\"log.txt\" and you now want to rename it as \"log\" again. Type in \"mv "
+"photo/log.txt photo/log\" and execute the command. Now the file name has "
+"been changed back to \"log\"."
 msgstr "I det här exemplet använde vi \"cp\" för att kopiera loggfilen och senare ta bort den. Normalt skulle detta ske genom att köra \"mv\" kommando, \"mv logg foto/\". Du kan också använda \"mv\" kommandot för att byta namn på en fil. Låt oss säga att du inte gillade det tidigare beslutet att kalla loggfilen \"logg.txt\" och du nu vill byta namn på den som \"logg\" igen. Skriv in \"mv foto/log.txt foto/logg\" och kör kommandot. Nu filnamnet har ändrats tillbaka till \"logg\"."
 
 #. Tag: title
@@ -142,22 +230,40 @@ msgstr "Kopiering &amp; flytta &amp; ta bort en mapp - cp och mv &amp; rm"
 
 #. Tag: para
 #, no-c-format
-msgid "So now you have the folder called \"photo\" and a log file in the \"Music\" directory. This is a little strange as we should normally have the folder not in \"Music\" but in \"Pictures\". But now you know how to move a file, perhaps the same command will work for moving a folder?"
+msgid ""
+"So now you have the folder called \"photo\" and a log file in the \"Music\" "
+"directory. This is a little strange as we should normally have the folder "
+"not in \"Music\" but in \"Pictures\". But now you know how to move a file, "
+"perhaps the same command will work for moving a folder?"
 msgstr "Så nu har du en mapp som heter \"foto\" och en loggfil i \"Musik\" katalogen. Detta är lite konstigt vi skulle normalt inte ha mappen i \"Musik\", men i \"Bilder\". Men nu vet du hur du flyttar en fil, kanske samma kommando kommer att fungera för att flytta en mapp?"
 
 #. Tag: para
 #, no-c-format
-msgid "But... \"cp photo ../Pictures\" (remember that .. refers to the folder one level up) will give an error like this."
+msgid ""
+"But... \"cp photo ../Pictures\" (remember that .. refers to the folder one "
+"level up) will give an error like this."
 msgstr "Men... \"cp foto ../bilder\" (kom ihåg att .. refererar till mappen en nivå upp) kommer att ge ett fel som denna."
 
 #. Tag: para
 #, no-c-format
-msgid "Let's see what we can do here. The first thing when encountering such a problem is to check the corresponding help file. This can normally be done by issuing a command with an option like \"cp --help\". It is possible that --help will just be -h, and there may be no help at all. \"man\" is another command if this is the case. \"man cp\" will give a more indepth explanation of this command. (To get out of the manual, press \"q\")."
+msgid ""
+"Let's see what we can do here. The first thing when encountering such a "
+"problem is to check the corresponding help file. This can normally be done "
+"by issuing a command with an option like \"cp --help\". It is possible that "
+"--help will just be -h, and there may be no help at all. \"man\" is another "
+"command if this is the case. \"man cp\" will give a more indepth explanation"
+" of this command. (To get out of the manual, press \"q\")."
 msgstr "Låt oss se vad vi kan göra här. Det första när du stöter på ett sådant problem är att kontrollera den motsvarande hjälpfilen. Detta kan normalt ske genom att ge ett kommando med en option som \"cp --help\". Det är möjligt att -h bara kommer att vara -h, och det kanske inte finns någon hjälp alls. \"man\" är ett annat kommando om så är fallet. \"man cp\" kommer att ge en mer fördjupad förklaring av detta kommando. (För att komma ur handboken, tryck på \"q\")."
 
 #. Tag: para
 #, no-c-format
-msgid "If you read the help carefully, you will see that you need to give an extra option \"-r\" if you wish to copy a folder to another location. So now \"cp -r photo ../Pictures\" should copy the \"photo\" folder inside the correct \"Pictures\" directory. After checking that the folder has been safely copied, you can remove the \"photo\" folder from the \"Music\" directory: \"rm -r photo/\"."
+msgid ""
+"If you read the help carefully, you will see that you need to give an extra "
+"option \"-r\" if you wish to copy a folder to another location. So now \"cp "
+"-r photo ../Pictures\" should copy the \"photo\" folder inside the correct "
+"\"Pictures\" directory. After checking that the folder has been safely "
+"copied, you can remove the \"photo\" folder from the \"Music\" directory: "
+"\"rm -r photo/\"."
 msgstr "Om du läser den hjälp noggrant kommer du se att du måste ge ett extra alternativ \"-r\" om du vill kopiera en mapp till en annan plats. Så nu \"cp -r foto ../bilder\" bör kopiera \"foto\"-mappen till \"bilder\" katalogen. Efter att ha kontrollerat att mappen säkert har kopierats kan du ta bort \"foto\" från mappen \"Musik\" katalogen: \"rm -r foto/\"."
 
 #. Tag: title
@@ -167,42 +273,84 @@ msgstr "Installera ett program - slapt-get och slapt-src"
 
 #. Tag: para
 #, no-c-format
-msgid "Maybe a little bird has told you that there is a wonderful application called \"cowsay\" in Linux, and now you would like to see what this program can do."
+msgid ""
+"Maybe a little bird has told you that there is a wonderful application "
+"called \"cowsay\" in Linux, and now you would like to see what this program "
+"can do."
 msgstr "Kanske en liten fågel har sagt att det finns ett underbar program som heter \"cowsay\" i Linux, och nu skulle du vilja se vad programmet kan göra."
 
 #. Tag: para
 #, no-c-format
-msgid "In order to install a program, one needs to be logged in as root (= superuser = administrator), because it is a system wide action. Alternatively, you can acquire the superuser rights by issuing \"su\". You will be asked to enter the root password. After providing the correct password, you are now free to do whatever you wish to do on your system (even to make the machine unworkable)."
+msgid ""
+"In order to install a program, one needs to be logged in as root (= "
+"superuser = administrator), because it is a system wide action. "
+"Alternatively, you can acquire the superuser rights by issuing \"su\". You "
+"will be asked to enter the root password. After providing the correct "
+"password, you are now free to do whatever you wish to do on your system "
+"(even to make the machine unworkable)."
 msgstr "För att installera ett program, måste man vara inloggad som root (= superuser = administratör), eftersom det är ett system omfattande åtgärd. Alternativt kan du förvärva behörigheten superuser genom att utfärda \"su\". Du blir ombedd att ange lösenordet för root. Efter ange rätt lösenord, du är nu fri att göra vad du vill göra på ditt system (även att göra maskinen obrukbar)."
 
 #. Tag: para
 #, no-c-format
-msgid "So \"cowsay\". If this is the first time you are installing an application on Salix, the first thing you should do is to update the package database on your computer by executing \"slapt-get -u\". Then to search for an application (in this case, \"cowsay\"), type in \"slapt-get --search cowsay\". Unfortunately, cowsay is not in the official repositories neither of Salix nor of Slackware. But it is still too early to give up. Slackbuild.org maintains extra packages for Slackware, which of course can be utilised by Salix users."
+msgid ""
+"So \"cowsay\". If this is the first time you are installing an application "
+"on Salix, the first thing you should do is to update the package database on"
+" your computer by executing \"slapt-get -u\". Then to search for an "
+"application (in this case, \"cowsay\"), type in \"slapt-get --search "
+"cowsay\". Unfortunately, cowsay is not in the official repositories neither "
+"of Salix nor of Slackware. But it is still too early to give up. "
+"Slackbuild.org maintains extra packages for Slackware, which of course can "
+"be utilised by Salix users."
 msgstr "Så \"cowsay\". Om detta är första gången du installerar ett program på Salix är det första du bör göra för att uppdatera paketdatabas på din dator genom att köra \"slapt-get -u\". Sen för att söka efter ett program (i detta fall, \"cowsay\"), skriv \"slapt-get --search cowsay\". Tyvärr är cowsay inte i de officiella förråden Salix eller Slackware. Men det är fortfarande för tidigt att ge upp. Slackbuild.org håller extra paket för Slackware, som naturligtvis kan utnyttjas av Salix användare."
 
 #. Tag: para
 #, no-c-format
-msgid "Search for \"cowsay\" with slapt-src by typing \"slapt-src --search cowsay\" after first updating the local database with \"slapt-src -u\". You will see that it is available from Slackbuild.org. To install it, execute \"slapt-src -i cowsay\". If you are not sure what this \"-i\" is, you can check it with the --help option. You will see a lot of lines running up the terminal quickly until the application is installed."
-msgstr "Sök efter \"cowsay\" med slapt-src genom att skriva \"slapt-src --search cowsay\" efter första uppdateringen den lokala databasen med \"slapt-src -u\". Du kommer att se att den är tillgänglig från Slackbuild.org. För att installera det, kör \"slapt-src -i cowsay\". Om du är osäker på vad detta \"-i\" är, kan du kontrollera det med --help alternativet. Du kommer att se många linjer som löper upp terminalen snabbt tills programmet är installerat."
+msgid ""
+"Search for \"cowsay\" with slapt-src by typing \"slapt-src --search cowsay\""
+" after first updating the local database with \"slapt-src -u\". You will see"
+" that it is available from Slackbuild.org. To install it, execute \"slapt-"
+"src -i cowsay\". If you are not sure what this \"-i\" is, you can check it "
+"with the --help option. You will see a lot of lines running up the terminal "
+"quickly until the application is installed."
+msgstr "Sök efter \"cowsay\" med slapt-src genom att skriva \"slapt-src --search cowsay\" efter att först uppdaterat den lokala databasen med \"slapt-src -u\". Du kommer att se att den är tillgänglig från Slackbuild.org. För att installera det, kör \"slapt-src -i cowsay\". Om du är osäker på vad detta \"-i\" är, kan du kontrollera det med --help alternativet. Du kommer att se många linjer som rullar upp i terminalen snabbt tills programmet är installerat."
 
 #. Tag: para
 #, no-c-format
-msgid "Once it is installed, you might want to test it. First get out of the superuser mode by typing \"exit\". Then type in \"cowsay\". Nothing happens, and in fact, you will see that you are now in a strange mode that you cannot execute any commands. This is because the application is still running, but as you don't see anything, perhaps it is not running properly. To terminate the process, press \"Ctrl+c\". You will get back the normal input line back on your terminal."
-msgstr "När det är installerat, kanske du vill testa den. Först gå ur superanvändare genom att skriva \"exit\". Skriv sedan in \"cowsay\". Ingenting händer, och i själva verket kommer du se att du är nu i ett konstigt läge som du inte kan utföra några kommandon. Detta beror på att programmet fortfarande körs, men som du inte ser något, det kanske inte fungerar ordentligt. För att avsluta, tryck \"Ctrl+c\". Du kommer att få tillbaka den normala inmatningsraden tillbaka på din terminal."
+msgid ""
+"Once it is installed, you might want to test it. First get out of the "
+"superuser mode by typing \"exit\". Then type in \"cowsay\". Nothing happens,"
+" and in fact, you will see that you are now in a strange mode that you "
+"cannot execute any commands. This is because the application is still "
+"running, but as you don't see anything, perhaps it is not running properly. "
+"To terminate the process, press \"Ctrl+c\". You will get back the normal "
+"input line back on your terminal."
+msgstr "När det är installerat, kanske du vill testa den. Först gå ur superanvändare genom att skriva \"exit\". Skriv sedan in \"cowsay\". Ingenting händer, och i själva verket kommer du se att du är nu i ett konstigt läge som du inte kan utföra några kommandon. Detta beror på att programmet fortfarande körs, men som du inte ser något, kanske det inte fungerar ordentligt. För att avsluta, tryck \"Ctrl+c\". Du kommer att få tillbaka den normala inmatningsraden tillbaka på din terminal."
 
 #. Tag: para
 #, no-c-format
-msgid "So what was going wrong? Check \"cowsay\" with \"-h\". You will see that you need to type in a [message]. Try again with \"cowsay Hello Salix!\""
+msgid ""
+"So what was going wrong? Check \"cowsay\" with \"-h\". You will see that you"
+" need to type in a [message]. Try again with \"cowsay Hello Salix!\""
 msgstr "Så vad gick fel? Kolla \"cowsay\" med \"-h\". Du kommer att se att du behöver skriva in ett [meddelande]. Försök igen med \"cowsay Hej Salix!\""
 
 #. Tag: para
 #, no-c-format
-msgid "To sum up, we have merely scratched the surface of the power of the command line. The best way to learn more is by using it, but remember to use the help tools, and consult online documentation such as that listed in the Salix forum. <ulink url=\"http://linuxcommand.org/index.php\">Linuxcommand.org</ulink> can be particularly recommended if you wish to gain a comprehensive grounding. Proceed cautiously, but don't be afraid to experiment."
+msgid ""
+"To sum up, we have merely scratched the surface of the power of the command "
+"line. The best way to learn more is by using it, but remember to use the "
+"help tools, and consult online documentation such as that listed in the "
+"Salix forum. <ulink "
+"url=\"http://linuxcommand.org/index.php\">Linuxcommand.org</ulink> can be "
+"particularly recommended if you wish to gain a comprehensive grounding. "
+"Proceed cautiously, but don't be afraid to experiment."
 msgstr "Sammanfattningsvis har vi bara skrapat på ytan av kraften i kommandoraden. Det bästa sättet att lära sig mer är att använda den, men kom ihåg att använda hjälp verktygen och konsultera online-dokumentation såsom anges i Salix forumet. <ulink url=\"http://linuxcommand.org/index.php\"> Linuxcommand.org </ulink> kan vara särskilt rekommenderat om du vill få en grundläggande undervisning. Fortsätt försiktigt, men var inte rädd för att experimentera."
 
 #. Tag: para
 #, no-c-format
-msgid "A final tip – it can be difficult to copy longer commands accurately. If you select the text with the mouse, in Linux, clicking the middle button or wheel will paste it accurately into the command line or wherever you wish."
+msgid ""
+"A final tip – it can be difficult to copy longer commands accurately. If you"
+" select the text with the mouse, in Linux, clicking the middle button or "
+"wheel will paste it accurately into the command line or wherever you wish."
 msgstr "Ett sista tips - det kan vara svårt att kopiera längre kommandon korrekt. Om du markerar texten med musen, i Linux, klicka på den mellersta knappen eller hjulet kommer det att klistra in den exakt i kommandoraden eller varhelst du önskar."
 
 #. Tag: title
@@ -217,12 +365,36 @@ msgstr "Översikt"
 
 #. Tag: para
 #, no-c-format
-msgid "Ratpoison is a tiling window manager, somewhat like xmonad or scrotwm. Its two main features are that applications fill the whole screen, with no bars or buttons; and the user interface can be controlled entirely from the keyboard, with no mouse. If needed, any number of windows may be shown simultaneously, and rearranged at will - whence the term \"tiling\" WM. All this may take some getting used to, but although - or perhaps because - the interface is so very different from the conventional point-and-click approach, it can quickly become highly intuitive. Learning which actual keys do what takes far less time than might be imagined. Apart from its efficiency and lack of clutter, ratpoison is a good choice for anyone concerned about RSI (cumulative strain from long-term mouse use), or for netbook users, because \"every pixel counts\". It is also highly configurable - and fast!"
+msgid ""
+"Ratpoison is a tiling window manager, somewhat like xmonad or scrotwm. Its "
+"two main features are that applications fill the whole screen, with no bars "
+"or buttons; and the user interface can be controlled entirely from the "
+"keyboard, with no mouse. If needed, any number of windows may be shown "
+"simultaneously, and rearranged at will - whence the term \"tiling\" WM. All "
+"this may take some getting used to, but although - or perhaps because - the "
+"interface is so very different from the conventional point-and-click "
+"approach, it can quickly become highly intuitive. Learning which actual keys"
+" do what takes far less time than might be imagined. Apart from its "
+"efficiency and lack of clutter, ratpoison is a good choice for anyone "
+"concerned about RSI (cumulative strain from long-term mouse use), or for "
+"netbook users, because \"every pixel counts\". It is also highly "
+"configurable - and fast!"
 msgstr "Ratpoison är en tiling fönsterhanterare, ungefär som xmonad eller scrotwm. Dess två huvudsakliga funktioner är att program fyller hela skärmen, utan barer eller knappar, och användargränssnittet kan styras helt från tangentbordet, utan mus. Vid behov kan ett obegränsat antal fönster visas samtidigt, och arrangeras om efter behag - därav termen \"tiling\" WM. Allt detta kan ta lite att vänja sig, men trots - eller kanske just därför - gränssnittet är så mycket annorlunda än den konventionella peka-och-klicka metoden, kan det snabbt bli mycket intuitiv. Lärande som faktiska knappar gör vad tar mycket mindre tid än man kan föreställa sig. Bortsett från dess effektivitet och brist på röran, är Ratpoison ett bra val för alla som oroar sig för RSI (kumulativa belastning från långfristiga mus användning), eller för netbook-användare, eftersom \"varje pixel räknas\". Det är också mycket konfigurerbara - och snabbt!"
 
 #. Tag: para
 #, no-c-format
-msgid "The applications present for the Ratpoison edition aim to fit in with its minimalist (but not spartan) approach. The majority use vim-style keybindings, even though ratpoison itself does not, so users will need to become comfortable with these if they are not already; cheatsheets are available online to help assimilate them, as well as guides (and manpages) for the individual applications. Common operations use only a small subset of keys, which makes the learning curve smoother: for basic browsing, for instance, all you need to get started is page and history navigation and to know how to open links and tabs or windows. Other functions can be learned by exploration at your own pace. To begin using Vim itself, try running vimtutor from a terminal, and just follow the instructions."
+msgid ""
+"The applications present for the Ratpoison edition aim to fit in with its "
+"minimalist (but not spartan) approach. The majority use vim-style "
+"keybindings, even though ratpoison itself does not, so users will need to "
+"become comfortable with these if they are not already; cheatsheets are "
+"available online to help assimilate them, as well as guides (and manpages) "
+"for the individual applications. Common operations use only a small subset "
+"of keys, which makes the learning curve smoother: for basic browsing, for "
+"instance, all you need to get started is page and history navigation and to "
+"know how to open links and tabs or windows. Other functions can be learned "
+"by exploration at your own pace. To begin using Vim itself, try running "
+"vimtutor from a terminal, and just follow the instructions."
 msgstr "Programmen i Ratpoisons utgåva syftar till att passa in med sin minimalistiska (men inte spartanska) tillvägagångssätt. Majoriteten använder vim-stil tangentbindningar, trots att Ratpoison i sig inte gör det, så användarna behöver bli bekväm med dessa om de inte redan är det, cheatsheets är tillgängliga online för att hjälpa assimilera dem, samt guider (och manualsidor) för de enskilda applikationer. Gemensamma funktioner använder endast en liten delmängd av tangenter, vilket gör inlärningskurvan smidigare: för grundläggande navigering, till exempel, är allt du behöver för att börja sida och historia navigation och att veta hur man öppnar länkar och flikar eller fönster. Andra funktioner kan läras genom prospektering i din egen takt. För att börja använda Vim själv, försök köra vimtutor från en terminal, och följ bara instruktionerna."
 
 #. Tag: title
@@ -232,17 +404,32 @@ msgstr "Starta Ratpoison och köra program"
 
 #. Tag: para
 #, no-c-format
-msgid "When you boot Salix Ratpoison, there is no graphical login screen: when you log in, you enter the linux terminal. Log in as your normal user (not root) and type startx to start Ratpoison itself."
+msgid ""
+"When you boot Salix Ratpoison, there is no graphical login screen: when you "
+"log in, you enter the linux terminal. Log in as your normal user (not root) "
+"and type startx to start Ratpoison itself."
 msgstr "När du startar Salix Ratpoison finns det ingen grafisk inloggningsskärm: när du loggar in, hamnar du i linux terminal. Logga in som din vanliga användare (ej root) och skriv startx så startar Ratpoison själv."
 
 #. Tag: para
 #, no-c-format
-msgid "You should then see the Salix wallpaper, and a message will appear briefly telling you how to view a list of commands. Type Ctrl-t (C-t, in Ratpoison's own notation) then a question mark; pressing any key takes you back to where you were before. There is nothing to see (apart from the beautiful Salix wallpaper)! But it's just as easy to set Ratpoison to work as with any more conventional desktop."
+msgid ""
+"You should then see the Salix wallpaper, and a message will appear briefly "
+"telling you how to view a list of commands. Type Ctrl-t (C-t, in Ratpoison's"
+" own notation) then a question mark; pressing any key takes you back to "
+"where you were before. There is nothing to see (apart from the beautiful "
+"Salix wallpaper)! But it's just as easy to set Ratpoison to work as with any"
+" more conventional desktop."
 msgstr "Du bör då se Salix bakgrund, och ett meddelande visas en kort stund som talar om för dig hur du visar en lista över kommandon. Typ Ctrl-t (C-t, i Ratpoisons egna notation) sedan ett frågetecken, tryck på en tangent tar dig tillbaka till där du var innan. Det finns ingenting att se (förutom den vackra Salix tapeten)! Men det är lika lätt att ställa Ratpoison att arbeta som med alla mer konventionella skrivbord."
 
 #. Tag: para
 #, no-c-format
-msgid "To select an application from the menu, type C-t r, and use the arrow keys to navigate (Vim's hjkl keys also work). Right arrow (or l) accesses submenus (such as \"Network\"), and left arrow (or h) goes back up a level. Right arrow or enter runs the application (if you open one by mistake, don't worry, just type C-t r again - we will see how to close windows and applications later)."
+msgid ""
+"To select an application from the menu, type C-t r, and use the arrow keys "
+"to navigate (Vim's hjkl keys also work). Right arrow (or l) accesses "
+"submenus (such as \"Network\"), and left arrow (or h) goes back up a level. "
+"Right arrow or enter runs the application (if you open one by mistake, don't"
+" worry, just type C-t r again - we will see how to close windows and "
+"applications later)."
 msgstr "För att välja ett program från menyn, skriv C-t r, och använd piltangenterna för att navigera (Vim's hjkl tangenter fungerar också). Högerpil (eller l) leder till undermenyer (t ex \"Nätverk\"), och vänster pil (eller h) går tillbaka upp en nivå. Högerpil eller enter kör programmet (om du öppnar en av misstag, oroa dig inte, skriv bara C-t r igen - vi får se hur man stänger fönster och program senare)."
 
 #. Tag: phrase
@@ -252,12 +439,22 @@ msgstr "Skärmdump av Ratpoison menyn besöker"
 
 #. Tag: para
 #, no-c-format
-msgid "Some common options are available directly at the top. The Vimprobable2 browser, for instance, can be found under Network but also by just selecting \"Browser\". Remember to use the keyboard and not the mouse! A third way to open it bypasses the menu altogether: C-t v. You can create more shortcuts like this for applications you use a lot by adding them to the configuration file, which we will look at below."
+msgid ""
+"Some common options are available directly at the top. The Vimprobable2 "
+"browser, for instance, can be found under Network but also by just selecting"
+" \"Browser\". Remember to use the keyboard and not the mouse! A third way to"
+" open it bypasses the menu altogether: C-t v. You can create more shortcuts "
+"like this for applications you use a lot by adding them to the configuration"
+" file, which we will look at below."
 msgstr "Några vanliga alternativ är tillgängliga direkt i toppen. Vimprobable2 webbläsaren, kan till exempel hittas under Nätverk, men även också genom att bara välja \"Browser\". Kom ihåg att använda tangentbordet och inte musen! Ett tredje sätt att öppna den kringgår menyn helt och hållet: C-t v. Du kan skapa fler genvägar så här för program du använder mycket genom att lägga till dem i konfigurationsfilen, som vi kommer att titta på här nedan."
 
 #. Tag: para
 #, no-c-format
-msgid "apvlv, under Accessories, can be used to read pdf documents such as this guide. Also under accessories, 'Unit conversion' starts the console application units, which will convert between a large range of scales, such as time, weight, or currency, including some quite unusual ones."
+msgid ""
+"apvlv, under Accessories, can be used to read pdf documents such as this "
+"guide. Also under accessories, 'Unit conversion' starts the console "
+"application units, which will convert between a large range of scales, such "
+"as time, weight, or currency, including some quite unusual ones."
 msgstr "apvlv under Tillbehör, kan användas för att läsa PDF-dokument som den här handboken. Även under tillbehör, \"Konvertering\" startar konsol programmet, som kommer att konvertera mellan ett stort utbud av skalor, såsom tid, vikt, eller valuta, inklusive några riktigt ovanliga sådana."
 
 #. Tag: title
@@ -267,7 +464,12 @@ msgstr "Vimprobable surfning"
 
 #. Tag: para
 #, no-c-format
-msgid "Notice that there are no menus, toolbars, buttons, or scrolling - just a line at the bottom containing the URL. To open a different page, type o, and :open should appear at the very bottom left of the screen. Type <ulink url=\"http://www.nongnu.org/ratpoison/doc/\">http://www.nongnu.org/ratpoison/doc/</ulink>. When the page has loaded, type f and then select a number to follow a link:"
+msgid ""
+"Notice that there are no menus, toolbars, buttons, or scrolling - just a "
+"line at the bottom containing the URL. To open a different page, type o, and"
+" :open should appear at the very bottom left of the screen. Type <ulink "
+"url=\"http://www.nongnu.org/ratpoison/doc/\">http://www.nongnu.org/ratpoison/doc/</ulink>."
+" When the page has loaded, type f and then select a number to follow a link:"
 msgstr "Observera att det inte finns några menyer, verktygsfält, knappar, eller skrollning - bara en rad längst ner som innehåller webbadressen. För att öppna en annan sida, tryck o, och :öppna ska visas längst ner till vänster på skärmen. Skriv in <ulink url=\"http://www.nongnu.org/ratpoison/doc/\">http://www.nongnu.org/ratpoison/doc/</ulink>. När sidan har laddats tryck F och välj sedan ett nummer att följa en länk:"
 
 #. Tag: phrase
@@ -277,32 +479,61 @@ msgstr "Skärmdump av Vimprobable surfning"
 
 #. Tag: para
 #, no-c-format
-msgid "Shift-h takes you back to where you were before. t works like o but opens the URL in a new window, as does shift-f instead of f. Pressing TAB after typing the beginning of a URL will suggest completions taken from the history; use TAB again to move through the choices (shift-TAB to go back up) and Enter to select. O rather than o (and T rather than t) allows you to edit the URL of the current page - try it. j and k scroll down and up. Shift-l moves one page forward in your browsing history. d closes the current window. For more details, consult man vimprobable2 as well as the Vimprobable website; see also man vimprobablerc for configuration options. Note that . and , are handy alternatives to f and shift-f."
-msgstr "Skift-h tar dig tillbaka till där du var innan. t fungerar som o men det öppnar URL i ett nytt fönster, liksom skift-F istället för f. Genom att trycka på TAB när du har skrivit början på en URL kommer det att föreslås kompletteringar som tas från historiken, använd TAB igen för att gå igenom de val (shift-TAB för att gå tillbaka upp) och Enter för att välja. O istället för o (och T istället för t) kan du redigera URL-adressen till den aktuella sidan - prova det. J och K rulla ner och upp. Shift-L flyttar en sida framåt i din webbhistorik. d stänger det aktuella fönstret. För mer information, använd man vimprobable2 liksom Vimprobable webbplats, se även man vimprobablerc för konfigurationsalternativ. Notera att . och , är praktiskt alternativ till F och skift-F."
+msgid ""
+"Shift-h takes you back to where you were before. t works like o but opens "
+"the URL in a new window, as does shift-f instead of f. Pressing TAB after "
+"typing the beginning of a URL will suggest completions taken from the "
+"history; use TAB again to move through the choices (shift-TAB to go back up)"
+" and Enter to select. O rather than o (and T rather than t) allows you to "
+"edit the URL of the current page - try it. j and k scroll down and up. "
+"Shift-l moves one page forward in your browsing history. d closes the "
+"current window. For more details, consult man vimprobable2 as well as the "
+"Vimprobable website; see also man vimprobablerc for configuration options. "
+"Note that . and , are handy alternatives to f and shift-f."
+msgstr "Skift-h tar dig tillbaka till där du var innan. t fungerar som o men det öppnar URL i ett nytt fönster, liksom skift-F istället för f. Genom att trycka på TAB när du har skrivit början på en URL kommer det att föreslås kompletteringar som tas från historiken, använd TAB igen för att gå igenom de val (shift-TAB för att gå tillbaka upp) och Enter för att välja. O istället för o (och T istället för t) kan du redigera URL-adressen till den aktuella sidan - prova det. j och k rulla ner och upp. Shift-l flyttar en sida framåt i din webbhistorik. d stänger det aktuella fönstret. För mer information, använd man vimprobable2 liksom Vimprobable webbplats, se även man vimprobablerc för konfigurationsalternativ. Notera att . och , är praktiskt alternativ till f och skift-f."
 
 #. Tag: para
 #, no-c-format
-msgid "There are no tabs. In the next section, we will see how Ratpoison allows you to use windows to do the work of tabs, but more informatively."
+msgid ""
+"There are no tabs. In the next section, we will see how Ratpoison allows you"
+" to use windows to do the work of tabs, but more informatively."
 msgstr "Det finns inga flikar. I nästa avsnitt kommer vi att se hur Ratpoison kan använda fönster för att göra arbetet istället för flikar, men mer informativt."
 
 #. Tag: para
 #, no-c-format
-msgid "Note that if the input received by o or t can't be resolved into a URL, it will be sent to a search engine; the default is duckduckgo. If the first item is i, s, w, wd, or y, a different search engine is used in each case. These shorcuts are described in the Vimprobable man page, and may also be customised in the .vimprobablerc configuration file."
-msgstr "Observera att om ingången tas emot av o eller t inte kan skickas in i en URL, det kommer att skickas till en sökmotor, standard är duckduckgo. Om det första objektet i, s, w, wd, eller y, är en annan sökmotor som används i varje enskilt fall. Dessa genvägarna beskrivs i Vimprobable man-sidan, och kan också anpassas i. Vimprobablerc konfigurationsfil."
+msgid ""
+"Note that if the input received by o or t can't be resolved into a URL, it "
+"will be sent to a search engine; the default is duckduckgo. If the first "
+"item is i, s, w, wd, or y, a different search engine is used in each case. "
+"These shorcuts are described in the Vimprobable man page, and may also be "
+"customised in the .vimprobablerc configuration file."
+msgstr "Observera att om ingången tas emot av o eller t inte kan skickas in i en URL, det kommer att skickas till en sökmotor, standard är duckduckgo. Om det första objektet i, s, w, wd, eller y, är en annan sökmotor som används i varje enskilt fall. Dessa genvägarna beskrivs i Vimprobable man-sidan, och kan också anpassas i .vimprobablerc konfigurationsfil."
 
 #. Tag: para
 #, no-c-format
-msgid "To insert data in forms (for instance, login and password) use tab till the cursor is in the right place. Another TAB moves to the next field or link; you may then use ESC to leave insert mode and return to command mode."
+msgid ""
+"To insert data in forms (for instance, login and password) use tab till the "
+"cursor is in the right place. Another TAB moves to the next field or link; "
+"you may then use ESC to leave insert mode and return to command mode."
 msgstr "Om du vill infoga data i formulär (t.ex. användarnamn och lösenord) använder tab tills markören är på rätt plats. En annan tab flyttar till nästa fält eller länk, du kan sedan använda ESC för att lämna inmatning och återgå till kommando läge."
 
 #. Tag: para
 #, no-c-format
-msgid "If you find your keystrokes are still being interpreted as browser commands, which may happen as a result of the way certain sites are designed, try C-z. The converse problem may arise if you have inadvertently passed keystrokes to o or t; they will appear at the very bottom right of the browser window. To ignore them and return to command mode, clearing the buffer, press ESC."
+msgid ""
+"If you find your keystrokes are still being interpreted as browser commands,"
+" which may happen as a result of the way certain sites are designed, try "
+"C-z. The converse problem may arise if you have inadvertently passed "
+"keystrokes to o or t; they will appear at the very bottom right of the "
+"browser window. To ignore them and return to command mode, clearing the "
+"buffer, press ESC."
 msgstr "Om du finner att dina tangenttryckningar fortfarande tolkas som webbläsare kommandon, vilket kan ske som ett resultat av hur vissa platser är utformade, försök med C-z. Det omvända problemet kan uppstå om du har av misstag tryckt tangenttryckningar o eller t, de kommer att visas längst ner till höger i webbläsarfönstret. Att ignorera dem och återgå till kommando läge, rensa bufferten trycker du på ESC."
 
 #. Tag: para
 #, no-c-format
-msgid "As described in Vimprobable's man page, it is necessary to create some files for all its features to work: touch ~/.config/vimprobable/histor though some of these may already be present."
+msgid ""
+"As described in Vimprobable's man page, it is necessary to create some files"
+" for all its features to work: touch ~/.config/vimprobable/histor though "
+"some of these may already be present."
 msgstr "Som beskrevs i Vimprobable's man-sidor, är det nödvändigt att skapa några filer för alla dess funktioner ska fungera: touch ~/.config/vimprobable/histor även om en del av dessa redan kan förekomma."
 
 #. Tag: title
@@ -312,7 +543,9 @@ msgstr "Fönsterhantering"
 
 #. Tag: para
 #, no-c-format
-msgid "Let's now see how ratpoison deals with several open windows. C-t e reveals all of them:"
+msgid ""
+"Let's now see how ratpoison deals with several open windows. C-t e reveals "
+"all of them:"
 msgstr "Låt oss nu se hur Ratpoison behandlar flera öppna fönster. C-t e avslöjar dem alla:"
 
 #. Tag: phrase
@@ -322,13 +555,30 @@ msgstr "Skärmdump av Vimprobable med flera fönster surfning"
 
 #. Tag: para
 #, no-c-format
-msgid "Notice that each one is associated with a number: typing it focuses on that window and hides all the others. (C-t w simply provides a list of open windows.) C-t C-t returns to the previous window. This is very useful indeed for switching rapidly back and forth between two apps - for instance, an editor and a browser - and is an example of how Ratpoison shines ergonomically. C-t k closes the current window, and C-t shift-k kills the current application. To see a list of commands, type C-t ?; for further detail, see also man ratpoison and the online manual, which we opened above with Vimprobable2."
+msgid ""
+"Notice that each one is associated with a number: typing it focuses on that "
+"window and hides all the others. (C-t w simply provides a list of open "
+"windows.) C-t C-t returns to the previous window. This is very useful indeed"
+" for switching rapidly back and forth between two apps - for instance, an "
+"editor and a browser - and is an example of how Ratpoison shines "
+"ergonomically. C-t k closes the current window, and C-t shift-k kills the "
+"current application. To see a list of commands, type C-t ?; for further "
+"detail, see also man ratpoison and the online manual, which we opened above "
+"with Vimprobable2."
 msgstr "Lägg märke till att var och en är associerad med en siffra: att skriva det fokuserar på det fönster och döljer alla de andra. (C-t w ger helt enkelt en lista över öppna fönster.) C-t C-t återgår till föregående fönster. Detta är mycket användbart för att växla snabbt fram och tillbaka mellan två program - till exempel en text-redigerare och en webbläsare - och är ett exempel på hur Ratpoison skiner ergonomiskt. C-t k Stänger det aktuella fönstret och C-t shift-k dödar det aktuella programmet. För att se en lista med kommandon, typ C-t?; För ytterligare detaljer, se även man Ratpoison och online-manualen, som vi öppnade ovan med Vimprobable2."
 
 #. Tag: para
 #, no-c-format
-msgid "To work with two or more windows together, Ratpoison allows the user to tile windows. C-t s splits the screen with the current window above whichever window was last open; C-t S splits them horizontally. These steps can be repeated to split the focused window further. C-t TAB (or C-t and an arrow key) moves the focus around, and C-t C-[arrow] swaps the tiled windows over. C-t Q undoes the splitting and allows the currently focused window to fill the screen. In practice, it's rarely useful to have more than one or two windows visible:"
-msgstr "Att arbeta med två eller flera fönster tillsammans, Ratpoison gör att användaren kan tile fönster. C-t s delar upp skärmen med det aktuella fönstret ovanför beroende på vilket fönster senast var öppen, C-t S delar dem horisontellt. Dessa steg kan upprepas att dela upp fokuserade fönstret ytterligare. C-t TAB (eller C-t C och en piltangent) flyttar fokus runt, och C-t C-[pil] Byter tiled fönstren över. C-t Q Ångrar uppdelningen och tillåter för närvarande fokuserade fönstret att fylla skärmen. I praktiken är det sällan bra att ha mer än en eller två fönster synliga:"
+msgid ""
+"To work with two or more windows together, Ratpoison allows the user to tile"
+" windows. C-t s splits the screen with the current window above whichever "
+"window was last open; C-t S splits them horizontally. These steps can be "
+"repeated to split the focused window further. C-t TAB (or C-t and an arrow "
+"key) moves the focus around, and C-t C-[arrow] swaps the tiled windows over."
+" C-t Q undoes the splitting and allows the currently focused window to fill "
+"the screen. In practice, it's rarely useful to have more than one or two "
+"windows visible:"
+msgstr "Att arbeta med två eller flera fönster tillsammans, Ratpoison gör att användaren kan rada upp fönster. C-t s delar upp skärmen med det aktuella fönstret ovanför beroende på vilket fönster senast var öppen, C-t S delar dem horisontellt. Dessa steg kan upprepas att dela upp fokuserade fönstret ytterligare. C-t TAB (eller C-t C och en piltangent) flyttar fokus runt, och C-t C-[pil] Byter focus på uppradede fönster. C-t Q ångrar uppdelningen och tillåter den förnärvarande fokuserade fönstret att fylla skärmen. I praktiken är det sällan bra att ha mer än en eller två fönster synliga:"
 
 #. Tag: phrase
 #, no-c-format
@@ -342,7 +592,10 @@ msgstr "Konsolen och pakethantering"
 
 #. Tag: para
 #, no-c-format
-msgid "To open the command line, type C-t c. There is no automatic package management in the Ratpoison edition, so you will need to make regular manual checks for updates:"
+msgid ""
+"To open the command line, type C-t c. There is no automatic package "
+"management in the Ratpoison edition, so you will need to make regular manual"
+" checks for updates:"
 msgstr "För att öppna kommandoraden skriver C-t c. Det finns ingen automatisk pakethantering i Ratpoison upplagan, så du kommer att behöva göra regelbundna manuella kontroller efter uppdateringar:"
 
 #. Tag: para
@@ -362,22 +615,46 @@ msgstr "#slapt-get --upgrade #uppgradera eventuella ändringar"
 
 #. Tag: para
 #, no-c-format
-msgid "Apart from the Vimprobable2 browser, the default applications include Mutt as the mail client and Gnome Commander as the file manager. Music On Console and Whaaw Media Player are the audio and video players, with GVim as text/code editor. apvlv can be used to view pdf files. As we have just seen, package management is console-based, using slapt-get and slapt-src. Further options are available in the repository. Firefox may be installed adding the pentadactyl or vimperator addon for mouse-free browsing, or alternatively Jumanji, XXXTerm or w3m, a browser for the command line. Thunderbird can be used with the Muttator addon while Claws-mail works almost entirely from the keyboard; Alpine is a friendly console email client."
-msgstr "Bortsett från Vimprobable2 webbläsaren, standard applikationer inkluderar Mutt som e-postklienten och Gnome Commander som filhanterare. Music On Console och Whaaw Media Player är ljud-och videospelare, med gvim som text/kod redigerare. apvlv kan användas för att visa pdf-filer. Som vi just har sett, är paketet hantering konsole-baserat, med hjälp av slapt-get och slapt-src. Ytterligare alternativ är tillgängliga i förpdet. Firefox kan installeras lägga till pentadactyl eller Vimperator addon för mus-fri surfning, alternativt Jumanji, XXXTerm eller w3m, en webbläsare för kommandoraden. Thunderbird kan användas med Muttator addon medan claws-mail fungerar nästan helt från tangentbordet, alpin är ett vänligt konsol e-postklient."
+msgid ""
+"Apart from the Vimprobable2 browser, the default applications include Mutt "
+"as the mail client and Gnome Commander as the file manager. Music On Console"
+" and Whaaw Media Player are the audio and video players, with GVim as "
+"text/code editor. apvlv can be used to view pdf files. As we have just seen,"
+" package management is console-based, using slapt-get and slapt-src. Further"
+" options are available in the repository. Firefox may be installed adding "
+"the pentadactyl or vimperator addon for mouse-free browsing, or "
+"alternatively Jumanji, XXXTerm or w3m, a browser for the command line. "
+"Thunderbird can be used with the Muttator addon while Claws-mail works "
+"almost entirely from the keyboard; Alpine is a friendly console email "
+"client."
+msgstr "Bortsett från Vimprobable2 webbläsaren, standard applikationer inkluderar Mutt som e-postklienten och Gnome Commander som filhanterare. Music On Console och Whaaw Media Player är ljud-och videospelare, med gvim som text/kod redigerare. apvlv kan användas för att visa pdf-filer. Som vi just har sett, är paketet hantering konsole-baserat, med hjälp av slapt-get och slapt-src. Ytterligare alternativ är tillgängliga i förpdet. Firefox kan installeras lägga till pentadactyl eller Vimperator addon för mus-fri surfning, alternativt Jumanji, XXXTerm eller w3m, en webbläsare för kommandoraden. Thunderbird kan användas med Muttator addon medan claws-mail fungerar nästan helt från tangentbordet, Alpine är ett vänligt konsol e-postklient."
 
 #. Tag: para
 #, no-c-format
-msgid "No office suite is included, and in this as in other respects, the user is encouraged to tailor the system by installing their preferred applications. Flash is not included, but is available from the repositories. Screen for managing multiple consoles works well with Ratpoison. Sc is a console-based spreadsheet. For writers, PyRoom is an elegant choice for full-screen, distraction-free writing, and it might be complemented by Antiword to convert proprietary file formats into plain text."
+msgid ""
+"No office suite is included, and in this as in other respects, the user is "
+"encouraged to tailor the system by installing their preferred applications. "
+"Flash is not included, but is available from the repositories. Screen for "
+"managing multiple consoles works well with Ratpoison. Sc is a console-based "
+"spreadsheet. For writers, PyRoom is an elegant choice for full-screen, "
+"distraction-free writing, and it might be complemented by Antiword to "
+"convert proprietary file formats into plain text."
 msgstr "Inget kontorsprogram ingår, och i detta som i andra avseenden, uppmanas användaren att skräddarsy systemet genom att installera sina önskade program. Flash är inte med, men är tillgänglig från förråden. Screen för att hantera flera konsoler fungerar bra med Ratpoison. Sc är en konsol-baserat kalkylprogram. För författare är PyRoom ett elegant val för fullskärmsläge, störningsfri skrivande, och det kan kompletteras med antiword att konvertera proprietära filformat till vanlig text."
 
 #. Tag: para
 #, no-c-format
-msgid "Note that the Gslapt and Sourcery graphical package management tools (equivalent to slapt-get and slapt-src) may also be used mouse-lessly, though this is perhaps more awkward than working on the command line. In either case, regular manual upgrading will still be necessary."
+msgid ""
+"Note that the Gslapt and Sourcery graphical package management tools "
+"(equivalent to slapt-get and slapt-src) may also be used mouse-lessly, "
+"though this is perhaps more awkward than working on the command line. In "
+"either case, regular manual upgrading will still be necessary."
 msgstr "Observera att Gslapt och Sourcery grafiska paket hanteringsverktyg (motsvarande slapt-get och slapt-src) kan också användas utan mus, men detta är kanske mer besvärlig än att arbeta på kommandoraden. I båda fallen kommer regelbundna manuell uppgradering fortfarande vara nödvändigt."
 
 #. Tag: para
 #, no-c-format
-msgid "As an example, we will install Alpine, derived from the classic Pine mail client."
+msgid ""
+"As an example, we will install Alpine, derived from the classic Pine mail "
+"client."
 msgstr "Som ett exempel kommer vi installera Alpine, som härrör från den klassiska Pine e-postklienten."
 
 #. Tag: para
@@ -392,12 +669,19 @@ msgstr "#slapt-get -i alpine"
 
 #. Tag: para
 #, no-c-format
-msgid "Note: To see how to edit Alpine's configuration file to access mail from one popular provider via smtp, see the page in the <ulink url=\"http://www.salixos.org/wiki/index.php/How%20to%20set%20up%20Alpine%20with%20a%20Gmail%20account\">Salix wiki</ulink>."
+msgid ""
+"Note: To see how to edit Alpine's configuration file to access mail from one"
+" popular provider via smtp, see the page in the <ulink "
+"url=\"http://www.salixos.org/wiki/index.php/How%20to%20set%20up%20Alpine%20with%20a%20Gmail%20account\">Salix"
+" wiki</ulink>."
 msgstr "Obs: För att se hur du redigerar Alpines konfigurationsfil för att komma åt e-post från en populär leverantör via SMTP, se sidan i <ulink url=\"http://www.salixos.org/wiki/index.php/How%20to%20set%20up%20Alpine%20with%20a%20Gmail%20account\">Salix wiki</ulink>."
 
 #. Tag: para
 #, no-c-format
-msgid "For Mutt, see <ulink url=\"http://crunchbanglinux.org/wiki/howto/howto_setup_mutt_with_gmail_imap\">this wiki entry</ulink>."
+msgid ""
+"For Mutt, see <ulink "
+"url=\"http://crunchbanglinux.org/wiki/howto/howto_setup_mutt_with_gmail_imap\">this"
+" wiki entry</ulink>."
 msgstr "För Mutt, se <ulink url=\"http://crunchbanglinux.org/wiki/howto/howto_setup_mutt_with_gmail_imap\"> denna wiki posten </ulink> ."
 
 #. Tag: title
@@ -407,12 +691,25 @@ msgstr "Redigera konfigurationsfilen"
 
 #. Tag: para
 #, no-c-format
-msgid "After using Alpine a little, one problem may become apparent. Its shortcut for selecting a file, for example to attach it, is C-t. But that's Ratpoison's escape key combination! In fact, Ratpoison has a solution for such conflicts, referred to somewhat cryptically in the shortcut list as meta: C-t t should send C-t to the application in the active window. However, this does not work in the terminal, which does not recognise the character if it receives it in this form."
+msgid ""
+"After using Alpine a little, one problem may become apparent. Its shortcut "
+"for selecting a file, for example to attach it, is C-t. But that's "
+"Ratpoison's escape key combination! In fact, Ratpoison has a solution for "
+"such conflicts, referred to somewhat cryptically in the shortcut list as "
+"meta: C-t t should send C-t to the application in the active window. "
+"However, this does not work in the terminal, which does not recognise the "
+"character if it receives it in this form."
 msgstr "Efter att ha använt Alpine lite, kan ett problem bli uppenbart. Dess genväg för att välja en fil, till exempel för att bifoga det, är C-t. Men det är Ratpoison's escape tangentkombinationen! I själva verket har Ratpoison en lösning för sådana konflikter, enligt något kryptiskt i genvägslistan som meta: C-t t ska skicka C-t till programmet i det aktiva fönstret. Dock fungerar detta inte i terminalen, som inte erkänner tecknet om den får det i denna form."
 
 #. Tag: para
 #, no-c-format
-msgid "Everything in Ratpoison is configurable, and the C-t combination itself is no exception. A temporary solution is to reassign the binding using Ratpoison's command input feature. C-t : conjures up an input line at the top right of the screen. This can be used for passing instructions to Ratpoison. For instance, one way of opening an application in a new console is:"
+msgid ""
+"Everything in Ratpoison is configurable, and the C-t combination itself is "
+"no exception. A temporary solution is to reassign the binding using "
+"Ratpoison's command input feature. C-t : conjures up an input line at the "
+"top right of the screen. This can be used for passing instructions to "
+"Ratpoison. For instance, one way of opening an application in a new console "
+"is:"
 msgstr "Allt i Ratpoison är konfigurerbar, och C-t kombinationen i sig är inget undantag. En tillfällig lösning är att tilldela bindande hjälp Ratpoison's funktion kommando ingång. C-t: frammanar en inmatning längst upp till höger på skärmen. Detta kan användas för att leda instruktioner till Ratpoison. Till exempel är ett sätt att öppna ett program i en ny konsol:"
 
 #. Tag: para
@@ -422,7 +719,12 @@ msgstr ":exec xterm -e alpine"
 
 #. Tag: para
 #, no-c-format
-msgid "(that is, C-t : exec xterm -e alpine) which starts the program we just installed. The colon command can be used to pass a number of instructions to Ratpoison; see man Ratpoison for a full list together with shortcuts where they have been defined. In fact, there is a shortcut for exec. Just type C-t ! [application]; C-t C-! opens it in a console."
+msgid ""
+"(that is, C-t : exec xterm -e alpine) which starts the program we just "
+"installed. The colon command can be used to pass a number of instructions to"
+" Ratpoison; see man Ratpoison for a full list together with shortcuts where "
+"they have been defined. In fact, there is a shortcut for exec. Just type C-t"
+" ! [application]; C-t C-! opens it in a console."
 msgstr "(Dvs, C-t: exec xterm -e alpine) som startar det program som vi just installerat. kolon kommando kan användas för att klara ett antal instruktioner för att Ratpoison, se man Ratpoison för en fullständig lista med genvägar där de har definierats. I själva verket finns det en genväg för exec. Skriv bara C-t! [program], C-t C-! öppnas den i en konsol."
 
 #. Tag: para
@@ -432,13 +734,23 @@ msgstr "För att ändra C-t standard, gör: :escape Super_L."
 
 #. Tag: para
 #, no-c-format
-msgid "which is the so-called \"Windows key\" to the left of the keyboard. As well as resolving the conflict with Alpine, this has the great benefit of being just one keystroke. Some functions may not work correctly, in particular the very useful C-t C-t to go back to where you just were, and performance varies from one keyboard to another, so it's worth experimenting. Another possibility is the \"Menu\" key. To return to the default: :escape C-t."
+msgid ""
+"which is the so-called \"Windows key\" to the left of the keyboard. As well "
+"as resolving the conflict with Alpine, this has the great benefit of being "
+"just one keystroke. Some functions may not work correctly, in particular the"
+" very useful C-t C-t to go back to where you just were, and performance "
+"varies from one keyboard to another, so it's worth experimenting. Another "
+"possibility is the \"Menu\" key. To return to the default: :escape C-t."
 msgstr "vilket är den så kallade \"Windows-tangenten\" till vänster på tangentbordet. Förutom att lösa konflikten med Alpine, har detta den stora fördelen med att vara bara en knapptryckning. Vissa funktioner kanske inte fungerar korrekt, i synnerhet den mycket användbara C-t C-t att gå tillbaka till där du var, och prestanda varierar från ett tangentbord till en annan, så det är värt att experimentera. En annan möjlighet är \"Menu\"-tangenten. För att återgå till default: :escape C-t."
 
 #. Tag: para
 #, no-c-format
-msgid "To make such a change permanent, edit ~/.ratpoisonrc. If you are using Ratpoison, you can open the file now (with GVim or Vim) and tile it horizontally with the window where you are reading this guide (C-t shift-s). Let's go through some items in the file."
-msgstr "För att göra en sådan förändring permanent, redigera ~/.ratpoisonrc. Om du använder Ratpoison kan du öppna filen nu (med gvim eller Vim) och tile den horisontellt med fönster där du läser denna guide (C-t shift-s). Låt oss gå igenom några poster i filen."
+msgid ""
+"To make such a change permanent, edit ~/.ratpoisonrc. If you are using "
+"Ratpoison, you can open the file now (with GVim or Vim) and tile it "
+"horizontally with the window where you are reading this guide (C-t shift-s)."
+" Let's go through some items in the file."
+msgstr "För att göra en sådan förändring permanent, redigera ~/.ratpoisonrc. Om du använder Ratpoison kan du öppna filen nu (med gvim eller Vim) och rada upp den horisontellt med fönstret där du läser denna guide (C-t shift-s). Låt oss gå igenom några poster i filen."
 
 #. Tag: phrase
 #, no-c-format
@@ -447,12 +759,21 @@ msgstr "Göra permanenta configuragtion förändringar genom att redigera ~/.rat
 
 #. Tag: para
 #, no-c-format
-msgid "banish sends the mouse pointer to bottom right (incidentally, you may wish to install unclutter, which makes it fade out altogether after a few seconds' stillness; place the line unclutter &amp; in your ~/.xinitrc to run it automatically when X is started). We've seen all but one of the custom keybindings in the \"bind\" statements. To change the wallpaper, point to a different image. The final item sets up workspaces, which we'll look at next - including C-t W."
-msgstr "förvisa skickar muspekaren längst ned till höger (för övrigt kanske du vill installera unclutter, vilket gör att det tonas ut helt efter några sekunders tystnad, placera linjen unclutter &amp; i din ~/xinitrc för att köra det automatiskt när X är. startat). Vi har sett alla utom en av de anpassade tangentbindningar i \"bind\" uttalanden. För att ändra bakgrundsbild, pekar på en annan bild. Den sista posten sätter upp arbetsytor, vilket vi titta på nästa - inklusive C-t W."
+msgid ""
+"banish sends the mouse pointer to bottom right (incidentally, you may wish "
+"to install unclutter, which makes it fade out altogether after a few "
+"seconds' stillness; place the line unclutter &amp; in your ~/.xinitrc to run"
+" it automatically when X is started). We've seen all but one of the custom "
+"keybindings in the \"bind\" statements. To change the wallpaper, point to a "
+"different image. The final item sets up workspaces, which we'll look at next"
+" - including C-t W."
+msgstr "förvisa skickar muspekaren längst ned till höger (för övrigt kanske du vill installera unclutter, vilket gör att det tonas ut helt efter några sekunders tystnad, placera linjen unclutter &amp; i din ~/xinitrc för att köra det automatiskt när X är startat). Vi har sett alla utom en av de anpassade tangentbindningar i \"bind\" uttalanden. För att ändra bakgrundsbild, pekar på en annan bild. Den sista posten sätter upp arbetsytor, vilket vi titta på senare - inklusive C-t W."
 
 #. Tag: para
 #, no-c-format
-msgid "Before editing the file, create a backup copy in case anything goes wrong. To change the C-t default, simply add a line :"
+msgid ""
+"Before editing the file, create a backup copy in case anything goes wrong. "
+"To change the C-t default, simply add a line :"
 msgstr "Innan du redigerar filen, skapa en säkerhetskopia om något skulle gå fel. För att ändra C-t standard lägg helt enkelt till en rad:"
 
 #. Tag: para
@@ -467,8 +788,10 @@ msgstr "Vi har sett många av de anpassade tangentbindningar i \"bind\" uttaland
 
 #. Tag: para
 #, no-c-format
-msgid "The final item, together with the bindings to function keys, sets up workspaces; we'll look at these next - including C-t W."
-msgstr "Den sista posten, tillsammans med bindningarna till funktionstangenterna, sätter upp arbetsytor, ska vi titta på dessa nästa - inklusive C-t W."
+msgid ""
+"The final item, together with the bindings to function keys, sets up "
+"workspaces; we'll look at these next - including C-t W."
+msgstr "Den sista posten, tillsammans med bindningarna till funktionstangenter, sätta upp arbetsytor, tittar vi på senare  - inklusive C-t W."
 
 #. Tag: title
 #, no-c-format
@@ -477,12 +800,22 @@ msgstr "Använda arbetsytor"
 
 #. Tag: para
 #, no-c-format
-msgid "If you have several terminals open, and various browser windows, and some other applications, the number of windows may become unwieldy. To help with this, Ratpoison allows you to use workspaces. (In the online Ratpoison manual, these are referred to more precisely as \"groups\".) You might then put all browser windows in one workspace, so that C-t e has the same effect as tabs, but with \"thumbnails\"."
+msgid ""
+"If you have several terminals open, and various browser windows, and some "
+"other applications, the number of windows may become unwieldy. To help with "
+"this, Ratpoison allows you to use workspaces. (In the online Ratpoison "
+"manual, these are referred to more precisely as \"groups\".) You might then "
+"put all browser windows in one workspace, so that C-t e has the same effect "
+"as tabs, but with \"thumbnails\"."
 msgstr "Om du har flera terminaler öppna och olika webbläsarfönster, och några andra program, kan antalet fönstren bli tungrott. För att hjälpa till med detta, kan Ratpoison använda arbetsytor. (I online Ratpoison manual, anges dessa mer exakt som \"grupper\".) Du kan sedan lägga alla webbläsarfönster i en arbetsyta, så att C-t e har samma effekt som flikar, men med \"miniatyrer\"."
 
 #. Tag: para
 #, no-c-format
-msgid "Managing these is roughly analogous to how windows are managed within each workspace. As we saw, C-t e shows all windows in the current workspace; C-t w lists them. C-t W shows four more workspaces, which were set up in the last line of the configuration file. In a console, type rpws help."
+msgid ""
+"Managing these is roughly analogous to how windows are managed within each "
+"workspace. As we saw, C-t e shows all windows in the current workspace; C-t "
+"w lists them. C-t W shows four more workspaces, which were set up in the "
+"last line of the configuration file. In a console, type rpws help."
 msgstr "Hantering av dessa är ungefär jämförbar med hur fönster hanteras inom varje arbetsyta. Som vi såg, visar C-t e alla fönster i den aktuella arbetsytan, C-t W visar dem. C-t W visar fyra arbetsytor, som inrättades i den sista raden i konfigurationsfilen. I en konsol, typ rpws hjälp."
 
 #. Tag: phrase
@@ -492,7 +825,11 @@ msgstr "Terminal visar rpws hjälpsidan för att hantera arbetsytor"
 
 #. Tag: para
 #, no-c-format
-msgid "The usage summary you will see may be a little cryptic. Just as \"C\" means Control, \"M\" refers to Alt. Use Alt with the function keys to access each workspace. Ctrl-Alt and the arrows move up and down workspaces. The remaining options move the current window to a different workspace."
+msgid ""
+"The usage summary you will see may be a little cryptic. Just as \"C\" means "
+"Control, \"M\" refers to Alt. Use Alt with the function keys to access each "
+"workspace. Ctrl-Alt and the arrows move up and down workspaces. The "
+"remaining options move the current window to a different workspace."
 msgstr "Som du ser kan användnings sammanfattningen vara lite kryptisk. Precis som \"C\" betyder Control \"M\" syftar på Alt. Använd Alt med funktionstangenterna för att komma varje arbetsyta. Ctrl-Alt och pilarna flytta upp och ner arbetsytor. De återstående alternativen flytta det aktuella fönstret till en annan arbetsyta."
 
 #. Tag: title
@@ -502,7 +839,11 @@ msgstr "Lägga till ett objekt i menyn"
 
 #. Tag: para
 #, no-c-format
-msgid "The directory ~/.ratmenu contains the main menu file menu.sh, and the submenus it calls; all these are editable scripts. We will now edit the Network menu using GVim. GVim is in the menu, but try calling it using the colon (C-t :)"
+msgid ""
+"The directory ~/.ratmenu contains the main menu file menu.sh, and the "
+"submenus it calls; all these are editable scripts. We will now edit the "
+"Network menu using GVim. GVim is in the menu, but try calling it using the "
+"colon (C-t :)"
 msgstr "Katalogen ~/ratmenu innehåller huvudmeny filen menu.sh och undermenyerna den kallar, alla dessa är redigerbara skript. Vi kommer nu att redigera menyn Nätverk med gvim. Gvim är i menyn, men försök att kalla det med kolon (C-t:)"
 
 #. Tag: para
@@ -527,13 +868,19 @@ msgstr "Lägga till ett objekt i menyn med gvim"
 
 #. Tag: para
 #, no-c-format
-msgid "Note that graphical applications are called directly, but command line programs need to be opened inside a terminal."
+msgid ""
+"Note that graphical applications are called directly, but command line "
+"programs need to be opened inside a terminal."
 msgstr "Observera att grafiska applikationer kallas direkt, men kommandorads program behöver öppnas i en terminal."
 
 #. Tag: para
 #, no-c-format
-msgid "Use j and k to navigate to where you want to add the entry for Alpine, type i to insert, ESC to return to command mode, and :wq to write and save. Test the change by typing C-t r - the new item should already appear. If all is well, you may close the editor."
-msgstr "Använd j och k för att navigera till den plats där du vill lägga till posten för alpina, skriver jag för att infoga, ESC för att återvända till kommando läge, och :wq att skriva och spara. Testa förändringen genom att skriva C-t r - det nya objektet bör redan visas. Om allt är väl, kan du stänga redigeraren."
+msgid ""
+"Use j and k to navigate to where you want to add the entry for Alpine, type "
+"i to insert, ESC to return to command mode, and :wq to write and save. Test "
+"the change by typing C-t r - the new item should already appear. If all is "
+"well, you may close the editor."
+msgstr "Använd j och k för att navigera till den plats där du vill lägga till posten för Alpine, skriver i för att infoga, ESC för att återvända till kommando läge, och :wq att skriva och spara. Testa förändringen genom att skriva C-t r - det nya objektet bör redan visas. Om allt är väl, kan du stänga redigeraren."
 
 #. Tag: title
 #, no-c-format
@@ -542,7 +889,9 @@ msgstr "Sammanfattning"
 
 #. Tag: para
 #, no-c-format
-msgid "Here is a short list of key bindings common to many of the Salix Ratpoison edition's applications."
+msgid ""
+"Here is a short list of key bindings common to many of the Salix Ratpoison "
+"edition's applications."
 msgstr "Här är en kort lista över tangentbindningar gemensamma för många av Salix Ratpoison utgåvans program."
 
 #. Tag: para
@@ -683,7 +1032,7 @@ msgstr "/"
 #. Tag: para
 #, no-c-format
 msgid "search forwards"
-msgstr "Sök framåt"
+msgstr "sök framåt"
 
 #. Tag: para
 #, no-c-format
@@ -693,7 +1042,7 @@ msgstr "?"
 #. Tag: para
 #, no-c-format
 msgid "search backwards"
-msgstr "söka bakåt"
+msgstr "sök bakåt"
 
 #. Tag: para
 #, no-c-format
@@ -702,7 +1051,8 @@ msgstr "ESC"
 
 #. Tag: para
 #, no-c-format
-msgid "return to command mode (and clear the buffer of any mistyped keystrokes)"
+msgid ""
+"return to command mode (and clear the buffer of any mistyped keystrokes)"
 msgstr "återgå till kommandoläge (och rensa bufferten av stavfel tangenttryckningar)"
 
 #. Tag: para
@@ -722,12 +1072,24 @@ msgstr "För en sammanfattning av Ratpoison's egna genvägar, typ C-t ? ."
 
 #. Tag: para
 #, no-c-format
-msgid "While what is covered here should be enough to get you started, many more features of the applications and especially Ratpoison itself are described in online manuals, guides and the manpages. Once you are used to the core features and have them at your fingertips, it's worth digging around further, as well as investigating suitable applications to add to the set. Configuration may be done straightforwardly by editing the files - suggestions may be found online. One of Ratpoison's principal charms is how easily it can be tailored to fit each user's needs and taste."
+msgid ""
+"While what is covered here should be enough to get you started, many more "
+"features of the applications and especially Ratpoison itself are described "
+"in online manuals, guides and the manpages. Once you are used to the core "
+"features and have them at your fingertips, it's worth digging around "
+"further, as well as investigating suitable applications to add to the set. "
+"Configuration may be done straightforwardly by editing the files - "
+"suggestions may be found online. One of Ratpoison's principal charms is how "
+"easily it can be tailored to fit each user's needs and taste."
 msgstr "Medan vad som omfattas här bör vara tillräckligt för att komma igång, finns många fler funktioner i program och speciellt Ratpoison beskrivna i online-handböcker, guider och manualsidor. När du är van vid de centrala funktioner och ha dem till hands, det är värt att gräva runt ytterligare, samt att undersöka lämpliga applikationer för att lägga till uppsättningen. Konfiguration kan göras ärligt genom att redigera filerna - förslag kan hittas på nätet. En av Ratpoison's främsta charm är hur lätt den kan skräddarsys för att passa varje användares behov och smak."
 
 #. Tag: para
 #, no-c-format
-msgid "One miscellaneous item is the mount manager in the System menu, which may also be called from the command line as gmountman. When needed, this deals with the mounting of removable devices, including DVDs. Also, banish may be called at any time by the shortcut C-t b."
+msgid ""
+"One miscellaneous item is the mount manager in the System menu, which may "
+"also be called from the command line as gmountman. When needed, this deals "
+"with the mounting of removable devices, including DVDs. Also, banish may be "
+"called at any time by the shortcut C-t b."
 msgstr "En punkt är Mount Manager i menyn System, som också kan anropas från kommandoraden gmountman. Vid behov, detta handlar om montering av flyttbara enheter, inklusive DVD-skivor. Dessutom förvisar kan kallas när som helst genom genvägen C-t b."
 
 #. Tag: para
@@ -737,5 +1099,7 @@ msgstr "Kom ihåg att kontrollera ofta för paketet uppdateringar med slapt-get.
 
 #. Tag: para
 #, no-c-format
-msgid "Finally, to shut down Ratpoison, there is an entry in the Exit submenu, from where it is also possible to reboot or shut down the computer."
+msgid ""
+"Finally, to shut down Ratpoison, there is an entry in the Exit submenu, from"
+" where it is also possible to reboot or shut down the computer."
 msgstr "Slutligen, för att stänga Ratpoison finns det en post i Exit undermenyn, varifrån det är också möjligt att starta om eller stänga av datorn."

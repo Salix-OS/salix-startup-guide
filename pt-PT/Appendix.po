@@ -1,0 +1,1015 @@
+# AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Hugo Carvalho <hugokarvalho@hotmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: Salix documentation\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-10-28 23:19+0000\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
+"Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/salix_documentation/language/pt_PT/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Tag: title
+#, no-c-format
+msgid "List of Applications"
+msgstr "Lista de Aplicações"
+
+#. Tag: para
+#, no-c-format
+msgid "Salix Edition"
+msgstr "Edição salix"
+
+#. Tag: para
+#, no-c-format
+msgid "Xfce"
+msgstr "Xfce"
+
+#. Tag: para
+#, no-c-format
+msgid "KDE"
+msgstr "KDE"
+
+#. Tag: para
+#, no-c-format
+msgid "Fluxbox"
+msgstr "Fluxbox"
+
+#. Tag: para
+#, no-c-format
+msgid "LXDE"
+msgstr "LXDE"
+
+#. Tag: para
+#, no-c-format
+msgid "Ratpoison"
+msgstr "Ratpoison"
+
+#. Tag: para
+#, no-c-format
+msgid "Web Browser"
+msgstr "Navegador da Web"
+
+#. Tag: para
+#, no-c-format
+msgid "Firefox"
+msgstr "Firefox"
+
+#. Tag: para
+#, no-c-format
+msgid "Midori"
+msgstr "Midori"
+
+#. Tag: para
+#, no-c-format
+msgid "Vimprobable2"
+msgstr "Vimprobable2"
+
+#. Tag: para
+#, no-c-format
+msgid "Word Processor"
+msgstr "Processador de texto"
+
+#. Tag: para
+#, no-c-format
+msgid "LibreOffice Writer"
+msgstr "Processador de texto LibreOffice"
+
+#. Tag: para
+#, no-c-format
+msgid "KWord"
+msgstr "KWord"
+
+#. Tag: para
+#, no-c-format
+msgid "AbiWord"
+msgstr "AbiWord"
+
+#. Tag: para
+#, no-c-format
+msgid "Email Client"
+msgstr "Cliente de Email"
+
+#. Tag: para
+#, no-c-format
+msgid "Claws–mail"
+msgstr "Claws-mail"
+
+#. Tag: para
+#, no-c-format
+msgid "KMail"
+msgstr "KMail"
+
+#. Tag: para
+#, no-c-format
+msgid "Mutt"
+msgstr "Mutt"
+
+#. Tag: para
+#, no-c-format
+msgid "Picture Viewer"
+msgstr "Visualizador de Imagem"
+
+#. Tag: para
+#, no-c-format
+msgid "Viewnior"
+msgstr "Viewnior"
+
+#. Tag: para
+#, no-c-format
+msgid "Gwenview"
+msgstr "Gwenview"
+
+#. Tag: para
+#, no-c-format
+msgid "Image Editing"
+msgstr "Edição de Imagem"
+
+#. Tag: para
+#, no-c-format
+msgid "GIMP"
+msgstr "GIMP"
+
+#. Tag: para
+#, no-c-format
+msgid "Krita"
+msgstr "Krita"
+
+#. Tag: para
+#, no-c-format
+msgid "KolorPaint"
+msgstr "KolorPaint"
+
+#. Tag: para
+#, no-c-format
+msgid "Karbon14"
+msgstr "Karbon14"
+
+#. Tag: para
+#, no-c-format
+msgid "mtPaint"
+msgstr "mtPaint"
+
+#. Tag: para
+#, no-c-format
+msgid "—"
+msgstr "—"
+
+#. Tag: para
+#, no-c-format
+msgid "Video Editing"
+msgstr "Edição de Vídeo"
+
+#. Tag: para
+#, no-c-format
+msgid "PiTiVi"
+msgstr "PiTiVi"
+
+#. Tag: para
+#, no-c-format
+msgid "File Manager"
+msgstr "Gestor de Ficheiros"
+
+#. Tag: para
+#, no-c-format
+msgid "Thunar"
+msgstr "Thunar"
+
+#. Tag: para
+#, no-c-format
+msgid "Dolphin"
+msgstr "Dolphin"
+
+#. Tag: para
+#, no-c-format
+msgid "PCMan"
+msgstr "PCMan"
+
+#. Tag: para
+#, no-c-format
+msgid "Gnome-commander"
+msgstr "Gnome-commander"
+
+#. Tag: para
+#, no-c-format
+msgid "Window Manager"
+msgstr "Gestor de Janelas"
+
+#. Tag: para
+#, no-c-format
+msgid "KWin"
+msgstr "KWin"
+
+#. Tag: para
+#, no-c-format
+msgid "openbox"
+msgstr "openbox"
+
+#. Tag: para
+#, no-c-format
+msgid "Instant Messaging"
+msgstr "Mensageiro Instantâneo"
+
+#. Tag: para
+#, no-c-format
+msgid "Pidgin"
+msgstr "Pidgin"
+
+#. Tag: para
+#, no-c-format
+msgid "Kopete"
+msgstr "Kopete"
+
+#. Tag: para
+#, no-c-format
+msgid "VoIP"
+msgstr "VoIP"
+
+#. Tag: para
+#, no-c-format
+msgid "Spreadsheet"
+msgstr "Folha de Cálculo"
+
+#. Tag: para
+#, no-c-format
+msgid "LibreOffice Calc"
+msgstr "Folha de Cálculo LibreOffice"
+
+#. Tag: para
+#, no-c-format
+msgid "KSpread"
+msgstr "KSpread"
+
+#. Tag: para
+#, no-c-format
+msgid "Gnumeric"
+msgstr "Gnumeric"
+
+#. Tag: para
+#, no-c-format
+msgid "sc"
+msgstr "sc"
+
+#. Tag: para
+#, no-c-format
+msgid "Text Editor"
+msgstr "Editor de Texto"
+
+#. Tag: para
+#, no-c-format
+msgid "Mousepad"
+msgstr "Mousepad"
+
+#. Tag: para
+#, no-c-format
+msgid "KWriter"
+msgstr "KWriter"
+
+#. Tag: para
+#, no-c-format
+msgid "Leafpad"
+msgstr "Leafpad"
+
+#. Tag: para
+#, no-c-format
+msgid "gvim"
+msgstr "gvim"
+
+#. Tag: para
+#, no-c-format
+msgid "Integrated Development Environment"
+msgstr "Ambiente de Desenvolvimento Integrado"
+
+#. Tag: para
+#, no-c-format
+msgid "Geany"
+msgstr "Geany"
+
+#. Tag: para
+#, no-c-format
+msgid "Pdf Reader"
+msgstr "Leitor de Pdf"
+
+#. Tag: para
+#, no-c-format
+msgid "Document Viewer (Evince)"
+msgstr "Document Viewer (Evince)"
+
+#. Tag: para
+#, no-c-format
+msgid "OKular"
+msgstr "OKular"
+
+#. Tag: para
+#, no-c-format
+msgid "ePDFViewer"
+msgstr "ePDFViewer"
+
+#. Tag: para
+#, no-c-format
+msgid "apvlv"
+msgstr "apvlv"
+
+#. Tag: para
+#, no-c-format
+msgid "Multimedia Player"
+msgstr "Leitor Multimédia"
+
+#. Tag: para
+#, no-c-format
+msgid "Parole Media Player"
+msgstr "Parole Media Player"
+
+#. Tag: para
+#, no-c-format
+msgid "Bangarang"
+msgstr "Bangarang"
+
+#. Tag: para
+#, no-c-format
+msgid "Whaawmp"
+msgstr "Whaawmp"
+
+#. Tag: para
+#, no-c-format
+msgid "Music Player"
+msgstr "Leitor de Música"
+
+#. Tag: para
+#, no-c-format
+msgid "Exaile"
+msgstr "Exaile"
+
+#. Tag: para
+#, no-c-format
+msgid "Clementine Music Player"
+msgstr "Clementine Music Player"
+
+#. Tag: para
+#, no-c-format
+msgid "Music On Console"
+msgstr "Music On Console"
+
+#. Tag: para
+#, no-c-format
+msgid "Disk Burner"
+msgstr "Gravador de Disco"
+
+#. Tag: para
+#, no-c-format
+msgid "Brasero"
+msgstr "Brasero"
+
+#. Tag: para
+#, no-c-format
+msgid "K3b"
+msgstr "K3b"
+
+#. Tag: para
+#, no-c-format
+msgid "bashburn"
+msgstr "bashburn"
+
+#. Tag: para
+#, no-c-format
+msgid "CD Ripper"
+msgstr "CD Ripper"
+
+#. Tag: para
+#, no-c-format
+msgid "Asunder CD Ripper"
+msgstr "Asunder CD Ripper"
+
+#. Tag: para
+#, no-c-format
+msgid "Torrent Client"
+msgstr "Cliente Torrent"
+
+#. Tag: para
+#, no-c-format
+msgid "Transmission"
+msgstr "Transmission"
+
+#. Tag: para
+#, no-c-format
+msgid "KTorrent"
+msgstr "KTorrent"
+
+#. Tag: para
+#, no-c-format
+msgid "rtorrent"
+msgstr "rtorrent"
+
+#. Tag: para
+#, no-c-format
+msgid "Blogging Client"
+msgstr "Cliente Blogging"
+
+#. Tag: para
+#, no-c-format
+msgid "Blogilo"
+msgstr "Blogilo"
+
+#. Tag: para
+#, no-c-format
+msgid "Organiser"
+msgstr "Organiser"
+
+#. Tag: para
+#, no-c-format
+msgid "Orage"
+msgstr "Orage"
+
+#. Tag: para
+#, no-c-format
+msgid "KOrganizer"
+msgstr "KOrganizer"
+
+#. Tag: para
+#, no-c-format
+msgid "PIM"
+msgstr "PIM"
+
+#. Tag: para
+#, no-c-format
+msgid "Akonadi"
+msgstr "Akonadi"
+
+#. Tag: para
+#, no-c-format
+msgid "Desktop Wiki"
+msgstr "Desktop Wiki"
+
+#. Tag: para
+#, no-c-format
+msgid "zim"
+msgstr "zim"
+
+#. Tag: para
+#, no-c-format
+msgid "KJots"
+msgstr "KJots"
+
+#. Tag: para
+#, no-c-format
+msgid "Multilingual Input"
+msgstr "Multilingual Input"
+
+#. Tag: para
+#, no-c-format
+msgid "Ibus"
+msgstr "Ibus"
+
+#. Tag: para
+#, no-c-format
+msgid "Terminal Emulator"
+msgstr "Terminal Emulator"
+
+#. Tag: para
+#, no-c-format
+msgid "Xfce Terminal"
+msgstr "Xfce Terminal"
+
+#. Tag: para
+#, no-c-format
+msgid "Konsole"
+msgstr "Konsole"
+
+#. Tag: para
+#, no-c-format
+msgid "urxvt"
+msgstr "urxvt"
+
+#. Tag: para
+#, no-c-format
+msgid "LXTerminal"
+msgstr "LXTerminal"
+
+#. Tag: para
+#, no-c-format
+msgid "xterm"
+msgstr "xterm"
+
+#. Tag: para
+#, no-c-format
+msgid "Package Management"
+msgstr "Gestor de Pacotes"
+
+#. Tag: para
+#, no-c-format
+msgid "Gslapt"
+msgstr "Gslapt"
+
+#. Tag: para
+#, no-c-format
+msgid "Sourcery"
+msgstr "Sourcery"
+
+#. Tag: title
+#, no-c-format
+msgid "Selected Applications found in Salix"
+msgstr "Aplicações selecionadas encontradas no Salix"
+
+#. Tag: title
+#, no-c-format
+msgid "Abiword"
+msgstr "Abiword"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Abiword"
+msgstr "Captura de ecrã do Abiword"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"AbiWord is a word processing program suitable for a wide variety of word "
+"processing tasks."
+msgstr "AbiWord é um programa de processamento de texto adequado para uma grande variedade de tarefas de processamento de texto."
+
+#. Tag: title
+#, no-c-format
+msgid "Asunder"
+msgstr "Asunder"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Asunder"
+msgstr "Captura de ecrã do Asunder"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Asunder is an Audio CD ripper and encoder for Linux. You can use Asunder to "
+"save tracks from an Audio CD as any of WAV, MP3, OGG, FLAC, WavPack, "
+"Musepack, AAC, and Monkey's Audio files."
+msgstr "Asunder é um ripador e descodificador de CD para Linux. Você pode usar o Asunder para guardar faixas de um CD de áudio bem como qualquer ficheiro audio WAV, MP3, OGG, FLAC, WavPack, Musepack, AAC, e Monkey's."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Brasero"
+msgstr "Captura de ecrã do Brasero"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Brasero is an application to burn CD/DVD. It is designed to be as simple as "
+"possible and has some unique features to enable users to create their discs "
+"easily and quickly."
+msgstr "Brasero é uma aplicação para gravar CD/DVD. Ele é projetado para ser tão simples quanto possível e tem algumas características únicas que permitem aos utilizadores criar seus discos facilmente e rapidamente."
+
+#. Tag: title
+#, no-c-format
+msgid "Catfish"
+msgstr "Catfish"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Catfish"
+msgstr "Captura de ecrã do Catfish"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Catfish is a handy file searching tool which provides a unified, lightweight"
+" and simple interface for different search engines such as find, (s)locate, "
+"doodle, tracker and beagle."
+msgstr "Catfish é uma ferramenta de pesquisa de ficheiros útil que fornece uma interface unificada, leve e simples para diferentes motores de busca, como encontrar, (s)locate, doodle, tracker e beagle."
+
+#. Tag: title
+#, no-c-format
+msgid "Claws-mail"
+msgstr "Claws-mail"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Claws Mail"
+msgstr "Captura de ecrã do Claws Mail"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Claws Mail is an open source email and news client. It offers easy "
+"configuration and an abundance of features. It stores mail in the MH mailbox"
+" format as well as the Mbox mailbox format via a plugin."
+msgstr "Claws Mail é um e-mail e cliente de notícias de código aberto . Ele oferece fácil configuração e uma abundância de recursos. Ele armazena e-mails no formato de caixa de correio MH, bem como o formato de caixa de correio Mbox através de um plugin."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Evince"
+msgstr "Captura de ecrã do Evince"
+
+#. Tag: para
+#, no-c-format
+msgid "Document Viewer is a a very lightweight, simple PDF document viewer."
+msgstr "Document Viewer é um muito leve, simples visualizador de documentos PDF."
+
+#. Tag: title
+#, no-c-format
+msgid "ePDFview"
+msgstr "ePDFview"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of ePDFView"
+msgstr "Captura de ecrã do ePDFView"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"ePDFView is a lightweight PDF document viewer that only uses the GTK+ and "
+"Poppler libraries. It opens PDF files, save copies of documents, and has "
+"support for printing using CUPS."
+msgstr "ePDFView é um visualizador de documentos PDF leve que só usa o GTK + e bibliotecas Poppler. Ele abre ficheiros PDF, salva cópias de documentos, e tem suporte para a impressão usando CUPS."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Exaile"
+msgstr "Captura de ecrã do Exaile"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Exaile is a music manager which incorporates automatic fetching of album "
+"art, lyrics fetching, Last.fm scrobbling, support for many portable media "
+"players, Internet radio such as Shoutcast, tabbed playlists, etc."
+msgstr "Exaile é um gestor de música, que incorpora a busca automática da arte do álbum, a busca de letras,  Last.fm scrobbling, suporte para muitos leitores portáteis de média, internet, rádio, tais como Shoutcast, listas de reprodução com abas , etc"
+
+#. Tag: title
+#, no-c-format
+msgid "File Roller"
+msgstr "File Roller"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of File Roller"
+msgstr "Captura de ecrã do File Roller"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"File Roller is an archive manager. Supported archive types include gzip, "
+"bzip, bzip2, compress, lzop, zip, jar, lha, rar, zoo, arj, 7-zip, etc."
+msgstr "File Roller  é um gestor de arquivos. Tipos de arquivos suportados incluem gzip, bzip, bzip2, compress, lzop, zip, jar, lha, rar, zoo, arj, 7-zip, etc."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Mozilla Firefox"
+msgstr "Captura de ecrã do Mozilla Firefox"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Mozilla Firefox is a free and open source web browser with tabbed browsing, "
+"spell checking, incremental find, private browsing and numerous plugins."
+msgstr "Mozilla Firefox é um navegador livre e de código aberto, com navegação por abas, verificação ortográfica, procura incremental, navegação privada e vários plugins."
+
+#. Tag: title
+#, no-c-format
+msgid "Galculator"
+msgstr "Galculator"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Galculator is a calculator featuring two user modes: basic and scientific "
+"mode. Basic mode is intended for simple computations while Scientific Mode "
+"is Galculator's state of the art."
+msgstr "Galculator é uma calculadora com dois modos de utilização: modo básico e científico. O modo básico é destinado para cálculos simples enquanto modo científico é o estado de arte do Galculator."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Geany"
+msgstr "Captura de ecrã do Geany"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Geany is a small and lightweight Integrated Development Environment which "
+"only has a few dependencies and is independent of any particular Desktop "
+"Environment."
+msgstr "Geany é um Ambiente de Desenvolvimento Integrado pequeno e leve que tem apenas algumas dependências e é independente de qualquer ambiente de trabalho particular."
+
+#. Tag: title
+#, no-c-format
+msgid "gFTP"
+msgstr "gFTP"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of gFTP"
+msgstr "Captura de ecrã do gFTP"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"gFTP is an FTP client with both a text and a GUI interface. gFTP aims to be "
+"simple to use yet powerful."
+msgstr "gFTP é um cliente FTP com um texto e uma interface gráfica. gFTP pretende ser simples de usar, mas poderoso."
+
+#. Tag: title
+#, no-c-format
+msgid "Gigolo"
+msgstr "Gigolo"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Gigolo"
+msgstr "Captura de ecrã do Gigolo"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Gigolo is a frontend to easily manage connections to remote filesystems "
+"using GIO/GVfs. It allows you to quickly connect/mount a remote filesystem "
+"and browse local networks shares."
+msgstr "Gigolo é uma interface para gerir facilmente as conexões com sistemas de ficheiros remotos usando GIO/GVfs. Ele permite que você rapidamente se conecte/monte um sistema de ficheiros remoto e navegue redes locais partilhadas."
+
+#. Tag: title
+#, no-c-format
+msgid "Gimp"
+msgstr "Gimp"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"GIMP (GNU Image Manipulation Program) is an image retouching and editing "
+"tool. In addition to offering free form drawing, it can accomplish essential"
+" image workflow steps such as resizing, editing, and cropping photos, "
+"combining multiple images, converting between different image formats as "
+"well as create basic animated images in GIF."
+msgstr "GIMP (GNU Programa de Manipulação de Imagem) é uma ferramenta de edição e retoque de imagem. Além de oferecer desenho de forma livre, pode realizar passos de imagem essenciais de fluxo de trabalho, tais como redimensionamento, edição e corte de fotos, que combina várias imagens, converter entre diferentes formatos de imagem, bem como criar imagens básicas de animação em GIF."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Gnumeric"
+msgstr "Captura de ecrã do Gnumeric"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The goal of Gnumeric is to be the best possible spreadsheet. While not "
+"attempting to clone existing applications, Gnumeric can however read files "
+"saved with other spreadsheets and offers a customizable feel that attempts "
+"to minimize the costs of transition."
+msgstr "O objetivo do Gnumeric é para ser a melhor folha de cálculo possível. Apesar de não tentar clonar aplicações existentes, Gnumeric pode, contudo, ler os ficheiros salvos com outras folhas de cáculos e oferece uma sensação personalizável que tenta minimizar os custos de transição."
+
+#. Tag: title
+#, no-c-format
+msgid "Gtkman"
+msgstr "Gtkman"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of GTKMan"
+msgstr "Captura de ecrã do GTKMan"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"GTKMan is a simple manual page viewer. Manual pages are viewed by specifying"
+" their name and optionally the section they are in, just as with the "
+"original man command. The manual pages are displayed in simple text form "
+"using the default system monospace font."
+msgstr "GTKMan é um visualizador manual de página simples. Páginas de manual são vistas, especificando o seu nome e opcionalmente, a secção em que estão, assim como com o comando original man. As páginas de manual são apresentadas em forma de texto simples, utilizando a fonte monoespaçada do sistema padrão."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Ibus is a new generation of input method editors after SCIM. It supports for"
+" more than thirty languages (Chinese, Japanese, Korean and other languages) "
+"on both qt and non-qt environments. (You may have to go to qtconfig and "
+"select \"ibus\" instead of \"xim\" in \"Interface\" -&gt; \"Default Input "
+"Method\")."
+msgstr "Ibus é uma nova geração de editores de método de entrada após SCIM. Ele suporta mais de trinta idiomas (chinês, japonês, coreano e outros idiomas), tanto em ambientes  qt e não-qt. (Você pode ter que ir para qtconfig e selecionar \"ibus\" em vez de \"xim\" em \"Interface\" -&gt; \"Método de Entrada Padrão\")."
+
+#. Tag: title
+#, no-c-format
+msgid "ISO Master"
+msgstr "ISO Master"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of ISO Master"
+msgstr "Captura de ecrã do ISO Master"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"ISO Master is an application for creating and modifying ISO9660 files (ISO "
+"images). Its functionalities include: creating an ISO image from scratch, "
+"adding or removing files and directories to/from a CD image, and creating "
+"bootable CDs using various boot record types."
+msgstr "ISO Master é uma aplicação para criar e modificar ficheiros ISO9660 (imagens ISO). Suas funcionalidades incluem: a criação de uma imagem ISO a partir do zero, adicionando ou removendo ficheiros e diretórios para/de uma imagem de CD, e criar CDs de boot, usando vários tipos de registros de inicialização."
+
+#. Tag: para
+#, no-c-format
+msgid "Leafpad is a very light simple text editor with printing support."
+msgstr "Leafpad é um editor de texto muito simples e leve, com suporte de impressão."
+
+#. Tag: title
+#, no-c-format
+msgid "Meld"
+msgstr "Meld"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Meld is a visual diff and merge tool. You can compare two or three files and"
+" edit them in place (diffs update dynamically). You can compare two or three"
+" folders and launch file comparisons. You can browse and view a working copy"
+" from popular version control systems such such as CVS, Subversion, Bazaar-"
+"ng and Mercurial."
+msgstr "Meld é uma ferramenta de comparação visual e de mesclagem. Você pode comparar dois ou três ficheiros e editá-los no lugar (diffs atualiza dinamicamente). Você pode comparar duas ou três pastas e lançar comparações de ficheiros. Você pode navegar e ver uma cópia de trabalho a partir de sistemas de controle de versão popular, tais como CVS, Subversion, Bazaar-ng e Mercurial."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Midori"
+msgstr "Captura de ecrã do Midori"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Midori (Japanese for green) is a web browser that aims to be lightweight and"
+" fast. It uses the WebKit rendering engine."
+msgstr "Midori (verde em Japonês) é um navegador web que pretende ser leve e rápido. Ele usa o motor de renderização WebKit."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Mousepad"
+msgstr "Captura de ecrã do Mousepad"
+
+#. Tag: para
+#, no-c-format
+msgid "Mousepad is a simple text editor with printing support."
+msgstr "Mousepad é um editor de texto simples, com suporte de impressão."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of mPaint"
+msgstr "Captura de ecrã do mPaint"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"mtPaint is a painting program designed to easily create pixel art and "
+"manipulate digital photos. Due to its efficient design it can run on older "
+"PC hardware (e.g. a 200MHz CPU and 16MB of free RAM)."
+msgstr "mtPaint é um programa de pintura projetado para criar arte pixel e manipular fotos digitais. Devido ao seu design eficiente e capaz de rodar num hardware de um PC mais antigo (e.g um CPU de 200MHz e 16MB de RAM livre)."
+
+#. Tag: title
+#, no-c-format
+msgid "LibreOffice"
+msgstr "LibreOffice"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of LibreOffice"
+msgstr "Captura de ecrã do LibreOffice"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"LibreOffice is the leading open-source office software suite for word "
+"processing, spreadsheets, presentations, graphics, databases and more. It is"
+" available in many languages and works on all common computers. It stores "
+"all your data in an international open standard format and can also read and"
+" write files from other common office software packages."
+msgstr "LibreOffice é a principal open-source software suite de escritório para processamento de texto, planilhas, apresentações, gráficos, bancos de dados e muito mais. Ele está disponível em vários idiomas e funciona em todos os computadores comuns. Ele armazena todos os seus dados num formato padrão internacional aberto e também pode ler e escrever ficheiros de outros pacotes de software comum de escritório."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Orage"
+msgstr "Captura de ecrã do Orage"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Orage provides a calendar which integrates nicely into the Xfce Desktop "
+"Environment. It is highly configurable and supports alerts based on dates. "
+"It warns you with pop up or audible alarms. As it is an application for "
+"everyday use, it launches itself in the background and can be accessed using"
+" the Orage Clock plugin for the panel. Simply click on a date to display or "
+"set the agenda for the day."
+msgstr "Orage fornece um calendário que se integra bem no ambiente de trabalho Xfce. Ele é altamente configurável e suporta alertas baseados em datas. Ele avisa-o com notificações ou alarmes sonoros. Como se trata de uma aplicação para o uso diário, lança-se no fundo do ambiente de trabalho e pode ser acessado usando o plugin do Relógio Orage para o painel. Basta clicar sobre uma data para exibir ou definir a agenda para o dia."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Parole Media Player"
+msgstr "Captura de ecrã do Parole Media Player"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Parole Media Player is a media player (audio and video) which utilises the "
+"GStreamer framework for playback."
+msgstr "Parole Media Player é um leitor de mídia (áudio e vídeo) que utiliza a estrutura GStreamer para a reprodução."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Pidgin"
+msgstr "Captura de ecrã do Pidgin"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Pidgin is an easy to use and free chat client which lets you log in to "
+"accounts on multiple chat networks simultaneously. Pidgin is compatible with"
+" numerous chat networks out of the box: AIM, ICQ, Google Talk, Jabber/XMPP, "
+"MSN Messenger, Yahoo, etc."
+msgstr "O Pidgin é um cliente de conversa, fácil de usar e gratuito que permite efetuar login em contas de redes de conversa simultaneamente. Pidgin é compatível com numerosas redes de conversa prontos a usar : AIM, ICQ, Google Talk, Jabber/XMPP, MSN Messenger, Yahoo, etc."
+
+#. Tag: title
+#, no-c-format
+msgid "PiTiVi Video Editor"
+msgstr "PiTiVi Video Editor"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of PiTiVi"
+msgstr "Captura de ecrã do PiTiVi"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"PiTiVi is an easy to use video editor. The interface is intuitive to most "
+"users. Just by dragging your video clips, you can create your own film "
+"clips."
+msgstr "PiTiVi é um editor de vídeo fácil de usar. A interface é intuitiva para a maioria dos utilizadores. Apenas arrastando os seus clips de vídeo, você pode criar seus próprios clipes de filmes."
+
+#. Tag: title
+#, no-c-format
+msgid "Simple Scan"
+msgstr "Simple Scan"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Simple Scan"
+msgstr "Captura de ecrã do Simple Scan"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Simple Scan allows you to scan your documents/photos with your scanner or "
+"even with your webcam!"
+msgstr "Digitalização Simples permite digitalizar os seus documentos/fotos com o seu scanner ou mesmo com sua webcam!"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Transmission"
+msgstr "Captura de ecrã do Transmission"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Transmission is a <ulink "
+"url=\"http://fr.wikipedia.org/wiki/BitTorrent_(protocole)\">BitTorrent</ulink>"
+" client that is simple, lean and powerful."
+msgstr "Transmission é um <ulink url=\"http://fr.wikipedia.org/wiki/BitTorrent_(protocole)\">BitTorrent</ulink> cliente que é simples, enxuto e poderoso."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Viewnior"
+msgstr "Captura de ecrã do Viewnior"
+
+#. Tag: para
+#, no-c-format
+msgid "Viewnior is a fast and lightweight picture viewer."
+msgstr "Viewnior é um visualizador de imagens rápido e leve."
+
+#. Tag: title
+#, no-c-format
+msgid "Whaaw! MediaPlayer"
+msgstr "Whaaw! MediaPlayer"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Whaaw! Media Player"
+msgstr "Captura de ecrã do Whaaw! Media Player"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Whaaw! Media Player will play any audio/video files which GStreamer can "
+"manage. It supports fullscreen mode, seeking, changing video colour settings"
+" and more. It is intended to be a basic media player with few dependencies."
+msgstr "Whaaw! Media Player reproduz todos os ficheiros de áudio/vídeo que o GStreamer pode gerir. Ele suporta o modo de tela cheia, busca, alterar as configurações de vídeo a cores e muito mais. Ele se destina a ser um leitor de média básico com poucas dependências."
+
+#. Tag: title
+#, no-c-format
+msgid "Zim"
+msgstr "Zim"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Zim is a bit of everything. In essence, it is a desktop wiki, and it allows "
+"you a great deal of flexibility regarding what you can do with it. For "
+"instance, one can use it to keep track of TODO lists of ideas, to take notes"
+" in a meeting, as a drafting tool for blog entries, mails and so on."
+msgstr "Zim é um pouco de tudo. Em essência, é um wiki desktop, e permite-lhe uma grande flexibilidade sobre o que você pode fazer com ele. Por exemplo, pode-se usá-lo para manter o controle da lista de idéias de TODO, tomar notas  numa reunião, como uma ferramenta de elaboração de entradas de blog, e-mails e assim por diante."

@@ -2,23 +2,24 @@
 # 
 # Translators:
 #   <gambit73@gmail.com>, 2012.
+# Gambit  <gambit73@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2012-04-06 12:02+0000\n"
-"Last-Translator: gambit73 <gambit73@gmail.com>\n"
-"Language-Team: Dutch (http://www.transifex.net/projects/p/salix/language/nl/)\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-05-20 19:27+0000\n"
+"Last-Translator: Gambit <gambit73@gmail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/salix_documentation/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: nl\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Tag: title
 #, no-c-format
 msgid "Your Salix"
-msgstr "Uw Salix"
+msgstr "Zoals de naam aangeeft, Herbouw de Iconen Cache herstelt sommige iconen welke kunnen zijn zoekgeraakt na het updaten van uw systeem of het installeren van een nieuw pakket en laat deze weer verschijnen in het applicatiemenu."
 
 #. Tag: title
 #, no-c-format
@@ -271,12 +272,12 @@ msgid ""
 "-X” to create a Salix compatible package. For more on SLKBULD, please "
 "consult <ulink "
 "url=\"http://www.salixos.org/wiki/index.php/Building_packages_with_slkbuild\">SLKBUILD</ulink>."
-msgstr "Alhoewel het voor u mogelijk is de software te installeren na het laatste commando, "
+msgstr "Alhoewel het voor u mogelijk is de software te installeren na het laatste commando, kan de installatie nagenoeg niet gevolgd worden en Gslapt noch slapt-get kan zien of de software is geinstalleerd. Een betere manier is om een Salix pakket met SLKBUILD te maken, wat een 'build script' is wat u kan voorbereiden voor het commando \"slkbuild -X\" om een Salix compatibel pakket te maken. Voor meer informatie over SLKBUILD, raadpleeg  <ulink url=\"http://www.salixos.org/wiki/index.php/Building_packages_with_slkbuild\">SLKBUILD</ulink>."
 
 #. Tag: title
 #, no-c-format
 msgid "Salix Packages, that are different from Slackware"
-msgstr ""
+msgstr "Salix Pakketten, welke anders zijn dan van Slackware"
 
 #. Tag: para
 #, no-c-format
@@ -289,19 +290,19 @@ msgid ""
 " why are found in <ulink "
 "url=\"http://www.salixos.org/wiki/index.php/Packages,_that_are_different_from_Slackware\">this"
 " wiki entry</ulink>."
-msgstr ""
+msgstr "Alhoewel het meerendeel van de gevonden pakketten in de Salix 'repositories' een aanvulling zijn op de Slackware 'repositories', zult u constateren dat sommige pakketten in beide 'repositories' aanwezig zijn. Deze pakketten zijn opnieuw gebouwd voor Salix OS voor een aantal goede redenen. Een lijst van de pakketten evenals een korte uitleg waarom zijn te vinden in <ulink url=\"http://www.salixos.org/wiki/index.php/Packages,_that_are_different_from_Slackware\">dit wiki stukje</ulink>."
 
 #. Tag: title
 #, no-c-format
 msgid "Upgrading Salix OS to a Newer Version"
-msgstr ""
+msgstr "Salix OS upgraden naar een nieuwe versie"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "If you wish to upgrade an older version of Salix OS on your machine to the "
 "latest, please refer to the following link for upgrading your Salix OS."
-msgstr ""
+msgstr "Indien u van een oudere versie van Salix OS wilt upgraden naar de nieuwste, volg dan deze link om uw Salix OS te upgraden."
 
 #. Tag: para
 #, no-c-format
@@ -309,7 +310,7 @@ msgid ""
 "<ulink "
 "url=\"http://www.salixos.org/wiki/index.php/How_to_upgrade_Salix_13.0_to_13.1\">Salix"
 " 13.0 to 13.1</ulink>"
-msgstr ""
+msgstr "<ulink url=\"http://www.salixos.org/wiki/index.php/How_to_upgrade_Salix_13.0_to_13.1\">Salix 13.0 naar 13.1</ulink>"
 
 #. Tag: para
 #, no-c-format
@@ -317,17 +318,17 @@ msgid ""
 "<ulink "
 "url=\"http://www.salixos.org/wiki/index.php/How_to_upgrade_Salix_13.1_to_13.37\">Salix"
 " 13.1 to 13.37</ulink>"
-msgstr ""
+msgstr "<ulink url=\"http://www.salixos.org/wiki/index.php/How_to_upgrade_Salix_13.1_to_13.37\">Salix 13.1 naar 13.37</ulink>"
 
 #. Tag: title
 #, no-c-format
 msgid "Configuring Your Salix"
-msgstr ""
+msgstr "Uw Salix instellen"
 
 #. Tag: title
 #, no-c-format
 msgid "Setting up the Internet"
-msgstr ""
+msgstr "Internet instellen"
 
 #. Tag: para
 #, no-c-format
@@ -335,19 +336,19 @@ msgid ""
 "Network connections are managed by Wicd in Salix. It is an open source wired"
 " and wireless network manager for Linux which aims to provide a simple "
 "interface to connect to networks with a wide variety of settings."
-msgstr ""
+msgstr "Netwerkverbindingen worden bij Salix in Wicd beheerd. Het is een open source bedraadde en draadloze netwerkbeheer tool voor Linux welke als doel heeft een eenvoudige interface te leveren om op netwerken aan te sluiten met een grote variëteit aan instellingen."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Wicd"
-msgstr ""
+msgstr "Screenshot van Wicd"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "It will connect to wired (Ethernet only, no PPPoE/DSL support yet) and "
 "wireless networks."
-msgstr ""
+msgstr "Het zal verbinden met bedraadde (alleen Ethernet, nog geen PPPoE/DSL ondersteuning) en draadloze netwerken."
 
 #. Tag: para
 #, no-c-format
@@ -355,12 +356,12 @@ msgid ""
 "Note that wicd and wireless must be activated in the startup services (see "
 "<xref linkend=\"sect-Startup_Guide-Salix_Tools-Startup_Services\" />) in "
 "order to make wireless networks visible on Wicd."
-msgstr ""
+msgstr "Let er op dat Wicd en het draadloze device geactiveerd moeten zijn in de 'startup services' ( zie <xref linkend=\"sect-Startup_Guide-Salix_Tools-Startup_Services\" />) om de draadloze netwerken zichtbaar te maken in Wicd"
 
 #. Tag: title
 #, no-c-format
 msgid "Setting up a Printer"
-msgstr ""
+msgstr "Een printer instellen"
 
 #. Tag: para
 #, no-c-format
@@ -373,7 +374,7 @@ msgid ""
 "printers. (Ensure that “CUPS” is enabled in the startup services (see <xref "
 "linkend=\"sect-Startup_Guide-Salix_Tools-Startup_Services\" />), or Manage "
 "Printing will not start properly)."
-msgstr ""
+msgstr "Na het schrijven van een document, het overzetten van foto's van uw camera, of het maken van uw eigen collages met GIMP, wilt u deze waarschijnlijk printen. U heeft daarom een printerdriver nodig op uw systeem. \"Printerbeheer\", welke te vinden is onder \"Systeem\" in het hoofd applicatiemenu, behandelt de installatie en generiek beheer van uw printers. (let er op dat \"CUPS\" in de 'startup services' is geactiveerd (zie <xref linkend=\"sect-Startup_Guide-Salix_Tools-Startup_Services\" />), anders zal het printerbeheer niet correct starten)."
 
 #. Tag: para
 #, no-c-format
@@ -386,29 +387,29 @@ msgid ""
 "involves a lengthy installation process. For most Linux friendly printers, "
 "you have to install drivers such as gutenprint and HPIJS, both of which are "
 "available from the repositories."
-msgstr ""
+msgstr "Indien u een nieuwe printer gaat kopen, is het aan te raden om de beschikbaarheid van linux drivers in de <ulink url=\"http://www.linuxfoundation.org/collaborate/workgroups/openprinting/database/databaseintro\">Open Printer database</ulink> te controleren (of zoek op het internet). Sommige bedrijven leveren printer drivers voor Linux, maar dit is minder gewoonlijk dan gewenst, en levert vaak een langdurig installatieproces op. Voor de meeste Linux-vriendelijke printers, moet u drivers als gutenprint en HPIJS installeren, welke beide uit de 'repositories' beschikbaar zijn."
 
 #. Tag: para
 #, no-c-format
 msgid "Select “Add Printers and Classes”"
-msgstr ""
+msgstr "Selecteer \"Voeg Printers en Klassen toe\""
 
 #. Tag: para
 #, no-c-format
 msgid "Under “Printers”, select “Add Printer”"
-msgstr ""
+msgstr "Onder \"Printers\", selecteer \"Voeg Printer toe\""
 
 #. Tag: para
 #, no-c-format
 msgid "Enter “root” as a username and your superuser password"
-msgstr ""
+msgstr "Vul \"root\" in als gebruikersnaam en uw 'superuser' wachtwoord"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Select your printer description and choose if you would like to share the "
 "printer"
-msgstr ""
+msgstr "Selecteer uw printer omschrijving en kies of u de printer wilt delen."
 
 #. Tag: para
 #, no-c-format
@@ -417,36 +418,36 @@ msgid ""
 " is the important part. Or if you have a <ulink "
 "url=\"http://en.wikipedia.org/wiki/PostScript_Printer_Description\">PPD</ulink>"
 " file instead, you can load it here."
-msgstr ""
+msgstr "Selecteer de correcte driver van de lijst (Model) - zie onderstaand een voorbeeld. Dit is een belangijk onderdeel. Of als u een <ulink url=\"http://en.wikipedia.org/wiki/PostScript_Printer_Description\">PPD</ulink> bestand heeft, kunt u dat hier inladen."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Printer Configuration"
-msgstr ""
+msgstr "Screenshot van de Printer instellingen"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Select Add Printer, and finish the process by configuring details of the "
 "printer."
-msgstr ""
+msgstr "Select \"Voeg printer toe\", en beeindig het proces door de details van de printer in te stellen."
 
 #. Tag: para
 #, no-c-format
 msgid "Now the printer should be usable on your computer"
-msgstr ""
+msgstr "Nu moet de printer klaar zijn voor gebruik op uw computer"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "For setting up a network printer, please consult the Salix <ulink "
 "url=\"http://www.salixos.org/wiki/index.php/How_to_share_a_printer_via_CUPS\">wiki</ulink>."
-msgstr ""
+msgstr "Om een netwerk printer in te stellen, raadpleeg alstublieft de Salix <ulink url=\"http://www.salixos.org/wiki/index.php/How_to_share_a_printer_via_CUPS\">wiki</ulink>."
 
 #. Tag: title
 #, no-c-format
 msgid "Salix Codecs Installer"
-msgstr ""
+msgstr "Salix Codecs Installer"
 
 #. Tag: para
 #, no-c-format
@@ -458,7 +459,7 @@ msgid ""
 "permitted in most countries but not all. Please check and obtain legal "
 "advice if you are unsure whether a particular legal restriction applies to a"
 " media format and/or packages you wish to use in your country."
-msgstr ""
+msgstr "Salix bevat standaard alleen software welke juridisch vrij in gebruik is in ieder land en dit betekent dat propriëtaire mediaformaten niet standaard zijn geconfigureerd. De meeste commerciële DVDs zijn gecodeerd, dit betekent dat u een bepaalde codec moet installeren om deze te bekijken. Dit is juridisch toegestaan in de meeste landen. Indien niet zeker, controleer dit alstublieft en vraag juridisch advies of een specifieke juridische beperking op het gebruik van een media formaat en/of pakket geldt in uw land."
 
 #. Tag: para
 #, no-c-format
@@ -466,29 +467,29 @@ msgid ""
 "Salix codecs installer can be found under “Multimedia” in the main "
 "application menu, and conveniently install those codecs to enhance your "
 "viewing experiences."
-msgstr ""
+msgstr "Salix codecs installer kan worden gevonden onder \"Multimedia\" in het hoofd applicatiemenu en installeert eenvoudig de codecs om uw kijkervaring te verbeteren."
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "For more information on what is actually installed, please see <ulink "
 "url=\"http://www.salixos.org/wiki/index.php/What_gets_installed_with_the_%22Install_multimedia_codecs%22_application?\">here</ulink>."
-msgstr ""
+msgstr "Voor meer informatie van wat er werkelijk is geinstalleerd, zie <ulink url=\"http://www.salixos.org/wiki/index.php/What_gets_installed_with_the_%22Install_multimedia_codecs%22_application?\">hier</ulink>."
 
 #. Tag: title
 #, no-c-format
 msgid "Salix Tools"
-msgstr ""
+msgstr "Salix Tools"
 
 #. Tag: title
 #, no-c-format
 msgid "What are the Salix Tools?"
-msgstr ""
+msgstr "Wat zijn de Salix Tools?"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of System Menu"
-msgstr ""
+msgstr "Screenshot van het Systeem Menu"
 
 #. Tag: para
 #, no-c-format
@@ -499,7 +500,7 @@ msgid ""
 "Salix OS can also be done the usual (<ulink "
 "url=\"http://www.slackbook.org/html/book.html\">manual</ulink>) Slackware "
 "way."
-msgstr ""
+msgstr "Salix tools is een collectie van gebrruikssoftware welke gemaakt is om ieder aspect van de Salix configuratie eenvoudig te beheren. U kan deze tools vinden onder de Systeem sectie van het applicatiemenu. Natuurlijk kan systeembeheer in Salix OS via de gebruikelijke (<ulink url=\"http://www.slackbook.org/html/book.html\">manual</ulink>) Slackware manier worden gedaan."
 
 #. Tag: para
 #, no-c-format
@@ -508,12 +509,12 @@ msgid ""
 "counterpart which can be used in a non-graphical environment (<ulink "
 "url=\"http://www.bilbos-stekkie.com/slack_init/en/init.html#SLACK-"
 "RUNLEVELS\">runlevel 3</ulink>)."
-msgstr ""
+msgstr "De meeste Salix tools (behalve Lilo Setup) hebben een ncurses tegenhanger welke in een niet-grafische omgeving kunnen worden gebruikt (<ulink url=\"http://www.bilbos-stekkie.com/slack_init/en/init.html#SLACK-RUNLEVELS\">runlevel 3</ulink>)."
 
 #. Tag: title
 #, no-c-format
 msgid "ALSA Sound Card"
-msgstr ""
+msgstr "ALSA Sound Card"
 
 #. Tag: para
 #, no-c-format
@@ -524,17 +525,17 @@ msgid ""
 "sound cards in your system, and you would like to assign a sound card for "
 "your system other than the one automatically picked during installation"
 "/start-up."
-msgstr ""
+msgstr "ALSA Sound Card beheert de geluidskaart configuratie. Het zal de beschikbare geluidskaarten in uw systeem tonen en laat u de kaart selecteren welke de voorkeur heeft. Dit is vooral handig indien u meerdere geluidskaarten in uw systeem heeft en u wilt een andere geluidskaart gebruiken dan automatisch is gekozen tijdens het installeren/opstarten."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Alsa configuration utility"
-msgstr ""
+msgstr "Screenshot van de Alsa configuratie tool"
 
 #. Tag: title
 #, no-c-format
 msgid "Rebuild Icon Cache"
-msgstr ""
+msgstr "Rebuild Icon Cache"
 
 #. Tag: para
 #, no-c-format
@@ -542,12 +543,12 @@ msgid ""
 "As the name indicates, Rebuild Icon Cache reconnects some icons that may "
 "have become lost after updating your system / installing some new program, "
 "and makes them appear again in the application menu."
-msgstr ""
+msgstr "Zoals de naam aangeeft, Rebuild Icon Cache herstelt iconen welke verloren  geraakt zouden kunnen zijn na het updaten van uw systeem of het installeren van een nieuw pakket en laat ze weer verschijnen in het applicatiemenu"
 
 #. Tag: title
 #, no-c-format
 msgid "Hostnames"
-msgstr ""
+msgstr "Hostnames"
 
 #. Tag: para
 #, no-c-format
@@ -555,17 +556,17 @@ msgid ""
 "Hostnames manages the host names used by your computer. This tool "
 "facilitates defining / overviewing host names used while setting up your "
 "machine as a server."
-msgstr ""
+msgstr "Hostnames beheert de hostnamen welke door uw computer worden gebruikt. Deze tool voorziet in het definiëren en overzien van gebruikte hostnamen tijdens het instellen van uw computer als server."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Hostname utility"
-msgstr ""
+msgstr "Screenshot van de Hostnames tool"
 
 #. Tag: title
 #, no-c-format
 msgid "Dotnew"
-msgstr ""
+msgstr "Dotnew"
 
 #. Tag: para
 #, no-c-format
@@ -573,27 +574,27 @@ msgid ""
 "Dotnew manages the system configuration upgrades used by Slackware. It will "
 "display a possible course of action for each new configuration file found in"
 " the system."
-msgstr ""
+msgstr "Dotnew beheert de systeemconfiguratie upgrades welke door Slackware worden gebruikt. Het zal mogelijk te nemen stappen tonen voor ieder nieuw gevonden configuratiebestand in het systeem."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Dotnew setting utility"
-msgstr ""
+msgstr "Screenshot van de Dotnew instellingstool"
 
 #. Tag: para
 #, no-c-format
 msgid "To execute this utility in runlevel 3, simply type dotnew."
-msgstr ""
+msgstr "Om deze tool uit te voeren op 'runlevel' 3, voer envoudigweg 'dotnew' uit in de commandprompt."
 
 #. Tag: title
 #, no-c-format
 msgid "Keyboard Layout"
-msgstr ""
+msgstr "Toetsenbordindeling"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Keyboard Setup utility"
-msgstr ""
+msgstr "Screenshot van de Keyboard Setup tool"
 
 #. Tag: para
 #, no-c-format
@@ -601,7 +602,7 @@ msgid ""
 "This utility will configure the keyboard disposition being used both in the "
 "graphical and non-graphical environments. Modifications are applied "
 "instantly."
-msgstr ""
+msgstr "Deze tool stelt de indeling van het toetsenbord in welke in de grafische en niet-grafische omgeving wordt gebruikt. Instellingen worden meteen toegepast."
 
 #. Tag: para
 #, no-c-format
@@ -609,27 +610,27 @@ msgid ""
 "Note that if you would like to activate Ibus (see <xref linkend=\"sect-"
 "Startup_Guide-Selected_Applications_found_in_Salix-Ibus\" />) during the "
 "start up, you can do so by ticking the optional box."
-msgstr ""
+msgstr "Onthoudt, indien u lbus (zie <xref linkend=\"sect-Startup_Guide-Selected_Applications_found_in_Salix-Ibus\" />) wilt activeren tijdens het opstarten, kunt u dit aanvinken in het optie vak."
 
 #. Tag: para
 #, no-c-format
 msgid "To execute this utility in runlevel 3, simply type keyboardsetup."
-msgstr ""
+msgstr "Om deze tool uit te voeren op 'runlevel' 3, voer envoudigweg 'keyboardsetup' uit in de commandprompt."
 
 #. Tag: title
 #, no-c-format
 msgid "Lilo Setup"
-msgstr ""
+msgstr "Lilo Setup"
 
 #. Tag: para
 #, no-c-format
 msgid "Lilo Setup will install a new LILO bootloader on your computer."
-msgstr ""
+msgstr "Lilo Setup installeert een nieuwe LILO bootloader op uw computer."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of LiloSetup utility"
-msgstr ""
+msgstr "Screenshot van de LiloSetup tool"
 
 #. Tag: para
 #, no-c-format
@@ -637,14 +638,14 @@ msgid ""
 "A bootloader is required to load the main operating system of a computer and"
 " will initially display a boot menu if several operating systems are "
 "available on the same computer."
-msgstr ""
+msgstr "Een 'bootloader' is nodig om het hoofdbesturingssysteem van een computer te starten en zal initieel een 'bootmenu' tonen indien meerdere besturingssystemen beschikbaar zijn op dezelfde computer."
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "It is necessary to (re)configure the bootloader each time you install a new "
 "operating system on your computer."
-msgstr ""
+msgstr "Het is noodzakelijk om de bootloader te (her)configureren bij iedere installatie van een nieuw besturingsysteem op uw computer."
 
 #. Tag: para
 #, no-c-format
@@ -652,76 +653,76 @@ msgid ""
 "Lilo Setup can also be useful in the process of a disaster recovery, in "
 "which case you may have to launch it from a Live CD if you have lost all "
 "other means to boot into your system."
-msgstr ""
+msgstr "Lilo Setup kan ook handig zijn in een geval van een crash, waarbij men van een Live CD moet starten indien met geen mogelijkheid meer in het systeem kan worden ge'boot'. "
 
 #. Tag: title
 #, no-c-format
 msgid "Startup Services"
-msgstr ""
+msgstr "Startup Services"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Here you will be able to select the services that should or shouldn't be "
 "activated in the background when your system starts."
-msgstr ""
+msgstr "Hier is het mogelijk om de services welke in de achtergrond tijdens het opstarten van uw systeem te (de-)activeren."
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "All your modifications will be applied instantly if you press on the OK "
 "button and will not necessitate a reboot."
-msgstr ""
+msgstr "Al uw aanpassingen zullen direct worden toegepast indien u op de OK knop  drukt en het is niet nodig te rebooten."
 
 #. Tag: para
 #, no-c-format
 msgid "To execute this utility in runlevel 3, simply type servicesetup."
-msgstr ""
+msgstr "Om deze tool uit te voeren op 'runlevel' 3, voer envoudigweg 'servicesetup' uit in de commandprompt."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Services Setting utility"
-msgstr ""
+msgstr "Screenshot van de Services Setting tool"
 
 #. Tag: title
 #, no-c-format
 msgid "System Language"
-msgstr ""
+msgstr "System Language"
 
 #. Tag: para
 #, no-c-format
 msgid "This utility will configure the language of your system."
-msgstr ""
+msgstr "Deze tool kan de taal van uw systeem configureren."
 
 #. Tag: para
 #, no-c-format
 msgid "To execute it in runlevel 3, simply type localesetup."
-msgstr ""
+msgstr "Om deze tool uit te voeren op 'runlevel' 3, voer envoudigweg 'localesetup' uit in de commandprompt."
 
 #. Tag: title
 #, no-c-format
 msgid "System Clock"
-msgstr ""
+msgstr "System Clock"
 
 #. Tag: para
 #, no-c-format
 msgid "This utility will configure your computer clock."
-msgstr ""
+msgstr "Deze tool kan de klok van uw computer configureren."
 
 #. Tag: para
 #, no-c-format
 msgid "To execute it in runlevel 3, simply type clocksetup."
-msgstr ""
+msgstr "Om deze tool uit te voeren op 'runlevel' 3, voer envoudigweg 'clocksetup' uit in de commandprompt."
 
 #. Tag: title
 #, no-c-format
 msgid "Users Profile"
-msgstr ""
+msgstr "Gebruikersprofiel"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of User Management utility"
-msgstr ""
+msgstr "Screenshot van de gebruikersbeheer tool"
 
 #. Tag: para
 #, no-c-format
@@ -730,29 +731,29 @@ msgid ""
 "url=\"http://en.wikibooks.org/wiki/UNIX_Computing_Security/Access_authorization\">permissions"
 " and access rights</ulink> to some part of the system in order to control "
 "their ability to access and change it."
-msgstr ""
+msgstr "In Unix/Linux, worden alle gebruikers en groepen van gebruikers enige <ulink url=\"http://en.wikibooks.org/wiki/UNIX_Computing_Security/Access_authorization\">permissies en toegangsrechten</ulink> gegeven voor een deel van het systeem om toegang te verlenen en wijzigingen uit te voeren. "
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "This utility manages the creation, deletion and properties of all the system"
 " users and groups of users."
-msgstr ""
+msgstr "Deze tool beheert het maken, verwijderen en de instellingen van alle systeemgebruikers en groepen van gebruikers."
 
 #. Tag: para
 #, no-c-format
 msgid "To execute it in runlevel 3, simply type usersetup."
-msgstr ""
+msgstr "Om deze tool uit te voeren op 'runlevel' 3, voer envoudigweg 'usersetup' uit in de commandprompt."
 
 #. Tag: title
 #, no-c-format
 msgid "Salix-Update-Notifier"
-msgstr ""
+msgstr "Salix-Update-Notifier"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Salix update notifier"
-msgstr ""
+msgstr "Screenshot van de Salix update notifier"
 
 #. Tag: para
 #, no-c-format
@@ -761,31 +762,31 @@ msgid ""
 "package updates and informs the user about them with the display of a non-"
 "intrusive tray icon, which can be used to launch the upgrade process with "
 "Gslapt."
-msgstr ""
+msgstr "Salix update notifier is een tool dat periodiek controleert of er updates van pakketten beschikbaar zijn en informeert de gebruiker hierover door middel van een niet storende systeembalk icoon, welke gebruikt kan worden om het 'upgrade' process met Gslapt te starten."
 
 #. Tag: title
 #, no-c-format
 msgid "Salix Live Tools"
-msgstr ""
+msgstr "Salix Live Tools"
 
 #. Tag: title
 #, no-c-format
 msgid "What are the Live Tools?"
-msgstr ""
+msgstr "Wat zijn de Live Tools?"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Salix Live comes with all the default software included in Salix OS (see "
 "<xref linkend=\"appe-Startup_Guide-List_of_Applications\" />)."
-msgstr ""
+msgstr "Salix Live bevat alle standaard software welke beschikbaar is in Salix OS (Zie <xref linkend=\"appe-Startup_Guide-List_of_Applications\" />)."
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "However, due to its Live nature it also includes some extra utilities which "
 "are either needed or simply very useful in a Live session."
-msgstr ""
+msgstr "Maar, doordat het een Live editie is bevat het enkele extra tools welke nodig zijn of simpelweg zeer handig in een Live sessie zijn."
 
 #. Tag: para
 #, no-c-format
@@ -794,24 +795,24 @@ msgid ""
 " on the desktop while some Live Tools, reserved for advanced users, can only"
 " be executed from the command line (<ulink "
 "url=\"http://en.wikipedia.org/wiki/Command-line_interface\">CLI</ulink>)."
-msgstr ""
+msgstr "Sommige van de Live Tools zijn grafische tools welke direct van de desktop gestart kunnen worden, terwijl andere Live Tools, bestemd voor ervaren gebruikers, alleen via de commandline kunnen worden uitgevoerd (<ulink url=\"http://en.wikipedia.org/wiki/Command-line_interface\">CLI</ulink>)."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Live Tools Icons on the desktop"
-msgstr ""
+msgstr "Screenshot van de Live Tools Icons op de desktop"
 
 #. Tag: title
 #, no-c-format
 msgid "The Persistence Wizard"
-msgstr ""
+msgstr "De Persistence Wizard"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Even if run from a CD/DVD, Salix Live gives you the possibility to save any "
 "of your work or modification performed while in a Live session."
-msgstr ""
+msgstr "Salix Live geeft u de mogelijkheid om uw werk of aanpassingen tijdens een Live sessie op te slaan, zelfs indien opgestart van een CD/DVD."
 
 #. Tag: para
 #, no-c-format
@@ -819,12 +820,12 @@ msgid ""
 "To do this however, you must first create a special \"persistence file\" on "
 "your hard drive, which will have a predecided fixed-size and will be "
 "formatted as a Linux file system."
-msgstr ""
+msgstr "Maar om dit mogelijk te maken, moet u een speciaal \"persistent bestand\" op uw harddisk aanmaken, welke een vooringestelde grootte heeft en als een Linux bestandssysteem wordt geformatteerd."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Salix Live Persistence Wizard"
-msgstr ""
+msgstr "Screenshot van de Salix Live Persistence Wizard"
 
 #. Tag: para
 #, no-c-format
@@ -832,7 +833,7 @@ msgid ""
 "Important! Once this file has been created, it is necessary to reboot the "
 "Live CD. From then on, Salix Live will begin to monitor any changes you "
 "perform and will record them in the new persistent file."
-msgstr ""
+msgstr "Belangrijk! Als dit bestand eenmaal is aangemaakt, is het nodig om de Live CD te herstarten. Vervolgens zal Salix Live starten met het monitoren van alle wijzigingen die u doet en zal deze opslaan in het nieuwe persistente bestand."
 
 #. Tag: para
 #, no-c-format
@@ -841,12 +842,12 @@ msgid ""
 "the persistent file (slxsave.xfs) from the <ulink "
 "url=\"http://www.linfo.org/mount_point.html\">mount point</ulink> it was "
 "initially created on."
-msgstr ""
+msgstr "Om terug te gaan naar de standaard instellingen en alle wijzigingen te vergeten, verwijder simpelweg het persistente bestand (slxsave.xfs) van het  <ulink url=\"http://www.linfo.org/mount_point.html\">'mount' punt</ulink> waar het oorspronkelijk was aangemaakt."
 
 #. Tag: title
 #, no-c-format
 msgid "Gparted"
-msgstr ""
+msgstr "Gparted"
 
 #. Tag: para
 #, no-c-format
@@ -855,12 +856,12 @@ msgid ""
 "if it is necessary for you to do so before performing the installation of "
 "Salix OS (see <xref linkend=\"sect-Startup_Guide-"
 "Preparing_Salix_Installation-Partition_Management\" />)."
-msgstr ""
+msgstr "Gparted is in Salix Live inbegrepen om u te helpen met het beheren van uw partities indien dit nodig is voordat u de installatie van Salix OS uitvoert (zie <xref linkend=\"sect-Startup_Guide-Preparing_Salix_Installation-Partition_Management\" />)."
 
 #. Tag: title
 #, no-c-format
 msgid "Salix Live Installer"
-msgstr ""
+msgstr "Salix Live Installer"
 
 #. Tag: para
 #, no-c-format
@@ -868,17 +869,17 @@ msgid ""
 "Salix Live Installer will enable you to install Salix OS from the comfort of"
 " Salix Live graphical environment (see <xref linkend=\"sect-Startup_Guide-"
 "Starting_Up_Salix_OS-Installing_from_a_Live_CD_USB\" />)."
-msgstr ""
+msgstr "Salix Live Installer maakt het mogelijk om Salix OS te installeren vanuit het comfort van de grafische omgeving van Salix Live  (zie <xref linkend=\"sect-Startup_Guide-Starting_Up_Salix_OS-Installing_from_a_Live_CD_USB\" />)."
 
 #. Tag: title
 #, no-c-format
 msgid "LiveClone"
-msgstr ""
+msgstr "LiveClone"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Salix LiveClone"
-msgstr ""
+msgstr "Screenshot van Salix LiveClone"
 
 #. Tag: para
 #, no-c-format
@@ -889,19 +890,19 @@ msgid ""
 "SalixLive or your running system. In the case of a Live USB Key generation, "
 "you will be offered to make your USB key with “persistence” (see <xref "
 "linkend=\"sect-Startup_Guide-Salix_Live_Tools-The_Persistence_Wizard\" />)."
-msgstr ""
+msgstr "LiveClone genereert een Live CD/DVD ISO bestand (welke u kan branden op een CD/DVD met een CD/DVD brander) of een Live USB stick. Dit houdt in dat het uw aangepaste live omgeving maakt welke gebaseerd is op of uw SalixLive of uw huidige systeem. In het geval van het maken van een Live USB stick, krijgt u de mogelijkheid om uw USB stick te maken met \"persistentie\" (zie <xref linkend=\"sect-Startup_Guide-Salix_Live_Tools-The_Persistence_Wizard\" />)."
 
 #. Tag: title
 #, no-c-format
 msgid "SaLT Scripts"
-msgstr ""
+msgstr "SaLT Scripts"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Salix Live is build with a set of homegrown scripts called SaLT (from Salix "
 "Live Templates)."
-msgstr ""
+msgstr "Salix Live is gemaakt met een set van eigengemaakte scripts genaamd SaLT (acroniem voor Salix Live Templates)."
 
 #. Tag: para
 #, no-c-format
@@ -910,4 +911,4 @@ msgid ""
 " executed, for instance to facilitate the creation of a Salix Live USB Flash"
 " Disk. They will also enable an advanced user to fully customize and re-"
 "master Salix Live to better suit his or her own needs."
-msgstr ""
+msgstr "Voor het overgrote deel hebben deze scripts geen interactie nodig, sommigen kunnen bijvoorbeeld worden gestart om het maken van een Salix Live USB Flashdisk te vereenvoudigen. Ze kunnen ook worden gebruikt door een ervaren gebruiker om Salix Live volledig aan te passen om geschikter te maken voor eigen gebruik."

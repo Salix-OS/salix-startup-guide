@@ -1,19 +1,20 @@
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
+#  <akuna@free.fr>, 2013.
 #   <seacat.linux@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2012-03-09 17:48+0000\n"
-"Last-Translator: seacat <seacat.linux@gmail.com>\n"
-"Language-Team: None\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2013-01-19 20:11+0000\n"
+"Last-Translator: Akuna <akuna@free.fr>\n"
+"Language-Team: Spanish (http://www.transifex.com/projects/p/salix_documentation/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Tag: title
 #, no-c-format
@@ -91,7 +92,7 @@ msgid ""
 " own). In Salix, this directory contains \"Desktop\", \"Music\", "
 "\"Documents\" and so on. To see its content, type \"ls\" and press enter. "
 "You will see something like this:"
-msgstr "Ud debería estare en su directorio de usuario (identificado como \"~\"), que normalmente es el mismo que \"home/“su nombrte de usuario“\" (reemplace \"su nombre de usuario\" con el suyo propio). En Salix, este directorio contiene \"Desktop\", \"Music\", \"Documents\" y así sucesivamente. Para ver su contenido escriba \"ls\" y presione Intro. Verá algo como esto:"
+msgstr "Ud debería estare en su directorio de usuario (identificado como \"~\"), que normalmente es el mismo que \"home/su nombrte de usuario\" (reemplace \"su nombre de usuario\" con el suyo propio). En Salix, este directorio contiene \"Desktop\", \"Music\", \"Documents\" y así sucesivamente. Para ver su contenido escriba \"ls\" y presione Intro. Verá algo como esto:"
 
 #. Tag: phrase
 #, no-c-format
@@ -674,7 +675,7 @@ msgid ""
 " popular provider via smtp, see the page in the <ulink "
 "url=\"http://www.salixos.org/wiki/index.php/How%20to%20set%20up%20Alpine%20with%20a%20Gmail%20account\">Salix"
 " wiki</ulink>."
-msgstr "Nota: Para ver cómo editar el archivo de configuración de Alpine para acceder al correo de un proveedor popular a través de SMTP, consulte la página en la  <ulink url=\"http://www.salixos.org/wiki/index.php/How%20to%20set%20up%20Alpine%20with%20a%20Gmail%20account\">wiki de Salix</ulink>."
+msgstr "Nota: Para ver cómo editar el archivo de configuración de Alpine para acceder al correo de un proveedor popular a través de SMTP, consulte la página en la <ulink url=\"http://www.salixos.org/wiki/index.php/How%20to%20set%20up%20Alpine%20with%20a%20Gmail%20account\">wiki de Salix</ulink>."
 
 #. Tag: para
 #, no-c-format
@@ -767,7 +768,7 @@ msgid ""
 "keybindings in the \"bind\" statements. To change the wallpaper, point to a "
 "different image. The final item sets up workspaces, which we'll look at next"
 " - including C-t W."
-msgstr "banish envía el puntero del ratón a la parte inferior derecha (por cierto, es posible que desee instalar unclutter, que hace desvanecer todo después de unos pocos segundos de quietud. Ubique la línea unclutter &amp; en su ~/.xinitrc para ejecutarlo automáticamente cuando arranque X). Hemos visto todas menos una de la combinaciones de teclas en las sentencias \"bind\". Para cambiar el fondo de pantalla, seleccione una imagen diferente. El ítem final establece las área de trabajo que veremos a continuación, incluyendo C-t W."
+msgstr "banish envía el puntero del ratón a la parte inferior derecha (por cierto, es posible que desee instalar unclutter, que hace desvanecer todo después de unos pocos segundos de quietud. Ubique la línea unclutter &amp;  en su ~/.xinitrc para ejecutarlo automáticamente cuando arranque X). Hemos visto todas menos una de la combinaciones de teclas en las sentencias \"bind\". Para cambiar el fondo de pantalla, seleccione una imagen diferente. El ítem final establece las área de trabajo que veremos a continuación, incluyendo C-t W."
 
 #. Tag: para
 #, no-c-format

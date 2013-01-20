@@ -1,0 +1,41 @@
+# AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: Salix documentation\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-08-05 21:20+0000\n"
+"Last-Translator: GenghisKhan <genghiskhan@gmx.ca>\n"
+"Language-Team: Hebrew (http://www.transifex.com/projects/p/salix_documentation/language/he/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: he\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Startup Guide"
+msgstr "מדריך הפעלה"
+
+#. Tag: subtitle
+#, no-c-format
+msgid "Getting familiar with your new operating System"
+msgstr "הכרת מערכת ההפעלה החדשה שלך"
+
+#. Tag: productname
+#, no-c-format
+msgid "SalixOS"
+msgstr "SalixOS"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The purpose of this manual is to enable you to take full advantage of the "
+"many functionalities of Salix OS. While particular attention has been given "
+"to help newcomers quickly get familiar with common computer tasks, more "
+"advanced material is also available for intermediate users who want to learn"
+" more about the inner workings of their operating system, its administration"
+" and its customisation."
+msgstr "התכלית של מדריך זה היא לאפשר לך לנצל באופן מלא את הפונקציות הרבות של Salix OS. בעוד שצומת לב ייחודית הובאה אל פנים חדשות כדי שאלו יוכלו להכיר ולהיות בקיעים עם משימות מחשב שכיחות, חומר מתקדם יותר זמין גם עבור משתמשי אמצע (בין רמה מתחילה למתקדמת) המעוניינים ללמוד עוד אודות הפעולות הפנימיות של מערכת ההפעלה שלהם, ניהולה וגם התאמתה."

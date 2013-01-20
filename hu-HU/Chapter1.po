@@ -1,17 +1,19 @@
-#
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Translators:
+# Péter Polonkai <polesz@nedudu.hu>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: 0\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-11-08T17:18:00\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: None\n"
-"Language: \n"
+"Project-Id-Version: Salix documentation\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-07-03 09:50+0000\n"
+"Last-Translator: Péter Polonkai <polesz@nedudu.hu>\n"
+"Language-Team: Hungarian (http://www.transifex.com/projects/p/salix_documentation/language/hu/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Tag: title
 #, no-c-format
@@ -25,63 +27,73 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "Salix OS is a <ulink url=\"http://en.wikipedia.org/wiki/Linux_distro\">Linux Distribution</ulink> based on <ulink url=\"http://en.wikipedia.org/wiki/Slackware\">Slackware</ulink> that retains full backwards compatibility with its illustrious parent. However, while the <ulink url=\"http://en.wikipedia.org/wiki/KISS_principle\">KISS</ulink> principle that Slackware adheres to refers to the viewpoint of system design, Salix OS also applies it to the viewpoint of the end user."
+msgid ""
+"Salix OS is a <ulink url=\"http://en.wikipedia.org/wiki/Linux_distro\">Linux"
+" Distribution</ulink> based on <ulink "
+"url=\"http://en.wikipedia.org/wiki/Slackware\">Slackware</ulink> that "
+"retains full backwards compatibility with its illustrious parent. However, "
+"while the <ulink "
+"url=\"http://en.wikipedia.org/wiki/KISS_principle\">KISS</ulink> principle "
+"that Slackware adheres to refers to the viewpoint of system design, Salix OS"
+" also applies it to the viewpoint of the end user."
 msgstr ""
 
 #. Tag: title
 #, no-c-format
 msgid "Salix Features"
-msgstr ""
+msgstr "Salix jellemzők"
 
 #. Tag: para
 #, no-c-format
 msgid "One application per task rationale"
-msgstr ""
+msgstr "Egy feladat - egy alkalmazás"
 
 #. Tag: para
 #, no-c-format
 msgid "Fully backwards compatible with Slackware"
-msgstr ""
+msgstr "Teljes visszafele kompatibilitás a Slackware-rel"
 
 #. Tag: para
 #, no-c-format
 msgid "Optimised for desktop usage"
-msgstr ""
+msgstr "Asztali felhasználásra optimalizálva"
 
 #. Tag: para
 #, no-c-format
-msgid "With Salix tools to assist system management (See <xref linkend=\"sect-Startup_Guide-Your_Salix-Salix_Tools\" />)"
+msgid ""
+"With Salix tools to assist system management (See <xref linkend=\"sect-"
+"Startup_Guide-Your_Salix-Salix_Tools\" />)"
 msgstr ""
 
 #. Tag: para
 #, no-c-format
 msgid "High quality package repositories with dependency support"
-msgstr ""
+msgstr "Magas minőségű csomagtároló csomagfüggőség támogatással"
 
 #. Tag: para
 #, no-c-format
 msgid "Simple and fully localised system administration tools"
-msgstr ""
+msgstr "Egyszerű és teljesen lefordított rendszer adminisztrációs eszközök"
 
 #. Tag: para
 #, no-c-format
 msgid "Salix artwork"
-msgstr ""
+msgstr "Salix művészet"
 
 #. Tag: para
 #, no-c-format
 msgid "Live CD / USB option"
-msgstr ""
+msgstr "Live CD /USB opciók"
 
 #. Tag: para
 #, no-c-format
 msgid "Supports 32-bit and 64-bit architectures"
-msgstr ""
+msgstr "Támogatja a 32 és 64 bites architektúrákat"
 
 #. Tag: para
 #, no-c-format
 msgid "Comes with a complete development environment"
-msgstr ""
+msgstr "Teljes fejlesztői környezettel érkezik"
 
 #. Tag: title
 #, no-c-format
@@ -90,22 +102,29 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "“Like a bonsai, Salix is small, light and the product of infinite care!”"
+msgid ""
+"“Like a bonsai, Salix is small, light and the product of infinite care!”"
 msgstr ""
 
 #. Tag: title
 #, no-c-format
 msgid "Salix Editions"
-msgstr ""
+msgstr "Salix kiadások"
 
 #. Tag: para
 #, no-c-format
-msgid "Salix OS comes in five different editions – Xfce, LXDE, KDE, Fluxbox and Ratpoison."
-msgstr ""
+msgid ""
+"Salix OS comes in five different editions – Xfce, LXDE, KDE, Fluxbox and "
+"Ratpoison."
+msgstr "Salix OS 5 különböző kiadásban érhető el - Xfce, LXDE, KDE, Fluxbox és Ratpoison."
 
 #. Tag: para
 #, no-c-format
-msgid "The choice is yours: with a streamlined Xfce desktop environment, elegant KDE 4.5.5 accompanied by a very rich collection of KDE centric software, minimalistic Fluxbox window manager, wickedly fast LXDE desktop or “say good-bye to the rodent” Ratpoison, all with the Salix look and feel!"
+msgid ""
+"The choice is yours: with a streamlined Xfce desktop environment, elegant "
+"KDE 4.5.5 accompanied by a very rich collection of KDE centric software, "
+"minimalistic Fluxbox window manager, wickedly fast LXDE desktop or “say "
+"good-bye to the rodent” Ratpoison, all with the Salix look and feel!"
 msgstr ""
 
 #. Tag: phrase
@@ -115,7 +134,9 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "For a list of applications available in each Edition, please refer to <xref linkend=\"appe-Startup_Guide-List_of_Applications\" />."
+msgid ""
+"For a list of applications available in each Edition, please refer to <xref "
+"linkend=\"appe-Startup_Guide-List_of_Applications\" />."
 msgstr ""
 
 #. Tag: title
@@ -125,73 +146,75 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "Salix offers three software installation options: Full, Basic and Core, to meet your demands!"
+msgid ""
+"Salix offers three software installation options: Full, Basic and Core, to "
+"meet your demands!"
 msgstr ""
 
 #. Tag: para
 #, no-c-format
 msgid "Installation Type"
-msgstr ""
+msgstr "Telepítés típusa"
 
 #. Tag: para
 #, no-c-format
 msgid "Target Users"
-msgstr ""
+msgstr "Cél felhasználók"
 
 #. Tag: para
 #, no-c-format
 msgid "Features"
-msgstr ""
+msgstr "Jellemzők"
 
 #. Tag: para
 #, no-c-format
 msgid "Examples of Available Applications"
-msgstr ""
+msgstr "Példák az elérhető alkalmazásokra"
 
 #. Tag: para
 #, no-c-format
 msgid "Full"
-msgstr ""
+msgstr "Teljes"
 
 #. Tag: para
 #, no-c-format
 msgid "All users"
-msgstr ""
+msgstr "Minden felhasználó"
 
 #. Tag: para
 #, no-c-format
 msgid "▫ Graphical environment"
-msgstr ""
+msgstr "▫ Grafikus környezet"
 
 #. Tag: para
 #, no-c-format
 msgid "▫ Full software installation"
-msgstr ""
+msgstr "▫ Teljes telepítés"
 
 #. Tag: para
 #, no-c-format
 msgid "▫ Libreoffice"
-msgstr ""
+msgstr "▫ Libreoffice"
 
 #. Tag: para
 #, no-c-format
 msgid "▫ Exaile"
-msgstr ""
+msgstr "▫ Exaile"
 
 #. Tag: para
 #, no-c-format
 msgid "▫ Firefox / Midori"
-msgstr ""
+msgstr "▫ Firefox / Midori"
 
 #. Tag: para
 #, no-c-format
 msgid "▫ Pidgin"
-msgstr ""
+msgstr "▫ Pidgin"
 
 #. Tag: para
 #, no-c-format
 msgid "Basic"
-msgstr ""
+msgstr "Alap"
 
 #. Tag: para
 #, no-c-format
@@ -206,17 +229,17 @@ msgstr ""
 #. Tag: para
 #, no-c-format
 msgid "▫ Gslapt"
-msgstr ""
+msgstr "▫ Gslapt"
 
 #. Tag: para
 #, no-c-format
 msgid "▫ Desktop"
-msgstr ""
+msgstr "▫ Asztali környezet"
 
 #. Tag: para
 #, no-c-format
 msgid "Core"
-msgstr ""
+msgstr "Minimális"
 
 #. Tag: para
 #, no-c-format
@@ -231,7 +254,7 @@ msgstr ""
 #. Tag: para
 #, no-c-format
 msgid "▫ No graphical environment"
-msgstr ""
+msgstr "▫ Nincs grafikus környezet"
 
 #. Tag: para
 #, no-c-format
@@ -250,20 +273,29 @@ msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "slapt-get and its graphical interface Gslapt are used for package management, including slapt-src and Sourcery for even wider selection of software to choose from!"
+msgid ""
+"slapt-get and its graphical interface Gslapt are used for package "
+"management, including slapt-src and Sourcery for even wider selection of "
+"software to choose from!"
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "A wide range of packages from Slackware, Slackbuild and Salix repositories"
+msgid ""
+"A wide range of packages from Slackware, Slackbuild and Salix repositories"
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "The Salix repositories offer dependency resolution support and are the largest third party software package repositories for Slackware offered to date"
+msgid ""
+"The Salix repositories offer dependency resolution support and are the "
+"largest third party software package repositories for Slackware offered to "
+"date"
 msgstr ""
 
 #. Tag: para
 #, no-c-format
-msgid "The Salix repositories are offered for both the 32-bit and 64-bit architectures"
+msgid ""
+"The Salix repositories are offered for both the 32-bit and 64-bit "
+"architectures"
 msgstr ""

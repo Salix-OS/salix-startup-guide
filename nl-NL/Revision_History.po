@@ -1,89 +1,93 @@
-#
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Translators:
+#   <gambit73@gmail.com>, 2011.
 msgid ""
 msgstr ""
-"Project-Id-Version: 0\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-11-08T17:18:01\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: None\n"
-"Language: \n"
+"Project-Id-Version: Salix documentation\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2011-11-23 06:51+0000\n"
+"Last-Translator: Gambit <gambit73@gmail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/salix_documentation/language/nl/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Tag: title
 #, no-c-format
 msgid "Revision History"
-msgstr ""
+msgstr "Revisiegeschiedenis"
 
 #. Tag: firstname
 #, no-c-format
 msgid "Tomoki"
-msgstr ""
+msgstr "Tomoki"
 
 #. Tag: surname
 #, no-c-format
 msgid "Tsuchiya"
-msgstr ""
+msgstr "Tsuchiya"
 
 #. Tag: member
 #, no-c-format
 msgid "Original draft."
-msgstr ""
+msgstr "Oorspronkelijk concept."
 
 #. Tag: member
 #, no-c-format
-msgid "Based partly on 13.1.2 guide with new articles to reflect changes and updates."
-msgstr ""
+msgid ""
+"Based partly on 13.1.2 guide with new articles to reflect changes and "
+"updates."
+msgstr "Deels op basis van 13.1.2 gids met nieuwe artikelen om veranderingen en updates weer te geven."
 
 #. Tag: member
 #, no-c-format
 msgid "Fixed some typos"
-msgstr ""
+msgstr "Typefouten gecorrigeerd"
 
 #. Tag: member
 #, no-c-format
 msgid "Tim (Mimosa) prepared new section on Ratpoison"
-msgstr ""
+msgstr "Tim (Mimosa) heeft nieuwe rubriek over Ratpoison gemaakt"
 
 #. Tag: member
 #, no-c-format
 msgid "Ratpoison added in Application tables"
-msgstr ""
+msgstr "Ratpoison toegevoegd in Application tabellen"
 
 #. Tag: member
 #, no-c-format
 msgid "Incorporated some suggestions and corrections from the forum"
-msgstr ""
+msgstr "Enkele suggesties en correcties van het forum toegevoegd"
 
 #. Tag: member
 #, no-c-format
 msgid "Tim added Ratpoison walktrough"
-msgstr ""
+msgstr "Tim heeft een Ratpoison walktrough toegevoegd"
 
 #. Tag: firstname
 #, no-c-format
 msgid "Pierrick"
-msgstr ""
+msgstr "Pierrick"
 
 #. Tag: surname
 #, no-c-format
 msgid "Le Brun"
-msgstr ""
+msgstr "Le Brun"
 
 #. Tag: member
 #, no-c-format
 msgid "Converted draft n°4 from ODT to docbook format"
-msgstr ""
+msgstr "Concept n°4 van ODT naar docbook format omgezet"
 
 #. Tag: member
 #, no-c-format
 msgid "First tests with Publican publishing stack"
-msgstr ""
+msgstr "Eerste tests met het publiceren van een Publican stack"
 
 #. Tag: member
 #, no-c-format
 msgid "Some small modifications regarding new SaLT LiveCD build script"
-msgstr ""
+msgstr "Kleine aanpassingen betreffende nieuwe SaLT LiveCD build script"

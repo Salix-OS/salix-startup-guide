@@ -1,34 +1,42 @@
-#
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Translators:
+# Kris Thomsen <lakristho@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: 0\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-11-08T17:18:00\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: None\n"
-"Language: \n"
+"Project-Id-Version: Salix documentation\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-07-28 14:22+0000\n"
+"Last-Translator: Kris Thomsen <lakristho@gmail.com>\n"
+"Language-Team: Danish (http://www.transifex.com/projects/p/salix_documentation/language/da/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: da\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Tag: title
 #, no-c-format
 msgid "Startup Guide"
-msgstr ""
+msgstr "Opstartsguide"
 
 #. Tag: subtitle
 #, no-c-format
 msgid "Getting familiar with your new operating System"
-msgstr ""
+msgstr "Bliv bekendt med dit nye operativ system"
 
 #. Tag: productname
 #, no-c-format
 msgid "SalixOS"
-msgstr ""
+msgstr "SalixOS"
 
 #. Tag: para
 #, no-c-format
-msgid "The purpose of this manual is to enable you to take full advantage of the many functionalities of Salix OS. While particular attention has been given to help newcomers quickly get familiar with common computer tasks, more advanced material is also available for intermediate users who want to learn more about the inner workings of their operating system, its administration and its customisation."
-msgstr ""
+msgid ""
+"The purpose of this manual is to enable you to take full advantage of the "
+"many functionalities of Salix OS. While particular attention has been given "
+"to help newcomers quickly get familiar with common computer tasks, more "
+"advanced material is also available for intermediate users who want to learn"
+" more about the inner workings of their operating system, its administration"
+" and its customisation."
+msgstr "Formålet med denne manual er at gøre dig i stand til at udnytte de mange muligheder i Salix OS. Selvom der er særlig fokus på at gøre nye brugere i stand til at udføre almindelige computer-opgaver, er der også mere avanceret materiale tilgængeligt til erfarne brugere, som gerne vil lære mere om hvordan deres operativ system fungere, administreres og tilpasses."

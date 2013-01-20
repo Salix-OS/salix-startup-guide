@@ -1,19 +1,19 @@
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 # Translators:
 # Dimitris Tzemos <djemos@slackel.gr>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
 "PO-Revision-Date: 2011-11-22 17:24+0000\n"
-"Last-Translator: djemos <djemos@slackel.gr>\n"
-"Language-Team: None\n"
-"Language: el\n"
+"Last-Translator: Dimitris Tzemos <djemos@slackel.gr>\n"
+"Language-Team: Greek (http://www.transifex.com/projects/p/salix_documentation/language/el/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Tag: title
 #, no-c-format
@@ -37,7 +37,9 @@ msgstr "Πρωτότυπο σχέδιο."
 
 #. Tag: member
 #, no-c-format
-msgid "Based partly on 13.1.2 guide with new articles to reflect changes and updates."
+msgid ""
+"Based partly on 13.1.2 guide with new articles to reflect changes and "
+"updates."
 msgstr "Βασίζεται εν μέρει στον οδηγό 13.1.2 με νέα άρθρα για να αντανακλούν τις αλλαγές και ενημερώσεις."
 
 #. Tag: member

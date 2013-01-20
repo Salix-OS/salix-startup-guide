@@ -1,0 +1,92 @@
+# AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: Salix documentation\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-04-23 14:28+0000\n"
+"Last-Translator: Jiří Šůla <jiri.sula@gmail.com>\n"
+"Language-Team: Czech (http://www.transifex.com/projects/p/salix_documentation/language/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Revision History"
+msgstr "Historie změn"
+
+#. Tag: firstname
+#, no-c-format
+msgid "Tomoki"
+msgstr "Tomoki"
+
+#. Tag: surname
+#, no-c-format
+msgid "Tsuchiya"
+msgstr "Tsuchiya"
+
+#. Tag: member
+#, no-c-format
+msgid "Original draft."
+msgstr "Originální draft."
+
+#. Tag: member
+#, no-c-format
+msgid ""
+"Based partly on 13.1.2 guide with new articles to reflect changes and "
+"updates."
+msgstr "Založeno částečně na průvodci 13.1.2 s novými články, aby byly reflektovány změny a aktualizace."
+
+#. Tag: member
+#, no-c-format
+msgid "Fixed some typos"
+msgstr "Opraveny některé překlepy"
+
+#. Tag: member
+#, no-c-format
+msgid "Tim (Mimosa) prepared new section on Ratpoison"
+msgstr "Tim (Mimosa) připravil novou sekci o Ratpoisonu"
+
+#. Tag: member
+#, no-c-format
+msgid "Ratpoison added in Application tables"
+msgstr "Ratpoison přidán do tabulky Aplikací"
+
+#. Tag: member
+#, no-c-format
+msgid "Incorporated some suggestions and corrections from the forum"
+msgstr "Zapsány některé názory a korekce z fóra"
+
+#. Tag: member
+#, no-c-format
+msgid "Tim added Ratpoison walktrough"
+msgstr "Tim přidal prohlídku Ratpoison"
+
+#. Tag: firstname
+#, no-c-format
+msgid "Pierrick"
+msgstr "Pierrick"
+
+#. Tag: surname
+#, no-c-format
+msgid "Le Brun"
+msgstr "Le Brun"
+
+#. Tag: member
+#, no-c-format
+msgid "Converted draft n°4 from ODT to docbook format"
+msgstr "Konvertovaný draft č.4 z ODT do docbook formátu"
+
+#. Tag: member
+#, no-c-format
+msgid "First tests with Publican publishing stack"
+msgstr "První testy s publikováním v Publicanu."
+
+#. Tag: member
+#, no-c-format
+msgid "Some small modifications regarding new SaLT LiveCD build script"
+msgstr "Některé malé změny vzhledem k novým SaLT LiveCD skriptům"

@@ -2,19 +2,19 @@
 # 
 # Translators:
 #   <kerd89@gmail.com>, 2011.
-#   <laplume@libero.it>, 2011.
+#   <laplume@libero.it>, 2011-2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
 "POT-Creation-Date: 2012-02-03T19:56:06\n"
-"PO-Revision-Date: 2012-02-14 15:46+0000\n"
+"PO-Revision-Date: 2012-09-03 21:26+0000\n"
 "Last-Translator: laplume <laplume@libero.it>\n"
-"Language-Team: None\n"
+"Language-Team: Italian (http://www.transifex.com/projects/p/salix_documentation/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Tag: title
 #, no-c-format
@@ -54,12 +54,12 @@ msgstr "Ratpoison"
 #. Tag: para
 #, no-c-format
 msgid "Web Browser"
-msgstr "Web Browser"
+msgstr "Browser Web"
 
 #. Tag: para
 #, no-c-format
 msgid "Firefox"
-msgstr "Firerox"
+msgstr "Firefox"
 
 #. Tag: para
 #, no-c-format
@@ -94,7 +94,7 @@ msgstr "AbiWord"
 #. Tag: para
 #, no-c-format
 msgid "Email Client"
-msgstr "Email client"
+msgstr "Client e-mail"
 
 #. Tag: para
 #, no-c-format
@@ -114,7 +114,7 @@ msgstr "Mutt"
 #. Tag: para
 #, no-c-format
 msgid "Picture Viewer"
-msgstr "Picture Viewer"
+msgstr "Visualizzatore di Immagini"
 
 #. Tag: para
 #, no-c-format
@@ -164,7 +164,7 @@ msgstr "—"
 #. Tag: para
 #, no-c-format
 msgid "Video Editing"
-msgstr "Video Editing"
+msgstr "Elaborazione Video"
 
 #. Tag: para
 #, no-c-format
@@ -174,7 +174,7 @@ msgstr "PiTiVi"
 #. Tag: para
 #, no-c-format
 msgid "File Manager"
-msgstr "File Manager"
+msgstr "Gestore dei File"
 
 #. Tag: para
 #, no-c-format
@@ -194,12 +194,12 @@ msgstr "PCMan"
 #. Tag: para
 #, no-c-format
 msgid "Gnome-commander"
-msgstr "Gnome-comandante"
+msgstr "Gnome-commander"
 
 #. Tag: para
 #, no-c-format
 msgid "Window Manager"
-msgstr "Window Manager"
+msgstr "Gestore di finestre"
 
 #. Tag: para
 #, no-c-format
@@ -294,17 +294,17 @@ msgstr "Geany"
 #. Tag: para
 #, no-c-format
 msgid "Pdf Reader"
-msgstr "Pdf Reader"
+msgstr "Lettore Pdf"
 
 #. Tag: para
 #, no-c-format
 msgid "Document Viewer (Evince)"
-msgstr "Visualizzatore di Documenti (Evince)"
+msgstr "Document Viewer (Evince)"
 
 #. Tag: para
 #, no-c-format
 msgid "OKular"
-msgstr "Okular"
+msgstr "OKular"
 
 #. Tag: para
 #, no-c-format
@@ -354,7 +354,7 @@ msgstr "Clementine Music Player"
 #. Tag: para
 #, no-c-format
 msgid "Music On Console"
-msgstr "Musica su Console"
+msgstr "Music On Console"
 
 #. Tag: para
 #, no-c-format
@@ -379,12 +379,12 @@ msgstr "bashburn"
 #. Tag: para
 #, no-c-format
 msgid "CD Ripper"
-msgstr "CD Ripper"
+msgstr "Estrazione tracce da CD"
 
 #. Tag: para
 #, no-c-format
 msgid "Asunder CD Ripper"
-msgstr "Asunder CD Ripper"
+msgstr "Asunder"
 
 #. Tag: para
 #, no-c-format
@@ -419,7 +419,7 @@ msgstr "Blogilo"
 #. Tag: para
 #, no-c-format
 msgid "Organiser"
-msgstr "Organiser"
+msgstr "Agenda"
 
 #. Tag: para
 #, no-c-format
@@ -524,7 +524,7 @@ msgstr "Abiword"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Abiword"
-msgstr "Screenshot di Abiword"
+msgstr "Schermata di Abiword"
 
 #. Tag: para
 #, no-c-format
@@ -541,7 +541,7 @@ msgstr "Asunder"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Asunder"
-msgstr "Screenshot di Asunder"
+msgstr "Schermata di Asunder"
 
 #. Tag: para
 #, no-c-format
@@ -554,7 +554,7 @@ msgstr "Asunder è un programma per l'estrazione e la codifica delle tracce audi
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Brasero"
-msgstr "Screenshot di Brasero"
+msgstr "Schermata di Brasero"
 
 #. Tag: para
 #, no-c-format
@@ -572,7 +572,7 @@ msgstr "Catfish "
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Catfish"
-msgstr "Screenshot di Catfish"
+msgstr "Schermata di Catfish"
 
 #. Tag: para
 #, no-c-format
@@ -580,7 +580,7 @@ msgid ""
 "Catfish is a handy file searching tool which provides a unified, lightweight"
 " and simple interface for different search engines such as find, (s)locate, "
 "doodle, tracker and beagle."
-msgstr "Catfish è un utile strumento di ricerca dei file con una interfaccia lineare, semplice e leggera che utilizza motori di rircera quali find, (s)locate, doodle, tracker e beagle."
+msgstr "Catfish è un utile strumento di ricerca dei file con una interfaccia lineare, semplice e leggera che utilizza motori di ricerca quali find, (s)locate, doodle, tracker e beagle."
 
 #. Tag: title
 #, no-c-format
@@ -590,7 +590,7 @@ msgstr "Claws-mail"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Claws Mail"
-msgstr "Screenshot di Claws Mail"
+msgstr "Schermata di Claws Mail"
 
 #. Tag: para
 #, no-c-format
@@ -603,12 +603,12 @@ msgstr "Claws Mail è un client di posta e notizie open source. Di facile config
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Evince"
-msgstr "Screenshot di Evince"
+msgstr "Schermata di Evince"
 
 #. Tag: para
 #, no-c-format
 msgid "Document Viewer is a a very lightweight, simple PDF document viewer."
-msgstr "Visualizzatore Documenti è un visualizzatore PDF semplice e leggero."
+msgstr "Document Viewer- Evince-  è un visualizzatore PDF semplice e leggero."
 
 #. Tag: title
 #, no-c-format
@@ -618,7 +618,7 @@ msgstr "ePDFview"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of ePDFView"
-msgstr "Screenshot di ePDFView"
+msgstr "Schermata di ePDFView"
 
 #. Tag: para
 #, no-c-format
@@ -626,12 +626,12 @@ msgid ""
 "ePDFView is a lightweight PDF document viewer that only uses the GTK+ and "
 "Poppler libraries. It opens PDF files, save copies of documents, and has "
 "support for printing using CUPS."
-msgstr "ePFDView è un visualizzatore di documenti in formato PDF che utilizza GTK+ e la librerie Poppler. Può aprire e salvare file PDF e permette la stampa tramite il supporto di CUPS."
+msgstr "ePFDView è un visualizzatore di documenti in formato PDF che utilizza solo le librerie GTK+ e Poppler. Può aprire e salvare file PDF e permette la stampa tramite il supporto di CUPS."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Exaile"
-msgstr "Screenshot di Exaile"
+msgstr "Schermata di Exaile"
 
 #. Tag: para
 #, no-c-format
@@ -639,7 +639,7 @@ msgid ""
 "Exaile is a music manager which incorporates automatic fetching of album "
 "art, lyrics fetching, Last.fm scrobbling, support for many portable media "
 "players, Internet radio such as Shoutcast, tabbed playlists, etc."
-msgstr "Exaile è un applicazione per la gestione di file musicali; può recuperare automaticamente le copertine degli album e i testi delle canzoni, supporta lo scrobbling di Last.fm e si interfaccia con svarati lettori audio portatili. Supporta inoltre i canali di Internet Radio quali Shoutcast; playlist multiple, etc."
+msgstr "Exaile è un applicazione per la gestione di file musicali; può recuperare automaticamente le copertine degli album e i testi delle canzoni, supporta lo scrobbling di Last.fm e si interfaccia con svariati lettori audio portatili. Supporta inoltre i canali di Internet Radio quali Shoutcast; playlist multiple, etc."
 
 #. Tag: title
 #, no-c-format
@@ -649,19 +649,19 @@ msgstr "File Roller"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of File Roller"
-msgstr "Screenshot di File Roller"
+msgstr "Schermata di File Roller"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "File Roller is an archive manager. Supported archive types include gzip, "
 "bzip, bzip2, compress, lzop, zip, jar, lha, rar, zoo, arj, 7-zip, etc."
-msgstr "File Roller è un gestore di archvi. Supporta i formati gzip, bzip, bzip2, compress, lzop, zip, jar, lha, rar, zoo, arj, 7-zip, etc."
+msgstr "File Roller è un gestore di archivi. Supporta i formati gzip, bzip, bzip2, compress, lzop, zip, jar, lha, rar, zoo, arj, 7-zip, etc."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Mozilla Firefox"
-msgstr "Screenshot di Mozilla Firefox"
+msgstr "Schermata di Mozilla Firefox"
 
 #. Tag: para
 #, no-c-format
@@ -686,7 +686,7 @@ msgstr "Galculator è una calcolatrice con due modalità di utilizzo: base e sci
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Geany"
-msgstr "Screenshot di Geany"
+msgstr "Schermata di Geany"
 
 #. Tag: para
 #, no-c-format
@@ -704,7 +704,7 @@ msgstr "gFTP"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of gFTP"
-msgstr "Screenshot di gFTP"
+msgstr "Schermata di gFTP"
 
 #. Tag: para
 #, no-c-format
@@ -721,7 +721,7 @@ msgstr "Gigolo"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Gigolo"
-msgstr "Screenshot di Gigolo"
+msgstr "Schermata di Gigolo"
 
 #. Tag: para
 #, no-c-format
@@ -749,7 +749,7 @@ msgstr "GIMP (GNU Image Manipulation Program) è uno strumento per la modifica e
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Gnumeric"
-msgstr "Screenshot di Gnumeric"
+msgstr "Schermata di Gnumeric"
 
 #. Tag: para
 #, no-c-format
@@ -768,7 +768,7 @@ msgstr "Gtkman"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of GTKMan"
-msgstr "Screenshot di GTKMan"
+msgstr "Schermata di GTKMan"
 
 #. Tag: para
 #, no-c-format
@@ -797,7 +797,7 @@ msgstr "ISO Master"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of ISO Master"
-msgstr "Screenshot di ISO Master"
+msgstr "Schermata di ISO Master"
 
 #. Tag: para
 #, no-c-format
@@ -826,24 +826,24 @@ msgid ""
 " folders and launch file comparisons. You can browse and view a working copy"
 " from popular version control systems such such as CVS, Subversion, Bazaar-"
 "ng and Mercurial."
-msgstr "Meld è uno strumento visual che utilizza i comandi diff e merge. Vi permette di confrontare due o tre file e modificarli al volo (le differenze sono aggiornate automaticamente). Inoltre potete confrontare due o tre cartelle e lanciare comparazioni di file. Potete inoltre sfogliare a visualizzare la copia di lavoro all'interno di noti sistemi di controllo versione quali CVS, Subversion, Bazaar-ng e Mercurial. "
+msgstr "Meld è uno strumento visuale che utilizza i comandi diff e merge. Vi permette di confrontare due o tre file e modificarli al volo (le differenze sono aggiornate automaticamente). Inoltre potete confrontare due o tre cartelle e lanciare comparazioni di file. Potete inoltre sfogliare a visualizzare la copia di lavoro all'interno di noti sistemi di controllo versione quali CVS, Subversion, Bazaar-ng e Mercurial. "
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Midori"
-msgstr "Screenshot di Midori"
+msgstr "Schermata di Midori"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Midori (Japanese for green) is a web browser that aims to be lightweight and"
 " fast. It uses the WebKit rendering engine."
-msgstr "Midori (in giapponese:Verde) è un browser leggero e veloce. Utilizza il motore di rendering Webkit."
+msgstr "Midori (in giapponese: Verde) è un browser leggero e veloce. Utilizza il motore di rendering WebKit."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Mousepad"
-msgstr "Screenshot di Mousepad"
+msgstr "Schermata di Mousepad"
 
 #. Tag: para
 #, no-c-format
@@ -853,7 +853,7 @@ msgstr "Mousepad è un semplice editor di testo con il supporto di stampa."
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of mPaint"
-msgstr "Screenshot di mPaint"
+msgstr "Schermata di mPaint"
 
 #. Tag: para
 #, no-c-format
@@ -871,7 +871,7 @@ msgstr "LibreOffice"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of LibreOffice"
-msgstr "Screenshot di LibreOffice"
+msgstr "Schermata di LibreOffice"
 
 #. Tag: para
 #, no-c-format
@@ -886,7 +886,7 @@ msgstr "LibreOffice è la principale suite open source per l'ufficio. Consente l
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Orage"
-msgstr "Screenshot di Orage"
+msgstr "Schermata di Orage"
 
 #. Tag: para
 #, no-c-format
@@ -902,7 +902,7 @@ msgstr "Orage è un calendario che si integra perfettamente nell'ambiente deskto
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Parole Media Player"
-msgstr "Screenshot di Parole Media Player"
+msgstr "Schermata di Parole Media Player"
 
 #. Tag: para
 #, no-c-format
@@ -914,7 +914,7 @@ msgstr "Il Media Player Parole è un lettore multimediale (audio/video) che util
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Pidgin"
-msgstr "Screenshot di Pidgin"
+msgstr "Schermata di Pidgin"
 
 #. Tag: para
 #, no-c-format
@@ -933,7 +933,7 @@ msgstr "PiTiVi Video Editor"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of PiTiVi"
-msgstr "Screenshot di PiTiVi"
+msgstr "Schermata di PiTiVi"
 
 #. Tag: para
 #, no-c-format
@@ -941,7 +941,7 @@ msgid ""
 "PiTiVi is an easy to use video editor. The interface is intuitive to most "
 "users. Just by dragging your video clips, you can create your own film "
 "clips."
-msgstr "PiTiVi è un editor di video di facile utilizzo. L'interfaccia risulterà intuitiva alla maggior parte degli utilizzatori. Per generare le vostre clip personali è sufficiente trascinare i video all'interno della finestra del programa."
+msgstr "PiTiVi è un editor di video di facile utilizzo. L'interfaccia risulterà intuitiva alla maggior parte degli utilizzatori. Per generare le vostre clip personali è sufficiente trascinare i video all'interno della finestra del programma."
 
 #. Tag: title
 #, no-c-format
@@ -951,7 +951,7 @@ msgstr "Simple Scan"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Simple Scan"
-msgstr "Screenshot di Simple Scan"
+msgstr "Schermata di Simple Scan"
 
 #. Tag: para
 #, no-c-format
@@ -963,7 +963,7 @@ msgstr "Simple Scan vi permette di scandire le vostre foto/documenti tramite sca
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Transmission"
-msgstr "Screenshot di Transmission"
+msgstr "Schermata di Transmission"
 
 #. Tag: para
 #, no-c-format
@@ -976,7 +976,7 @@ msgstr "Transmission è un client <ulink url=\"http://fr.wikipedia.org/wiki/BitT
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Viewnior"
-msgstr "Screenshot di Viewnior"
+msgstr "Schermata di Viewnior"
 
 #. Tag: para
 #, no-c-format
@@ -991,7 +991,7 @@ msgstr "Whaaw! MediaPlayer"
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Whaaw! Media Player"
-msgstr "Screenshot di Whaaw! Media Player"
+msgstr "Schermata di Whaaw! Media Player"
 
 #. Tag: para
 #, no-c-format
@@ -999,7 +999,7 @@ msgid ""
 "Whaaw! Media Player will play any audio/video files which GStreamer can "
 "manage. It supports fullscreen mode, seeking, changing video colour settings"
 " and more. It is intended to be a basic media player with few dependencies."
-msgstr "Whaaw! Media Player è in grado di riprodurre qualunque file audio/video che sia gestito da GStreamer. Supporta visualizzazione a schermo pieno, ricerca, modifica delle impostazioni dei colori ed altre funzionalità. E' un media player di base con poche dipendenze."
+msgstr "Whaaw! Media Player è in grado di riprodurre qualunque file audio/video che sia gestito da GStreamer. Supporta visualizzazione a schermo intero, ricerca, modifica delle impostazioni dei colori ed altre funzionalità. E' un media player di base con poche dipendenze."
 
 #. Tag: title
 #, no-c-format

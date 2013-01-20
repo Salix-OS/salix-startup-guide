@@ -5,15 +5,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
 "PO-Revision-Date: 2011-11-26 17:50+0000\n"
 "Last-Translator: Ingemar Karlsson <ingemar@ingk.se>\n"
-"Language-Team: None\n"
+"Language-Team: Swedish (http://www.transifex.com/projects/p/salix_documentation/language/sv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: sv\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Tag: title
 #, no-c-format
@@ -40,9 +40,7 @@ msgstr "Ursprungligt förslag."
 msgid ""
 "Based partly on 13.1.2 guide with new articles to reflect changes and "
 "updates."
-msgstr ""
-"Baserat delvis på 13.1.2 guide med nya artiklar som speglar förändringar och"
-" uppdateringar."
+msgstr "Baserat delvis på 13.1.2 guide med nya artiklar som speglar förändringar och uppdateringar."
 
 #. Tag: member
 #, no-c-format
@@ -93,5 +91,3 @@ msgstr "Första testerna med publikan publicering stack"
 #, no-c-format
 msgid "Some small modifications regarding new SaLT LiveCD build script"
 msgstr "Några små förändringar avseende nya SaLT LiveCD byggskriptet"
-
-

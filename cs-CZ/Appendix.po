@@ -1,0 +1,1015 @@
+# AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+#   <appukonrad@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: Salix documentation\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-09-04 12:45+0000\n"
+"Last-Translator: jui <appukonrad@gmail.com>\n"
+"Language-Team: Czech (http://www.transifex.com/projects/p/salix_documentation/language/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#. Tag: title
+#, no-c-format
+msgid "List of Applications"
+msgstr "Seznam aplikací"
+
+#. Tag: para
+#, no-c-format
+msgid "Salix Edition"
+msgstr "Salix Edice"
+
+#. Tag: para
+#, no-c-format
+msgid "Xfce"
+msgstr "Xfce"
+
+#. Tag: para
+#, no-c-format
+msgid "KDE"
+msgstr "KDE"
+
+#. Tag: para
+#, no-c-format
+msgid "Fluxbox"
+msgstr "Fluxbox"
+
+#. Tag: para
+#, no-c-format
+msgid "LXDE"
+msgstr "LXDE"
+
+#. Tag: para
+#, no-c-format
+msgid "Ratpoison"
+msgstr "Ratpoison"
+
+#. Tag: para
+#, no-c-format
+msgid "Web Browser"
+msgstr "Webový prohlížeč"
+
+#. Tag: para
+#, no-c-format
+msgid "Firefox"
+msgstr "Firefox"
+
+#. Tag: para
+#, no-c-format
+msgid "Midori"
+msgstr "Midori"
+
+#. Tag: para
+#, no-c-format
+msgid "Vimprobable2"
+msgstr "Vimprobable2"
+
+#. Tag: para
+#, no-c-format
+msgid "Word Processor"
+msgstr "Textový procesor"
+
+#. Tag: para
+#, no-c-format
+msgid "LibreOffice Writer"
+msgstr "LibreOffice Writer"
+
+#. Tag: para
+#, no-c-format
+msgid "KWord"
+msgstr "KWord"
+
+#. Tag: para
+#, no-c-format
+msgid "AbiWord"
+msgstr "AbiWord"
+
+#. Tag: para
+#, no-c-format
+msgid "Email Client"
+msgstr "E-mailový klient"
+
+#. Tag: para
+#, no-c-format
+msgid "Claws–mail"
+msgstr "Claws–mail"
+
+#. Tag: para
+#, no-c-format
+msgid "KMail"
+msgstr "KMail"
+
+#. Tag: para
+#, no-c-format
+msgid "Mutt"
+msgstr "Mutt"
+
+#. Tag: para
+#, no-c-format
+msgid "Picture Viewer"
+msgstr "Prohlížeč obrázků"
+
+#. Tag: para
+#, no-c-format
+msgid "Viewnior"
+msgstr "Viewnior"
+
+#. Tag: para
+#, no-c-format
+msgid "Gwenview"
+msgstr "Gwenview"
+
+#. Tag: para
+#, no-c-format
+msgid "Image Editing"
+msgstr "Image Editing"
+
+#. Tag: para
+#, no-c-format
+msgid "GIMP"
+msgstr "GIMP"
+
+#. Tag: para
+#, no-c-format
+msgid "Krita"
+msgstr "Krita"
+
+#. Tag: para
+#, no-c-format
+msgid "KolorPaint"
+msgstr "KolorPaint"
+
+#. Tag: para
+#, no-c-format
+msgid "Karbon14"
+msgstr "Karbon14"
+
+#. Tag: para
+#, no-c-format
+msgid "mtPaint"
+msgstr "mtPaint"
+
+#. Tag: para
+#, no-c-format
+msgid "—"
+msgstr "—"
+
+#. Tag: para
+#, no-c-format
+msgid "Video Editing"
+msgstr "Video editor"
+
+#. Tag: para
+#, no-c-format
+msgid "PiTiVi"
+msgstr "PiTiVi"
+
+#. Tag: para
+#, no-c-format
+msgid "File Manager"
+msgstr "Manažer souborů"
+
+#. Tag: para
+#, no-c-format
+msgid "Thunar"
+msgstr "Thunar"
+
+#. Tag: para
+#, no-c-format
+msgid "Dolphin"
+msgstr "Dolphin"
+
+#. Tag: para
+#, no-c-format
+msgid "PCMan"
+msgstr "PCMan"
+
+#. Tag: para
+#, no-c-format
+msgid "Gnome-commander"
+msgstr "Gnome-commander"
+
+#. Tag: para
+#, no-c-format
+msgid "Window Manager"
+msgstr "Správce oken"
+
+#. Tag: para
+#, no-c-format
+msgid "KWin"
+msgstr "KWin"
+
+#. Tag: para
+#, no-c-format
+msgid "openbox"
+msgstr "openbox"
+
+#. Tag: para
+#, no-c-format
+msgid "Instant Messaging"
+msgstr "Instant Messaging"
+
+#. Tag: para
+#, no-c-format
+msgid "Pidgin"
+msgstr "Pidgin"
+
+#. Tag: para
+#, no-c-format
+msgid "Kopete"
+msgstr "Kopete"
+
+#. Tag: para
+#, no-c-format
+msgid "VoIP"
+msgstr "VoIP"
+
+#. Tag: para
+#, no-c-format
+msgid "Spreadsheet"
+msgstr "Tabulkový procesor"
+
+#. Tag: para
+#, no-c-format
+msgid "LibreOffice Calc"
+msgstr "LibreOffice Calc"
+
+#. Tag: para
+#, no-c-format
+msgid "KSpread"
+msgstr "KSpread"
+
+#. Tag: para
+#, no-c-format
+msgid "Gnumeric"
+msgstr "Gnumeric"
+
+#. Tag: para
+#, no-c-format
+msgid "sc"
+msgstr "sc"
+
+#. Tag: para
+#, no-c-format
+msgid "Text Editor"
+msgstr "Textový editor"
+
+#. Tag: para
+#, no-c-format
+msgid "Mousepad"
+msgstr "Mousepad"
+
+#. Tag: para
+#, no-c-format
+msgid "KWriter"
+msgstr "KWriter"
+
+#. Tag: para
+#, no-c-format
+msgid "Leafpad"
+msgstr "Leafpad"
+
+#. Tag: para
+#, no-c-format
+msgid "gvim"
+msgstr "gvim"
+
+#. Tag: para
+#, no-c-format
+msgid "Integrated Development Environment"
+msgstr "Integrované vývojové prostředí"
+
+#. Tag: para
+#, no-c-format
+msgid "Geany"
+msgstr "Geany"
+
+#. Tag: para
+#, no-c-format
+msgid "Pdf Reader"
+msgstr "Pdf Reader"
+
+#. Tag: para
+#, no-c-format
+msgid "Document Viewer (Evince)"
+msgstr "Prohlížeč dokumentů (Osvědčené)"
+
+#. Tag: para
+#, no-c-format
+msgid "OKular"
+msgstr "OKular"
+
+#. Tag: para
+#, no-c-format
+msgid "ePDFViewer"
+msgstr "ePDFViewer"
+
+#. Tag: para
+#, no-c-format
+msgid "apvlv"
+msgstr "apvlv"
+
+#. Tag: para
+#, no-c-format
+msgid "Multimedia Player"
+msgstr "Multimediální přehrávač"
+
+#. Tag: para
+#, no-c-format
+msgid "Parole Media Player"
+msgstr "Parole Media Player"
+
+#. Tag: para
+#, no-c-format
+msgid "Bangarang"
+msgstr "Bangarang"
+
+#. Tag: para
+#, no-c-format
+msgid "Whaawmp"
+msgstr "Whaawmp"
+
+#. Tag: para
+#, no-c-format
+msgid "Music Player"
+msgstr "Music Player"
+
+#. Tag: para
+#, no-c-format
+msgid "Exaile"
+msgstr "Exaile"
+
+#. Tag: para
+#, no-c-format
+msgid "Clementine Music Player"
+msgstr "Clementine Music Player"
+
+#. Tag: para
+#, no-c-format
+msgid "Music On Console"
+msgstr "Music On Console"
+
+#. Tag: para
+#, no-c-format
+msgid "Disk Burner"
+msgstr "Vypalovačka disků"
+
+#. Tag: para
+#, no-c-format
+msgid "Brasero"
+msgstr "Brasero"
+
+#. Tag: para
+#, no-c-format
+msgid "K3b"
+msgstr "K3b"
+
+#. Tag: para
+#, no-c-format
+msgid "bashburn"
+msgstr "bashburn"
+
+#. Tag: para
+#, no-c-format
+msgid "CD Ripper"
+msgstr "CD Ripper"
+
+#. Tag: para
+#, no-c-format
+msgid "Asunder CD Ripper"
+msgstr "Asunder CD Ripper"
+
+#. Tag: para
+#, no-c-format
+msgid "Torrent Client"
+msgstr "Torrent klient"
+
+#. Tag: para
+#, no-c-format
+msgid "Transmission"
+msgstr "Transmission"
+
+#. Tag: para
+#, no-c-format
+msgid "KTorrent"
+msgstr "KTorrent"
+
+#. Tag: para
+#, no-c-format
+msgid "rtorrent"
+msgstr "rtorrent"
+
+#. Tag: para
+#, no-c-format
+msgid "Blogging Client"
+msgstr "Blogovací klient"
+
+#. Tag: para
+#, no-c-format
+msgid "Blogilo"
+msgstr "Blogilo"
+
+#. Tag: para
+#, no-c-format
+msgid "Organiser"
+msgstr "Organizátor"
+
+#. Tag: para
+#, no-c-format
+msgid "Orage"
+msgstr "Orage"
+
+#. Tag: para
+#, no-c-format
+msgid "KOrganizer"
+msgstr "KOrganizer"
+
+#. Tag: para
+#, no-c-format
+msgid "PIM"
+msgstr "PIM"
+
+#. Tag: para
+#, no-c-format
+msgid "Akonadi"
+msgstr "Akonadi"
+
+#. Tag: para
+#, no-c-format
+msgid "Desktop Wiki"
+msgstr "Desktop Wiki"
+
+#. Tag: para
+#, no-c-format
+msgid "zim"
+msgstr "zim"
+
+#. Tag: para
+#, no-c-format
+msgid "KJots"
+msgstr "KJots"
+
+#. Tag: para
+#, no-c-format
+msgid "Multilingual Input"
+msgstr "Vícejazyčný Vstup"
+
+#. Tag: para
+#, no-c-format
+msgid "Ibus"
+msgstr "Ibus"
+
+#. Tag: para
+#, no-c-format
+msgid "Terminal Emulator"
+msgstr "Emulátor terminálu"
+
+#. Tag: para
+#, no-c-format
+msgid "Xfce Terminal"
+msgstr "Xfce Terminal"
+
+#. Tag: para
+#, no-c-format
+msgid "Konsole"
+msgstr "Konsole"
+
+#. Tag: para
+#, no-c-format
+msgid "urxvt"
+msgstr "urxvt"
+
+#. Tag: para
+#, no-c-format
+msgid "LXTerminal"
+msgstr "LXTerminal"
+
+#. Tag: para
+#, no-c-format
+msgid "xterm"
+msgstr "xterm"
+
+#. Tag: para
+#, no-c-format
+msgid "Package Management"
+msgstr "Správa balíčků"
+
+#. Tag: para
+#, no-c-format
+msgid "Gslapt"
+msgstr "Gslapt"
+
+#. Tag: para
+#, no-c-format
+msgid "Sourcery"
+msgstr "Sourcery"
+
+#. Tag: title
+#, no-c-format
+msgid "Selected Applications found in Salix"
+msgstr "Vybrané aplikace naleznete v Salix"
+
+#. Tag: title
+#, no-c-format
+msgid "Abiword"
+msgstr "Abiword"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Abiword"
+msgstr "Screenshoty z AbiWordu"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"AbiWord is a word processing program suitable for a wide variety of word "
+"processing tasks."
+msgstr "AbiWord je textový editor vhodný pro širokou škálu úkolů ke zpracování textu."
+
+#. Tag: title
+#, no-c-format
+msgid "Asunder"
+msgstr "Asunder"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Asunder"
+msgstr "Screenshoty z Asunderu"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Asunder is an Audio CD ripper and encoder for Linux. You can use Asunder to "
+"save tracks from an Audio CD as any of WAV, MP3, OGG, FLAC, WavPack, "
+"Musepack, AAC, and Monkey's Audio files."
+msgstr "Asunder je Audio CD Ripper a enkodér pro Linux. Použitím Asunderu můžete zachránit skladby z Audio CD a převést je na WAV, MP3, OGG, FLAC, WavPack, Musepack, AAC, a Monkey audio soubory."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Brasero"
+msgstr "Screenshoty z Brasera"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Brasero is an application to burn CD/DVD. It is designed to be as simple as "
+"possible and has some unique features to enable users to create their discs "
+"easily and quickly."
+msgstr "Brasero je aplikací pro vypalování CD / DVD. Je navržen tak, aby byl co možná nejjednodušší a má některé unikátní vlastnosti, které umožní uživatelům vytvářet disky snadno a rychle."
+
+#. Tag: title
+#, no-c-format
+msgid "Catfish"
+msgstr "Catfish"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Catfish"
+msgstr "Screenshoty z Catfish"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Catfish is a handy file searching tool which provides a unified, lightweight"
+" and simple interface for different search engines such as find, (s)locate, "
+"doodle, tracker and beagle."
+msgstr "Catfish je šikovný nástroj pro vyhledávání souborů , který poskytuje jednotné, lehké a jednoduché rozhraní pro různé vyhledávače, jako jsou  find, (s)locate, doodle, tracker a beagle."
+
+#. Tag: title
+#, no-c-format
+msgid "Claws-mail"
+msgstr "Claws-mail"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Claws Mail"
+msgstr "Screenshoty z Claws Mail"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Claws Mail is an open source email and news client. It offers easy "
+"configuration and an abundance of features. It stores mail in the MH mailbox"
+" format as well as the Mbox mailbox format via a plugin."
+msgstr "Claws Mail je open source klient pro e-mail a zprávy. Nabízí snadnou konfiguraci a množství funkcí. Ukládá poštu ve formátu schránky MH, stejně, jako Mbox formát přes plugin."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Evince"
+msgstr "Screenshoty z Mail Evince"
+
+#. Tag: para
+#, no-c-format
+msgid "Document Viewer is a a very lightweight, simple PDF document viewer."
+msgstr "Document Viewer je velmi lehký a jednoduchý prohlížeč dokumentů PDF."
+
+#. Tag: title
+#, no-c-format
+msgid "ePDFview"
+msgstr "ePDFview"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of ePDFView"
+msgstr "Screenshoty z ePDFView"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"ePDFView is a lightweight PDF document viewer that only uses the GTK+ and "
+"Poppler libraries. It opens PDF files, save copies of documents, and has "
+"support for printing using CUPS."
+msgstr "ePDFView je odlehčený prohlížeč dokumentů PDF, který používá pouze GTK + a Poppler knihovny. Otevře PDF soubory, ukládá kopie dokumentů, a má podporu pro tisk pomocí CUPS."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Exaile"
+msgstr "Screenshoty z Exaile"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Exaile is a music manager which incorporates automatic fetching of album "
+"art, lyrics fetching, Last.fm scrobbling, support for many portable media "
+"players, Internet radio such as Shoutcast, tabbed playlists, etc."
+msgstr "Exaile je hudební manažer, který zahrnuje automatické načítání z alba, stahování textů, Last.fm scrobbling, podporu pro mnoho přenosných přehrávačů médií, internetové rádio, jako je Shoutcast, karty s playlisty atd."
+
+#. Tag: title
+#, no-c-format
+msgid "File Roller"
+msgstr "File Roller"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of File Roller"
+msgstr "Screenshoty z File Rolleru"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"File Roller is an archive manager. Supported archive types include gzip, "
+"bzip, bzip2, compress, lzop, zip, jar, lha, rar, zoo, arj, 7-zip, etc."
+msgstr "File Roller je správce archivů. Mezi podporované typy archivů patří gzip, bzip, bzip2, compress, lzop, zip, jar, lha, rar, zoo, arj, 7-zip, atd."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Mozilla Firefox"
+msgstr "Screenshoty z Mozilla Firefoxu"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Mozilla Firefox is a free and open source web browser with tabbed browsing, "
+"spell checking, incremental find, private browsing and numerous plugins."
+msgstr "Mozilla Firefox je zdarma a open source webový prohlížeč s prohlížením v panelech, kontrolaou pravopisu, přírůstkovým vyhledáváním a četnými pluginy."
+
+#. Tag: title
+#, no-c-format
+msgid "Galculator"
+msgstr "Galculator"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Galculator is a calculator featuring two user modes: basic and scientific "
+"mode. Basic mode is intended for simple computations while Scientific Mode "
+"is Galculator's state of the art."
+msgstr "Galculator je kalkulačka, která nabízí dva uživatelské režimy: základní a vědecký režim. Základní režim je určen pro jednoduché výpočty při vědeckém režimu je Galculator nejmodernějším kalkulátorem."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Geany"
+msgstr "Screenshoty z Geany"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Geany is a small and lightweight Integrated Development Environment which "
+"only has a few dependencies and is independent of any particular Desktop "
+"Environment."
+msgstr "Geany je malé a lehké integrovaný vývojové prostředí IDE, která má jen několik závislostí a je nezávislé na konkrétním desktopovém prostředí."
+
+#. Tag: title
+#, no-c-format
+msgid "gFTP"
+msgstr "gFTP"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of gFTP"
+msgstr "Screenshoty z gFTP"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"gFTP is an FTP client with both a text and a GUI interface. gFTP aims to be "
+"simple to use yet powerful."
+msgstr "gFTP je FTP klient s textovým i GUI rozhraním. gFTP se snaží být  na používání jednoduchý, ale výkonný."
+
+#. Tag: title
+#, no-c-format
+msgid "Gigolo"
+msgstr "Gigolo"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Gigolo"
+msgstr "Screenshoty z Gigola"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Gigolo is a frontend to easily manage connections to remote filesystems "
+"using GIO/GVfs. It allows you to quickly connect/mount a remote filesystem "
+"and browse local networks shares."
+msgstr "Gigolo je rozhraní pro jednoduchou správu připojení ke vzdáleným souborových systémům pomocí Gio/GVFS. To vám umožní rychlé připojení vzdálených souborových systémů a procházet místní sdílené sítě. "
+
+#. Tag: title
+#, no-c-format
+msgid "Gimp"
+msgstr "Gimp"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"GIMP (GNU Image Manipulation Program) is an image retouching and editing "
+"tool. In addition to offering free form drawing, it can accomplish essential"
+" image workflow steps such as resizing, editing, and cropping photos, "
+"combining multiple images, converting between different image formats as "
+"well as create basic animated images in GIF."
+msgstr ""
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Gnumeric"
+msgstr "Screenshoty z Gnumeric"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The goal of Gnumeric is to be the best possible spreadsheet. While not "
+"attempting to clone existing applications, Gnumeric can however read files "
+"saved with other spreadsheets and offers a customizable feel that attempts "
+"to minimize the costs of transition."
+msgstr ""
+
+#. Tag: title
+#, no-c-format
+msgid "Gtkman"
+msgstr "Gtkman"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of GTKMan"
+msgstr "Screenshoty z GTKManu"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"GTKMan is a simple manual page viewer. Manual pages are viewed by specifying"
+" their name and optionally the section they are in, just as with the "
+"original man command. The manual pages are displayed in simple text form "
+"using the default system monospace font."
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Ibus is a new generation of input method editors after SCIM. It supports for"
+" more than thirty languages (Chinese, Japanese, Korean and other languages) "
+"on both qt and non-qt environments. (You may have to go to qtconfig and "
+"select \"ibus\" instead of \"xim\" in \"Interface\" -&gt; \"Default Input "
+"Method\")."
+msgstr ""
+
+#. Tag: title
+#, no-c-format
+msgid "ISO Master"
+msgstr "ISO Master"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of ISO Master"
+msgstr "Screenshoty z ISO Masteru"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"ISO Master is an application for creating and modifying ISO9660 files (ISO "
+"images). Its functionalities include: creating an ISO image from scratch, "
+"adding or removing files and directories to/from a CD image, and creating "
+"bootable CDs using various boot record types."
+msgstr "ISO Master je aplikace pro vytváření a úpravy ISO9660 souborů (ISO obrazů). Jeho funkce zahrnují: vytvoření obrazu ISO od nuly, přidání nebo odebrání souborů a adresářů z/do obrazu CD a vytvořit bootovatelné CD pomocí různých typů spouštěcího záznamu."
+
+#. Tag: para
+#, no-c-format
+msgid "Leafpad is a very light simple text editor with printing support."
+msgstr "Leafpad je velmi lehký jednoduchý textový editor s podporou tisku."
+
+#. Tag: title
+#, no-c-format
+msgid "Meld"
+msgstr "Meld"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Meld is a visual diff and merge tool. You can compare two or three files and"
+" edit them in place (diffs update dynamically). You can compare two or three"
+" folders and launch file comparisons. You can browse and view a working copy"
+" from popular version control systems such such as CVS, Subversion, Bazaar-"
+"ng and Mercurial."
+msgstr ""
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Midori"
+msgstr "Screenshoty z Midori"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Midori (Japanese for green) is a web browser that aims to be lightweight and"
+" fast. It uses the WebKit rendering engine."
+msgstr "Midori (japonský výraz pro zelenou) je webový prohlížeč, který si klade za cíl být lehký a rychlý. Používá vykreslovací engine WebKit"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Mousepad"
+msgstr "Screenshoty z Mousepadu"
+
+#. Tag: para
+#, no-c-format
+msgid "Mousepad is a simple text editor with printing support."
+msgstr "Mousepad je jednoduchý textový editor s podporou tisku."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of mPaint"
+msgstr "Screenshoty z mPaintu"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"mtPaint is a painting program designed to easily create pixel art and "
+"manipulate digital photos. Due to its efficient design it can run on older "
+"PC hardware (e.g. a 200MHz CPU and 16MB of free RAM)."
+msgstr "mtPaint je kreslící program navržen tak, aby snadno vytvářel pixel Art a pracoval s digitální fotografií. Vzhledem k jeho provedení může běžet na starším PC hardwaru (např. 200 MHz CPU a 16MB volné paměti RAM)."
+
+#. Tag: title
+#, no-c-format
+msgid "LibreOffice"
+msgstr "LibreOffice"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of LibreOffice"
+msgstr "Screenshoty z LibreOffice"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"LibreOffice is the leading open-source office software suite for word "
+"processing, spreadsheets, presentations, graphics, databases and more. It is"
+" available in many languages and works on all common computers. It stores "
+"all your data in an international open standard format and can also read and"
+" write files from other common office software packages."
+msgstr "LibreOffice je vedoucí open-source kancelářský softwarový balík pro zpracování textu, tabulek, prezentací, grafiky, databází a dalšího. Je k dispozici v mnoha jazycích a funguje na všech běžných počítačích. Ukládá všechna data v mezinárodním otevřeném standardizovaném formátu a může také číst a zapisovat soubory z jiných běžných balíků kancelářského software."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Orage"
+msgstr "Screenshoty z Orage"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Orage provides a calendar which integrates nicely into the Xfce Desktop "
+"Environment. It is highly configurable and supports alerts based on dates. "
+"It warns you with pop up or audible alarms. As it is an application for "
+"everyday use, it launches itself in the background and can be accessed using"
+" the Orage Clock plugin for the panel. Simply click on a date to display or "
+"set the agenda for the day."
+msgstr "Orage poskytuje kalendář, který pěkně integruje do desktopového prostředí Xfce. Je vysoce konfigurovatelný a podporuje upozornění vycházející z dat. Varuje vás pomocí pop up, nebo zvukových alarmů. Je jak aplikace pro každodenní použití, tak lze spustit  na pozadí a lze přistupovat pomocí Orage Clock pluginu v panelu. Stačí kliknout na datum pro zobrazení, nebo nastavit program pro tento den."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Parole Media Player"
+msgstr "Screenshoty z Parole Media Playeru"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Parole Media Player is a media player (audio and video) which utilises the "
+"GStreamer framework for playback."
+msgstr "Parole Media Player je multimediální přehrávač (audio a video), který využívá pro přehrávání GStreamer."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Pidgin"
+msgstr "Screenshoty zPidginu"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Pidgin is an easy to use and free chat client which lets you log in to "
+"accounts on multiple chat networks simultaneously. Pidgin is compatible with"
+" numerous chat networks out of the box: AIM, ICQ, Google Talk, Jabber/XMPP, "
+"MSN Messenger, Yahoo, etc."
+msgstr "Pidgin je snadno ovladatelný a free chat klient, který vám umožní přihlásit se k účtům na více diskuzních sítích současně. Pidgin je kompatibilní s mnoha sítěmi, hned při první instalaci: AIM, ICQ, Google Talk, Jabber / XMPP, MSN Messenger, Yahoo, atd."
+
+#. Tag: title
+#, no-c-format
+msgid "PiTiVi Video Editor"
+msgstr "PiTiVi Video Editor"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of PiTiVi"
+msgstr "Screenshoty z PiTiVi"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"PiTiVi is an easy to use video editor. The interface is intuitive to most "
+"users. Just by dragging your video clips, you can create your own film "
+"clips."
+msgstr "PiTiVi je snadno použitelný video editor. Rozhraní je intuitivní pro většinu uživatelů. Pouhým přetažením videoklipů, si můžete vytvořit své vlastní filmové klipy."
+
+#. Tag: title
+#, no-c-format
+msgid "Simple Scan"
+msgstr "Simple Scan"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Simple Scan"
+msgstr "Screenshoty z Simple Scanu"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Simple Scan allows you to scan your documents/photos with your scanner or "
+"even with your webcam!"
+msgstr "Simple Scan umožňuje jednoduše skenovat dokumenty/fotografie na skeneru, nebo dokonce s vaší webovou kamerou!"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Transmission"
+msgstr ""
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Transmission is a <ulink "
+"url=\"http://fr.wikipedia.org/wiki/BitTorrent_(protocole)\">BitTorrent</ulink>"
+" client that is simple, lean and powerful."
+msgstr ""
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Viewnior"
+msgstr "Screenshoty z Viewnioru"
+
+#. Tag: para
+#, no-c-format
+msgid "Viewnior is a fast and lightweight picture viewer."
+msgstr ""
+
+#. Tag: title
+#, no-c-format
+msgid "Whaaw! MediaPlayer"
+msgstr "Whaaw! MediaPlayer"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Whaaw! Media Player"
+msgstr "Screenshoty z Whaaw! Media Player"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Whaaw! Media Player will play any audio/video files which GStreamer can "
+"manage. It supports fullscreen mode, seeking, changing video colour settings"
+" and more. It is intended to be a basic media player with few dependencies."
+msgstr ""
+
+#. Tag: title
+#, no-c-format
+msgid "Zim"
+msgstr "Zim"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Zim is a bit of everything. In essence, it is a desktop wiki, and it allows "
+"you a great deal of flexibility regarding what you can do with it. For "
+"instance, one can use it to keep track of TODO lists of ideas, to take notes"
+" in a meeting, as a drafting tool for blog entries, mails and so on."
+msgstr ""

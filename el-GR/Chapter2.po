@@ -1,19 +1,19 @@
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 # Translators:
 # Dimitris Tzemos <djemos@slackel.gr>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-11-21 17:09+0000\n"
-"Last-Translator: djemos <djemos@slackel.gr>\n"
-"Language-Team: None\n"
-"Language: el\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2011-11-23 07:15+0000\n"
+"Last-Translator: Dimitris Tzemos <djemos@slackel.gr>\n"
+"Language-Team: Greek (http://www.transifex.com/projects/p/salix_documentation/language/el/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Tag: title
 #, no-c-format
@@ -32,18 +32,33 @@ msgstr "Λήψη Salix OS"
 
 #. Tag: para
 #, no-c-format
-msgid "The latest Salix OS or Salix Live releases are freely and easily available as ISO image files from the Salix OS <ulink url=\"http://www.salixos.org/wiki/index.php?title=Download\">download page</ulink>."
+msgid ""
+"The latest Salix OS or Salix Live releases are freely and easily available "
+"as ISO image files from the Salix OS <ulink "
+"url=\"http://www.salixos.org/wiki/index.php?title=Download\">download "
+"page</ulink>."
 msgstr "Η τελευταία έκδοση του Salix OS ή οι εκδόσεις του Salix Live είναι ελεύθερα και εύκολα διαθέσιμες ως αρχεία εικόνας ISO από του Salix OS <ulink url=\"http://www.salixos.org/wiki/index.php?title=Download\"> τη σελίδα λήψης </ulink> ."
 
 #. Tag: para
 #, no-c-format
-msgid "An ISO image is an archive file of an optical disc. It can be easily rendered or burned to a DVD or CD by using media authoring or disc burning software. The resulting CD must not contain the .iso file; if it does, you have made a mistake in the process."
+msgid ""
+"An ISO image is an archive file of an optical disc. It can be easily "
+"rendered or burned to a DVD or CD by using media authoring or disc burning "
+"software. The resulting CD must not contain the .iso file; if it does, you "
+"have made a mistake in the process."
 msgstr "Μια εικόνα ISO είναι ένα συμπιεσμένο αρχείο ενός οπτικού δίσκου. Μπορεί εύκολα να αποδοθεί ή να καεί σε ένα DVD ή CD με τη χρήση πολυμέσων συγγραφής ή με τη χρήση καύσης λογισμικού. Το παραγόμενο CD δεν πρέπει να περιέχει το αρχείο iso?. Αν το κάνει, έχετε κάνει ένα λάθος στη διαδικασία."
 
 #. Tag: para
 #, no-c-format
-msgid "It is recommended, if possible, to verify the integrity of your downloaded file by comparing its <ulink url=\"http://en.wikipedia.org/wiki/Md5sum\">md5sum</ulink> file with the original one uploaded besides the corresponding ISO image file by Salix OS. This ensures that your downloaded image file matches exactly with the one provided on the Salix OS website, and minimises the possibility of installation errors later on."
-msgstr "Συνιστάται, εφόσον είναι δυνατόν, για να επαληθεύσετε την ακεραιότητα του ληφθέντος αρχείου σας με τη σύγκριση του <ulink url=\"http://en.wikipedia.org/wiki/Md5sum\"> md5sum </ulink> αρχείου με το αρχικό που μεταφορτώθηκε εκτός από το αντίστοιχο αρχείο εικόνας ISO από το Salix OS. Αυτό εξασφαλίζει ότι κατεβάσει το αρχείο εικόνας σας ταιριάζει ακριβώς με εκείνη που προβλέπεται στην ιστοσελίδα Salix OS, και ελαχιστοποιεί την πιθανότητα σφαλμάτων εγκατάσταση αργότερα."
+msgid ""
+"It is recommended, if possible, to verify the integrity of your downloaded "
+"file by comparing its <ulink "
+"url=\"http://en.wikipedia.org/wiki/Md5sum\">md5sum</ulink> file with the "
+"original one uploaded besides the corresponding ISO image file by Salix OS. "
+"This ensures that your downloaded image file matches exactly with the one "
+"provided on the Salix OS website, and minimises the possibility of "
+"installation errors later on."
+msgstr "Συνιστάται, εφόσον είναι δυνατόν, για να επαληθεύσετε την ακεραιότητα του ληφθέντος αρχείου σας με τη σύγκριση του <ulink url=\"http://en.wikipedia.org/wiki/Md5sum\"> md5sum </ulink> αρχείου με το αρχικό που μεταφορτώθηκε εκτός από το αντίστοιχο αρχείο εικόνας ISO από το Salix OS. Αυτό εξασφαλίζει ότι το ληφθέν αρχείο εικόνας σας, ταιριάζει ακριβώς με εκείνη που προβλέπεται στην ιστοσελίδα Salix OS, και ελαχιστοποιεί την πιθανότητα σφαλμάτων εγκατάστασης αργότερα."
 
 #. Tag: title
 #, no-c-format
@@ -52,27 +67,46 @@ msgstr "Τι είναι ένα Live CD / USB;"
 
 #. Tag: para
 #, no-c-format
-msgid "A Live CD is a CD-ROM holding a self-contained bootable and fully functional operating system. It loads into memory using only the data provided on the CD. It will not modify any operating system or data present on its host computer and will leave no trace after shutdown."
+msgid ""
+"A Live CD is a CD-ROM holding a self-contained bootable and fully functional"
+" operating system. It loads into memory using only the data provided on the "
+"CD. It will not modify any operating system or data present on its host "
+"computer and will leave no trace after shutdown."
 msgstr "Ένα Live CD είναι ένα CD-ROM που περιέχει ένα αυτο-περιεχόμενο εκκινήσιμο και πλήρως λειτουργικό λειτουργικό σύστημα. Φορτώνεται στη μνήμη χρησιμοποιώντας μόνο δεδομένα παρεχόμενα στο CD. Δεν θα τροποποιήσει κανένα λειτουργικό σύστημα ή δεδομένα που βρίσκονται στον κεντρικό υπολογιστή του και δεν θα αφήσει κανένα ίχνος μετά το κλείσιμο."
 
 #. Tag: para
 #, no-c-format
-msgid "A Live USB flash drive is similar to a Live CD, but it can have the added functionality of automatically and transparently writing changes back to its bootable medium."
+msgid ""
+"A Live USB flash drive is similar to a Live CD, but it can have the added "
+"functionality of automatically and transparently writing changes back to its"
+" bootable medium."
 msgstr "Μια ζωντανή (Live) USB flash συσκευή είναι ίδια με ένα ζωντανό CD, αλλά μπορεί να έχει την πρόσθετη λειτουργικότητα της αυτόματης και διαφανούς εγγραφής των αλλαγών πίσω στο εκκινήσιμο μέσον."
 
 #. Tag: para
 #, no-c-format
-msgid "Salix Live is the Live CD version of <ulink url=\"http://www.salixos.org/\">Salix OS</ulink>. You can therefore safely use it to 'test drive' Salix OS without having to install anything on your computer. You will thus be able to determine whether and to what extent Salix OS is compatible with your particular hardware configuration and if it suits your personal taste."
+msgid ""
+"Salix Live is the Live CD version of <ulink "
+"url=\"http://www.salixos.org/\">Salix OS</ulink>. You can therefore safely "
+"use it to 'test drive' Salix OS without having to install anything on your "
+"computer. You will thus be able to determine whether and to what extent "
+"Salix OS is compatible with your particular hardware configuration and if it"
+" suits your personal taste."
 msgstr "Το Salix Live είναι η ζωντανή εκδοχή CD του <ulink url=\"http://www.salixos.org/\"> Salix OS </ulink> . Μπορείτε λοιπόν να τη χρησιμοποιήσετε με ασφάλεια για να κάνετε ένα 'test drive' στο Salix OS χωρίς να χρειάζεται να εγκαταστήσετε τίποτα στον υπολογιστή σας. Θα είστε έτσι σε θέση να καθορίσετε αν και σε ποιο βαθμό το Salix OS είναι συμβατό με τις συγκεκριμένες ρυθμίσεις παραμέτρων του υλικού σας και αν ταιριάζει στο προσωπικό σας γούστο."
 
 #. Tag: para
 #, no-c-format
-msgid "If you are fully satisfied with your Live experience of Salix OS, you can then proceed to install it with the help of the Salix Live Installer."
+msgid ""
+"If you are fully satisfied with your Live experience of Salix OS, you can "
+"then proceed to install it with the help of the Salix Live Installer."
 msgstr "Εάν είστε απόλυτα ικανοποιημένοι με τη ζωντανή εμπειρία σας από το Salix OS, τότε μπορείτε να συνεχίσετε να το εγκαταστήσετε με τη βοήθεια του εγκαταστάτη του Salix Live."
 
 #. Tag: para
 #, no-c-format
-msgid "Salix Live will also come in handy as a mobile solution if you wish to carry Salix OS everywhere you go, or if you need to perform some basic rescue operation such as fixing an ailing LILO bootloader with Lilo Setup, configuring some partitions with Gparted, etc."
+msgid ""
+"Salix Live will also come in handy as a mobile solution if you wish to carry"
+" Salix OS everywhere you go, or if you need to perform some basic rescue "
+"operation such as fixing an ailing LILO bootloader with Lilo Setup, "
+"configuring some partitions with Gparted, etc."
 msgstr "Το Salix Live θα είναι επίσης χρήσιμο σαν μια κινητή λύση εάν επιθυμείτε να μεταφέρετε το Salix OS οπουδήποτε πηγαίνετε ή εάν χρειάζεστε να εκτελέσετε κάποια βασική λειτουργία διάσωσης όπως διορθώνοντας ένα προβληματικό εκκινητή LILO με το LiloSetup, διαμορφώνοντας κάποια διαμερίσματα με το Gparted, κλπ. ."
 
 #. Tag: title
@@ -82,12 +116,16 @@ msgstr "Δημιουργία ενός Salix Live USB "
 
 #. Tag: para
 #, no-c-format
-msgid "Open the .iso file using a software archiver (file-roller, xarchiver, 7-zip, iso-master, …)."
+msgid ""
+"Open the .iso file using a software archiver (file-roller, xarchiver, 7-zip,"
+" iso-master, …)."
 msgstr "Ανοίξτε το αρχείο.iso χρησιμοποιώντας ένα λογισμικό αρχειοθέτησης (file-roller, xarchiver, 7-zip, iso-master, ...)."
 
 #. Tag: para
 #, no-c-format
-msgid "Extract all files and folders (boot, packages and Salix Live) to your USB root directory."
+msgid ""
+"Extract all files and folders (boot, packages and Salix Live) to your USB "
+"root directory."
 msgstr "Εξάγει όλα τα αρχεία και τους φακέλους (boot, πακέτα και Salix Live) στο ριζικό κατάλογο του USB σας ."
 
 #. Tag: para
@@ -97,7 +135,10 @@ msgstr "Πηγαίνετε στο \"boot\" κατάλογο στο κλειδί 
 
 #. Tag: para
 #, no-c-format
-msgid "If you're running on Unix (Linux, BSD, Mac OS X), just run the file called “install-on-USB.sh”. If you're on Windows, just run the file called “install-on-USB.cmd” instead."
+msgid ""
+"If you're running on Unix (Linux, BSD, Mac OS X), just run the file called "
+"“install-on-USB.sh”. If you're on Windows, just run the file called "
+"“install-on-USB.cmd” instead."
 msgstr "Αν τρέχετε σε Unix (Linux, BSD, Mac OS X), εκτελέστε ακριβώς το αρχείο που ονομάζεται \"install-on-USB.sh\". Αν είστε σε Windows, εκτελέστε μόνο το αρχείο που ονομάζεται \"install-on-USB.cmd\" αντ 'αυτού."
 
 #. Tag: title
@@ -107,17 +148,26 @@ msgstr "Εκκίνηση από ένα Salix  CD/DVD/USB Key εγκατάστα�
 
 #. Tag: para
 #, no-c-format
-msgid "Your computer must be set to boot on the optical drive / USB port first before defaulting to the internal hard disk drive."
+msgid ""
+"Your computer must be set to boot on the optical drive / USB port first "
+"before defaulting to the internal hard disk drive."
 msgstr "Ο υπολογιστή σας πρέπει να ρυθμιστεί να εκκινεί πρώτα από τον οπτικό δίσκο πριν από το εξ΄ορισμού εσωτερικό σκληρό δίσκο."
 
 #. Tag: para
 #, no-c-format
-msgid "If that is not the case, you need to first modify the <ulink url=\"http://en.wikipedia.org/wiki/BIOS\">BIOS</ulink> setting, usually by pressing the Del key or the F2 key (or some other key combinations depending on your machine). Once in the BIOS, find the \"boot menu\" or similar and set the order of the boot devices properly, with your optical drive/USB port in the first position. Save your changes and reboot your computer."
+msgid ""
+"If that is not the case, you need to first modify the <ulink "
+"url=\"http://en.wikipedia.org/wiki/BIOS\">BIOS</ulink> setting, usually by "
+"pressing the Del key or the F2 key (or some other key combinations depending"
+" on your machine). Once in the BIOS, find the \"boot menu\" or similar and "
+"set the order of the boot devices properly, with your optical drive/USB port"
+" in the first position. Save your changes and reboot your computer."
 msgstr "Αν αυτό δεν συμβαίνει, θα πρέπει να τροποποιήσετε πρώτα τις ρυθμίσεις του <ulink url=\"http://en.wikipedia.org/wiki/BIOS\"> BIOS </ulink>, συνήθως πατώντας το πλήκτρο Del ή το πλήκτρο F2 (ή κάποιο άλλο συνδυασμό πλήκτρων ανάλογα με το μηχάνημά σας). Μόλις στο BIOS, βρείτε το \"μενού εκκίνησης\" ή παρόμοιο και ορίσετε τη σειρά των συσκευών εκκίνησης σωστά, με τον οπτικό δίσκο/USB στην πρώτη θέση. Αποθηκεύστε τις αλλαγές σας και να επανεκκινήσετε τον υπολογιστή σας."
 
 #. Tag: para
 #, no-c-format
-msgid "Insert the Salix OS (Live)CD/DVD or USB key, and start up your computer."
+msgid ""
+"Insert the Salix OS (Live)CD/DVD or USB key, and start up your computer."
 msgstr "Τοποθετήστε το Salix OS (Live) CD/DVD ή USB key, και κάντε εκκίνηση του υπολογιστή σας."
 
 #. Tag: title
@@ -132,12 +182,17 @@ msgstr "Στιγμιότυπο του μενού εκκίνησης του Salix
 
 #. Tag: para
 #, no-c-format
-msgid "The first screen to greet you will enable you to select your language. Once you have selected your language, simply press on the Enter key to activate your choice."
+msgid ""
+"The first screen to greet you will enable you to select your language. Once "
+"you have selected your language, simply press on the Enter key to activate "
+"your choice."
 msgstr "Η πρώτη οθόνη για να σας υποδεχτεί, θα σας δώσει τη δυνατότητα να επιλέξετε τη γλώσσα σας. Αφού επιλέξετε τη γλώσσα σας, απλά πιέστε το πλήκτρο Enter για να ενεργοποιήσετε την επιλογή σας."
 
 #. Tag: para
 #, no-c-format
-msgid "On the following menu, you will be given the possibility to change your keyboard map if the default one for your language does not suit you."
+msgid ""
+"On the following menu, you will be given the possibility to change your "
+"keyboard map if the default one for your language does not suit you."
 msgstr "Στο επόμενο μενού, θα σας δοθεί η δυνατότητα να αλλάξετε τον χάρτη του πληκτρολογίου σας, αν το προεπιλεγμένο για τη γλώσσα σας δεν σας ταιριάζει."
 
 #. Tag: phrase
@@ -147,12 +202,17 @@ msgstr "Στιγμιότυπο από τις επιλογές του Μενού 
 
 #. Tag: para
 #, no-c-format
-msgid "You also have the possibility to modify most default boot settings (see <xref linkend=\"sect-Startup_Guide-Advanced_Live_CD_Options-Advanced_Boot_Options\" />)."
+msgid ""
+"You also have the possibility to modify most default boot settings (see "
+"<xref linkend=\"sect-Startup_Guide-Advanced_Live_CD_Options-"
+"Advanced_Boot_Options\" />)."
 msgstr "Έχετε επίσης τη δυνατότητα να τροποποιήσετε τις περισσότερες ρυθμίσεις εκκίνησης (δείτε <xref linkend=\"sect-Startup_Guide-Advanced_Live_CD_Options-Advanced_Boot_Options\" /> )."
 
 #. Tag: para
 #, no-c-format
-msgid "Simply press Enter on the default menu entry: Start Salix Live and a moment later you will see Salix starting up."
+msgid ""
+"Simply press Enter on the default menu entry: Start Salix Live and a moment "
+"later you will see Salix starting up."
 msgstr "Απλά πατήστε Enter για την είσοδο στο προεπιλεγμένο μενού: Ξεκινήστε το Salix Live και λίγο αργότερα θα δείτε το Salix να ξεκινά."
 
 #. Tag: title
@@ -162,13 +222,18 @@ msgstr "Κωδικός Root"
 
 #. Tag: para
 #, no-c-format
-msgid "For a system wide change, such as installation of an application, you are required to type in the administrator's password (the “root” or “superuser” password)."
+msgid ""
+"For a system wide change, such as installation of an application, you are "
+"required to type in the administrator's password (the “root” or “superuser” "
+"password)."
 msgstr "Για μια μεγάλη αλλαγή συστήματος, όπως η εγκατάσταση μιας εφαρμογής, σας ζητείται να πληκτρολογήσετε τον κωδικό πρόσβασης του διαχειριστή (το password του \"root\" ή του \"superuser\")."
 
 #. Tag: para
 #, no-c-format
-msgid "The password for Salix Live is <emphasis role=\"bold\">live</emphasis> for all the Salix Live editions."
-msgstr "Ο κωδικός πρόσβασης για το Salix Live είναι <emphasis role=\"bold\">live</emphasis> για όλα τις εκδόσεις του Salix Live."
+msgid ""
+"The password for Salix Live is <emphasis role=\"bold\">live</emphasis> for "
+"all the Salix Live editions."
+msgstr "Ο κωδικός πρόσβασης για το Salix Live είναι <emphasis role=\"bold\">live</emphasis> για όλες τις εκδόσεις του Salix Live."
 
 #. Tag: title
 #, no-c-format
@@ -182,7 +247,9 @@ msgstr "Πριν από την έναρξη"
 
 #. Tag: para
 #, no-c-format
-msgid "Installing Salix OS on your computer is simple. But before starting, it is wise to check the following points:"
+msgid ""
+"Installing Salix OS on your computer is simple. But before starting, it is "
+"wise to check the following points:"
 msgstr "Η εγκατάσταση του Salix OS στον υπολογιστή σας είναι απλή. Αλλά πριν από την έναρξη, είναι συνετό να ελέγξετε τα ακόλουθα σημεία:"
 
 #. Tag: para
@@ -197,22 +264,32 @@ msgstr "Ελέγξτε αν ο υπολογιστής σας έρχεται με
 
 #. Tag: para
 #, no-c-format
-msgid "Recommended running specification (Intel PIII 1 GHz, 512 Mb RAM, 8Gb HD space, or equivalent, though a lower spec machine may run without a problem)"
+msgid ""
+"Recommended running specification (Intel PIII 1 GHz, 512 Mb RAM, 8Gb HD "
+"space, or equivalent, though a lower spec machine may run without a problem)"
 msgstr "Προτεινόμενες προδιαγραφές λειτουργίας (Intel PIII 1 GHz, μνήμη RAM 512 MB, 8Gb χωρητικότητα στο σκληρό δίσκο, ή ισοδύναμο, αν και μπορεί να τρέξει χωρίς πρόβλημα και σε μηχανή χαμηλότερων προδιαγραφών)"
 
 #. Tag: para
 #, no-c-format
-msgid "At least one separate <ulink url=\"http://en.wikipedia.org/wiki/Disk_partitioning\">partition</ulink> dedicated for Salix on your computer"
+msgid ""
+"At least one separate <ulink "
+"url=\"http://en.wikipedia.org/wiki/Disk_partitioning\">partition</ulink> "
+"dedicated for Salix on your computer"
 msgstr "Τουλάχιστον ένα ξεχωριστό <ulink url=\"http://en.wikipedia.org/wiki/Disk_partitioning\">διαμέρισμα</ulink> αφιερωμένο για το Salix στον υπολογιστή σας"
 
 #. Tag: para
 #, no-c-format
-msgid "* Although it is possible to install Linux on a Mac computer, you have to install a bootcamp software called rEFIt beforehand. Certain file systems, such as xfs, cannot be used with a Mac."
+msgid ""
+"* Although it is possible to install Linux on a Mac computer, you have to "
+"install a bootcamp software called rEFIt beforehand. Certain file systems, "
+"such as xfs, cannot be used with a Mac."
 msgstr "* Αν και είναι δυνατό να εγκαταστήσετε το Linux σε έναν υπολογιστή Mac, θα πρέπει να εγκαταστήσετε ένα λογισμικό που ονομάζεται Bootcamp ΑΝΑΚΑΤΑΣΚΕΥΗΣ εκ των προτέρων. Ορισμένα συστήματα αρχείων, όπως το xfs, δεν μπορούν να χρησιμοποιηθούν με έναν Mac."
 
 #. Tag: para
 #, no-c-format
-msgid "The easiest way to check the compatibility of your computer is to use one of the available Salix OS Live editions."
+msgid ""
+"The easiest way to check the compatibility of your computer is to use one of"
+" the available Salix OS Live editions."
 msgstr "Ο ευκολότερος τρόπος για να ελέγξετε τη συμβατότητα του υπολογιστή σας είναι να χρησιμοποιήσετε μία από τις διαθέσιμες εκδόσεις Salix OS Live."
 
 #. Tag: title
@@ -227,32 +304,60 @@ msgstr "Screenshot του Gparted"
 
 #. Tag: para
 #, no-c-format
-msgid "Before installing Salix (from the live CD or not), you need to have the necessary partition space available on your system, and if the computer does not have a separate partition for Linux, you must create one before installing Salix OS."
+msgid ""
+"Before installing Salix (from the live CD or not), you need to have the "
+"necessary partition space available on your system, and if the computer does"
+" not have a separate partition for Linux, you must create one before "
+"installing Salix OS."
 msgstr "Πριν από την εγκατάσταση του Salix (από το live CD ή όχι), θα πρέπει να έχετε τον απαραίτητο χώρο σε ένα διαμέρισμα διαθέσιμο στο σύστημά σας, και εάν ο υπολογιστής δεν διαθέτει μια ξεχωριστή κατάτμηση για το Linux, θα πρέπει να δημιουργήσετε μια πριν την εγκατάσταση του Salix OS."
 
 #. Tag: para
 #, no-c-format
-msgid "It is advisable to back up any important files before modifying the partition table."
+msgid ""
+"It is advisable to back up any important files before modifying the "
+"partition table."
 msgstr "Καλό θα είναι να δημιουργήσετε αντίγραφα ασφαλείας των σημαντικών αρχείων πριν από την τροποποίηση του πίνακα διαμερισμάτων."
 
 #. Tag: para
 #, no-c-format
-msgid "Every Salix Live CD comes with <ulink url=\"http://gparted.sourceforge.net/docs/help-manual/C/gparted_manual.html\">Gparted</ulink>, which will enable you to change the partition organisation on a disk device while preserving the contents of the partitions. You may with to use this application to create/re-organise your partition table."
+msgid ""
+"Every Salix Live CD comes with <ulink "
+"url=\"http://gparted.sourceforge.net/docs/help-"
+"manual/C/gparted_manual.html\">Gparted</ulink>, which will enable you to "
+"change the partition organisation on a disk device while preserving the "
+"contents of the partitions. You may with to use this application to create"
+"/re-organise your partition table."
 msgstr "Κάθε Salix Live CD έρχεται με το <ulink url=\"http://gparted.sourceforge.net/docs/help-manual/C/gparted_manual.html\">Gparted</ulink>, το οποίο θα επιτρέψει σε σας να αλλάξετε την οργάνωση των διαμερισμάτων σε μια συσκευή δίσκου, διατηρώντας παράλληλα το περιεχόμενο των κατατμήσεων. Μπορείτε να χρησιμοποιήσετε αυτή την εφαρμογή για τη δημιουργία/αναδιοργάνωση του πίνακα διαμέρισης."
 
 #. Tag: para
 #, no-c-format
-msgid "Alternatively, if you have an unformatted partition, unallocated disk space, or an existing partition you do not use, you can create or rewrite a new partition table using <ulink url=\"http://en.wikipedia.org/wiki/Cfdisk\">Cfdisk</ulink> (which comes with the Salix installation CD)."
+msgid ""
+"Alternatively, if you have an unformatted partition, unallocated disk space,"
+" or an existing partition you do not use, you can create or rewrite a new "
+"partition table using <ulink "
+"url=\"http://en.wikipedia.org/wiki/Cfdisk\">Cfdisk</ulink> (which comes with"
+" the Salix installation CD)."
 msgstr "Εναλλακτικά, εάν έχετε μια αδιαμόρφωτη κατάτμηση, ελεύθερο χώρο στο δίσκο, ή ένα υπάρχον διαμέρισμα που δεν χρησιμοποιείτε, μπορείτε να δημιουργήσετε ή να ξαναγράψετε έναν νέο πίνακα διαμέρισης χρησιμοποιώντας το <ulink url=\"http://en.wikipedia.org/wiki/Cfdisk\">Cfdisk</ulink> (Που έρχεται με το CD εγκατάστασης του Salix)."
 
 #. Tag: para
 #, no-c-format
-msgid "Both applications are simple to use and require no further explanation on how to use them, except for a small comment about “partition types”."
+msgid ""
+"Both applications are simple to use and require no further explanation on "
+"how to use them, except for a small comment about “partition types”."
 msgstr "Και οι δύο εφαρμογές είναι απλές στη χρήση και δεν χρειάζονται περαιτέρω εξηγήσεις για το πώς να τα χρησιμοποιήσετε, εκτός από ένα μικρό σχόλιο για τους \"τύπους κατατμήσεων\"."
 
 #. Tag: para
 #, no-c-format
-msgid "A hard drive space can be divided into no more than four “primary” partitions, which can be problematic if you are hosting more than one operating system on the same hard drive. A hard drive can, however, be divided into three “primary” partitions and one “extended” partition. The extended partition can then be subdivided into “logical” partitions and hence overcome the limitation set by the “primary partition” (i.e. no more than four partitions). In practice, there is no difference between a logical and a primary partition except for that “Windows” OS cannot be installed on a logical partition."
+msgid ""
+"A hard drive space can be divided into no more than four “primary” "
+"partitions, which can be problematic if you are hosting more than one "
+"operating system on the same hard drive. A hard drive can, however, be "
+"divided into three “primary” partitions and one “extended” partition. The "
+"extended partition can then be subdivided into “logical” partitions and "
+"hence overcome the limitation set by the “primary partition” (i.e. no more "
+"than four partitions). In practice, there is no difference between a logical"
+" and a primary partition except for that “Windows” OS cannot be installed on"
+" a logical partition."
 msgstr "Ένας χώρος στο σκληρό δίσκο μπορούν να χωριστεί σε όχι περισσότερα από τέσσερες \"κύριες\" κατατμήσεις, το οποίεο μπορεί να είναι προβληματικό εάν φιλοξενείτε περισσότερα από ένα λειτουργικά συστήματα στον ίδιο σκληρό δίσκο. Ένας σκληρός δίσκος μπορεί, ωστόσο, να χωριστεί σε τρεις \"κύριες\" κατατμήσεις και μια \"εκτεταμένη\" κατάτμηση. Το εκτεταμένο διαμέρισμα μπορεί στη συνέχεια να υποδιαιρεθεί σε \"λογικές\" κατατμήσεις και ως εκ τούτου να ξεπεραστεί το όριο που θέτει το «πρωτεύον διαμέρισμα\" (δηλαδή όχι περισσότερο από τέσσερα διαμερίσματα). Στην πράξη, δεν υπάρχει καμία διαφορά ανάμεσα σε ένα λογικό και ένα πρωτεύον διαμέρισμα, εκτός από το ότι το λειτουργικό σύστημα \"Windows\" δεν μπορεί να εγκατασταθεί σε μια λογική κατάτμηση."
 
 #. Tag: title
@@ -262,37 +367,66 @@ msgstr "Οπότε τι είδους κατατμήσεις χρειάζεστε
 
 #. Tag: para
 #, no-c-format
-msgid "Salix needs, at the very minimum, one partition which holds the root directory and must be assigned as “/” (without the quotation marks)."
+msgid ""
+"Salix needs, at the very minimum, one partition which holds the root "
+"directory and must be assigned as “/” (without the quotation marks)."
 msgstr "Το Salix χρειάζεται, το ελάχιστο, ένα διαμέρισμα το οποίο κατέχει το ριζικό κατάλογο και πρέπει να αποδίδεται ως \"/\" (χωρίς τα εισαγωγικά)."
 
 #. Tag: para
 #, no-c-format
-msgid "It is highly recommended to have one swap partition. If you already have another Linux OS running on your machine, its swap partition can be shared, and you do not need to create another. A swap partition size is in essence used as an extra RAM to improve the performance of your machine. If, for example, your machine doesn’t have a lot of physical RAM or you’re performing memory-intensive operations (such as video editing) that use up most or all of the physical RAM. It is normally recommended to have 1.5-2 times the size of your RAM, but for a modern desktop computer with more than a couple Gb of RAM, swap may not be necessary."
+msgid ""
+"It is highly recommended to have one swap partition. If you already have "
+"another Linux OS running on your machine, its swap partition can be shared, "
+"and you do not need to create another. A swap partition size is in essence "
+"used as an extra RAM to improve the performance of your machine. If, for "
+"example, your machine doesn’t have a lot of physical RAM or you’re "
+"performing memory-intensive operations (such as video editing) that use up "
+"most or all of the physical RAM. It is normally recommended to have 1.5-2 "
+"times the size of your RAM, but for a modern desktop computer with more than"
+" a couple Gb of RAM, swap may not be necessary."
 msgstr "Συνιστάται ιδιαίτερα να έχετε μια κατάτμηση swap. Αν ένα άλλο λειτουργικό σύστημα Linux τρέχει ήδη στον υπολογιστή σας, η κατάτμηση του swap μπορεί να μοιραστεί, και δεν χρειάζεται να δημιουργήσετε μια άλλη. Το μέγεθος της κατάτμησης swap στην ουσία που χρησιμοποιείται ως μια επιπλέον μνήμη RAM για να βελτιωθούν οι επιδόσεις του υπολογιστή σας. Αν, για παράδειγμα, η μηχανή σας δεν διαθέτει πολλή φυσική μνήμη RAM ή εκτελείτε εφαρμογές που καταναλώνουν πολλή μνήμη (όπως η επεξεργασία βίντεο) που χρησιμοποιούν το μεγαλύτερο μέρος ή το σύνολο της φυσικής μνήμης RAM. Συνήθως συνιστάται να έχετε 1,5-2 φορές το μέγεθος της RAM σας, αλλά για ένα σύγχρονο υπολογιστή με περισσότερο από ένα ζευγάρι Gb μνήμης RAM, το swap μπορεί να μην είναι απαραίτητο."
 
 #. Tag: para
 #, no-c-format
-msgid "It is also highly recommended to have one partition to hold your /home directory, where you can store all your personal data such as documents, photos, customised settings for the desktop environment etc."
+msgid ""
+"It is also highly recommended to have one partition to hold your /home "
+"directory, where you can store all your personal data such as documents, "
+"photos, customised settings for the desktop environment etc."
 msgstr "Επίσης, ιδιαίτερα συνιστάται να έχετε ένα διαμέρισμα για να κρατήσει το /home κατάλογό σας, όπου μπορείτε να αποθηκεύσετε όλα τα προσωπικά σας στοιχεία, όπως έγγραφα, φωτογραφίες, προσαρμοσμένες ρυθμίσεις για το περιβάλλον επιφάνειας εργασίας, κλπ."
 
 #. Tag: para
 #, no-c-format
-msgid "It is optional to have one partition to hold the /usr directory, where application files are stored (similar to the “Program Files” directory in Windows or the “/Apps” in Mac OS X)."
+msgid ""
+"It is optional to have one partition to hold the /usr directory, where "
+"application files are stored (similar to the “Program Files” directory in "
+"Windows or the “/Apps” in Mac OS X)."
 msgstr "Είναι προαιρετικό να έχουμε ένα διαμέρισμα για να κρατήσει το /usr κατάλογο, όπου αποθηκεύονται τα αρχεία εφαρμογών (παρόμοια με το \"Program Files\" κατάλογο των Windows ή το \"/Apps\" σε Mac OS X)."
 
 #. Tag: para
 #, no-c-format
-msgid "Optionally you can create one partition to hold the /var directory, where system log files are stored. But unless you are running a server machine, this is probably unnecessary."
+msgid ""
+"Optionally you can create one partition to hold the /var directory, where "
+"system log files are stored. But unless you are running a server machine, "
+"this is probably unnecessary."
 msgstr "Προαιρετικά μπορείτε να δημιουργήσετε ένα διαμέρισμα για να κρατήσει το /var κατάλογο, όπου είναι αποθηκευμένα τα αρχεία καταγραφής του συστήματος. Αλλά εκτός αν τρέχετε ένα μηχάνημα server, αυτό είναι μάλλον περιττό."
 
 #. Tag: para
 #, no-c-format
-msgid "An advantage of having more than one partition to hold separate directories is that you can reformat one partition without affecting others. For example, you can re-install Salix on your machine (and this goes to the partition holding the “/” directory) while leaving the partition holding the /home directory intact."
+msgid ""
+"An advantage of having more than one partition to hold separate directories "
+"is that you can reformat one partition without affecting others. For "
+"example, you can re-install Salix on your machine (and this goes to the "
+"partition holding the “/” directory) while leaving the partition holding the"
+" /home directory intact."
 msgstr "Ένα πλεονέκτημα που έχουν περισσότερα από ένα διαμερίσματα για να κρατήσουν ξεχωριστούς καταλόγους είναι ότι μπορείτε να διαμορφώσετε ένα διαμέρισμα χωρίς να επηρεάζει τα άλλα. Για παράδειγμα, μπορείτε να εγκαταστήσετε ξανά το Salix στον υπολογιστή σας (και αυτό ισχύει για το διαμέρισμα κρατώντας το \"/\" κατάλογο), παράλληλα αφήνοντας το διαμέρισμα που περιέχει το /home κατάλογο άθικτο."
 
 #. Tag: para
 #, no-c-format
-msgid "Each partition can be formatted into one of several <ulink url=\"http://en.wikipedia.org/wiki/List_of_file_systems\">file systems</ulink>. Unless you have a particular favourite for a reason, we recommend you format your partitions with the ext4 file system."
+msgid ""
+"Each partition can be formatted into one of several <ulink "
+"url=\"http://en.wikipedia.org/wiki/List_of_file_systems\">file "
+"systems</ulink>. Unless you have a particular favourite for a reason, we "
+"recommend you format your partitions with the ext4 file system."
 msgstr "Κάθε διαμέρισμα μπορεί να μορφοποιηθεί σε ένα από τα πολλά <ulink url=\"http://en.wikipedia.org/wiki/List_of_file_systems\">συστήματα αρχείων</ulink>. Εκτός αν έχετε ένα συγκεκριμένο ειδικό λόγο, σας συνιστούμε να διαμορφώνετε τα διαμερίσματα σας με το σύστημα αρχείων ext4."
 
 #. Tag: title
@@ -302,12 +436,20 @@ msgstr "Εγκατάσταση από ένα Live CD/USB"
 
 #. Tag: para
 #, no-c-format
-msgid "Salix Live Installer is found on the Desktop of every Live CD and is very easy to use. Contextual help triggered by the position of the mouse will be displayed above the application and will guide you every step of the way."
+msgid ""
+"Salix Live Installer is found on the Desktop of every Live CD and is very "
+"easy to use. Contextual help triggered by the position of the mouse will be "
+"displayed above the application and will guide you every step of the way."
 msgstr "Ο Salix Live Installer βρίσκεται στην επιφάνεια εργασίας του κάθε Live CD και είναι πολύ εύκολος στη χρήση. Εξειδικευμένη Βοήθεια που ενεργοποιείται από τη θέση του ποντικιού θα εμφανιστεί πάνω από την εφαρμογή και θα σας καθοδηγήσει σε κάθε βήμα της εγκατάστασης."
 
 #. Tag: para
 #, no-c-format
-msgid "You will be greeted by a reminder that all the necessary partitions have to be created first. As we have seen, this can be done simply with the help of Gparted, which is included in Salix Live and is available directly on the desktop (see <xref linkend=\"sect-Startup_Guide-Salix_Live_Tools-Gparted\" />)."
+msgid ""
+"You will be greeted by a reminder that all the necessary partitions have to "
+"be created first. As we have seen, this can be done simply with the help of "
+"Gparted, which is included in Salix Live and is available directly on the "
+"desktop (see <xref linkend=\"sect-Startup_Guide-Salix_Live_Tools-Gparted\" "
+"/>)."
 msgstr "Θα ειδοποιηθείτε από μια υπενθύμιση ότι όλες οι απαραίτητες κατατμήσεις πρέπει να δημιουργηθούν πρώτα. Όπως είδαμε, αυτό μπορεί να γίνει απλά με τη βοήθεια του GParted, που περιλαμβάνεται στο Salix Live και είναι διαθέσιμο άμεσα στην επιφάνεια εργασίας (βλ. <xref linkend=\"sect-Startup_Guide-Salix_Live_Tools-Gparted\" /> )."
 
 #. Tag: phrase
@@ -317,17 +459,29 @@ msgstr "Στιγμιότυπο του εγκαταστάτη του Salix Live"
 
 #. Tag: para
 #, no-c-format
-msgid "On the left side of the application, you will notice the different sections that must be configured before launching the installation process: Time, Keyboard, Locale, Partitions, Users and Software. Clicking on one of these sections will display the corresponding options that need to be set. As you progress through the configuration process, a check will be displayed beside each completed section. Only when all the sections have been completed will the “Launch Salix Install” button be activated."
+msgid ""
+"On the left side of the application, you will notice the different sections "
+"that must be configured before launching the installation process: Time, "
+"Keyboard, Locale, Partitions, Users and Software. Clicking on one of these "
+"sections will display the corresponding options that need to be set. As you "
+"progress through the configuration process, a check will be displayed beside"
+" each completed section. Only when all the sections have been completed will"
+" the “Launch Salix Install” button be activated."
 msgstr "Στην αριστερή πλευρά της εφαρμογής, θα παρατηρήσετε τις διαφορετικές ενότητες που πρέπει να ρυθμιστoύν πριν από την έναρξη της διαδικασίας εγκατάστασης: Ώρα, Πληκτρολόγιο, σκηνές, χωρίσματα, Χρήστες και λογισμικού. Κάνοντας κλικ σε ένα από αυτά τα τμήματα θα εμφανιστούν οι αντίστοιχες επιλογές που πρέπει να τεθούν. Όπως προχωρεί η διαδικασία διαμόρφωσης, ένας έλεγχος θα εμφανιστεί δίπλα σε κάθε ολοκληρωμένο τμήμα. Μόνο όταν όλα τα τμήματα που έχουν ολοκληρωθεί, θα ενεργοποιηθεί το κουμπί \"Ξεκίνημα Εγκατάστασης του Salix \"."
 
 #. Tag: para
 #, no-c-format
-msgid "So do take the time to familiarise yourself fully with Salix Live Installer. Undo options are available and none of the settings will be applied until you click on the “Launch Salix Install” button."
+msgid ""
+"So do take the time to familiarise yourself fully with Salix Live Installer."
+" Undo options are available and none of the settings will be applied until "
+"you click on the “Launch Salix Install” button."
 msgstr "Έτσι, αφιερώστε χρόνο να εξοικειωθείτε πλήρως με τον εγκαταστάτη του Salix Live. Η αναίρεση των επιλογών είναι διαθέσιμη και καμία από τις ρυθμίσεις δεν θα εφαρμοστεί μέχρι να κάνετε κλικ στο κουμπί \"Ξεκίνημα Εγκατάστασης του Salix\"."
 
 #. Tag: para
 #, no-c-format
-msgid "Remember that the existing swap partition will be automatically used by the Live installer without any prompting on your part."
+msgid ""
+"Remember that the existing swap partition will be automatically used by the "
+"Live installer without any prompting on your part."
 msgstr "Θυμηθείτε ότι η υπάρχουσα κατάτμηση swap θα χρησιμοποιηθεί αυτόματα από το ζωντανό πρόγραμμα εγκατάστασης χωρίς καμία ειδοποίηση από την πλευρά σας."
 
 #. Tag: phrase
@@ -337,17 +491,37 @@ msgstr "Στιγμιότυπο από τη διαμόρφωση κατατμήσ
 
 #. Tag: para
 #, no-c-format
-msgid "Salix comes with three different installation modes. The Full installation mode includes a range of useful applications one could need on a daily basis while following the \"one application per task\" rationale, while the Basic Mode provides a user with a graphical desktop environment, a web browser and Gslapt package manager (see <xref linkend=\"sect-Startup_Guide-Package_Management-Gslapt\" />)."
+msgid ""
+"Salix comes with three different installation modes. The Full installation "
+"mode includes a range of useful applications one could need on a daily basis"
+" while following the \"one application per task\" rationale, while the Basic"
+" Mode provides a user with a graphical desktop environment, a web browser "
+"and Gslapt package manager (see <xref linkend=\"sect-Startup_Guide-"
+"Package_Management-Gslapt\" />)."
 msgstr "To Salix έρχεται με τρεις διαφορετικούς τρόπους εγκατάστασης. Η λειτουργία πλήρους εγκατάστασης περιλαμβάνει μια σειρά από χρήσιμες εφαρμογές που θα μπορούσε κανείς να χρειάζεται σε καθημερινή βάση, ακολουθώντας την λογική \"μία εφαρμογή ανά έργο\", ενώ η βασική λειτουργία παρέχει ένα χρήστη με ένα γραφικό περιβάλλον επιφάνειας εργασίας, ένα web browser και Gslapt διαχειριστή πακέτων (βλέπε <xref linkend=\"sect-Startup_Guide-Package_Management-Gslapt\" /> )."
 
 #. Tag: para
 #, no-c-format
-msgid "This is ideal for advanced users who would like to have the basic desktop environment installed first, and then to add their own choice of applications. The Core Mode installs the minimum software essential for a console system to start (i.e. a graphical environment is not provided). This is ideal if you are an experienced user and love to customise your installation for any specific purpose, such as a web server, file server and so on."
+msgid ""
+"This is ideal for advanced users who would like to have the basic desktop "
+"environment installed first, and then to add their own choice of "
+"applications. The Core Mode installs the minimum software essential for a "
+"console system to start (i.e. a graphical environment is not provided). This"
+" is ideal if you are an experienced user and love to customise your "
+"installation for any specific purpose, such as a web server, file server and"
+" so on."
 msgstr "Αυτό είναι ιδανικό για προχωρημένους χρήστες που θα ήθελαν να έχουν το βασικό περιβάλλον εργασίας εγκατεστημένο στην αρχή, και στη συνέχεια να προσθέσουν τη δική τους επιλογή εφαρμογών. Η λειτουργία πυρήνα εγκαθιστά το ελάχιστο απαραίτητο λογισμικό για να ξεκινήσει ένα σύστημα κονσόλας (π.χ. ένα γραφικό περιβάλλον δεν παρέχεται). Αυτό είναι ιδανικό εάν είστε έμπειρος χρήστης και θέλετε να προσαρμόσετε την εγκατάσταση σας για οποιοδήποτε συγκεκριμένο σκοπό, όπως έναν web server, file server και ούτω καθεξής."
 
 #. Tag: para
 #, no-c-format
-msgid "Once the installation process is completed, you will be given the choice to launch Lilo Setup to configure your LILO bootloader (see <xref linkend=\"sect-Startup_Guide-Salix_Tools-Lilo_Setup\" />). Most of the time this is what you will want to do although occasionally, it might be preferable not to, for example if you want to use Grub instead or if you want to simply incorporate Salix into an existing bootloader configuration from another distribution in a multiple boot setup."
+msgid ""
+"Once the installation process is completed, you will be given the choice to "
+"launch Lilo Setup to configure your LILO bootloader (see <xref linkend"
+"=\"sect-Startup_Guide-Salix_Tools-Lilo_Setup\" />). Most of the time this is"
+" what you will want to do although occasionally, it might be preferable not "
+"to, for example if you want to use Grub instead or if you want to simply "
+"incorporate Salix into an existing bootloader configuration from another "
+"distribution in a multiple boot setup."
 msgstr "Μόλις η διαδικασία ολοκληρωθεί, θα σας δοθεί η επιλογή να ξεκινήσει η Ρύθμιση Lilo για να ρυθμίσετε τον φορτωτή εκκίνησης LILO σας (βλέπε <xref linkend=\"sect-Startup_Guide-Salix_Tools-Lilo_Setup\" /> ). Τις περισσότερες φορές αυτό είναι που θα θέλετε να το κάνετε αν και περιστασιακά, μπορεί να είναι προτιμότερο να μην το κάνετε, για παράδειγμα αν θέλετε να χρησιμοποιήσετε το Grub ή αν θέλετε να ενσωματώσετε απλά το Salix στις πολλαπλές επιλογές εκκίνησης του προγράμματος Εγκατάστασης σε μια ήδη υπάρχουσα διαμόρφωση του φορτωτή εκκίνησης από μια άλλη διανομή ."
 
 #. Tag: phrase
@@ -357,12 +531,17 @@ msgstr "Στιγμιότυπο από την επιλογή πακέτων το�
 
 #. Tag: para
 #, no-c-format
-msgid "Lilo Setup is also very easy to use. Contextual help triggered by the position of the mouse will also be displayed above the application and will guide you every step of the way."
+msgid ""
+"Lilo Setup is also very easy to use. Contextual help triggered by the "
+"position of the mouse will also be displayed above the application and will "
+"guide you every step of the way."
 msgstr "Η Ρύθμιση Lilo είναι επίσης πολύ εύκολη στη χρήση. Εξειδικευμένη Βοήθεια ενεργοποιείται από τη θέση του ποντικιού και θα εμφανιστεί πάνω από την εφαρμογή και θα σας καθοδηγήσει σε κάθε βήμα της εγκατάστασης."
 
 #. Tag: para
 #, no-c-format
-msgid "Once Lilo is set up, you are good to go! You can re-start your machine, and start enjoying Salix time."
+msgid ""
+"Once Lilo is set up, you are good to go! You can re-start your machine, and "
+"start enjoying Salix time."
 msgstr "Μόλις η Lilo έχει δημιουργηθεί, είστε έτοιμοι! Μπορείτε να ξεκινήστε ξανά τον υπολογιστή σας, και αρχίστε να απολαμβάνετε το Salix."
 
 #. Tag: title
@@ -372,7 +551,10 @@ msgstr "Εγκατάσταση από το CD εγκατάστασης Salix"
 
 #. Tag: para
 #, no-c-format
-msgid "Installing Salix from a Salix Installation CD is very similar to installing Slackware. Everything will be done efficiently in a semi-graphical command line interface."
+msgid ""
+"Installing Salix from a Salix Installation CD is very similar to installing "
+"Slackware. Everything will be done efficiently in a semi-graphical command "
+"line interface."
 msgstr "Η εγκατάσταση του Salix από ένα CD εγκατάστασης Salix είναι πολύ παρόμοια με την εγκατάσταση του Slackware. Όλα θα πρέπει να γίνουν αποτελεσματικά σε μια ημι-γραφική διεπαφή γραμμής εντολών."
 
 #. Tag: para
@@ -382,42 +564,69 @@ msgstr "Επιλέξτε το πληκτρολόγιό σας."
 
 #. Tag: para
 #, no-c-format
-msgid "If you prefer to let Salix do everything including partition management, just select AUTOPARTITION. Note that this will delete everything on the hard drive."
+msgid ""
+"If you prefer to let Salix do everything including partition management, "
+"just select AUTOPARTITION. Note that this will delete everything on the hard"
+" drive."
 msgstr "Εάν προτιμάτε να αφήσετε το Salix να κάνει τα πάντα, συμπεριλαμβανομένης της διαχείρισης κατατμήσεων, απλά επιλέξτε αυτόματη διαμέριση των δίσκων. Σημειώστε ότι αυτό θα διαγράψει όλα τα δεδομένα στο σκληρό δίσκο."
 
 #. Tag: para
 #, no-c-format
-msgid "Partition management with cfdisk – you can select the hard drive you would like to modify with the arrow keys and the space key."
+msgid ""
+"Partition management with cfdisk – you can select the hard drive you would "
+"like to modify with the arrow keys and the space key."
 msgstr "Διαχείριση κατατμήσεων με το cfdisk - μπορείτε να επιλέξετε το σκληρό δίσκο που θέλετε να τροποποιήσετε με τα βελάκια και το πλήκτρο space."
 
 #. Tag: para
 #, no-c-format
-msgid "You can create a new partition by selecting a free disk space and choosing New. You will be asked to select “primary” partition / “extended” partition first and then set the size. Remember, you can have up to four primary partitions or three primary partition with one extended partition for more partitions. Let's say we want to create one swap partition and partitions for the “/” and “/home” directories."
+msgid ""
+"You can create a new partition by selecting a free disk space and choosing "
+"New. You will be asked to select “primary” partition / “extended” partition "
+"first and then set the size. Remember, you can have up to four primary "
+"partitions or three primary partition with one extended partition for more "
+"partitions. Let's say we want to create one swap partition and partitions "
+"for the “/” and “/home” directories."
 msgstr "Μπορείτε να δημιουργήσετε ένα νέο διαμέρισμα επιλέγοντας ένα ελεύθερο χώρο στο δίσκο και την επιλογή Νέο. Θα σας ζητηθεί να επιλέξετε το \"πρωτογενές\" διαμέρισμα/\"εκτεταμένο\" διαμέρισμα και στη συνέχεια να ρυθμίσετε το μέγεθος. Θυμηθείτε, μπορείτε να έχετε μέχρι και τέσσερα πρωτεύοντα διαμερίσματα ή τρία πρωτεύοντα διαμέρισμα με ένα εκτεταμένο διαμέρισμα για περισσότερα διαμερίσματα. Ας πούμε ότι θέλουμε να δημιουργήσουμε μία κατάτμηση swap και κατατμήσεις για τους \"/\" και \"/ home\" καταλόγους."
 
 #. Tag: para
 #, no-c-format
-msgid "To create a swap partition, for example, select “primary” partition. Hit enter (for the default starting cylinder), and then type in “+1024M” for 1024 Mb. Choose Type to specify the file system type. Enter 82 (Linux swap)."
+msgid ""
+"To create a swap partition, for example, select “primary” partition. Hit "
+"enter (for the default starting cylinder), and then type in “+1024M” for "
+"1024 Mb. Choose Type to specify the file system type. Enter 82 (Linux swap)."
 msgstr "Για να δημιουργήσετε μια κατάτμηση swap, για παράδειγμα, επιλέξτε \"πρωτογενές\" διαμέρισμα. Πατήστε enter (για τον προεπιλεγμένο κυλινδρο εκκίνησης), και στη συνέχεια πληκτρολογήστε \"+1024 M\" για 1024 MB. Επιλέξτε Τύπο για να καθορίσετε τον τύπο του συστήματος αρχείων. Εισάγετε 82 (Linux swap)."
 
 #. Tag: para
 #, no-c-format
-msgid "Let's assume that you have already used up the first three primary partitions, the last one should be made into an “extended” partition as you would still like to create the partitions for “/” and for “/home”."
+msgid ""
+"Let's assume that you have already used up the first three primary "
+"partitions, the last one should be made into an “extended” partition as you "
+"would still like to create the partitions for “/” and for “/home”."
 msgstr "Ας υποθέσουμε ότι έχετε ήδη χρησιμοποιήσει τα πρώτα τρία πρωτεύοντα διαμερίσματα, το τελευταίο θα πρέπει να γίνει σε ένα \"εκτεταμένο\" διαμέρισμα, όπως εσείς εξακολουθείτε να θέλετε να δημιουργήσετε τις κατατμήσεις για το \"/\" και για \"/home\"."
 
 #. Tag: para
 #, no-c-format
-msgid "To create an extended partition, select “extended” partition. Hit enter and again hit enter for the default value. This will create an extended partition out of the remaining disk space."
+msgid ""
+"To create an extended partition, select “extended” partition. Hit enter and "
+"again hit enter for the default value. This will create an extended "
+"partition out of the remaining disk space."
 msgstr "Για να δημιουργήσετε ένα εκτεταμένο διαμέρισμα, επιλέξτε \"εκτεταμένο\" διαμέρισμα. Πατήστε enter και πάλι πατήστε enter για την προεπιλεγμένη τιμή. Αυτό θα δημιουργήσει ένα εκτεταμένο διαμέρισμα από το υπόλοιπο χώρο του δίσκου."
 
 #. Tag: para
 #, no-c-format
-msgid "Now select Free disk space from the extended partition, and create New. Create a “logical” partition as you did for the primary partition. Set the size to “+10240M” for roughly 10 Gb. This will be your partition for the root directory (“/”). Select Type, and type “83” (Linux partition)."
+msgid ""
+"Now select Free disk space from the extended partition, and create New. "
+"Create a “logical” partition as you did for the primary partition. Set the "
+"size to “+10240M” for roughly 10 Gb. This will be your partition for the "
+"root directory (“/”). Select Type, and type “83” (Linux partition)."
 msgstr "Τώρα επιλέξτε Ελεύθερος χώρος στο δίσκο από το εκτεταμένο διαμέρισμα, και δημιουργία νέου. Δημιουργήστε μια \"λογικό\" διαμέρισμα, όπως κάνατε για το πρωτεύον διαμέρισμα. Ορίστε το μέγεθος σε \"+10240 M\" για περίπου 10 Gb. Αυτό θα είναι η κατάτμηση σας για τον ριζικό κατάλογο (\"/\"). Επιλέξτε Τύπος και τον τύπο \"83\" (Linux partition)."
 
 #. Tag: para
 #, no-c-format
-msgid "Create again a new partition and this time, accept all the default selections. The remaing disk space will be put in this partition. This will be your partition for the “/home” directory. Select Type, and type “83”."
+msgid ""
+"Create again a new partition and this time, accept all the default "
+"selections. The remaing disk space will be put in this partition. This will "
+"be your partition for the “/home” directory. Select Type, and type “83”."
 msgstr "Δημιουργήστε πάλι ένα νέο διαμέρισμα και αυτή τη φορά, αποδεχθείτε όλες τις προκαθορισμένες ρυθμίσεις. Ο υπόλοιπος χώρος του δίσκου θα δοθεί σε αυτό το διαμέρισμα. Αυτό θα είναι το τμήμα σας για το \"/home\" κατάλογο. Επιλέξτε Τύπος και τον τύπο \"83\"."
 
 #. Tag: para
@@ -427,32 +636,48 @@ msgstr "Επιλέξτε Γράψτε, και στη συνέχεια Έξοδο
 
 #. Tag: para
 #, no-c-format
-msgid "Your swap partition will be automatically detected. Say “yes” if the detected partition corresponds to that."
+msgid ""
+"Your swap partition will be automatically detected. Say “yes” if the "
+"detected partition corresponds to that."
 msgstr "Η κατάτμηση swap σας θα ανιχνευθεί αυτόματα. Πείτε \"ναι\" εάν το ανιχνευθέν διαμέρισμα αντιστοιχεί σ 'αυτό."
 
 #. Tag: para
 #, no-c-format
-msgid "You will then be asked to specify the partition for the root “/” directory. Select the partition you have created for the “/”, and continue to format the partition. The ext4 file system is recommended here."
+msgid ""
+"You will then be asked to specify the partition for the root “/” directory. "
+"Select the partition you have created for the “/”, and continue to format "
+"the partition. The ext4 file system is recommended here."
 msgstr "Στη συνέχεια θα σας ζητηθεί να καθορίσετε το τμήμα για το ριζικό \"/\" κατάλογο. Επιλέξτε το διαμέρισμα που έχετε δημιουργήσει για το \"/\", και στη συνέχεια διαμορφώστε το διαμέρισμα. Το σύστημα αρχείων ext4 συνιστάται εδώ."
 
 #. Tag: para
 #, no-c-format
-msgid "If you have other partitions to mount, you can do so. As we have a partition for a “/home” directory, we select the partition and continue. Unless the partition is new or you would like to erase the content of this partition, select not to format."
+msgid ""
+"If you have other partitions to mount, you can do so. As we have a partition"
+" for a “/home” directory, we select the partition and continue. Unless the "
+"partition is new or you would like to erase the content of this partition, "
+"select not to format."
 msgstr "Εάν έχετε άλλες κατατμήσεις να προσαρτήσετε, μπορείτε να το κάνετε. Όπως έχουμε ένα διαμέρισμα για το \"/home\" κατάλογο, επιλέγουμε την κατάτμηση και να συνεχίζουμε. Εκτός αν το διαμέρισμα είναι καινούργιο ή θα θέλετε να σβήσετε τα περιεχόμενα αυτής της κατάτμησης, επιλέξτε να μην διαμορφωθεί."
 
 #. Tag: para
 #, no-c-format
-msgid "Other partitions such as Windows partitions will be detected automatically. If you would like to make those partitions automatically usable during your Salix session, include them all to mount."
+msgid ""
+"Other partitions such as Windows partitions will be detected automatically. "
+"If you would like to make those partitions automatically usable during your "
+"Salix session, include them all to mount."
 msgstr "Άλλα διαμερίσματα, όπως τα διαμερίσματα των Windows θα εντοπιστούν αυτόματα. Αν επιθυμείτε να κάνετε αυτές οι κατατμήσεις να μπορούν να χρησιμοποιηθούν αυτόματα  κατά τη διάρκεια της συνεδρίας του Salix σας, επιλέξτε τα όλα για να προσαρτηθούν."
 
 #. Tag: para
 #, no-c-format
-msgid "The installer will start installing Salix. You will be asked first where the source files are. As you are installing from the CD, select “from the CD”. Everything should be detected automatically."
+msgid ""
+"The installer will start installing Salix. You will be asked first where the"
+" source files are. As you are installing from the CD, select “from the CD”. "
+"Everything should be detected automatically."
 msgstr "Το πρόγραμμα εγκατάστασης θα ξεκινήσει την εγκατάσταση του Salix. Θα σας ζήτησει τη πρώτη φορά, που είναι τα αρχεία προέλευσης. Καθώς κάνετε την εγκατάσταση από το CD, επιλέξτε \"από το CD\". Τα πάντα θα πρέπει να ανιχνεύονται αυτόματα."
 
 #. Tag: para
 #, no-c-format
-msgid "You will be asked to choose an installation mode (Full, Basic or Core)."
+msgid ""
+"You will be asked to choose an installation mode (Full, Basic or Core)."
 msgstr "Θα σας ζητηθεί να επιλέξετε έναν τρόπο εγκατάστασης (πλήρης, Βασικό ή Συμπαγή)."
 
 #. Tag: para
@@ -462,12 +687,17 @@ msgstr "Η εγκατάσταση των πακέτων θα ξεκινήσει.
 
 #. Tag: para
 #, no-c-format
-msgid "After the installation, LILO set up will start up. Unless you are not using LILO, choose the default options."
+msgid ""
+"After the installation, LILO set up will start up. Unless you are not using "
+"LILO, choose the default options."
 msgstr "Μετά την εγκατάσταση, θα ξεκινήσει η διαμόρφωση του LILO. Εκτός και αν δεν χρησιμοποιείτε το LILO, επιλέξτε τις προεπιλεγμένες επιλογές."
 
 #. Tag: para
 #, no-c-format
-msgid "You will be asked for some other questions regarding time-zone, user name and root password (superuser / administrator password). When all the basic questions are answered, the machine will restart itself."
+msgid ""
+"You will be asked for some other questions regarding time-zone, user name "
+"and root password (superuser / administrator password). When all the basic "
+"questions are answered, the machine will restart itself."
 msgstr "Θα ερωτηθείτε για κάποιες άλλες ερωτήσεις σχετικά με την ώρα-ζώνη, το όνομα χρήστη και τον κωδικό του root (υπερχρήστη / κωδικό πρόσβασης διαχειριστή). Όταν απαντηθούν όλα τα βασικά ερωτήματα, το μηχάνημα θα κάνει επανεκκίνηση."
 
 #. Tag: para
@@ -482,12 +712,18 @@ msgstr "Εγκατάσταση από ένα Salix  USB εγκατάστασης
 
 #. Tag: para
 #, no-c-format
-msgid "Installing Salix OS from a USB key is also possible (but consider installing from a Salix Live USB also). The most difficult part is to know the device name of your USB key. You may wish to issue the command “fdisk -l” as root to know which device is used for your USB key."
+msgid ""
+"Installing Salix OS from a USB key is also possible (but consider installing"
+" from a Salix Live USB also). The most difficult part is to know the device "
+"name of your USB key. You may wish to issue the command “fdisk -l” as root "
+"to know which device is used for your USB key."
 msgstr "Η εγκατάσταση του Salix OS από ένα κλειδί USB είναι επίσης δυνατή (αλλά έχετε υπόψη ότι κάνετε την εγκατάσταση από ένα Salix Live USB, επίσης). Το πιο δύσκολο κομμάτι είναι να γνωρίζουμε το όνομα της συσκευής του USB key σας. Μπορεί να θέλετε να εκτελέσετε την εντολή \"fdisk-l\" ως root για να γνωρίζετε ποια συσκευή χρησιμοποιείται για το USB key σας."
 
 #. Tag: para
 #, no-c-format
-msgid "Create your USB stick with <ulink url=\"http://unetbootin.sourceforge.net/\">unetbootin</ulink>"
+msgid ""
+"Create your USB stick with <ulink "
+"url=\"http://unetbootin.sourceforge.net/\">unetbootin</ulink>"
 msgstr "Δημιουργήστε το USB stick σας με το <ulink url=\"http://unetbootin.sourceforge.net/\">Unetbootin</ulink>"
 
 #. Tag: para
@@ -497,12 +733,17 @@ msgstr "Στην εγκατάσταση Salix επέλεξε \"Εγκατάστ�
 
 #. Tag: para
 #, no-c-format
-msgid "Enter the device of your USB stick: This probably is /dev/sdb1 if you only have one hard disk. Please note that a Few sticks are mounted by /dev/sdb instead of /dev/sdb1"
+msgid ""
+"Enter the device of your USB stick: This probably is /dev/sdb1 if you only "
+"have one hard disk. Please note that a Few sticks are mounted by /dev/sdb "
+"instead of /dev/sdb1"
 msgstr "Εισάγετε τη συσκευή του USB stick σας: Αυτό είναι πιθανά το /dev/sdb1 εάν έχετε μόνο ένα σκληρό δίσκο. Παρακαλώ σημειώστε ότι είναι μερικά stick προσαρτώνται από /dev/sdb αντί για /dev/sdb1"
 
 #. Tag: para
 #, no-c-format
-msgid "The next dialog asks where the Salix packages are located on the USB stick. The correct answer here is /salix"
+msgid ""
+"The next dialog asks where the Salix packages are located on the USB stick. "
+"The correct answer here is /salix"
 msgstr "Το επόμενο παράθυρο διαλόγου ζητά που τα πακέτα Salix βρίσκονται στο USB stick. Η σωστή απάντηση είναι εδώ /salix"
 
 #. Tag: para
@@ -517,7 +758,9 @@ msgstr "Εναλλακτικά, μπορείτε να τοποθετήσετε �
 
 #. Tag: para
 #, no-c-format
-msgid "After starting up the set up screen, select your keyboard type and exit the setup"
+msgid ""
+"After starting up the set up screen, select your keyboard type and exit the "
+"setup"
 msgstr "Μετά την έναρξη λειτουργίας της που οθόνης ρυθμίσεων, επιλέξτε τον τύπο του πληκτρολογίου σας και βγείτε από τη ρύθμιση"
 
 #. Tag: para
@@ -527,7 +770,9 @@ msgstr "Πληκτρολογήστε \"mkdir /salix\" (χωρίς τα εισα�
 
 #. Tag: para
 #, no-c-format
-msgid "Type “mount /dev/sdb /salix” (sdb can be sdb1, depending on the assignment by your machine)"
+msgid ""
+"Type “mount /dev/sdb /salix” (sdb can be sdb1, depending on the assignment "
+"by your machine)"
 msgstr "Πληκτρολογήστε \"mount /dev/sdb /salix\" (το sdb μπορεί να είναι sdb1, ανάλογα με την κατάταξη από το μηχάνημά σας)"
 
 #. Tag: para
@@ -537,5 +782,7 @@ msgstr "Πληκτρολογήστε setup για επανεκκίνηση τη�
 
 #. Tag: para
 #, no-c-format
-msgid "When asked for the source file, select “from a local directory” and type in “/salix/salix”"
+msgid ""
+"When asked for the source file, select “from a local directory” and type in "
+"“/salix/salix”"
 msgstr "Όταν ρωτηθήτε για το αρχείο προέλευσης, επιλέξτε \"από έναν τοπικό κατάλογο\" και πληκτρολογήστε \"/salix/salix\""

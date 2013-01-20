@@ -1,0 +1,788 @@
+# AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# mohammad <malham1@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: Salix documentation\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-06-09 15:43+0000\n"
+"Last-Translator: mohammad alhargan <malham1@hotmail.com>\n"
+"Language-Team: Arabic (http://www.transifex.com/projects/p/salix_documentation/language/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Starting Up Salix OS"
+msgstr "بدء تشغيل نظام التشغيل Salix"
+
+#. Tag: title
+#, no-c-format
+msgid "Introduction"
+msgstr "مقدمة"
+
+#. Tag: title
+#, no-c-format
+msgid "Downloading Salix OS"
+msgstr "تنزيل نظام التشغيل Salix"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The latest Salix OS or Salix Live releases are freely and easily available "
+"as ISO image files from the Salix OS <ulink "
+"url=\"http://www.salixos.org/wiki/index.php?title=Download\">download "
+"page</ulink>."
+msgstr "أحدث إصدارات نظام التشغيل Salix أو نظام التشغيل Salix الحي متاحة بحرية وسهولة كملفات صور ISO من نظام التشغيل Salix <ulink url=\"http://www.salixos.org/wiki/index.php?title=Download\">صفحة التحميل</ulink>."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"An ISO image is an archive file of an optical disc. It can be easily "
+"rendered or burned to a DVD or CD by using media authoring or disc burning "
+"software. The resulting CD must not contain the .iso file; if it does, you "
+"have made a mistake in the process."
+msgstr "صورة ISO هي ملف أرشيف من الأقراص الضوئية. يمكن بسهولة إنشاء أو أحرقه إلى قرص DVD أو قرص مضغوط باستخدام وسائط التشغيل أو حرق البرمجيات. القرص المضغوط الناتجة عن ذلك يجب أن لا يحتوي على الملف.iso؛ وإذا حدث ذلك، قد يكون هناك خطأ في العملية."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is recommended, if possible, to verify the integrity of your downloaded "
+"file by comparing its <ulink "
+"url=\"http://en.wikipedia.org/wiki/Md5sum\">md5sum</ulink> file with the "
+"original one uploaded besides the corresponding ISO image file by Salix OS. "
+"This ensures that your downloaded image file matches exactly with the one "
+"provided on the Salix OS website, and minimises the possibility of "
+"installation errors later on."
+msgstr "من المستحسن، إذا كان ذلك ممكناً، للتحقق من سلامة الملف الخاص بك الذي تم تنزيله بمقارنة ملف <ulink url=\"http://en.wikipedia.org/wiki/Md5sum\">md5sum</ulink> به بأصل واحد تم تحميلها إلى جانب ملف صورة ISO المناظرة لنظام تشغيل Salix. وهذا ما يضمن أن ملف تحميل الصورة يطابق تماما مع المنصوص عليها على الموقع نظام التشغيل Salix، وتقلل إلى أدنى حد إمكانية حدوث أخطاء تثبيت في وقت لاحق."
+
+#. Tag: title
+#, no-c-format
+msgid "What is a Live CD / USB?"
+msgstr "ما هو القرص الحي / USB؟"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"A Live CD is a CD-ROM holding a self-contained bootable and fully functional"
+" operating system. It loads into memory using only the data provided on the "
+"CD. It will not modify any operating system or data present on its host "
+"computer and will leave no trace after shutdown."
+msgstr "القرص الحي هو قرص مضغوط يحتوي نظام تشغيل قابل للإقلاع ويعمل بكامل أدوات النظام المستقلة. يحمل إلى الذاكرة باستخدام البيانات المتوفرة على القرص المضغوط فقط. لن يقوم بتعديل أي نظام تشغيل أو البيانات على الكمبيوتر المضيف، ولن يترك أي أثر بعد إيقاف تشغيل."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"A Live USB flash drive is similar to a Live CD, but it can have the added "
+"functionality of automatically and transparently writing changes back to its"
+" bootable medium."
+msgstr "محرك فلاش USB الحي مماثل للقرص الحي، ولكن يمكن إضافة وظائف تلقائية وإمكانية كتابة التغييرات إلى ما الوسيط القابل للإقلاع."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Salix Live is the Live CD version of <ulink "
+"url=\"http://www.salixos.org/\">Salix OS</ulink>. You can therefore safely "
+"use it to 'test drive' Salix OS without having to install anything on your "
+"computer. You will thus be able to determine whether and to what extent "
+"Salix OS is compatible with your particular hardware configuration and if it"
+" suits your personal taste."
+msgstr "نظام التشغيل Salix هو إصدار <ulink url=\"http://www.salixos.org/\">نظام التشغيل Salix</ulink>. يمكنك بأمان استخدامه لاختبار محرك الأقراص' نظام التشغيل Salix دون الحاجة إلى تثبيت أي شيء على جهاز الكمبيوتر. ستكون قادراً على تحديد ما إذا كان نظام التشغيل Salix مناسبا لك وإلى أي مدى هو متوافق مع تكوين العتاد الخاصة بك، وما إذا كان مناسباً الذوقك الشخصي."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you are fully satisfied with your Live experience of Salix OS, you can "
+"then proceed to install it with the help of the Salix Live Installer."
+msgstr "إذا كنت راضيا تماما مع تجربة نظام التشغيل Salix الحي، يمكنك ثم المتابعة لتثبيته بمساعدة مثبت نظام التشغيل Salix."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Salix Live will also come in handy as a mobile solution if you wish to carry"
+" Salix OS everywhere you go, or if you need to perform some basic rescue "
+"operation such as fixing an ailing LILO bootloader with Lilo Setup, "
+"configuring some partitions with Gparted, etc."
+msgstr "نظام التشغيل Salix الحي أيضا في المتناول كحل متنقلة إذا كنت ترغب في تنفيذ نظام التشغيل Salix في كل جهاز تستخدمه، أو إذا كنت بحاجة إلى القيام ببعض عمليات الإنقاذ الأساسية مثل إصلاح bootloader LILO التالف مع الإعداد Lilo، وإعداد بعض الأقسام مع Gparted، وما إلى ذلك."
+
+#. Tag: title
+#, no-c-format
+msgid "Creating a Salix Live USB Key"
+msgstr "إنشاء نظام تشغيل Salix USB"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Open the .iso file using a software archiver (file-roller, xarchiver, 7-zip,"
+" iso-master, …)."
+msgstr "افتح الملف.iso باستخدام برامج أرشيفي (file-roller, xarchiver, 7-zip, iso-master, …)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Extract all files and folders (boot, packages and Salix Live) to your USB "
+"root directory."
+msgstr "استخراج كافة الملفات والمجلدات (الاقلاع والحزم و Salix الحي) إلى مجلد الجذر USB الخاص بك."
+
+#. Tag: para
+#, no-c-format
+msgid "Go to the \"boot\" directory on the USB key."
+msgstr "انتقل إلى مجلد \"الإقلاع\" على USB."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you're running on Unix (Linux, BSD, Mac OS X), just run the file called "
+"“install-on-USB.sh”. If you're on Windows, just run the file called "
+"“install-on-USB.cmd” instead."
+msgstr "إذا كنت تقوم بتشغيل على Unix (لنكس, BSD, Mac OS X), فقط قم بتشغيل ملف يسمى “تثبيت-على-USB.sh”. إذا كنت على نظام وندوز، فقط شغل ملف يسمى “تثبيت-على-USB.cmd” بدلاً من ذلك."
+
+#. Tag: title
+#, no-c-format
+msgid "Booting from a Salix Installation CD/DVD/USB Key"
+msgstr "الإقلاع من CD/DVD/USB لتثبيت Salix"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Your computer must be set to boot on the optical drive / USB port first "
+"before defaulting to the internal hard disk drive."
+msgstr "يجب ضبط الكمبيوتر للإقلاع في محرك الأقراص الضوئية / منفذ USB أولاً قبل محركات الأقراص الثابتة الداخلية."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If that is not the case, you need to first modify the <ulink "
+"url=\"http://en.wikipedia.org/wiki/BIOS\">BIOS</ulink> setting, usually by "
+"pressing the Del key or the F2 key (or some other key combinations depending"
+" on your machine). Once in the BIOS, find the \"boot menu\" or similar and "
+"set the order of the boot devices properly, with your optical drive/USB port"
+" in the first position. Save your changes and reboot your computer."
+msgstr "إذا كانت هذه ليست حالة حرجة، تحتاج أولاً إلى تعديل إعداد <ulink url=\"http://en.wikipedia.org/wiki/BIOS\">BIOS</ulink> ، عادة بالضغط على مفتاح Del أو المفتاح F2 (أو بعض تركيبات المفاتيح الأخرى اعتماداً على الجهاز الخاص بك). مرة واحدة في BIOS، ابحث عن \"قائمة التشغيل\" أو ما شابه، وعين ترتيب أجهزة الإقلاع بشكل صحيح، مع وضع منفذ محرك الأقراص الضوئية/USB في المركز الأول. أحفظ التغييرات ثم أعد التشغيل."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Insert the Salix OS (Live)CD/DVD or USB key, and start up your computer."
+msgstr "ادخل قرص نظام تشغيل Salix (لايف)CD/DVD أو USB، وبدء تشغيل الكمبيوتر."
+
+#. Tag: title
+#, no-c-format
+msgid "Salix Live Boot Menu"
+msgstr "قائمة إقلاع Salix"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Salix Live Boot Menu"
+msgstr "لقطة شاشة لقائمة إقلاع Salix الحية"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The first screen to greet you will enable you to select your language. Once "
+"you have selected your language, simply press on the Enter key to activate "
+"your choice."
+msgstr "الشاشة الأولى صفحة الترحيب ستتيح لك اختيار اللغة الخاصة بك. بعد اختيار اللغة، اضغط على المفتاح Enter لتنشيط اختيارك."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"On the following menu, you will be given the possibility to change your "
+"keyboard map if the default one for your language does not suit you."
+msgstr "القائمة التالية، ستعطيك إمكانية تغيير مخطط لوحة المفاتيح إذا لم يناسبك التخطيط الافتراضي للغة."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Boot Menu edition options"
+msgstr "لقطة شاشة لقائمة الإقلاع نسخة الخيارات"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You also have the possibility to modify most default boot settings (see "
+"<xref linkend=\"sect-Startup_Guide-Advanced_Live_CD_Options-"
+"Advanced_Boot_Options\" />)."
+msgstr "لديك أيضا إمكانية تعديل إعدادات الإقلاع الافتراضي (انظر <xref linkend=\"sect-Startup_Guide-Advanced_Live_CD_Options-Advanced_Boot_Options\" />)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Simply press Enter on the default menu entry: Start Salix Live and a moment "
+"later you will see Salix starting up."
+msgstr "بساطة اضغط Enter لإدخال القائمة الافتراضية: بدء تشغيل Salix الحي ولحظة بعد ذلك ستشاهد Salix يبدأ."
+
+#. Tag: title
+#, no-c-format
+msgid "Root Password"
+msgstr "كلمة مرور الجذر"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"For a system wide change, such as installation of an application, you are "
+"required to type in the administrator's password (the “root” or “superuser” "
+"password)."
+msgstr "لتغييرات النظام الكبيرة، مثل تثبيت تطبيق ما، سيتم مطالبتك بكتابة كلمة مرور الجذر (كلمة “الجذر“ أو “المسئول“)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The password for Salix Live is <emphasis role=\"bold\">live</emphasis> for "
+"all the Salix Live editions."
+msgstr "كلمة المرور Salix الحي <emphasis role=\"bold\">live</emphasis> لكافة إصدارات Salix حية."
+
+#. Tag: title
+#, no-c-format
+msgid "Preparing Salix Installation"
+msgstr "تحضير لتثبيت Salix"
+
+#. Tag: title
+#, no-c-format
+msgid "Before starting"
+msgstr "قبل البدء"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Installing Salix OS on your computer is simple. But before starting, it is "
+"wise to check the following points:"
+msgstr "تثبيت نظام تشغيل Salix على الكمبيوتر بسيط. ولكن قبل البدء، من الحكمة أن تحقق النقاط التالية:"
+
+#. Tag: para
+#, no-c-format
+msgid "Have you backed-up all the important files you have?"
+msgstr "هل نسخت احتياطياً كافة الملفات المهمة لديك؟"
+
+#. Tag: para
+#, no-c-format
+msgid "Check if your computer comes with Linux-friendly/supported hardware*"
+msgstr "تحقق إذا كان الكمبيوتر يقدم عتاد صديق للينكس /مدعوم*"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Recommended running specification (Intel PIII 1 GHz, 512 Mb RAM, 8Gb HD "
+"space, or equivalent, though a lower spec machine may run without a problem)"
+msgstr "مواصفات التشغيل المقترحة (Intel بيي 1 جيجاهرتز، 512 ميغا بايت ذاكرة الوصول العشوائي، مساحة 8 جيجا بايت، أو ما يعادلها، وأن كان من الممكن التشغيل على جهاز بمواصفات أدنى بدون مشكلة)"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"At least one separate <ulink "
+"url=\"http://en.wikipedia.org/wiki/Disk_partitioning\">partition</ulink> "
+"dedicated for Salix on your computer"
+msgstr "واحد على الأقل مستقل <ulink url=\"http://en.wikipedia.org/wiki/Disk_partitioning\">قسم</ulink> مخصص لتثبيت Salix على الكمبيوتر"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"* Although it is possible to install Linux on a Mac computer, you have to "
+"install a bootcamp software called rEFIt beforehand. Certain file systems, "
+"such as xfs, cannot be used with a Mac."
+msgstr "* على الرغم من أنه من الممكن تثبيت لينكس على جهاز كمبيوتر ماك، تحتاج إلى تثبيت برمجيات bootcamp التي تسمى التجديد مسبقاً rEFIt. لا يمكن استخدام بعض أنظمة الملفات، مثل xfs، مع ماك."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The easiest way to check the compatibility of your computer is to use one of"
+" the available Salix OS Live editions."
+msgstr "أسهل طريقة للتحقق من التوافق مع الكمبيوتر استخدام أحد الإصدارات نظام تشغيل Salix الحية المتاحة."
+
+#. Tag: title
+#, no-c-format
+msgid "Partition Management"
+msgstr "إدارة التقسيم"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Gparted"
+msgstr "لقطة شاشة Gparted"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Before installing Salix (from the live CD or not), you need to have the "
+"necessary partition space available on your system, and if the computer does"
+" not have a separate partition for Linux, you must create one before "
+"installing Salix OS."
+msgstr "قبل تثبيت Salix (من القرص المضغوط مباشرة أو غيره)، يجب أن يكون لديك قسم بالمساحة المطلوبة على النظام، وإذا لم يكن في الكمبيوتر قسم منفصل للينكس، يتعين عليك إنشائه قبل تثبيت نظام تشغيل Salix."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is advisable to back up any important files before modifying the "
+"partition table."
+msgstr "من المستحسن إجراء نسخ احتياطي لأية ملفات هامة قبل تعديل جدول الأقسام."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Every Salix Live CD comes with <ulink "
+"url=\"http://gparted.sourceforge.net/docs/help-"
+"manual/C/gparted_manual.html\">Gparted</ulink>, which will enable you to "
+"change the partition organisation on a disk device while preserving the "
+"contents of the partitions. You may with to use this application to create"
+"/re-organise your partition table."
+msgstr "ويأتي كل قرص Salix حي مع <ulink url=\"http://gparted.sourceforge.net/docs/help-manual/C/gparted_manual.html\">Gparted</ulink>، التي تمكنك من تغيير منظم لتقسيم قرص الجهاز مع المحافظة على محتويات الأقسام. يجوز لك باستخدام هذا التطبيق لإنشاء/إعادة-تنظيم الخاص بجدول الأقسام."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Alternatively, if you have an unformatted partition, unallocated disk space,"
+" or an existing partition you do not use, you can create or rewrite a new "
+"partition table using <ulink "
+"url=\"http://en.wikipedia.org/wiki/Cfdisk\">Cfdisk</ulink> (which comes with"
+" the Salix installation CD)."
+msgstr "بدلاً من ذلك، إذا كان لديك أقسام غير مهيأة أو مساحة غير مخصصة على القرص، أو قسم موجود لا تستخدمه، يمكنك إنشاء أو إعادة كتابة جدول تقسيم جديد باستخدام <ulink url=\"http://en.wikipedia.org/wiki/Cfdisk\">كفديسك</ulink> (الذي يأتي مع قرص التثبيت المضغوط Salix)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Both applications are simple to use and require no further explanation on "
+"how to use them, except for a small comment about “partition types”."
+msgstr "كلا التطبيقين سهل الاستخدام ولا تحتاج إلى شرح لكيفية استخدامها، عدا تعليق صغير حول “أنواع الأقسام”."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"A hard drive space can be divided into no more than four “primary” "
+"partitions, which can be problematic if you are hosting more than one "
+"operating system on the same hard drive. A hard drive can, however, be "
+"divided into three “primary” partitions and one “extended” partition. The "
+"extended partition can then be subdivided into “logical” partitions and "
+"hence overcome the limitation set by the “primary partition” (i.e. no more "
+"than four partitions). In practice, there is no difference between a logical"
+" and a primary partition except for that “Windows” OS cannot be installed on"
+" a logical partition."
+msgstr "يمكن تقسيم مساحة القرص الصلب بحيث لا تزيد عن أربعة أقسام “أساسية” والتي قد تسبب مشكلة إذا كنت تستخدم أكثر من نظام تشغيل على نفس القرص الصلب. ومع ذلك يمكن لمحرك أقراص ثابت مقسم إلى ثلاثة أقسام “أساسية” وقسم “موسع” واحد. القسم الموسع يمكن تقسيمه إلى أقسام “منطقية” ومن ثم التغلب على القيود المحددة في “القسم الأساسي” (أي لا يزيد عن أربعة أقسام). من الناحية العملية، لا يوجد فرق بين قسم منطقي وقسم أساسي فيما عدا ذلك لا يمكن تثبيت “نظام وندوز” نظام التشغيل على أحد الأقسام المنطقية."
+
+#. Tag: title
+#, no-c-format
+msgid "So what kind of partitions do you need?"
+msgstr "أي نوع من الأقسام تحتاجها؟"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Salix needs, at the very minimum, one partition which holds the root "
+"directory and must be assigned as “/” (without the quotation marks)."
+msgstr "احتياجات Salix كحد، أدنى قسم يحمل مجلد الجذر ويجب أن يتم تعيين “/” (بدون علامة الاقتباس)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is highly recommended to have one swap partition. If you already have "
+"another Linux OS running on your machine, its swap partition can be shared, "
+"and you do not need to create another. A swap partition size is in essence "
+"used as an extra RAM to improve the performance of your machine. If, for "
+"example, your machine doesn’t have a lot of physical RAM or you’re "
+"performing memory-intensive operations (such as video editing) that use up "
+"most or all of the physical RAM. It is normally recommended to have 1.5-2 "
+"times the size of your RAM, but for a modern desktop computer with more than"
+" a couple Gb of RAM, swap may not be necessary."
+msgstr "ينصح بشدة أن يكون لديك قسم مبادلة. إذا كان لديك نظام تشغيل لنكس آخر قيد التشغيل، يمكن مشاركة قسم المبادلة، ولا تحتاج إلى إنشاء قسم آخر. يعتبر قسم المبادلة ذاكرة إضافية لتحسين أداء الجهاز. إذا، كان على سبيل المثال، ليس لديك ذاكرة RAM فعلية كافية أو قمت بتنفيذ عمليات تستهلك ذاكرة كبيرة (مثل تحرير الفيديو) التي تستخدم معظم أو كل ذاكرة RAM الفعلية. من المستحسن ضبطه إلى 1.5-2 مرات أكبر من حجم ذاكرة الوصول العشوائي، ولكن أجهزة الكمبيوتر الحديثة مع أكثر من بضعة ميقا بايتات من ذاكرة الوصول العشوائي، قد لا يكون قسم المبادلة لازم."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is also highly recommended to have one partition to hold your /home "
+"directory, where you can store all your personal data such as documents, "
+"photos, customised settings for the desktop environment etc."
+msgstr "يوصي بشدة أيضا بإنشاء قسم واحد لإجراء /home مجلد، حيث يمكنك تخزين جميع البيانات الشخصية الخاصة بك مثل المستندات، الصور، تخصيص الإعدادات من أجل بيئة سطح المكتب إلخ."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"It is optional to have one partition to hold the /usr directory, where "
+"application files are stored (similar to the “Program Files” directory in "
+"Windows or the “/Apps” in Mac OS X)."
+msgstr "أنه اختياري لقسم عقده واحد على مجلد /usr حيث يتم تخزين ملفات التطبيق (مماثلة إلى مجلد “ملفات البرامج” في نظام التشغيل وندوز أو “/Apps” في Mac OS X)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Optionally you can create one partition to hold the /var directory, where "
+"system log files are stored. But unless you are running a server machine, "
+"this is probably unnecessary."
+msgstr "يمكنك اختيارياً إنشاء قسم عقدة واحد لحفظ مجلد /var، حيث يتم تخزين ملفات سجل النظام. ولكن إذا كنت تقوم بتشغيل جهاز خادم، فلا داعي لذلك."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"An advantage of having more than one partition to hold separate directories "
+"is that you can reformat one partition without affecting others. For "
+"example, you can re-install Salix on your machine (and this goes to the "
+"partition holding the “/” directory) while leaving the partition holding the"
+" /home directory intact."
+msgstr "ميزة وجود قسم واحد أو أكثر لعقد المجلدات المنفصلة أنه يمكنك إعادة تهيئة أحد الأقسام دون التأثير على الاقسام الأخرى. على سبيل المثال، يمكنك تثبيت Salix على الكمبيوتر (وهذا يذهب إلى القسم عقد المجلد “/”) مع ترك قسم عقد في/home مجلد سليمة."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Each partition can be formatted into one of several <ulink "
+"url=\"http://en.wikipedia.org/wiki/List_of_file_systems\">file "
+"systems</ulink>. Unless you have a particular favourite for a reason, we "
+"recommend you format your partitions with the ext4 file system."
+msgstr "يمكن تهيئة كل قسم في واحدة من عدة <ulink url=\"http://en.wikipedia.org/wiki/List_of_file_systems\">أنظمة ملفات</ulink>. ما لم يكن لديك صيغة خاصة لسبب ما، نوصي بتنسيق الأقسام الخاصة بك باستخدام نظام الملفات ext4."
+
+#. Tag: title
+#, no-c-format
+msgid "Installing from a Live CD / USB"
+msgstr "تثبيت من قرص مضغوط حية / USB"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Salix Live Installer is found on the Desktop of every Live CD and is very "
+"easy to use. Contextual help triggered by the position of the mouse will be "
+"displayed above the application and will guide you every step of the way."
+msgstr "مُثبت Salix الحي موجود على سطح المكتب لتسهيل الاستخدام. سيتم عرض تعليمات للتطبيق التي يمر فوقها مؤشر الفارة وسيرشدك خطوة إلى الطريق."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You will be greeted by a reminder that all the necessary partitions have to "
+"be created first. As we have seen, this can be done simply with the help of "
+"Gparted, which is included in Salix Live and is available directly on the "
+"desktop (see <xref linkend=\"sect-Startup_Guide-Salix_Live_Tools-Gparted\" "
+"/>)."
+msgstr "من الواجب تذكر جميع الأقسام اللازمة المراد إنشاؤها أولاً. كما رأينا، يمكن أن يتم ذلك بسهولة بمساعدة Gparted، الذي يتم تضمينها في قرص Salix الحي ويتوفر مباشرة على سطح المكتب (انظر <xref linkend=\"sect-Startup_Guide-Salix_Live_Tools-Gparted\" />)."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Salix Live Installer"
+msgstr "لقطة شاشة من مُثبت Salix الحي"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"On the left side of the application, you will notice the different sections "
+"that must be configured before launching the installation process: Time, "
+"Keyboard, Locale, Partitions, Users and Software. Clicking on one of these "
+"sections will display the corresponding options that need to be set. As you "
+"progress through the configuration process, a check will be displayed beside"
+" each completed section. Only when all the sections have been completed will"
+" the “Launch Salix Install” button be activated."
+msgstr "على الجانب الأيسر من التطبيق، ستلاحظ المقاطع المختلفة التي يجب إعدادها قبل بدء عملية التثبيت: الوقت، لوحة المفاتيح، اللغة، الأقسام والمستخدمين والبرامج. بالنقر فوق أحد هذه المقاطع سيتم عرض الخيارات المقابلة التي تحتاج إلى تعيين. كما تقدم لك من خلال عملية الإعداد، سيتم عرض الاختيار إلى جانب كل مقطع المكتملة. فقط عند الانتهاء من إعداد جميع الأقسام سيتم تنشيط الزر “تشغيل تثبيت Salix“."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"So do take the time to familiarise yourself fully with Salix Live Installer."
+" Undo options are available and none of the settings will be applied until "
+"you click on the “Launch Salix Install” button."
+msgstr "خذ الوقت لتعريف نفسك تماما مع مُثبت Salix الحي. يتوفر خيار تراجع ولن يتم تطبيق أي من الإعدادات حتى تقوم بالنقر فوق الزر “تشغيل تثبيت Salix“."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Remember that the existing swap partition will be automatically used by the "
+"Live installer without any prompting on your part."
+msgstr "تذكر أن قسم المبادلة الحالي سيستخدم تلقائياً من قبل المُثبت الحي دون أي مطالبة بشأن الجزء الخاص بك."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Salix Live Installer partitions configuration"
+msgstr "لقطة شاشة من إعدادات تقسيم مُثبت Salix"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Salix comes with three different installation modes. The Full installation "
+"mode includes a range of useful applications one could need on a daily basis"
+" while following the \"one application per task\" rationale, while the Basic"
+" Mode provides a user with a graphical desktop environment, a web browser "
+"and Gslapt package manager (see <xref linkend=\"sect-Startup_Guide-"
+"Package_Management-Gslapt\" />)."
+msgstr "تأتي Salix مع ثلاثة أوضاع للتثبيت المختلفة. وضع التثبيت الكامل يشمل مجموعة من التطبيقات المفيدة التي يمكن أن يحتاج المرء على أساس يومي مع اتباع الأساس المنطقي \"تطبيق واحد لكل مهمة\" في حين يوفر الوضع الأساسي مستخدم مع بيئة سطح مكتب رسومية، ومستعرض ويب ومدير الحزم Gslapt (انظر <xref linkend=\"sect-Startup_Guide-Package_Management-Gslapt\" />)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"This is ideal for advanced users who would like to have the basic desktop "
+"environment installed first, and then to add their own choice of "
+"applications. The Core Mode installs the minimum software essential for a "
+"console system to start (i.e. a graphical environment is not provided). This"
+" is ideal if you are an experienced user and love to customise your "
+"installation for any specific purpose, such as a web server, file server and"
+" so on."
+msgstr "هذا يعتبر مثاليا للمستخدمين المتقدمين الذين يودون أن تثبيت بيئة سطح المكتب الأساسية أولاً، ومن ثم إضافة ما يختارونه من التطبيقات. الوضع الأساسي تثبيت الحد الأدنى من البرامج الضروري للنظام ووحدة تحكم بدء تشغيل (أي لا توفر بيئة رسومية). وهذا يعتبر مثاليا إذا كنت أحد المستخدمين ذوي خبرة وتحب تخصيص التثبيت الخاص بك لأي غرض معين، مثل خادم ويب أو خادم ملفات، وهلم جرا."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Once the installation process is completed, you will be given the choice to "
+"launch Lilo Setup to configure your LILO bootloader (see <xref linkend"
+"=\"sect-Startup_Guide-Salix_Tools-Lilo_Setup\" />). Most of the time this is"
+" what you will want to do although occasionally, it might be preferable not "
+"to, for example if you want to use Grub instead or if you want to simply "
+"incorporate Salix into an existing bootloader configuration from another "
+"distribution in a multiple boot setup."
+msgstr "بمجرد الانتهاء من عملية التثبيت، سيعطيك سيتيح لك خيار تشغيل برنامج الإعداد Lilo لإعداد مُحمل الإقلاع LILO (انظر <xref linkend=\"sect-Startup_Guide-Salix_Tools-Lilo_Setup\" />). معظم الأحيان هذا هو ما تريد القيام به على الرغم من أنه في بعض الأحيان، قد يكون من الأفضل عدم استخدامه الآن، على سبيل المثال، إذا كنت تريد استخدام Grub بدلاً من ذلك أو إذا كنت تريد مجرد إدماج Salix في إعداد محمل إقلاع موجود في توزيع أخرى في إعداد إقلاع متعددة."
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of Salix Live Installer packages option"
+msgstr "لقطة شاشة من خيارات حزم مُثبت Salix"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Lilo Setup is also very easy to use. Contextual help triggered by the "
+"position of the mouse will also be displayed above the application and will "
+"guide you every step of the way."
+msgstr "إعداد lilo أيضا سهل الاستخدام جداً. سيتم عرض التعليمات السياقية أعلى التطبيق عند مرور مؤشر الفأرة عليها وسيرشدك خطوة تلو خطوة على الطريق."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Once Lilo is set up, you are good to go! You can re-start your machine, and "
+"start enjoying Salix time."
+msgstr "حالما يتم إعداد Lilo، يمكنك الانطلاق! يمكنك إعادة تشغيل الجهاز، والبدء في التمتع باستخدام Salix."
+
+#. Tag: title
+#, no-c-format
+msgid "Installing from a Salix Installation CD"
+msgstr "تثبيت من قرص تثبيت Salix المضغوط"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Installing Salix from a Salix Installation CD is very similar to installing "
+"Slackware. Everything will be done efficiently in a semi-graphical command "
+"line interface."
+msgstr "تثبيت Salix من قرص التثبيت الحي مشابهة جداً لتثبيت سلاكوير. ستفعل كل شيء بكفاءة في واجهة سطر الأوامر الرسومية."
+
+#. Tag: para
+#, no-c-format
+msgid "Select your keymap."
+msgstr "حدد خريطة المفاتيح."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you prefer to let Salix do everything including partition management, "
+"just select AUTOPARTITION. Note that this will delete everything on the hard"
+" drive."
+msgstr "إذا كنت تفضل ترك Salix يقوم بكل شيء بما في ذلك إدارة التقسيم، حدد فقط تقسيم تلقائي. لاحظ أن هذا سيؤدي إلى حذف كل شيء على محرك الأقراص الثابتة."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Partition management with cfdisk – you can select the hard drive you would "
+"like to modify with the arrow keys and the space key."
+msgstr "إدارة الأقسام مع cfdisk--يمكنك تحديد محرك الأقراص الثابتة قد ترغب في التعديل باستخدام مفاتيح الأسهم ومفتاح المسافة."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You can create a new partition by selecting a free disk space and choosing "
+"New. You will be asked to select “primary” partition / “extended” partition "
+"first and then set the size. Remember, you can have up to four primary "
+"partitions or three primary partition with one extended partition for more "
+"partitions. Let's say we want to create one swap partition and partitions "
+"for the “/” and “/home” directories."
+msgstr "يمكنك إنشاء قسم جديد بتحديد مساحة قرص حرة واختيار جديدة. ستكون مطالب بتحديد القسم “الأساسي“ / وقسم “التوسيع“ أولاً ثم قم بتعيين الحجم. تذكر، يمكنك أن تصل إلى أربعة أقسام أساسية أو ثلاثة القسم الأساسي مع قسم توسيع واحد لمزيد من لأقسام. لنفترض أنك نريد إنشاء قسم واحد للمبادلة وأقسام “/“ والمجلدات “/home”."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To create a swap partition, for example, select “primary” partition. Hit "
+"enter (for the default starting cylinder), and then type in “+1024M” for "
+"1024 Mb. Choose Type to specify the file system type. Enter 82 (Linux swap)."
+msgstr "لإنشاء قسم مبادلة، على سبيل المثال، حدد قسم ”أساسي”. إضغط enter (الأسطوانة البدء الافتراضية)، ومن ثم اكتب في ”+1024M” لتعيين 1024 ميغا بايت. اختر نوع لتحديد نوع نظام الملفات. أدخل 82 (لمبادلة لينكس)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Let's assume that you have already used up the first three primary "
+"partitions, the last one should be made into an “extended” partition as you "
+"would still like to create the partitions for “/” and for “/home”."
+msgstr "دعنا نفترض أن استخدمت مسبقاً حتى الأقسام الرئيسية الثلاثة الأولى، ”موسع” إذا كنت ترغب في إنشاء أقسام ”/” و “/home” ينبغي استخدام آخر قسم."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"To create an extended partition, select “extended” partition. Hit enter and "
+"again hit enter for the default value. This will create an extended "
+"partition out of the remaining disk space."
+msgstr "لإنشاء قسم موسع، حدد القسم “الموسع“. إضغط enter ومرة أخرى اضغط enter للقيمة الافتراضية. سيعمل ذلك على إنشاء قسم موسع بكامل مساحة القرص المتبقية."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Now select Free disk space from the extended partition, and create New. "
+"Create a “logical” partition as you did for the primary partition. Set the "
+"size to “+10240M” for roughly 10 Gb. This will be your partition for the "
+"root directory (“/”). Select Type, and type “83” (Linux partition)."
+msgstr "الآن حدد المساحة الحرة لقسم القرص الموسع، ثم أنشئ جديد. إنشاء قسم ”منطقي” كما فعلت مع القسم الأساسي. عين الحجم إلى ”+ 10240M” لحوالي 10 جيجابايت. سيكون هذا القسم خاص بمجلد الجذر (\"/\"). حدد نوعه, واكتب “83” (قسم لينكس)."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Create again a new partition and this time, accept all the default "
+"selections. The remaing disk space will be put in this partition. This will "
+"be your partition for the “/home” directory. Select Type, and type “83”."
+msgstr "مرة أخرى قم بإنشاء قسم جديد وهذه المرة، اقبل كافة التحديدات الافتراضية. مساحة القرص المتبقية ستوضع في هذا القسم. وسيكون هذا القسم خاص بمجلد “/home”. حدد نوعه, واكتب \"83\"."
+
+#. Tag: para
+#, no-c-format
+msgid "Select Write, and then Quit to exit the partition management."
+msgstr "حدد الكتابة، ثم إنهاء لإنهاء إدارة التقسيم."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Your swap partition will be automatically detected. Say “yes” if the "
+"detected partition corresponds to that."
+msgstr "سيتم الكشف عن قسم المبادلة تلقائياً. حدد “نعم“ إذا كانت المساحة المكتشفة تعادل قيمته."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You will then be asked to specify the partition for the root “/” directory. "
+"Select the partition you have created for the “/”, and continue to format "
+"the partition. The ext4 file system is recommended here."
+msgstr "ستتم مطالبتك بتحديد قسم مجلد الجذر “/“ . حدد القسم أنشأت “/“، وواصل تهيئة القسم. من المستحسن استخدام نظام الملفات ext4."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"If you have other partitions to mount, you can do so. As we have a partition"
+" for a “/home” directory, we select the partition and continue. Unless the "
+"partition is new or you would like to erase the content of this partition, "
+"select not to format."
+msgstr "إذا كان لديك أقسام أخرى للتوصيل، يمكنك القيام بتوصيلها الآن. كما أن لدينا قسم لمجلد “/home” حدد القسم واستمر. إلا إذا كان القسم جديد وكنت ترغب في مسح محتوياته، حدد لا للتهيئة."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Other partitions such as Windows partitions will be detected automatically. "
+"If you would like to make those partitions automatically usable during your "
+"Salix session, include them all to mount."
+msgstr "سيتم الكشف عن الأقسام الأخرى مثل أقسام Windows تلقائياً. إذا كنت ترغب في جعل تلك الأقسام قابلة للاستخدام تلقائياً أثناء استخدام Salix، ليتم توصيل كل منها."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The installer will start installing Salix. You will be asked first where the"
+" source files are. As you are installing from the CD, select “from the CD”. "
+"Everything should be detected automatically."
+msgstr "وسيبدأ المثبت تثبيت Salix. سيتم سؤالك أولاً عن مكان الملفات المصدر. إذا كنت تقوم بالتثبيت من القرص المضغوط، حدد “من القرص المضغوط“. كل شيء يجب أن يتم الكشف عن تلقائياً."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You will be asked to choose an installation mode (Full, Basic or Core)."
+msgstr "سوف يطلب منك أن تختار طريقة تثبيت (كاملة، قياسي أو أساسي)."
+
+#. Tag: para
+#, no-c-format
+msgid "Installation of packages will start."
+msgstr "سيبدأ تثبيت الحزم."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"After the installation, LILO set up will start up. Unless you are not using "
+"LILO, choose the default options."
+msgstr "بعد التثبيت، سيتم إعداد تشغيل LILO. إلا إذا كنت لا تستخدم LILO، اختر الخيارات الافتراضية."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"You will be asked for some other questions regarding time-zone, user name "
+"and root password (superuser / administrator password). When all the basic "
+"questions are answered, the machine will restart itself."
+msgstr "سيتم سؤالك بعض الأسئلة الأخرى المتعلقة بالمنطقة الزمنية، المستخدم الجذر وكلمة المرور (الجذر / وكلمة مرور المسؤول). عندما تتم الإجابة على جميع الأسئلة الأساسية، ستتم إعادة التشغيل."
+
+#. Tag: para
+#, no-c-format
+msgid "That's all. The computer is good to go! Enjoy Salix!"
+msgstr "هذا كل شيئ. الكمبيوتر بحالة جيدة للانطلاق! استمتع مع Salix!"
+
+#. Tag: title
+#, no-c-format
+msgid "Installing from a Salix Installation USB"
+msgstr "تثبيت من وسيط تثبيت Salix USB"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Installing Salix OS from a USB key is also possible (but consider installing"
+" from a Salix Live USB also). The most difficult part is to know the device "
+"name of your USB key. You may wish to issue the command “fdisk -l” as root "
+"to know which device is used for your USB key."
+msgstr "تثبيت نظام التشغيل Salix من USB من المحتمل أيضا (ولكن انظر في تركيب Salix من USB حي). الجزء الأكثر صعوبة معرفة اسم جهاز USB الخاص بك. من الأفضل استخدام “fdisk -l” كمستخدم جذر لمعرفة الجهاز الذي يستخدم USB."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Create your USB stick with <ulink "
+"url=\"http://unetbootin.sourceforge.net/\">unetbootin</ulink>"
+msgstr "إنشاء مُشغل USB باستخدام <ulink url=\"http://unetbootin.sourceforge.net/\">unetbootin</ulink>"
+
+#. Tag: para
+#, no-c-format
+msgid "At Salix installation chose \"Install from hard disk\""
+msgstr "في Salix اختار تثبيت \"التثبيت من القرص الثابت\""
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Enter the device of your USB stick: This probably is /dev/sdb1 if you only "
+"have one hard disk. Please note that a Few sticks are mounted by /dev/sdb "
+"instead of /dev/sdb1"
+msgstr "أدخل مُشغل USB: وهو في الغالب/dev/sdb1 إذا كان لديك قرص ثابت واحد فقط. يرجى ملاحظة أن بعض مُشغلات USB يتم تحميلها ب/dev/sdb بدلاً من/dev/sdb1"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The next dialog asks where the Salix packages are located on the USB stick. "
+"The correct answer here is /salix"
+msgstr "يسألك مربع الحوار التالي أين يوجد Salix في مُشغل USB. الجواب الصحيح هنا هو/salix"
+
+#. Tag: para
+#, no-c-format
+msgid "Installation should continue normally"
+msgstr "ينبغي عادة متابعة التثبيت"
+
+#. Tag: para
+#, no-c-format
+msgid "Alternatively, you can mount your USB key first."
+msgstr "بدلاً من ذلك، يمكنك تحميل USB أولاً."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"After starting up the set up screen, select your keyboard type and exit the "
+"setup"
+msgstr "بعد بدء تشغيل إعداد الشاشة، حدد نوع لوحة المفاتيح ثم قم بإنهاء برنامج الإعداد"
+
+#. Tag: para
+#, no-c-format
+msgid "Type “mkdir /salix” (without the quotation marks)"
+msgstr "اكتب “mkdir /salix” (بدون علامات اقتباس)"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Type “mount /dev/sdb /salix” (sdb can be sdb1, depending on the assignment "
+"by your machine)"
+msgstr "اكتب “mount /dev/sdb /salix” (sdb can be sdb1, اعتماداً على تعيين الجهاز الخاص بك)"
+
+#. Tag: para
+#, no-c-format
+msgid "Type setup to restart the installation process"
+msgstr "اكتب setup لإعادة تشغيل عملية التثبيت"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"When asked for the source file, select “from a local directory” and type in "
+"“/salix/salix”"
+msgstr "عند السؤال عن الملف المصدر، حدد \"من مجلد محلي\" واكتب في “/salix/salix”"

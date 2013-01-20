@@ -5,15 +5,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
 "PO-Revision-Date: 2011-12-07 12:32+0000\n"
 "Last-Translator: ink3 <sgasior1@gmail.com>\n"
-"Language-Team: Polish (http://www.transifex.net/projects/p/salix/team/pl/)\n"
+"Language-Team: Polish (http://www.transifex.com/projects/p/salix_documentation/language/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. Tag: title
 #, no-c-format
@@ -40,18 +40,7 @@ msgid ""
 "listed in the <ulink "
 "url=\"http://www.salixos.org/forum/viewtopic.php?f=30&amp;t=852\">Salix "
 "Forum</ulink>."
-msgstr ""
-"Niniejsza sekcja dotyczy pracy w trybie konsoli lub z terminala (np. xfce "
-"terminal, xterm, konsole i tak dalej), a służy jedynie jako małe "
-"wprowadzenie do, co nazywamy \"wierszem poleceń\" (CLI). Grupa docelowa nie "
-"jest dla doświadczonych podróżników, ale nowych czeladników w ziemi Linux, "
-"którzy chcą dowiedzieć się więcej co można z nim zrobić. Będziemy "
-"przechodzić przez niektóre przykłady w tej sekcji które można śledzić, i "
-"miejmy nadzieję że po dotarciu do końca tej instrukcji, nie będziesz miał "
-"problemu w pracy z \"czarnym ekranem\". Dla tych, którzy chcieliby wiedzieć "
-"więcej o CLI, istnieje kilka przydatnych zasobów dostępnych w sieci, a "
-"niektóre są wymienione w <ulink url=\"http://www.salixos.org/forum/\"> Salix"
-" Forum </ulink> ."
+msgstr "Niniejsza sekcja dotyczy pracy w trybie konsoli lub z terminala (np. xfce terminal, xterm, konsole i tak dalej), a służy jedynie jako małe wprowadzenie do, co nazywamy \"wierszem poleceń\" (CLI). Grupa docelowa nie jest dla doświadczonych podróżników, ale nowych czeladników w ziemi Linux, którzy chcą dowiedzieć się więcej co można z nim zrobić. Będziemy przechodzić przez niektóre przykłady w tej sekcji które można śledzić, i miejmy nadzieję że po dotarciu do końca tej instrukcji, nie będziesz miał problemu w pracy z \"czarnym ekranem\". Dla tych, którzy chcieliby wiedzieć więcej o CLI, istnieje kilka przydatnych zasobów dostępnych w sieci, a niektóre są wymienione w <ulink url=\"http://www.salixos.org/forum/\"> Salix Forum </ulink> ."
 
 #. Tag: para
 #, no-c-format
@@ -62,13 +51,7 @@ msgid ""
 "particular is in the area of command line applications, its traditional "
 "strength. Without the CLI, you would be effectively missing out on half of "
 "what Linux can offer, if not more."
-msgstr ""
-"Dlaczego więc uczyć się polecenia CLI w ogóle? Graficzny interfejs "
-"użytkownika dla aplikacji stale się poprawia w Linuksie, i prawdopodobnie "
-"jest obecnie porównywalne do każdego OS w ich łatwości obsługi. Z drugiej "
-"strony, gdzie Linux wyróżnia się w szczególności w zakresie aplikacji "
-"konsolowych, ma tradycyjnie silną pozycję. Bez CLI, możesz mieć połowę tego,"
-" co Linux może zaoferować, jeśli nie więcej."
+msgstr "Dlaczego więc uczyć się polecenia CLI w ogóle? Graficzny interfejs użytkownika dla aplikacji stale się poprawia w Linuksie, i prawdopodobnie jest obecnie porównywalne do każdego OS w ich łatwości obsługi. Z drugiej strony, gdzie Linux wyróżnia się w szczególności w zakresie aplikacji konsolowych, ma tradycyjnie silną pozycję. Bez CLI, możesz mieć połowę tego, co Linux może zaoferować, jeśli nie więcej."
 
 #. Tag: para
 #, no-c-format
@@ -77,20 +60,14 @@ msgid ""
 "console. For instance, if the machine fails to start up a graphical desktop "
 "environment during booting, then you are more or less forced to fix the "
 "problem without GUI."
-msgstr ""
-"Jest jeszcze jeden powód. Od czasu do czasu, być może będziesz musiał "
-"pracować w konsoli. Na przykład, jeśli urządzenie nie uruchomi graficznego "
-"środowiska podczas startu systemu, to jesteś mniej lub bardziej zmuszony "
-"rozwiązać problem bez GUI."
+msgstr "Jest jeszcze jeden powód. Od czasu do czasu, być może będziesz musiał pracować w konsoli. Na przykład, jeśli urządzenie nie uruchomi graficznego środowiska podczas startu systemu, to jesteś mniej lub bardziej zmuszony rozwiązać problem bez GUI."
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Of course, there are many other reasons to learn CLI commands, but for now "
 "we will start by learning how to move around directories."
-msgstr ""
-"Oczywiście, istnieje wiele innych powodów, aby dowiedzieć się poleceniach "
-"CLI, a teraz zaczniemy od uczenia się, jak poruszać po katalogach."
+msgstr "Oczywiście, istnieje wiele innych powodów, aby dowiedzieć się poleceniach CLI, a teraz zaczniemy od uczenia się, jak poruszać po katalogach."
 
 #. Tag: para
 #, no-c-format
@@ -99,11 +76,7 @@ msgid ""
 "Ctrl+Alt+F2, for example. To get back to the graphical desktop, press "
 "Ctrl+Alt+F4, for example. F number keys are used to switch between "
 "consoles.)"
-msgstr ""
-"Po pierwsze, otwórz terminal lub przejdź do konsoli (możesz to zrobić "
-"naciskając kombinację klawiszy Ctrl + Alt + F2, na przykład. Aby wrócić do "
-"środowiska graficznego, naciśnij Ctrl + Alt + F4, na przykład. F klawisze "
-"numeryczne są używane do przełączania się między konsolami.)"
+msgstr "Po pierwsze, otwórz terminal lub przejdź do konsoli (możesz to zrobić naciskając kombinację klawiszy Ctrl + Alt + F2, na przykład. Aby wrócić do środowiska graficznego, naciśnij Ctrl + Alt + F4, na przykład. F klawisze numeryczne są używane do przełączania się między konsolami.)"
 
 #. Tag: title
 #, no-c-format
@@ -118,12 +91,7 @@ msgid ""
 " own). In Salix, this directory contains \"Desktop\", \"Music\", "
 "\"Documents\" and so on. To see its content, type \"ls\" and press enter. "
 "You will see something like this:"
-msgstr ""
-"Powinieneś być w katalogu użytkownika (oznaczony jako \"~\"), który jest "
-"zazwyczaj taki sam jak \"/home/nazwa użytkownika\" (zastąp \"nazwę "
-"użytkownika\" własną). W Salix, katalog ten zawiera \"Desktop\", \"Muzyka\","
-" \"Dokumenty\" i tak dalej. Aby sprawdzić jego zawartość, wpisz \"ls\" i "
-"naciśnij enter. Pojawi się coś takiego:"
+msgstr "Powinieneś być w katalogu użytkownika (oznaczony jako \"~\"), który jest zazwyczaj taki sam jak \"/home/nazwa użytkownika\" (zastąp \"nazwę użytkownika\" własną). W Salix, katalog ten zawiera \"Desktop\", \"Muzyka\", \"Dokumenty\" i tak dalej. Aby sprawdzić jego zawartość, wpisz \"ls\" i naciśnij enter. Pojawi się coś takiego:"
 
 #. Tag: phrase
 #, no-c-format
@@ -142,16 +110,7 @@ msgid ""
 "root directory. The root directory is, as the name suggests, the core of "
 "your directories - every directory stems from here. Once you wipe out the "
 "root directory, you will not see your machine booting up again."
-msgstr ""
-"Teraz do poruszania między katalogami używamy \"cd\". Jeśli po prostu "
-"wpiszesz \"cd\" i enter, nic się nie stanie. \"cd\" musi być wpisane zarówno"
-" przez nazwę katalogu, jak i pełną ścieżką do katalogu, do którego chcesz "
-"się przenieść. Można też przejść między katalogami przez wpisanie \"cd ..\" "
-"(Należy uważać, na znajdują się spację między cd ..). Pamiętaj, w Linux, "
-"argumenty są oddzielone spacjami. Więc teraz przejdźmy do głównego katalogu."
-" Katalog główny jest, jak sama nazwa wskazuje, rdzeniem katalogów - każdy "
-"katalog znajduje się w nim. Jeśli usuniesz ten katalog, nie będziesz mógł "
-"uruchomić systemu ponownie."
+msgstr "Teraz do poruszania między katalogami używamy \"cd\". Jeśli po prostu wpiszesz \"cd\" i enter, nic się nie stanie. \"cd\" musi być wpisane zarówno przez nazwę katalogu, jak i pełną ścieżką do katalogu, do którego chcesz się przenieść. Można też przejść między katalogami przez wpisanie \"cd ..\" (Należy uważać, na znajdują się spację między cd ..). Pamiętaj, w Linux, argumenty są oddzielone spacjami. Więc teraz przejdźmy do głównego katalogu. Katalog główny jest, jak sama nazwa wskazuje, rdzeniem katalogów - każdy katalog znajduje się w nim. Jeśli usuniesz ten katalog, nie będziesz mógł uruchomić systemu ponownie."
 
 #. Tag: para
 #, no-c-format
@@ -165,11 +124,7 @@ msgid ""
 "You should see something like \"tmp/\", \"usr/\", \"home/\" and so on. OK, "
 "not so interesting here. Let us move back to your home directory with \"cd "
 "/home/your user name\"."
-msgstr ""
-"Wpisz \"ls\", aby wyświetlić listę plików i katalogów w katalogu. Powinieneś"
-" zobaczyć coś takiego jak \"tmp/\", \"usr/\", \"home/\" i tak dalej. OK, nie"
-" jest tutaj ciekawe . Przejdźmy z powrotem do swojego katalogu domowego \"cd"
-" /home/nazwa użytkownika\"."
+msgstr "Wpisz \"ls\", aby wyświetlić listę plików i katalogów w katalogu. Powinieneś zobaczyć coś takiego jak \"tmp/\", \"usr/\", \"home/\" i tak dalej. OK, nie jest tutaj ciekawe . Przejdźmy z powrotem do swojego katalogu domowego \"cd /home/nazwa użytkownika\"."
 
 #. Tag: para
 #, no-c-format
@@ -177,11 +132,7 @@ msgid ""
 "Now move into the \"Music\" directory by issuing \"cd Music\". In fact, you "
 "do not have to type to the end. By pressing Tab after the first letter or "
 "two, you may complete the rest of the directory name automatically."
-msgstr ""
-"Teraz przejdź do \"Music\" katalogu, wpisując \"cd Music \". W "
-"rzeczywistości, nie trzeba wpisywać nazw do końca. Naciskając Tab po "
-"pierwszej literze lub dwóch, można dopełnić resztę nazwy katalogu "
-"automatycznie."
+msgstr "Teraz przejdź do \"Music\" katalogu, wpisując \"cd Music \". W rzeczywistości, nie trzeba wpisywać nazw do końca. Naciskając Tab po pierwszej literze lub dwóch, można dopełnić resztę nazwy katalogu automatycznie."
 
 #. Tag: title
 #, no-c-format
@@ -195,11 +146,7 @@ msgid ""
 "example, let's say we are going to create a photo folder. \"mkdir photo\" "
 "will place the new folder in the current directory. You can check this by "
 "typing \"ls\"."
-msgstr ""
-"Możesz utworzyć katalog za pomocą komendy \"mkdir nazwa nowego katalogu\". "
-"Na przykład, powiedzmy, że mamy zamiar utworzyć katalog zdjęć. \"mkdir "
-"zdjecia\" utworzy nowy folder w bieżącym katalogu. Można to sprawdzić "
-"wpisując \"ls\"."
+msgstr "Możesz utworzyć katalog za pomocą komendy \"mkdir nazwa nowego katalogu\". Na przykład, powiedzmy, że mamy zamiar utworzyć katalog zdjęć. \"mkdir zdjecia\" utworzy nowy folder w bieżącym katalogu. Można to sprawdzić wpisując \"ls\"."
 
 #. Tag: para
 #, no-c-format
@@ -207,10 +154,7 @@ msgid ""
 "Next, let's create a log file for the photo folder. \"nano\" is a command "
 "line application for reading and writing texts. To bring up the program, "
 "type in \"nano\"."
-msgstr ""
-"Następnie stwórzmy plik dziennika w folderze zdjęć. \"Nano\" jest aplikacją "
-"wiersza poleceń do czytania i pisania tekstów. Aby przywołać program, wpisz "
-"w \"nano\"."
+msgstr "Następnie stwórzmy plik dziennika w folderze zdjęć. \"Nano\" jest aplikacją wiersza poleceń do czytania i pisania tekstów. Aby przywołać program, wpisz w \"nano\"."
 
 #. Tag: phrase
 #, no-c-format
@@ -223,10 +167,7 @@ msgid ""
 "The application is simple to use, and you can see command options shown at "
 "the buttom. Type \"log file created\", and with Ctrl+x, save the document as"
 " \"log\" and quit the application."
-msgstr ""
-"Aplikacja jest prosta w użyciu, i można zobaczyć opcje poleceń wyświetlanych"
-" na dole. Wpisz \"log file created\", i Ctrl + x, zapisz dokument jako "
-"\"log\" i zamknij program."
+msgstr "Aplikacja jest prosta w użyciu, i można zobaczyć opcje poleceń wyświetlanych na dole. Wpisz \"log file created\", i Ctrl + x, zapisz dokument jako \"log\" i zamknij program."
 
 #. Tag: title
 #, no-c-format
@@ -243,15 +184,7 @@ msgid ""
 "photo/\" but perhaps it is better to call the log file not just \"log\" but "
 "\"log.txt\", so that it would be obvious to a Windows user that it is a text"
 " file. Type in \"cp log photo/log.txt\" and enter to execute the command."
-msgstr ""
-"\"cp\" jest chyba jednym z najczęściej używanych komend w konsoli. \"cp\" "
-"kopiuje plik lub pliki z jednej lokalizacji do innej. Ponieważ stworzyliśmy "
-"plik o nazwie \"log\", który jest obecnie w złym katalogu, pozwala nam "
-"przenieść go wewnątrz katalogu \"zdjecia\" . Można to zrobić za pomocą "
-"komendy \"cp log zdjecia/\", ale może lepiej nazwać plik dziennika nie jako "
-"\"log\", ale \"log.txt\", żeby też był on oczywisty dla użytkownika systemu "
-"Windows, że jest to plik tekstowy . Wpisz \"cp log zdjecia/log.txt\" i "
-"enter."
+msgstr "\"cp\" jest chyba jednym z najczęściej używanych komend w konsoli. \"cp\" kopiuje plik lub pliki z jednej lokalizacji do innej. Ponieważ stworzyliśmy plik o nazwie \"log\", który jest obecnie w złym katalogu, pozwala nam przenieść go wewnątrz katalogu \"zdjecia\" . Można to zrobić za pomocą komendy \"cp log zdjecia/\", ale może lepiej nazwać plik dziennika nie jako \"log\", ale \"log.txt\", żeby też był on oczywisty dla użytkownika systemu Windows, że jest to plik tekstowy . Wpisz \"cp log zdjecia/log.txt\" i enter."
 
 #. Tag: para
 #, no-c-format
@@ -261,13 +194,7 @@ msgid ""
 " add to the log file by saying that it has been moved from \"Music\" to "
 "\"photo\". Issuing \"nano log.txt\" will bring up the text. Add a line to "
 "say it has been moved, and then save and quit the application by Ctrl+x."
-msgstr ""
-"Możesz wejść do katalogu \"zdjecia\" i sprawdzić, czy kopiowanie zostało "
-"wykonane prawidłowo. \"cd zdjecia\" a następnie \"ls\". Plik powinien tam "
-"być. Dodajmy do pliku dziennika, pisząć, że został przeniesiony z \"Music\" "
-"do \"zdjecia\". Wpisanie \"nano log.txt\" spowoduje wyświetlenie tekstu. "
-"Dodaj linię mówiącą, że został on przeniesiony, a następnie zapisz i zamknij"
-" aplikację przez Ctrl + x."
+msgstr "Możesz wejść do katalogu \"zdjecia\" i sprawdzić, czy kopiowanie zostało wykonane prawidłowo. \"cd zdjecia\" a następnie \"ls\". Plik powinien tam być. Dodajmy do pliku dziennika, pisząć, że został przeniesiony z \"Music\" do \"zdjecia\". Wpisanie \"nano log.txt\" spowoduje wyświetlenie tekstu. Dodaj linię mówiącą, że został on przeniesiony, a następnie zapisz i zamknij aplikację przez Ctrl + x."
 
 #. Tag: para
 #, no-c-format
@@ -282,16 +209,7 @@ msgid ""
 "confirm your order. It will just carry out your instructions without further"
 " ado and once a file is removed, it is deleted forever. You cannot recover "
 "it from the recycle bin."
-msgstr ""
-"Oh, ale zapomnieliśmy usunąć oryginalny \"log\" plik w folderze \"Music\". "
-"Wróćmy do katalogu \"Music\" za pomocą \"cd ..\" i usuńmy \"log\" plik za "
-"pomocą komendy \"rm log\". \"rm\" polecenie usuwa plik lub pliki. .. Na "
-"przykład, jeśli chcesz usunąć wszystkie zdjęcia z rozszerzeniem jpg, ale nie"
-" z png, można wydać takie polecenie: \"rm *. jpg\". Spowoduje to usunięcie "
-"wszystkich plików z rozszerzeniem. jpg w katalogu w którym się znajdujesz "
-"Zauważ, że \"rm\" polecenia nie poprosi o potwierdzenie polecenia. Po prostu"
-" stosuje się do instrukcji bez zbędnych ceregieli i plik jest usunięty, "
-"zostanie on usunięty na zawsze. Nie można go odzyskać z kosza."
+msgstr "Oh, ale zapomnieliśmy usunąć oryginalny \"log\" plik w folderze \"Music\". Wróćmy do katalogu \"Music\" za pomocą \"cd ..\" i usuńmy \"log\" plik za pomocą komendy \"rm log\". \"rm\" polecenie usuwa plik lub pliki. .. Na przykład, jeśli chcesz usunąć wszystkie zdjęcia z rozszerzeniem jpg, ale nie z png, można wydać takie polecenie: \"rm *. jpg\". Spowoduje to usunięcie wszystkich plików z rozszerzeniem. jpg w katalogu w którym się znajdujesz Zauważ, że \"rm\" polecenia nie poprosi o potwierdzenie polecenia. Po prostu stosuje się do instrukcji bez zbędnych ceregieli i plik jest usunięty, zostanie on usunięty na zawsze. Nie można go odzyskać z kosza."
 
 #. Tag: para
 #, no-c-format
@@ -303,14 +221,7 @@ msgid ""
 "\"log.txt\" and you now want to rename it as \"log\" again. Type in \"mv "
 "photo/log.txt photo/log\" and execute the command. Now the file name has "
 "been changed back to \"log\"."
-msgstr ""
-"W tym przykładzie użyliśmy \"cp\" aby skopiować plik dziennika, przed "
-"późniejszym jego usunięciem. Normalnie można to zrobić przez wydanie "
-"polecenia \"mv\"; \"mv log zdjecia/\". Możesz także skorzystać z \"mv\", aby"
-" zmienić nazwę pliku. Powiedzmy, że nie lubisz wcześniejszej decyzji, i "
-"chcesz zmienić  \"log.txt\" jego nazwę jako \"log\" ponownie. Wpisz \"mv "
-"zdjecia/log.txt zdjecia/log\" i enter. Teraz nazwa pliku została zmieniona z"
-" powrotem do \"log\"."
+msgstr "W tym przykładzie użyliśmy \"cp\" aby skopiować plik dziennika, przed późniejszym jego usunięciem. Normalnie można to zrobić przez wydanie polecenia \"mv\"; \"mv log zdjecia/\". Możesz także skorzystać z \"mv\", aby zmienić nazwę pliku. Powiedzmy, że nie lubisz wcześniejszej decyzji, i chcesz zmienić  \"log.txt\" jego nazwę jako \"log\" ponownie. Wpisz \"mv zdjecia/log.txt zdjecia/log\" i enter. Teraz nazwa pliku została zmieniona z powrotem do \"log\"."
 
 #. Tag: title
 #, no-c-format
@@ -324,20 +235,14 @@ msgid ""
 "directory. This is a little strange as we should normally have the folder "
 "not in \"Music\" but in \"Pictures\". But now you know how to move a file, "
 "perhaps the same command will work for moving a folder?"
-msgstr ""
-"To teraz masz folder o nazwie \"zdjecia\" i plik dziennika w \"Music\" "
-"katalogu. To jest trochę dziwne, powinniśmy normalnie mieć go nie folderze "
-"\"Music\", ale w \"Pictures\". Ale teraz wiemy, jak przenieść plik, być może"
-" to samo polecenie będzie działać aby przenieść go do odpowiedniego folderu?"
+msgstr "To teraz masz folder o nazwie \"zdjecia\" i plik dziennika w \"Music\" katalogu. To jest trochę dziwne, powinniśmy normalnie mieć go nie folderze \"Music\", ale w \"Pictures\". Ale teraz wiemy, jak przenieść plik, być może to samo polecenie będzie działać aby przenieść go do odpowiedniego folderu?"
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "But... \"cp photo ../Pictures\" (remember that .. refers to the folder one "
 "level up) will give an error like this."
-msgstr ""
-"Ale ... \"cp zdjęcie .. /Pictures\" (pamiętaj, że .. odnosi się do folderu o"
-" jeden poziom w górę) powoduje powstanie błędu."
+msgstr "Ale ... \"cp zdjęcie .. /Pictures\" (pamiętaj, że .. odnosi się do folderu o jeden poziom w górę) powoduje powstanie błędu."
 
 #. Tag: para
 #, no-c-format
@@ -348,13 +253,7 @@ msgid ""
 "--help will just be -h, and there may be no help at all. \"man\" is another "
 "command if this is the case. \"man cp\" will give a more indepth explanation"
 " of this command. (To get out of the manual, press \"q\")."
-msgstr ""
-"Zobaczmy, co możemy zrobić tutaj. Pierwszą rzeczą, napotykając taki problem "
-"jest sprawdzenie odpowiedniego pliku pomocy. Można to zazwyczaj zrobić "
-"wydając polecenie z opcją jak \"cp --help\". Jest możliwe, że zamiast --help"
-" wystarczy -h. \"man\" jest innym poleceniem mogącym uzyskać pomoc. \"man "
-"cp\" daje bardziej dogłębne wyjaśnienie tego polecenia. (Aby wyjść z strony "
-"man, naciśnij \"q\")."
+msgstr "Zobaczmy, co możemy zrobić tutaj. Pierwszą rzeczą, napotykając taki problem jest sprawdzenie odpowiedniego pliku pomocy. Można to zazwyczaj zrobić wydając polecenie z opcją jak \"cp --help\". Jest możliwe, że zamiast --help wystarczy -h. \"man\" jest innym poleceniem mogącym uzyskać pomoc. \"man cp\" daje bardziej dogłębne wyjaśnienie tego polecenia. (Aby wyjść z strony man, naciśnij \"q\")."
 
 #. Tag: para
 #, no-c-format
@@ -365,12 +264,7 @@ msgid ""
 "\"Pictures\" directory. After checking that the folder has been safely "
 "copied, you can remove the \"photo\" folder from the \"Music\" directory: "
 "\"rm -r photo/\"."
-msgstr ""
-"Jeśli czytasz pomoc starannie, widać, że trzeba dać dodatkowa opcja \"-r\", "
-"jeśli chcesz skopiować folder do innej lokalizacji. Więc teraz \"cp -r "
-"zdjecia .. /Pictures\" aby skopiować \"zdjecia\" folder wewnątrz "
-"\"Pictures\". Po sprawdzeniu, że folder został bezpiecznie skopiowany, można"
-" usunąć \"zdjecia\" folder z \"Music\" katalogu: \"rm -r zdjecia/\"."
+msgstr "Jeśli czytasz pomoc starannie, widać, że trzeba dać dodatkowa opcja \"-r\", jeśli chcesz skopiować folder do innej lokalizacji. Więc teraz \"cp -r zdjecia .. /Pictures\" aby skopiować \"zdjecia\" folder wewnątrz \"Pictures\". Po sprawdzeniu, że folder został bezpiecznie skopiowany, można usunąć \"zdjecia\" folder z \"Music\" katalogu: \"rm -r zdjecia/\"."
 
 #. Tag: title
 #, no-c-format
@@ -383,9 +277,7 @@ msgid ""
 "Maybe a little bird has told you that there is a wonderful application "
 "called \"cowsay\" in Linux, and now you would like to see what this program "
 "can do."
-msgstr ""
-"Może mały ptaszek powiedział Tobie że jest cudowna aplikacja zwana "
-"\"cowsay\" i teraz chciałbyś zobaczyć co ten program potrafi."
+msgstr "Może mały ptaszek powiedział Tobie że jest cudowna aplikacja zwana \"cowsay\" i teraz chciałbyś zobaczyć co ten program potrafi."
 
 #. Tag: para
 #, no-c-format
@@ -396,12 +288,7 @@ msgid ""
 "will be asked to enter the root password. After providing the correct "
 "password, you are now free to do whatever you wish to do on your system "
 "(even to make the machine unworkable)."
-msgstr ""
-"Aby zainstalować program, potrzebujesz być zalogowany jako root (= superuser"
-" = administrator), ponieważ on posiada uprawnienia do takiej akcji. Wpisz "
-"\"su\" aby uzyskać prawa superusera. Zostaniesz zapytany o hasło roota. Po "
-"wprowadzeniu właściwego hasła możesz zrobić co chcesz (co jest wykonalne na "
-"tej maszynie)."
+msgstr "Aby zainstalować program, potrzebujesz być zalogowany jako root (= superuser = administrator), ponieważ on posiada uprawnienia do takiej akcji. Wpisz \"su\" aby uzyskać prawa superusera. Zostaniesz zapytany o hasło roota. Po wprowadzeniu właściwego hasła możesz zrobić co chcesz (co jest wykonalne na tej maszynie)."
 
 #. Tag: para
 #, no-c-format
@@ -414,13 +301,7 @@ msgid ""
 "of Salix nor of Slackware. But it is still too early to give up. "
 "Slackbuild.org maintains extra packages for Slackware, which of course can "
 "be utilised by Salix users."
-msgstr ""
-"A więc \"cowsay\". Warto odświeżyć bazę paczek, aby mieć dostęp do "
-"najnowszych przez \"slapt-get -u\". Później poszukamy programu (w tym "
-"przypadku \"cowsay\"), wpisz \"slapt-get --search cowsay\". Niefortunnie, "
-"cowsay nie jest w oficjalnym repozytorium ani Salix ani Slackware. Ale za "
-"wcześnie żeby się poddać. Slackbuild.org dostarcza dodatkowe paczki dla "
-"Slackware, z których oczywiście mogą skorzystać użytkownicy Salix."
+msgstr "A więc \"cowsay\". Warto odświeżyć bazę paczek, aby mieć dostęp do najnowszych przez \"slapt-get -u\". Później poszukamy programu (w tym przypadku \"cowsay\"), wpisz \"slapt-get --search cowsay\". Niefortunnie, cowsay nie jest w oficjalnym repozytorium ani Salix ani Slackware. Ale za wcześnie żeby się poddać. Slackbuild.org dostarcza dodatkowe paczki dla Slackware, z których oczywiście mogą skorzystać użytkownicy Salix."
 
 #. Tag: para
 #, no-c-format
@@ -431,12 +312,7 @@ msgid ""
 "src -i cowsay\". If you are not sure what this \"-i\" is, you can check it "
 "with the --help option. You will see a lot of lines running up the terminal "
 "quickly until the application is installed."
-msgstr ""
-"Poszukaj \"cowsay\" z slapt-src następująco \"slapt-src --search cowsay\" "
-"zaraz po odświeżeniu bazy \"slapt-src -u\". Aby zainstalować \"slapt-src -i "
-"cowsay\". Jeśli nie wiesz co znaczy opcja \"-i\", sprawdź to z opcją --help."
-"  Zobaczysz wiele linii szybko biegnących po terminalu, aż aplikacja "
-"zostanie zainstalowana."
+msgstr "Poszukaj \"cowsay\" z slapt-src następująco \"slapt-src --search cowsay\" zaraz po odświeżeniu bazy \"slapt-src -u\". Aby zainstalować \"slapt-src -i cowsay\". Jeśli nie wiesz co znaczy opcja \"-i\", sprawdź to z opcją --help.  Zobaczysz wiele linii szybko biegnących po terminalu, aż aplikacja zostanie zainstalowana."
 
 #. Tag: para
 #, no-c-format
@@ -448,22 +324,14 @@ msgid ""
 "running, but as you don't see anything, perhaps it is not running properly. "
 "To terminate the process, press \"Ctrl+c\". You will get back the normal "
 "input line back on your terminal."
-msgstr ""
-"Po jego zainstalowaniu, możesz zacząć testować program. Najpierw jednak "
-"opuść tryb superusera wpisując \"exit\". Wpisz \"cowsay\". Nic się nie "
-"dzieje, ale faktycznie jesteś w tym programie, ale niekoniecznie uruchomiłeś"
-" go poprawnie. Opuść program wpisując \"ctrl+c\". Wrócisz z powrotem do "
-"terminalu."
+msgstr "Po jego zainstalowaniu, możesz zacząć testować program. Najpierw jednak opuść tryb superusera wpisując \"exit\". Wpisz \"cowsay\". Nic się nie dzieje, ale faktycznie jesteś w tym programie, ale niekoniecznie uruchomiłeś go poprawnie. Opuść program wpisując \"ctrl+c\". Wrócisz z powrotem do terminalu."
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "So what was going wrong? Check \"cowsay\" with \"-h\". You will see that you"
 " need to type in a [message]. Try again with \"cowsay Hello Salix!\""
-msgstr ""
-"Więc co źle zrobiliśmy? Sprawdź to z opcją \"cowsay -h\". Zobaczysz że "
-"potrzebujesz wpisać jeszcze [wiadomość]. Spróbuj ponownie \"cowsay Hello "
-"Salix!\""
+msgstr "Więc co źle zrobiliśmy? Sprawdź to z opcją \"cowsay -h\". Zobaczysz że potrzebujesz wpisać jeszcze [wiadomość]. Spróbuj ponownie \"cowsay Hello Salix!\""
 
 #. Tag: para
 #, no-c-format
@@ -475,14 +343,7 @@ msgid ""
 "url=\"http://linuxcommand.org/index.php\">Linuxcommand.org</ulink> can be "
 "particularly recommended if you wish to gain a comprehensive grounding. "
 "Proceed cautiously, but don't be afraid to experiment."
-msgstr ""
-"Podsumowując, mamy tylko powierzchowne odczucie mocy linii poleceń. "
-"Najlepszym sposobem, aby dowiedzieć się więcej jest używanie jej, ale "
-"pamiętaj, aby skorzystać z narzędzi pomocy, i skonsultować się z "
-"dokumentacją online, takich jak wymienione w forum Salix. <ulink "
-"url=\"http://linuxcommand.org/index.php\"> Linuxcommand.org </ulink> które "
-"są szczególnie zalecane, jeśli chcesz uzyskać pełny zrozumienie. Postępuj "
-"ostrożnie, ale nie bój się eksperymentować."
+msgstr "Podsumowując, mamy tylko powierzchowne odczucie mocy linii poleceń. Najlepszym sposobem, aby dowiedzieć się więcej jest używanie jej, ale pamiętaj, aby skorzystać z narzędzi pomocy, i skonsultować się z dokumentacją online, takich jak wymienione w forum Salix. <ulink url=\"http://linuxcommand.org/index.php\"> Linuxcommand.org </ulink> które są szczególnie zalecane, jeśli chcesz uzyskać pełny zrozumienie. Postępuj ostrożnie, ale nie bój się eksperymentować."
 
 #. Tag: para
 #, no-c-format
@@ -490,10 +351,7 @@ msgid ""
 "A final tip – it can be difficult to copy longer commands accurately. If you"
 " select the text with the mouse, in Linux, clicking the middle button or "
 "wheel will paste it accurately into the command line or wherever you wish."
-msgstr ""
-"Ostateczny tip - trudne może być kopiowanie polecenia dokładnie. Jeśli "
-"zaznaczysz tekst myszką, w Linuksie, klikając środkowy przycisk lub kółko "
-"będziesz mógł wkleić go dokładnie w linii poleceń lub gdzie tylko chcesz."
+msgstr "Ostateczny tip - trudne może być kopiowanie polecenia dokładnie. Jeśli zaznaczysz tekst myszką, w Linuksie, klikając środkowy przycisk lub kółko będziesz mógł wkleić go dokładnie w linii poleceń lub gdzie tylko chcesz."
 
 #. Tag: title
 #, no-c-format
@@ -521,21 +379,7 @@ msgid ""
 "concerned about RSI (cumulative strain from long-term mouse use), or for "
 "netbook users, because \"every pixel counts\". It is also highly "
 "configurable - and fast!"
-msgstr ""
-"Ratpoison jest kafelkowym menedżerem okien, trochę jak xmonad lub scrotwm. "
-"Jego dwie główne cechy to, że aplikacje wypełniają cały ekran, bez pasków i "
-"przycisków, a interfejs użytkownika może być całkowicie kontrolowane z "
-"klawiatury, bez myszy. W razie potrzeby dowolną liczbę okien może być "
-"pokazywana jednocześnie, i przegrupowana do woli - stąd określenie "
-"\"kafelkowy\" WM. Wszystko to może zająć trochę czasu zanim się "
-"przyzwyczaisz, ale mimo - a może właśnie dlatego - interfejs jest tak bardzo"
-" różniący się od konwencjonalnego wskaż i kliknij podejścia, ale może szybko"
-" stać się bardzo intuicyjne. Uczenie się z aktualnym kluczem zajmie znacznie"
-" mniej czasu, niż można to sobie wyobrazić. Niezależnie od jego efektywności"
-" i braku bałaganu, ratpoison jest dobrym wyborem dla wszystkich "
-"zainteresowanych RSI (kumulacja chorób w wyniku długotrwałego stosowania "
-"myszy), lub dla użytkowników netbooków, bo \"liczy się każdy piksel\". Jest "
-"też wysoce konfigurowalny - i szybki!"
+msgstr "Ratpoison jest kafelkowym menedżerem okien, trochę jak xmonad lub scrotwm. Jego dwie główne cechy to, że aplikacje wypełniają cały ekran, bez pasków i przycisków, a interfejs użytkownika może być całkowicie kontrolowane z klawiatury, bez myszy. W razie potrzeby dowolną liczbę okien może być pokazywana jednocześnie, i przegrupowana do woli - stąd określenie \"kafelkowy\" WM. Wszystko to może zająć trochę czasu zanim się przyzwyczaisz, ale mimo - a może właśnie dlatego - interfejs jest tak bardzo różniący się od konwencjonalnego wskaż i kliknij podejścia, ale może szybko stać się bardzo intuicyjne. Uczenie się z aktualnym kluczem zajmie znacznie mniej czasu, niż można to sobie wyobrazić. Niezależnie od jego efektywności i braku bałaganu, ratpoison jest dobrym wyborem dla wszystkich zainteresowanych RSI (kumulacja chorób w wyniku długotrwałego stosowania myszy), lub dla użytkowników netbooków, bo \"liczy się każdy piksel\". Jest też wysoce konfigurowalny - i szybki!"
 
 #. Tag: para
 #, no-c-format
@@ -551,19 +395,7 @@ msgid ""
 "know how to open links and tabs or windows. Other functions can be learned "
 "by exploration at your own pace. To begin using Vim itself, try running "
 "vimtutor from a terminal, and just follow the instructions."
-msgstr ""
-"Obecne aplikacje dla edycji Ratpoison mają na celu dopasować się swoim "
-"minimalistycznym (ale nie spartańskim) podejściem. Większość badanych używa "
-"stylu vim skrótów klawiaturowych, choć ratpoison się nim nie stanie, więc "
-"użytkownicy będą musieli się komfortowo z nimi zapoznać, ściągawki są "
-"dostępne online, do pomocy a także przewodniki (i podręczniki) dla "
-"poszczególnych aplikacji. Wspólne operacje korzystają tylko z niewielkiego "
-"podzbióru klawiszy, co sprawia, że ​​krzywa uczenia staje się gładsza: "
-"podstawowe przeglądania, na przykład. Wszystko, czego potrzebujesz to "
-"otworzyć strony i nawigować po historii i wiedzieć, jak otworzyć linki i "
-"zakładki lub okna. Inne funkcje można nauczyć się przez badania w swoim "
-"własnym tempie. Aby rozpocząć korzystanie z vim, spróbuj uruchomić vimtutor "
-"z terminala, i postępować zgodnie z instrukcjami."
+msgstr "Obecne aplikacje dla edycji Ratpoison mają na celu dopasować się swoim minimalistycznym (ale nie spartańskim) podejściem. Większość badanych używa stylu vim skrótów klawiaturowych, choć ratpoison się nim nie stanie, więc użytkownicy będą musieli się komfortowo z nimi zapoznać, ściągawki są dostępne online, do pomocy a także przewodniki (i podręczniki) dla poszczególnych aplikacji. Wspólne operacje korzystają tylko z niewielkiego podzbióru klawiszy, co sprawia, że ​​krzywa uczenia staje się gładsza: podstawowe przeglądania, na przykład. Wszystko, czego potrzebujesz to otworzyć strony i nawigować po historii i wiedzieć, jak otworzyć linki i zakładki lub okna. Inne funkcje można nauczyć się przez badania w swoim własnym tempie. Aby rozpocząć korzystanie z vim, spróbuj uruchomić vimtutor z terminala, i postępować zgodnie z instrukcjami."
 
 #. Tag: title
 #, no-c-format
@@ -576,10 +408,7 @@ msgid ""
 "When you boot Salix Ratpoison, there is no graphical login screen: when you "
 "log in, you enter the linux terminal. Log in as your normal user (not root) "
 "and type startx to start Ratpoison itself."
-msgstr ""
-"Podczas uruchamiania Salix Ratpoison, nie ma graficznego ekranu logowania: "
-"kiedy się logujesz to wchodzisz do linux terminala. Zaloguj się jako zwykły "
-"użytkownik (nie root) i wpisz startx aby uruchomić Ratpoison."
+msgstr "Podczas uruchamiania Salix Ratpoison, nie ma graficznego ekranu logowania: kiedy się logujesz to wchodzisz do linux terminala. Zaloguj się jako zwykły użytkownik (nie root) i wpisz startx aby uruchomić Ratpoison."
 
 #. Tag: para
 #, no-c-format
@@ -590,13 +419,7 @@ msgid ""
 "where you were before. There is nothing to see (apart from the beautiful "
 "Salix wallpaper)! But it's just as easy to set Ratpoison to work as with any"
 " more conventional desktop."
-msgstr ""
-"Powinieneś wtedy zobaczyć tapetę Salix, i na krótko pojawi się komunikat z "
-"informacją, jak wyświetlić listę poleceń. Naciśnij kombinację klawiszy "
-"Ctrl-t (C-t, we własnych notacji Ratpoison ), później znak zapytania, "
-"naciśnięcie dowolnego klawisza powoduje powrót do miejsca, gdzie byłeś "
-"wcześniej. Nie ma nic, do zobaczenia (oprócz pięknych tapet Salix)! Ale "
-"łatwo ustawić Ratpoison do pracy z z bardziej konwencjonalnym desktopem."
+msgstr "Powinieneś wtedy zobaczyć tapetę Salix, i na krótko pojawi się komunikat z informacją, jak wyświetlić listę poleceń. Naciśnij kombinację klawiszy Ctrl-t (C-t, we własnych notacji Ratpoison ), później znak zapytania, naciśnięcie dowolnego klawisza powoduje powrót do miejsca, gdzie byłeś wcześniej. Nie ma nic, do zobaczenia (oprócz pięknych tapet Salix)! Ale łatwo ustawić Ratpoison do pracy z z bardziej konwencjonalnym desktopem."
 
 #. Tag: para
 #, no-c-format
@@ -607,13 +430,7 @@ msgid ""
 "Right arrow or enter runs the application (if you open one by mistake, don't"
 " worry, just type C-t r again - we will see how to close windows and "
 "applications later)."
-msgstr ""
-"Aby wybrać aplikację z menu, wpisz C-t r, i za pomocą klawiszy strzałek, "
-"nawiguj (hjkl vima również działa). Strzałka w prawo (lub l) uzyskuje dostęp"
-" do podmenu (np. \"Sieć\"), a strzałka w lewo (lub h) wraca do poziomu. "
-"Strzałka w prawo lub enter uruchamia aplikację (jeśli otworzysz przez "
-"pomyłkę, nie martw się, po prostu wpisz C-t r ponownie - zobaczymy jak "
-"zamknąć okna i aplikacje później)."
+msgstr "Aby wybrać aplikację z menu, wpisz C-t r, i za pomocą klawiszy strzałek, nawiguj (hjkl vima również działa). Strzałka w prawo (lub l) uzyskuje dostęp do podmenu (np. \"Sieć\"), a strzałka w lewo (lub h) wraca do poziomu. Strzałka w prawo lub enter uruchamia aplikację (jeśli otworzysz przez pomyłkę, nie martw się, po prostu wpisz C-t r ponownie - zobaczymy jak zamknąć okna i aplikacje później)."
 
 #. Tag: phrase
 #, no-c-format
@@ -629,13 +446,7 @@ msgid ""
 " open it bypasses the menu altogether: C-t v. You can create more shortcuts "
 "like this for applications you use a lot by adding them to the configuration"
 " file, which we will look at below."
-msgstr ""
-"Niektóre wspólne opcje są dostępne bezpośrednio na górze. Vimprobable2 - "
-"przeglądarkę, na przykład, można znaleźć w menu sieci, ale także po prostu "
-"wybierając \"Browser\". Pamiętaj, aby używać klawiatury, a nie myszy! "
-"Trzecim sposobem, aby go otworzyć z całkowitym pominięciem menu: C-t v. "
-"Można utworzyć kilka skrótów takich jak dla aplikacji których używasz "
-"często, dodając je do pliku konfiguracyjnego, który przyjrzymy później."
+msgstr "Niektóre wspólne opcje są dostępne bezpośrednio na górze. Vimprobable2 - przeglądarkę, na przykład, można znaleźć w menu sieci, ale także po prostu wybierając \"Browser\". Pamiętaj, aby używać klawiatury, a nie myszy! Trzecim sposobem, aby go otworzyć z całkowitym pominięciem menu: C-t v. Można utworzyć kilka skrótów takich jak dla aplikacji których używasz często, dodając je do pliku konfiguracyjnego, który przyjrzymy później."
 
 #. Tag: para
 #, no-c-format
@@ -644,12 +455,7 @@ msgid ""
 "guide. Also under accessories, 'Unit conversion' starts the console "
 "application units, which will convert between a large range of scales, such "
 "as time, weight, or currency, including some quite unusual ones."
-msgstr ""
-"apvlv pod akcesoriami, może być wykorzystany do odczytu dokumentów PDF, "
-"takich jak ten przewodnik. Również w ramach akcesoriów, \"Unit conversion\" "
-"uruchamia aplikację konsolową jednostek, i można w niej dokonać konwersji "
-"pomiędzy szeroką gamę jednostek jak wag, takich jak czas, masa, lub waluty, "
-"w tym niektóre z nich są dość niezwykłe."
+msgstr "apvlv pod akcesoriami, może być wykorzystany do odczytu dokumentów PDF, takich jak ten przewodnik. Również w ramach akcesoriów, \"Unit conversion\" uruchamia aplikację konsolową jednostek, i można w niej dokonać konwersji pomiędzy szeroką gamę jednostek jak wag, takich jak czas, masa, lub waluty, w tym niektóre z nich są dość niezwykłe."
 
 #. Tag: title
 #, no-c-format
@@ -664,13 +470,7 @@ msgid ""
 " :open should appear at the very bottom left of the screen. Type <ulink "
 "url=\"http://www.nongnu.org/ratpoison/doc/\">http://www.nongnu.org/ratpoison/doc/</ulink>."
 " When the page has loaded, type f and then select a number to follow a link:"
-msgstr ""
-"Zauważ, że nie ma menu, pasków narzędzi, przycisków, lub przewijania - tylko"
-" linia na dole, zawierająca adres URL. Aby otworzyć inną stronę, należy "
-"wpisać o lub :open i powinien pojawić się na samym dole po lewej stronie "
-"ekranu. Wpisz <ulink url=\"http://www.nongnu.org/ratpoison/doc/\"> "
-"http://www.nongnu.org/ratpoison/doc/ </ulink> . Po załadowaniu strony, wpisz"
-" f , a następnie wybierz numer aby wejść na konkretny link:"
+msgstr "Zauważ, że nie ma menu, pasków narzędzi, przycisków, lub przewijania - tylko linia na dole, zawierająca adres URL. Aby otworzyć inną stronę, należy wpisać o lub :open i powinien pojawić się na samym dole po lewej stronie ekranu. Wpisz <ulink url=\"http://www.nongnu.org/ratpoison/doc/\"> http://www.nongnu.org/ratpoison/doc/ </ulink> . Po załadowaniu strony, wpisz f , a następnie wybierz numer aby wejść na konkretny link:"
 
 #. Tag: phrase
 #, no-c-format
@@ -690,26 +490,14 @@ msgid ""
 "current window. For more details, consult man vimprobable2 as well as the "
 "Vimprobable website; see also man vimprobablerc for configuration options. "
 "Note that . and , are handy alternatives to f and shift-f."
-msgstr ""
-"Shift-h zabiera Cię tam gdzie byłeś wcześniej. t działa jak o ale otwiera "
-"URL w nowym oknie, podobnie jak shift-f zamiast f. Naciśnij TAB przed "
-"wpisaniem URL, zobaczysz sugerowaną historie dopełnień; użyj TAB ponownie do"
-" poruszania się między nimi (shift-TAB wraca z powrotem) a Enter zaznacza. O"
-" zamiast o (i T zamiast t) pozwala na edycję URL na aktualnej stronie - "
-"sprawdź to. j i k przewijają w dół i górę. Shift-I przechodzi jedną stronę "
-"naprzód w twojej historii przeglądania. d zamyka aktualne okno. Więcej "
-"szczegółów; zobacz man vimprobable2 lub stronę Vimprobable; zobacz również "
-"vimprobablerc żeby zobaczyć opcje konfiguracyjne. Zauważ że . i , mogą być "
-"alternatywnie używane zamiast f i shift-f."
+msgstr "Shift-h zabiera Cię tam gdzie byłeś wcześniej. t działa jak o ale otwiera URL w nowym oknie, podobnie jak shift-f zamiast f. Naciśnij TAB przed wpisaniem URL, zobaczysz sugerowaną historie dopełnień; użyj TAB ponownie do poruszania się między nimi (shift-TAB wraca z powrotem) a Enter zaznacza. O zamiast o (i T zamiast t) pozwala na edycję URL na aktualnej stronie - sprawdź to. j i k przewijają w dół i górę. Shift-I przechodzi jedną stronę naprzód w twojej historii przeglądania. d zamyka aktualne okno. Więcej szczegółów; zobacz man vimprobable2 lub stronę Vimprobable; zobacz również vimprobablerc żeby zobaczyć opcje konfiguracyjne. Zauważ że . i , mogą być alternatywnie używane zamiast f i shift-f."
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "There are no tabs. In the next section, we will see how Ratpoison allows you"
 " to use windows to do the work of tabs, but more informatively."
-msgstr ""
-"Tutaj nie ma kart. W tej sekcji, zobaczymy jak Ratpoison pozwala użyć okien "
-"jako roboczych kart, ale bardziej orientacyjnie."
+msgstr "Tutaj nie ma kart. W tej sekcji, zobaczymy jak Ratpoison pozwala użyć okien jako roboczych kart, ale bardziej orientacyjnie."
 
 #. Tag: para
 #, no-c-format
@@ -719,12 +507,7 @@ msgid ""
 "item is i, s, w, wd, or y, a different search engine is used in each case. "
 "These shorcuts are described in the Vimprobable man page, and may also be "
 "customised in the .vimprobablerc configuration file."
-msgstr ""
-"Zauważ że jeśli wpiszesz o lub t nie możesz przejść do URL, on będzie "
-"wysłany do przeszukania w domyślnym duckduckgo. Jeśli pierwszym elementem "
-"jest i, s, w, wd lub y to inna wyszukiwarka jest używana w tym przypadku. "
-"Skróty są opisane w man stronie Vimprobable i mogą być dostosowyane w pliku "
-"konfiguracyjnym .vimprobablerc."
+msgstr "Zauważ że jeśli wpiszesz o lub t nie możesz przejść do URL, on będzie wysłany do przeszukania w domyślnym duckduckgo. Jeśli pierwszym elementem jest i, s, w, wd lub y to inna wyszukiwarka jest używana w tym przypadku. Skróty są opisane w man stronie Vimprobable i mogą być dostosowyane w pliku konfiguracyjnym .vimprobablerc."
 
 #. Tag: para
 #, no-c-format
@@ -732,11 +515,7 @@ msgid ""
 "To insert data in forms (for instance, login and password) use tab till the "
 "cursor is in the right place. Another TAB moves to the next field or link; "
 "you may then use ESC to leave insert mode and return to command mode."
-msgstr ""
-"Aby wpisać dane do formularzy (na przykład login lub hasło) użyj tab aby "
-"ustawić kursor w odpowiednim miejscu. Ponowne wciśnięcie TAB przeniesie cię "
-"do następnego pola lub linku; możesz użyć ESC aby wyjść z trybu wpisywania "
-"powrócić do trybu komend."
+msgstr "Aby wpisać dane do formularzy (na przykład login lub hasło) użyj tab aby ustawić kursor w odpowiednim miejscu. Ponowne wciśnięcie TAB przeniesie cię do następnego pola lub linku; możesz użyć ESC aby wyjść z trybu wpisywania powrócić do trybu komend."
 
 #. Tag: para
 #, no-c-format
@@ -747,12 +526,7 @@ msgid ""
 "keystrokes to o or t; they will appear at the very bottom right of the "
 "browser window. To ignore them and return to command mode, clearing the "
 "buffer, press ESC."
-msgstr ""
-"Jeśli kombinacje klawiszy są wciąż interpretowane jako komendy przeglądarki,"
-" co może się zdarzyć w wyniku różnego projektowania stron, spróbuj użyć C-z."
-" Odwrotny problem może się pojawić jeśli naciśniesz o lub t; pojawiają się "
-"one na samym dole przeglądarki. Żeby je zignorować i powrócić do trybu "
-"komend, wyczyść bufor wciskając ESC."
+msgstr "Jeśli kombinacje klawiszy są wciąż interpretowane jako komendy przeglądarki, co może się zdarzyć w wyniku różnego projektowania stron, spróbuj użyć C-z. Odwrotny problem może się pojawić jeśli naciśniesz o lub t; pojawiają się one na samym dole przeglądarki. Żeby je zignorować i powrócić do trybu komend, wyczyść bufor wciskając ESC."
 
 #. Tag: para
 #, no-c-format
@@ -760,10 +534,7 @@ msgid ""
 "As described in Vimprobable's man page, it is necessary to create some files"
 " for all its features to work: touch ~/.config/vimprobable/histor though "
 "some of these may already be present."
-msgstr ""
-"Opisane w Vimprobable man stronach jest że konieczne jest utworzenie paru "
-"plików dla wszystkich funkcji do pracy: touch ~/.config/vimprobable/history "
-"choć niektóre mogą być już obecne."
+msgstr "Opisane w Vimprobable man stronach jest że konieczne jest utworzenie paru plików dla wszystkich funkcji do pracy: touch ~/.config/vimprobable/history choć niektóre mogą być już obecne."
 
 #. Tag: title
 #, no-c-format
@@ -775,9 +546,7 @@ msgstr "Zarządzanie oknami"
 msgid ""
 "Let's now see how ratpoison deals with several open windows. C-t e reveals "
 "all of them:"
-msgstr ""
-"Zobaczmy jak ratpoison radzi sobie z otwarciem kilku okien. C-t e pokazuje "
-"je wszystkie:"
+msgstr "Zobaczmy jak ratpoison radzi sobie z otwarciem kilku okien. C-t e pokazuje je wszystkie:"
 
 #. Tag: phrase
 #, no-c-format
@@ -796,15 +565,7 @@ msgid ""
 "current application. To see a list of commands, type C-t ?; for further "
 "detail, see also man ratpoison and the online manual, which we opened above "
 "with Vimprobable2."
-msgstr ""
-"Zauważ, że każdy z nich jest związany z numerem: pisanie skupia się w tym "
-"oknie, a resztę z nich ukrywa. (C-t pokazuje listę otwartych okien) C-t C-t "
-"wraca do poprzedniego okna. Jest to bardzo użyteczne do przełączania się "
-"pomiędzy dwoma aplikacjami - na przykład edytorem i przeglądarką - i jest "
-"przykładem jak Ratpoison świetnie radzi sobie z ergonomią. C-t k zamyka "
-"aktualne okno, a C-t shift-k zamyka aktualną aplikację. Aby zobaczyć listę "
-"komend wpisz C-t ?; więcej detali na stronie man i online manual, które "
-"możesz otworzyć z Vimprobable2."
+msgstr "Zauważ, że każdy z nich jest związany z numerem: pisanie skupia się w tym oknie, a resztę z nich ukrywa. (C-t pokazuje listę otwartych okien) C-t C-t wraca do poprzedniego okna. Jest to bardzo użyteczne do przełączania się pomiędzy dwoma aplikacjami - na przykład edytorem i przeglądarką - i jest przykładem jak Ratpoison świetnie radzi sobie z ergonomią. C-t k zamyka aktualne okno, a C-t shift-k zamyka aktualną aplikację. Aby zobaczyć listę komend wpisz C-t ?; więcej detali na stronie man i online manual, które możesz otworzyć z Vimprobable2."
 
 #. Tag: para
 #, no-c-format
@@ -817,15 +578,7 @@ msgid ""
 " C-t Q undoes the splitting and allows the currently focused window to fill "
 "the screen. In practice, it's rarely useful to have more than one or two "
 "windows visible:"
-msgstr ""
-"Aby pracować z dwoma lub więcej oknami razem, Ratpoison pozwala "
-"użytkownikowi na tryb dachówkowy okien. C-t s dzieli ekran okna powyżej okna"
-" ostatnio otwartego; C-t S dzieli je horyzontalnie. Kroki mogą być "
-"powtórzone aby dzielić okno dalej. C-t TAB (lub C-t i klawisze strzałek) "
-"przemieszczają fokus dookoła , natomiast C-t C-[strzałki] wymienia "
-"'dachówkę' w oknie. C-t Q cofa podział i pozwala aktualnemu fokus oknu "
-"wypełnić ekran. W praktyce rzadko jest użyteczne więcej niż jedno czy dwa "
-"widoczne okna:"
+msgstr "Aby pracować z dwoma lub więcej oknami razem, Ratpoison pozwala użytkownikowi na tryb dachówkowy okien. C-t s dzieli ekran okna powyżej okna ostatnio otwartego; C-t S dzieli je horyzontalnie. Kroki mogą być powtórzone aby dzielić okno dalej. C-t TAB (lub C-t i klawisze strzałek) przemieszczają fokus dookoła , natomiast C-t C-[strzałki] wymienia 'dachówkę' w oknie. C-t Q cofa podział i pozwala aktualnemu fokus oknu wypełnić ekran. W praktyce rzadko jest użyteczne więcej niż jedno czy dwa widoczne okna:"
 
 #. Tag: phrase
 #, no-c-format
@@ -843,10 +596,7 @@ msgid ""
 "To open the command line, type C-t c. There is no automatic package "
 "management in the Ratpoison edition, so you will need to make regular manual"
 " checks for updates:"
-msgstr ""
-"Aby otworzyć linię komend, wpisz C-t c. Nie ma automatycznego zarządzania "
-"pakietami w edycji Ratpoison, więc powinieneś regularnie ręcznie sprawdzać "
-"czy są aktualizacje:"
+msgstr "Aby otworzyć linię komend, wpisz C-t c. Nie ma automatycznego zarządzania pakietami w edycji Ratpoison, więc powinieneś regularnie ręcznie sprawdzać czy są aktualizacje:"
 
 #. Tag: para
 #, no-c-format
@@ -877,18 +627,7 @@ msgid ""
 "Thunderbird can be used with the Muttator addon while Claws-mail works "
 "almost entirely from the keyboard; Alpine is a friendly console email "
 "client."
-msgstr ""
-"Obok przeglądarki Vimprobable2, domyślne aplikacje zawierają Mutt jako "
-"klienta mail i Gnome Commander jako menadżer plików. Music on Console i "
-"Whaaw Media Player są odtwarzaczami audio i video, a GVim jest text/code "
-"edytorem. apvlv może być użyty do przeglądania plików pdf. Jeśli chcesz "
-"zobaczyć, zarządzanie paczkami oparte na konsoli, użyj slapt-get i slapt-"
-"src. Dodatkowe opcje są dostępne w repozytorium. Firefox może mieć dodany "
-"pentadactyl lub vimperator dodatek do wolnego od myszy przeglądania, lub "
-"alternatywnie Jumanji, XXXTerm czy w3m, przeglądarka w linii komend. "
-"Thunderbird może być użyty z Muttator dodatkiem a Claws-mail prawie cały "
-"pracuje przy użyciu klawiatury; Alpine jest przyjaznym konsolowym klientem "
-"email."
+msgstr "Obok przeglądarki Vimprobable2, domyślne aplikacje zawierają Mutt jako klienta mail i Gnome Commander jako menadżer plików. Music on Console i Whaaw Media Player są odtwarzaczami audio i video, a GVim jest text/code edytorem. apvlv może być użyty do przeglądania plików pdf. Jeśli chcesz zobaczyć, zarządzanie paczkami oparte na konsoli, użyj slapt-get i slapt-src. Dodatkowe opcje są dostępne w repozytorium. Firefox może mieć dodany pentadactyl lub vimperator dodatek do wolnego od myszy przeglądania, lub alternatywnie Jumanji, XXXTerm czy w3m, przeglądarka w linii komend. Thunderbird może być użyty z Muttator dodatkiem a Claws-mail prawie cały pracuje przy użyciu klawiatury; Alpine jest przyjaznym konsolowym klientem email."
 
 #. Tag: para
 #, no-c-format
@@ -900,15 +639,7 @@ msgid ""
 "spreadsheet. For writers, PyRoom is an elegant choice for full-screen, "
 "distraction-free writing, and it might be complemented by Antiword to "
 "convert proprietary file formats into plain text."
-msgstr ""
-"Żaden pakiet biurowy nie jest zawarty, i tutaj jak w innych przypadkach, "
-"zachęcamy użytkownika do dostosowania systemu przez zainstalowanie "
-"preferowanych aplikacji. Flash nie jest także zawarty, ale jest dostępny w "
-"repozytorium. Ekran do zarządzania wieloma konsolami pracuje dobrze w "
-"Ratpoison. Sc jest bazującym na konsoli arkuszem kalkulacyjnym. Dla autorów,"
-" PyRoom jest eleganckim wyborem dla pełnoekranowego, nie rozpraszającym "
-"uwagi, i może być uzupełniony o Antiword do konwersji własnych formatów "
-"plików w postaci zwykłego tekstu."
+msgstr "Żaden pakiet biurowy nie jest zawarty, i tutaj jak w innych przypadkach, zachęcamy użytkownika do dostosowania systemu przez zainstalowanie preferowanych aplikacji. Flash nie jest także zawarty, ale jest dostępny w repozytorium. Ekran do zarządzania wieloma konsolami pracuje dobrze w Ratpoison. Sc jest bazującym na konsoli arkuszem kalkulacyjnym. Dla autorów, PyRoom jest eleganckim wyborem dla pełnoekranowego, nie rozpraszającym uwagi, i może być uzupełniony o Antiword do konwersji własnych formatów plików w postaci zwykłego tekstu."
 
 #. Tag: para
 #, no-c-format
@@ -917,20 +648,14 @@ msgid ""
 "(equivalent to slapt-get and slapt-src) may also be used mouse-lessly, "
 "though this is perhaps more awkward than working on the command line. In "
 "either case, regular manual upgrading will still be necessary."
-msgstr ""
-"Zauważ że graficzne narzędzia do zarządzania pakietami Gslapt i Sourcery "
-"(odpowiednio slapt-get i slapt-src) mogą również być użyte bez myszy, choć "
-"może być to bardziej kłopotliwe niż używanie ich w linii komend. W każdym z "
-"tych przypadków, regularna ręczna aktualizacja jest konieczna."
+msgstr "Zauważ że graficzne narzędzia do zarządzania pakietami Gslapt i Sourcery (odpowiednio slapt-get i slapt-src) mogą również być użyte bez myszy, choć może być to bardziej kłopotliwe niż używanie ich w linii komend. W każdym z tych przypadków, regularna ręczna aktualizacja jest konieczna."
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "As an example, we will install Alpine, derived from the classic Pine mail "
 "client."
-msgstr ""
-"W tym przykładzie, zainstalujemy Alpine, wywodzącą się z Pine klasycznego "
-"klienta mail."
+msgstr "W tym przykładzie, zainstalujemy Alpine, wywodzącą się z Pine klasycznego klienta mail."
 
 #. Tag: para
 #, no-c-format
@@ -949,11 +674,7 @@ msgid ""
 " popular provider via smtp, see the page in the <ulink "
 "url=\"http://www.salixos.org/wiki/index.php/How%20to%20set%20up%20Alpine%20with%20a%20Gmail%20account\">Salix"
 " wiki</ulink>."
-msgstr ""
-"Zauważ: Żeby zobaczyć jak edytować konfigurację Alpine aby mieć dostęp do "
-"jednego z popularnych dostawców przez smtp, zobacz stronę <ulink "
-"url=\"http://www.salixos.org/wiki/index.php/How%20to%20set%20up%20Alpine%20with%20a%20Gmail%20account\">Salix"
-" wiki</ulink>."
+msgstr "Zauważ: Żeby zobaczyć jak edytować konfigurację Alpine aby mieć dostęp do jednego z popularnych dostawców przez smtp, zobacz stronę <ulink url=\"http://www.salixos.org/wiki/index.php/How%20to%20set%20up%20Alpine%20with%20a%20Gmail%20account\">Salix wiki</ulink>."
 
 #. Tag: para
 #, no-c-format
@@ -961,10 +682,7 @@ msgid ""
 "For Mutt, see <ulink "
 "url=\"http://crunchbanglinux.org/wiki/howto/howto_setup_mutt_with_gmail_imap\">this"
 " wiki entry</ulink>."
-msgstr ""
-"Dla Mutt, zobacz <ulink "
-"url=\"http://crunchbanglinux.org/wiki/howto/howto_setup_mutt_with_gmail_imap\">this"
-" wiki entry</ulink>."
+msgstr "Dla Mutt, zobacz <ulink url=\"http://crunchbanglinux.org/wiki/howto/howto_setup_mutt_with_gmail_imap\">this wiki entry</ulink>."
 
 #. Tag: title
 #, no-c-format
@@ -981,13 +699,7 @@ msgid ""
 "meta: C-t t should send C-t to the application in the active window. "
 "However, this does not work in the terminal, which does not recognise the "
 "character if it receives it in this form."
-msgstr ""
-"Z użyciem Alpine może być mały problem. Skrót do zaznaczania pliku, na "
-"przykład załącznika to C-t. W Ratpoison jest to klucz kombinacji ucieczki! W"
-" Ratpoison jest rozwiązanie tego konfliktu o którym mowa nieco tajemniczo "
-"jako meta: C-t t powinno wysłać C-t do aplikacji w aktywnym oknie. Ale, to "
-"nie działa w terminalu, który nie rozpozna tego, jeśli dostanie to w takiej "
-"formie."
+msgstr "Z użyciem Alpine może być mały problem. Skrót do zaznaczania pliku, na przykład załącznika to C-t. W Ratpoison jest to klucz kombinacji ucieczki! W Ratpoison jest rozwiązanie tego konfliktu o którym mowa nieco tajemniczo jako meta: C-t t powinno wysłać C-t do aplikacji w aktywnym oknie. Ale, to nie działa w terminalu, który nie rozpozna tego, jeśli dostanie to w takiej formie."
 
 #. Tag: para
 #, no-c-format
@@ -998,12 +710,7 @@ msgid ""
 "top right of the screen. This can be used for passing instructions to "
 "Ratpoison. For instance, one way of opening an application in a new console "
 "is:"
-msgstr ""
-"Wszystko w Ratpoison jest konfigurowalne, ale C-t kombinacja nie jest "
-"wyjątkiem. Tymczasowym rozwiązaniem jest zmiana przypisania użytej przej "
-"Ratpoison kombinacji. C-t: kojarzy linię wejścia na górze po prawej stronie "
-"ekranu. Może to być użyte do przepuszczania instrukcji do Ratpoison. Na "
-"przykład, jedną z dróg otwarcia aplikacji w nowej konsoli jest:"
+msgstr "Wszystko w Ratpoison jest konfigurowalne, ale C-t kombinacja nie jest wyjątkiem. Tymczasowym rozwiązaniem jest zmiana przypisania użytej przej Ratpoison kombinacji. C-t: kojarzy linię wejścia na górze po prawej stronie ekranu. Może to być użyte do przepuszczania instrukcji do Ratpoison. Na przykład, jedną z dróg otwarcia aplikacji w nowej konsoli jest:"
 
 #. Tag: para
 #, no-c-format
@@ -1018,12 +725,7 @@ msgid ""
 " Ratpoison; see man Ratpoison for a full list together with shortcuts where "
 "they have been defined. In fact, there is a shortcut for exec. Just type C-t"
 " ! [application]; C-t C-! opens it in a console."
-msgstr ""
-"(to jest: C-t: exec xterm -e alpine) startuje program który właśnie "
-"zainstalowaliśmy. Polecenie możę być użyte do przekazania numeru instrukcji "
-"do Ratpoison; zobacz stronę man Ratpoison dla pełnej listy wraz z skrótami "
-"gdzie powinny być zdefiniowane. Istotnie, jest skrót dla exec. Wpisz C-t ! "
-"[aplikacja]; C-t C-! otwiera w konsoli."
+msgstr "(to jest: C-t: exec xterm -e alpine) startuje program który właśnie zainstalowaliśmy. Polecenie możę być użyte do przekazania numeru instrukcji do Ratpoison; zobacz stronę man Ratpoison dla pełnej listy wraz z skrótami gdzie powinny być zdefiniowane. Istotnie, jest skrót dla exec. Wpisz C-t ! [aplikacja]; C-t C-! otwiera w konsoli."
 
 #. Tag: para
 #, no-c-format
@@ -1039,14 +741,7 @@ msgid ""
 " very useful C-t C-t to go back to where you just were, and performance "
 "varies from one keyboard to another, so it's worth experimenting. Another "
 "possibility is the \"Menu\" key. To return to the default: :escape C-t."
-msgstr ""
-"który jest nazywany \"klawiszem Windows\" po lewej stronie klawiatury. Aby "
-"rozwiązać konflikt z Alpine, mamy wielką korzyść z jednego naciśnięcia "
-"klawisza. Kilka funkcji może nie działać poprawnie, zwłaszcza bardzo "
-"użyteczna C-t C-t do powrotu tam gdzie byłeś wcześniej, i osiągnięcie "
-"zmienia się z jednej klawiatury na inną, więc warto eksperymentować. Kolejna"
-" możliwość klawisza \"Menu\". Aby powrócić do domyślnego ustawienia: :escape"
-" C-t."
+msgstr "który jest nazywany \"klawiszem Windows\" po lewej stronie klawiatury. Aby rozwiązać konflikt z Alpine, mamy wielką korzyść z jednego naciśnięcia klawisza. Kilka funkcji może nie działać poprawnie, zwłaszcza bardzo użyteczna C-t C-t do powrotu tam gdzie byłeś wcześniej, i osiągnięcie zmienia się z jednej klawiatury na inną, więc warto eksperymentować. Kolejna możliwość klawisza \"Menu\". Aby powrócić do domyślnego ustawienia: :escape C-t."
 
 #. Tag: para
 #, no-c-format
@@ -1055,11 +750,7 @@ msgid ""
 "Ratpoison, you can open the file now (with GVim or Vim) and tile it "
 "horizontally with the window where you are reading this guide (C-t shift-s)."
 " Let's go through some items in the file."
-msgstr ""
-"Aby zmianę mieć permanentną, edytuj ~/.ratpoisonrc. Jeśli używasz Ratpoison,"
-" możesz otworzyć plik teraz (z GVim lub Vim) w kaflu horyzontalnym z oknem "
-"gdzie czytasz ten przewodnik (C-t shift-s). Przelećmy się przez parę pozycji"
-" w tym pliku."
+msgstr "Aby zmianę mieć permanentną, edytuj ~/.ratpoisonrc. Jeśli używasz Ratpoison, możesz otworzyć plik teraz (z GVim lub Vim) w kaflu horyzontalnym z oknem gdzie czytasz ten przewodnik (C-t shift-s). Przelećmy się przez parę pozycji w tym pliku."
 
 #. Tag: phrase
 #, no-c-format
@@ -1076,28 +767,19 @@ msgid ""
 "keybindings in the \"bind\" statements. To change the wallpaper, point to a "
 "different image. The final item sets up workspaces, which we'll look at next"
 " - including C-t W."
-msgstr ""
-"przesuń kursor myszy w prawo i na dół (nawiasem mówiąc możesz zainstalować "
-"unclutter, który sprawia że znikają po kilku sekundach ciszy; wstaw linię "
-"unclutter &amp; w twoim ~/.xinitrc aby uruchomić to automatycznie kiedy X-y "
-"startują). Widzimy wszystkie ale jeden z zmienionych skrótów klawiszowych w "
-"\"wiązanym\" wyrażeniu. Aby zmienić tapetę, wskaż inny obraz. Na końcu ustaw"
-" przestrzeń roboczą, którą poznamy wkrótce - zwłaszcza C-t W."
+msgstr "przesuń kursor myszy w prawo i na dół (nawiasem mówiąc możesz zainstalować unclutter, który sprawia że znikają po kilku sekundach ciszy; wstaw linię unclutter &amp; w twoim ~/.xinitrc aby uruchomić to automatycznie kiedy X-y startują). Widzimy wszystkie ale jeden z zmienionych skrótów klawiszowych w \"wiązanym\" wyrażeniu. Aby zmienić tapetę, wskaż inny obraz. Na końcu ustaw przestrzeń roboczą, którą poznamy wkrótce - zwłaszcza C-t W."
 
 #. Tag: para
 #, no-c-format
 msgid ""
 "Before editing the file, create a backup copy in case anything goes wrong. "
 "To change the C-t default, simply add a line :"
-msgstr ""
-"Przed edycją pliku, stwórz kopię zapasową w razie jakby coś poszło źle. "
-"Zmień domyślny C-t, dodając linię:"
+msgstr "Przed edycją pliku, stwórz kopię zapasową w razie jakby coś poszło źle. Zmień domyślny C-t, dodając linię:"
 
 #. Tag: para
 #, no-c-format
 msgid "escape Menu # make sure you test your choice first using ':'"
-msgstr ""
-"escape Menu # bądź pewny że przetestowałeś swój wybór najpierw używając ':'"
+msgstr "escape Menu # bądź pewny że przetestowałeś swój wybór najpierw używając ':'"
 
 #. Tag: para
 #, no-c-format
@@ -1109,9 +791,7 @@ msgstr "Widzimy wiele zmienionych skrótów klawiszowych w \"wiązanym\" wyraże
 msgid ""
 "The final item, together with the bindings to function keys, sets up "
 "workspaces; we'll look at these next - including C-t W."
-msgstr ""
-"Na końcu, zmienimy wiązania klawiszy, ustawimy obszary robocze; zobaczymy to"
-" zaraz - zwłaszcza C-t W."
+msgstr "Na końcu, zmienimy wiązania klawiszy, ustawimy obszary robocze; zobaczymy to zaraz - zwłaszcza C-t W."
 
 #. Tag: title
 #, no-c-format
@@ -1127,13 +807,7 @@ msgid ""
 "manual, these are referred to more precisely as \"groups\".) You might then "
 "put all browser windows in one workspace, so that C-t e has the same effect "
 "as tabs, but with \"thumbnails\"."
-msgstr ""
-"Jeśli masz otwartych kilka terminali, czy różnych przeglądanych okien, czy "
-"trochę aplikacji, to numery okien mogą być nieporęczne. Aby pomóc z tym, "
-"Ratpoison pozwala tobie na użycie obszarów roboczych. (W online manualu "
-"Ratpoison, są odnośniki do bardziej precyzyjnych \"grup\".) Możesz wstawić "
-"przeglądane okna w jeden obszar roboczy, tak więc C-t e daje ten sam efekt "
-"jak karty, ale z \"miniaturami\"."
+msgstr "Jeśli masz otwartych kilka terminali, czy różnych przeglądanych okien, czy trochę aplikacji, to numery okien mogą być nieporęczne. Aby pomóc z tym, Ratpoison pozwala tobie na użycie obszarów roboczych. (W online manualu Ratpoison, są odnośniki do bardziej precyzyjnych \"grup\".) Możesz wstawić przeglądane okna w jeden obszar roboczy, tak więc C-t e daje ten sam efekt jak karty, ale z \"miniaturami\"."
 
 #. Tag: para
 #, no-c-format
@@ -1142,12 +816,7 @@ msgid ""
 "workspace. As we saw, C-t e shows all windows in the current workspace; C-t "
 "w lists them. C-t W shows four more workspaces, which were set up in the "
 "last line of the configuration file. In a console, type rpws help."
-msgstr ""
-"Zarządzanie nimi jest prymitywną analogią do  jak zarządzać oknami wewnątrz "
-"każdego obszaru roboczego. Jak widzimy, C-t e pokazuje wszystkie okna w "
-"aktualnym obszarze roboczym; C-t w wyświetla je. C-t W pokazuje cztery "
-"obszary robocze, które były ustawione w ostatniej linii pliku "
-"konfiguracyjnego. W konsoli wpisz rpws help."
+msgstr "Zarządzanie nimi jest prymitywną analogią do  jak zarządzać oknami wewnątrz każdego obszaru roboczego. Jak widzimy, C-t e pokazuje wszystkie okna w aktualnym obszarze roboczym; C-t w wyświetla je. C-t W pokazuje cztery obszary robocze, które były ustawione w ostatniej linii pliku konfiguracyjnego. W konsoli wpisz rpws help."
 
 #. Tag: phrase
 #, no-c-format
@@ -1161,12 +830,7 @@ msgid ""
 "Control, \"M\" refers to Alt. Use Alt with the function keys to access each "
 "workspace. Ctrl-Alt and the arrows move up and down workspaces. The "
 "remaining options move the current window to a different workspace."
-msgstr ""
-"Użytecznym podsumowaniem tego co widzisz może być małą tajemnicą. Właśnie że"
-" \"C\" oznacza Control, \"M\" wiąże Alt. Użyj Alt z funkcyjnymi klawiszami "
-"do dostępu do każdego obszaru roboczego. Ctrl-Alt i strzałki przemieszczają "
-"obszarami roboczymi w górę i dół. Pozostałe opcje przemieszczają aktualne "
-"okno do różnych obszarów roboczych."
+msgstr "Użytecznym podsumowaniem tego co widzisz może być małą tajemnicą. Właśnie że \"C\" oznacza Control, \"M\" wiąże Alt. Użyj Alt z funkcyjnymi klawiszami do dostępu do każdego obszaru roboczego. Ctrl-Alt i strzałki przemieszczają obszarami roboczymi w górę i dół. Pozostałe opcje przemieszczają aktualne okno do różnych obszarów roboczych."
 
 #. Tag: title
 #, no-c-format
@@ -1180,10 +844,7 @@ msgid ""
 "submenus it calls; all these are editable scripts. We will now edit the "
 "Network menu using GVim. GVim is in the menu, but try calling it using the "
 "colon (C-t :)"
-msgstr ""
-"Katalog ~/.ratmenu zawiera plik menu głównego menu.sh, i podmenu; wszystkie "
-"one są edytowalnymi skryptami. Możemy teraz edytować Network menu używając "
-"GVim. GVim jest w menu, ale spróbuj go wywołać używając komend (C-t :)"
+msgstr "Katalog ~/.ratmenu zawiera plik menu głównego menu.sh, i podmenu; wszystkie one są edytowalnymi skryptami. Możemy teraz edytować Network menu używając GVim. GVim jest w menu, ale spróbuj go wywołać używając komend (C-t :)"
 
 #. Tag: para
 #, no-c-format
@@ -1210,9 +871,7 @@ msgstr "Dodawanie pozycji do menu z gvim"
 msgid ""
 "Note that graphical applications are called directly, but command line "
 "programs need to be opened inside a terminal."
-msgstr ""
-"Zauważ że graficzne aplikacje są wywołane bezpośrednio, a programy konsolowe"
-" potrzebują być otwarte w terminalu."
+msgstr "Zauważ że graficzne aplikacje są wywołane bezpośrednio, a programy konsolowe potrzebują być otwarte w terminalu."
 
 #. Tag: para
 #, no-c-format
@@ -1221,11 +880,7 @@ msgid ""
 "i to insert, ESC to return to command mode, and :wq to write and save. Test "
 "the change by typing C-t r - the new item should already appear. If all is "
 "well, you may close the editor."
-msgstr ""
-"Użyj j i k do nawigacji, tam gdzie chcesz dodać wejście dla Alpine, wpisz i "
-"żeby zacząć wpisywanie, ESC aby wrócić do trybu komend, i :wq żeby zapisać i"
-" wyjść. Przetestuj zmiany wpisując C-t r - nowa pozycja powinna już pojawić "
-"się. Jeśli wszystko w porządku, możesz opuścić edytor."
+msgstr "Użyj j i k do nawigacji, tam gdzie chcesz dodać wejście dla Alpine, wpisz i żeby zacząć wpisywanie, ESC aby wrócić do trybu komend, i :wq żeby zapisać i wyjść. Przetestuj zmiany wpisując C-t r - nowa pozycja powinna już pojawić się. Jeśli wszystko w porządku, możesz opuścić edytor."
 
 #. Tag: title
 #, no-c-format
@@ -1237,9 +892,7 @@ msgstr "Podsumowanie"
 msgid ""
 "Here is a short list of key bindings common to many of the Salix Ratpoison "
 "edition's applications."
-msgstr ""
-"Tutaj jest krótka lista do przypisywania klawiszy wspólnych dla wielu "
-"aplikacji w edycji Salix Ratpoison."
+msgstr "Tutaj jest krótka lista do przypisywania klawiszy wspólnych dla wielu aplikacji w edycji Salix Ratpoison."
 
 #. Tag: para
 #, no-c-format
@@ -1428,14 +1081,7 @@ msgid ""
 "Configuration may be done straightforwardly by editing the files - "
 "suggestions may be found online. One of Ratpoison's principal charms is how "
 "easily it can be tailored to fit each user's needs and taste."
-msgstr ""
-"Odkryliśmy tutaj dość żeby wystartować, wiele funkcji aplikacji a specjalnie"
-" dla Ratpoison jest opisanych w manualu online, przewodnikach i stronach "
-"man. Teraz możesz używać głównych funkcji ale warto kopać dalej aby dodać "
-"nowe. Konfiguracja może być wykonywana wprost przez edycję plików - "
-"propozycje można znaleźć w internecie. Jednym z głównych uroków Ratpoison "
-"jest to, jak łatwo może być dopasowana do indywidualnych potrzeb "
-"użytkowników i ich smaku."
+msgstr "Odkryliśmy tutaj dość żeby wystartować, wiele funkcji aplikacji a specjalnie dla Ratpoison jest opisanych w manualu online, przewodnikach i stronach man. Teraz możesz używać głównych funkcji ale warto kopać dalej aby dodać nowe. Konfiguracja może być wykonywana wprost przez edycję plików - propozycje można znaleźć w internecie. Jednym z głównych uroków Ratpoison jest to, jak łatwo może być dopasowana do indywidualnych potrzeb użytkowników i ich smaku."
 
 #. Tag: para
 #, no-c-format
@@ -1444,17 +1090,12 @@ msgid ""
 "also be called from the command line as gmountman. When needed, this deals "
 "with the mounting of removable devices, including DVDs. Also, banish may be "
 "called at any time by the shortcut C-t b."
-msgstr ""
-"W jednym artykule dostępny jest menedżer montowania w menu systemu, który "
-"można wywołać z linii komend gmountman. Gdy trzeba, to zajmuje się "
-"montowaniem urządzeń przenośnych, w tym DVD. Także pozbycie się go może "
-"zostać przez skrót C-t b."
+msgstr "W jednym artykule dostępny jest menedżer montowania w menu systemu, który można wywołać z linii komend gmountman. Gdy trzeba, to zajmuje się montowaniem urządzeń przenośnych, w tym DVD. Także pozbycie się go może zostać przez skrót C-t b."
 
 #. Tag: para
 #, no-c-format
 msgid "Remember to check frequently for package updates using slapt-get."
-msgstr ""
-"Pamiętaj aby regularnie sprawdzać aktualizacje pakietów przez slapt-get."
+msgstr "Pamiętaj aby regularnie sprawdzać aktualizacje pakietów przez slapt-get."
 
 #. Tag: para
 #, no-c-format
@@ -1462,5 +1103,3 @@ msgid ""
 "Finally, to shut down Ratpoison, there is an entry in the Exit submenu, from"
 " where it is also possible to reboot or shut down the computer."
 msgstr "Aby zamknąć Ratpoiosn, "
-
-

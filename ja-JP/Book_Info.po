@@ -1,34 +1,42 @@
-#
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Translators:
+#   <hydrangea_and_snail@hotmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: 0\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-11-08T17:18:00\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: None\n"
-"Language: \n"
+"Project-Id-Version: Salix documentation\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-02-03 21:39+0000\n"
+"Last-Translator: tsuren <hydrangea_and_snail@hotmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/projects/p/salix_documentation/language/ja/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #. Tag: title
 #, no-c-format
 msgid "Startup Guide"
-msgstr ""
+msgstr "スタートアップ·ガイド"
 
 #. Tag: subtitle
 #, no-c-format
 msgid "Getting familiar with your new operating System"
-msgstr ""
+msgstr "新しいオペレーティングシステムに慣れるために"
 
 #. Tag: productname
 #, no-c-format
 msgid "SalixOS"
-msgstr ""
+msgstr "Salix OS"
 
 #. Tag: para
 #, no-c-format
-msgid "The purpose of this manual is to enable you to take full advantage of the many functionalities of Salix OS. While particular attention has been given to help newcomers quickly get familiar with common computer tasks, more advanced material is also available for intermediate users who want to learn more about the inner workings of their operating system, its administration and its customisation."
-msgstr ""
+msgid ""
+"The purpose of this manual is to enable you to take full advantage of the "
+"many functionalities of Salix OS. While particular attention has been given "
+"to help newcomers quickly get familiar with common computer tasks, more "
+"advanced material is also available for intermediate users who want to learn"
+" more about the inner workings of their operating system, its administration"
+" and its customisation."
+msgstr "このマニュアルの目的は、Salixのもつ数々のファンクションを知り、できるだけ利用できるようになってもらうことです。とくにSalixが初めてな人たちが、できるだけ早く基本的なコンピュータのタスクをSalixをつかってこなせるように配慮して書かれています。さらにすでにある程度Linuxの経験のある人たちのためにも、管理、アドミン、カスタム化のしかたなど、すこし進んだトピックにも触れています。"

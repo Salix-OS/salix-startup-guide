@@ -1,0 +1,301 @@
+# AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# mohammad <malham1@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: Salix documentation\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-06-09 17:09+0000\n"
+"Last-Translator: mohammad alhargan <malham1@hotmail.com>\n"
+"Language-Team: Arabic (http://www.transifex.com/projects/p/salix_documentation/language/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#. Tag: title
+#, no-c-format
+msgid "Salix OS at a Glance"
+msgstr "لمحة عن نظام Salix"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of SalixOS 13.37 default desktop"
+msgstr "لقطة شاشة لنظام تشغيل Salix 13.37 سطح المكتب الافتراضي"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Salix OS is a <ulink url=\"http://en.wikipedia.org/wiki/Linux_distro\">Linux"
+" Distribution</ulink> based on <ulink "
+"url=\"http://en.wikipedia.org/wiki/Slackware\">Slackware</ulink> that "
+"retains full backwards compatibility with its illustrious parent. However, "
+"while the <ulink "
+"url=\"http://en.wikipedia.org/wiki/KISS_principle\">KISS</ulink> principle "
+"that Slackware adheres to refers to the viewpoint of system design, Salix OS"
+" also applies it to the viewpoint of the end user."
+msgstr "نظام تشغيل Salix <ulink url=\"http://en.wikipedia.org/wiki/Linux_distro\">توزيعة لنكس</ulink> مبنية على <ulink url=\"http://en.wikipedia.org/wiki/Slackware\">سلاك وير</ulink> التي تحتفظ بالكامل التوافق مع الأصل. بينما يبقى الالتزام بمبدء <ulink url=\"http://en.wikipedia.org/wiki/KISS_principle\">KISS</ulink> سلاكوير ليشير إلى وجهة نظر تصميم نظام، ونظام Salix ينطبق أيضا على وجهة نظر المستخدم النهائي."
+
+#. Tag: title
+#, no-c-format
+msgid "Salix Features"
+msgstr "ميزات Salix"
+
+#. Tag: para
+#, no-c-format
+msgid "One application per task rationale"
+msgstr "تطبيق واحد لكل مهمة"
+
+#. Tag: para
+#, no-c-format
+msgid "Fully backwards compatible with Slackware"
+msgstr "متوافقة تماماً مع سلاكوير"
+
+#. Tag: para
+#, no-c-format
+msgid "Optimised for desktop usage"
+msgstr "مُحسن للاستخدام المكتبي"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"With Salix tools to assist system management (See <xref linkend=\"sect-"
+"Startup_Guide-Your_Salix-Salix_Tools\" />)"
+msgstr "مع أدوات Salix وبمساعدة مدير النظام (انظر <xref linkend=\"sect-Startup_Guide-Your_Salix-Salix_Tools\" />)"
+
+#. Tag: para
+#, no-c-format
+msgid "High quality package repositories with dependency support"
+msgstr "مستودعات حزم عالية الجودة بدعم من الاعتمادية"
+
+#. Tag: para
+#, no-c-format
+msgid "Simple and fully localised system administration tools"
+msgstr "أدوات إدارة النظام البسيطة ومتكاملة"
+
+#. Tag: para
+#, no-c-format
+msgid "Salix artwork"
+msgstr "أعمال Salix الفنية"
+
+#. Tag: para
+#, no-c-format
+msgid "Live CD / USB option"
+msgstr "قرص حي / خيار USB"
+
+#. Tag: para
+#, no-c-format
+msgid "Supports 32-bit and 64-bit architectures"
+msgstr "يدعم هندسة 32 بت و 64 بت"
+
+#. Tag: para
+#, no-c-format
+msgid "Comes with a complete development environment"
+msgstr "يأتي مع بيئة تطوير الكامل"
+
+#. Tag: title
+#, no-c-format
+msgid "In Short, Salix OS is..."
+msgstr "باختصار، نظام التشغيل Salix هو..."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"“Like a bonsai, Salix is small, light and the product of infinite care!”"
+msgstr "“مثل شجرة بونزاي، Salix صغير، خفيف ومنتج مع رعاية لا نهائية!“"
+
+#. Tag: title
+#, no-c-format
+msgid "Salix Editions"
+msgstr "إصدار Salix"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Salix OS comes in five different editions – Xfce, LXDE, KDE, Fluxbox and "
+"Ratpoison."
+msgstr "يأتي نظام Salix في خمس نسخ مختلفة – إكسفس، LXDE، كيدي، Fluxbox Ratpoison."
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The choice is yours: with a streamlined Xfce desktop environment, elegant "
+"KDE 4.5.5 accompanied by a very rich collection of KDE centric software, "
+"minimalistic Fluxbox window manager, wickedly fast LXDE desktop or “say "
+"good-bye to the rodent” Ratpoison, all with the Salix look and feel!"
+msgstr "الخيار لك: بيئة سطح مكتب جنوم مبسطة، كدي أنيقة 4.5.5 مصحوبة بمجموعة غنية جداً من برامج تتمحور حول كدي، أو Fluxbox مدير نوافذ ضيق الحدود، طريقة سريعة مع LXDE المكتبي أو Ratpoison “قل وداعا القوارض“، الجميع بمظهر Salix!"
+
+#. Tag: phrase
+#, no-c-format
+msgid "Screenshot of the different edition of SalixOS 13.37"
+msgstr "لقطة شاشة نسخ نظام Salix 13.37 المختلفة"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"For a list of applications available in each Edition, please refer to <xref "
+"linkend=\"appe-Startup_Guide-List_of_Applications\" />."
+msgstr "للحصول على قائمة تطبيقات المتاحة في كل نسخة، يرجى الرجوع إلى <xref linkend=\"appe-Startup_Guide-List_of_Applications\" />."
+
+#. Tag: title
+#, no-c-format
+msgid "Installation Mode"
+msgstr "وضع التثبيت"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"Salix offers three software installation options: Full, Basic and Core, to "
+"meet your demands!"
+msgstr "توفر Salix خيارات تثبيت البرامج الثلاثة: الكامل، القياسي، الأساسي ، لتلبية الاحتياجات الخاصة بك!"
+
+#. Tag: para
+#, no-c-format
+msgid "Installation Type"
+msgstr "نوع التّثبيت"
+
+#. Tag: para
+#, no-c-format
+msgid "Target Users"
+msgstr "المستخدم المستهدف"
+
+#. Tag: para
+#, no-c-format
+msgid "Features"
+msgstr "الميزّات"
+
+#. Tag: para
+#, no-c-format
+msgid "Examples of Available Applications"
+msgstr "أمثلة للتطبيقات المتوفرة"
+
+#. Tag: para
+#, no-c-format
+msgid "Full"
+msgstr "كامل"
+
+#. Tag: para
+#, no-c-format
+msgid "All users"
+msgstr "جميع المستخدمين"
+
+#. Tag: para
+#, no-c-format
+msgid "▫ Graphical environment"
+msgstr "▫ بيئة رسومية"
+
+#. Tag: para
+#, no-c-format
+msgid "▫ Full software installation"
+msgstr "تثبيت البرامج الكاملة ▫"
+
+#. Tag: para
+#, no-c-format
+msgid "▫ Libreoffice"
+msgstr "▫ ليبريوفيسي"
+
+#. Tag: para
+#, no-c-format
+msgid "▫ Exaile"
+msgstr "▫ ااكسيل"
+
+#. Tag: para
+#, no-c-format
+msgid "▫ Firefox / Midori"
+msgstr "▫ فايرفوكس / ميدوري"
+
+#. Tag: para
+#, no-c-format
+msgid "▫ Pidgin"
+msgstr "▫ بدجين"
+
+#. Tag: para
+#, no-c-format
+msgid "Basic"
+msgstr "قياسي"
+
+#. Tag: para
+#, no-c-format
+msgid "Advanced users who would like to add their own choice of applications"
+msgstr "متقدمة للمستخدمين الذين يريدون إضافات يختارونها بأنفسهم للتطبيقات"
+
+#. Tag: para
+#, no-c-format
+msgid "▫ Minimum selection of software"
+msgstr "▫ اختيار الحد الأدنى من البرامج"
+
+#. Tag: para
+#, no-c-format
+msgid "▫ Gslapt"
+msgstr "▫ Gslapt"
+
+#. Tag: para
+#, no-c-format
+msgid "▫ Desktop"
+msgstr "▫ سطح المكتب"
+
+#. Tag: para
+#, no-c-format
+msgid "Core"
+msgstr "أساسي"
+
+#. Tag: para
+#, no-c-format
+msgid "Advanced users who would like to run a console system"
+msgstr "متقدمة للمستخدم الذي يرغب في تشغيل نظام تحكم"
+
+#. Tag: para
+#, no-c-format
+msgid "Server maintainers"
+msgstr "مشرفو الخوادم"
+
+#. Tag: para
+#, no-c-format
+msgid "▫ No graphical environment"
+msgstr "▫ بدون بيئة رسومية"
+
+#. Tag: para
+#, no-c-format
+msgid "▫ Minimum number of software essential for a console system"
+msgstr "▫ أدنى عدد من البرامج الأساسية لنظام التحكم"
+
+#. Tag: para
+#, no-c-format
+msgid "▫ vi"
+msgstr "▫ vi"
+
+#. Tag: title
+#, no-c-format
+msgid "Salix Repositories &amp; Package Management"
+msgstr "مستودعات Salix &amp; إدارة حزمة"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"slapt-get and its graphical interface Gslapt are used for package "
+"management, including slapt-src and Sourcery for even wider selection of "
+"software to choose from!"
+msgstr "slapt-get ولها واجهة رسومية Gslapt تستخدم لإدارة الحزم، بما في ذلكslapt-src ومصادر للتحديد أكبر قدر من البرمجيات للاختيار من بينها!"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"A wide range of packages from Slackware, Slackbuild and Salix repositories"
+msgstr "قائمة واسعة من مجموعات من مستودعات سلاكوير، سلاكبويلد Salix"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Salix repositories offer dependency resolution support and are the "
+"largest third party software package repositories for Slackware offered to "
+"date"
+msgstr "مستودعات Salix تقدم دعم القرار التبعية وتمثل مستودعات حزم برمجيات الطرف الثالث وأكبر مستودعات سلاكوير عرضت حتى الآن"
+
+#. Tag: para
+#, no-c-format
+msgid ""
+"The Salix repositories are offered for both the 32-bit and 64-bit "
+"architectures"
+msgstr "يتم عرض مستودعات Salix لكلا من هندسة 32 بت و 64 بت"

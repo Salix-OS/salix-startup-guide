@@ -6,15 +6,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
 "PO-Revision-Date: 2012-01-29 14:32+0000\n"
 "Last-Translator: kvisitor <kvisitor@gnugr.org>\n"
-"Language-Team: None\n"
+"Language-Team: Greek (http://www.transifex.com/projects/p/salix_documentation/language/el/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: el\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Tag: title
 #, no-c-format
@@ -40,13 +40,4 @@ msgid ""
 "advanced material is also available for intermediate users who want to learn"
 " more about the inner workings of their operating system, its administration"
 " and its customisation."
-msgstr ""
-"Ο σκοπός του παρόντος εγχειριδίου είναι να σας δώσει τη δυνατότητα να "
-"επωφεληθείτε πλήρως από τις πολλές λειτουργίες του Salix OS. Παρά την "
-"ιδιαίτερη προσοχή που έχει δοθεί για να βοηθήσει τους καινούργιους χρήστες "
-"να εξοικειωθούν γρήγορα με τις κοινές εργασίες στον υπολογιστή, πιο "
-"προχωρημένο υλικό είναι επίσης διαθέσιμο για τους ενδιάμεσους χρήστες που "
-"θέλουν να μάθουν περισσότερα για τις εσωτερικές διεργασίες του λειτουργικού "
-"συστήματος τους, τη διαχείρισή του και τη προσαρμογή του."
-
-
+msgstr "Ο σκοπός του παρόντος εγχειριδίου είναι να σας δώσει τη δυνατότητα να επωφεληθείτε πλήρως από τις πολλές λειτουργίες του Salix OS. Παρά την ιδιαίτερη προσοχή που έχει δοθεί για να βοηθήσει τους καινούργιους χρήστες να εξοικειωθούν γρήγορα με τις κοινές εργασίες στον υπολογιστή, πιο προχωρημένο υλικό είναι επίσης διαθέσιμο για τους ενδιάμεσους χρήστες που θέλουν να μάθουν περισσότερα για τις εσωτερικές διεργασίες του λειτουργικού συστήματος τους, τη διαχείρισή του και τη προσαρμογή του."

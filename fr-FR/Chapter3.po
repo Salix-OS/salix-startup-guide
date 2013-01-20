@@ -1,665 +1,916 @@
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 # Translators:
+#  <akuna@free.fr>, 2013.
+# Cyrille Pontvieux <jrd@enialis.net>, 2012-2013.
+#   <fred.galusik@gmail.com>, 2012.
+#   <laplume@libero.it>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-11-17 20:47+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: French (http://www.transifex.net/projects/p/salix/team/fr/)\n"
-"Language: fr\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2013-01-19 16:16+0000\n"
+"Last-Translator: Cyrille Pontvieux <jrd@enialis.net>\n"
+"Language-Team: French (http://www.transifex.com/projects/p/salix_documentation/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. Tag: title
 #, no-c-format
 msgid "Your Salix"
-msgstr ""
+msgstr "Votre Salix"
 
 #. Tag: title
 #, no-c-format
 msgid "Package Management"
-msgstr ""
+msgstr "Gestion des paquets"
 
 #. Tag: para
 #, no-c-format
-msgid "Installing applications (which roughly equates to “installing packages” as we say in Linux) is a fundamental part of the Linux experience. Superficially it is just an exercise using package managers such as Gslapt and its command line equivalent, slapt-get, for installing packages created by others. Soon you will start to see some packages you are interested in are not in the common repositories, and you will start creating your own packages. For some, this could be the very first time they see their build scripts working in the terminal, checking for configuration errors and chasing after some missing dependencies to compile a program. Some frustration may hit you initially, but then in good time, you will gather enough experience and as you start to see the inner workings of Linux, you will become more confident."
-msgstr ""
+msgid ""
+"Installing applications (which roughly equates to “installing packages” as "
+"we say in Linux) is a fundamental part of the Linux experience. "
+"Superficially it is just an exercise using package managers such as Gslapt "
+"and its command line equivalent, slapt-get, for installing packages created "
+"by others. Soon you will start to see some packages you are interested in "
+"are not in the common repositories, and you will start creating your own "
+"packages. For some, this could be the very first time they see their build "
+"scripts working in the terminal, checking for configuration errors and "
+"chasing after some missing dependencies to compile a program. Some "
+"frustration may hit you initially, but then in good time, you will gather "
+"enough experience and as you start to see the inner workings of Linux, you "
+"will become more confident."
+msgstr "L'installation d'applications (qui équivaut à peu près à « installer des paquets » comme on dit avec Linux) est une étape fondamentale de l'expérience Linux. De manière générale ça consiste à utiliser un gestionnaire de paquets tel que Gslapt ou sa ligne de commande correspondante, slapt-get, pour installer des paquets créés par d'autres. Vous verrez bientôt que certains paquets  qui vous intéressent ne sont pas présents dans les dépôts communs et vous commencerez à créer vos propres paquets. Pour certains, ce sera la première occasion de voir leurs scripts de construction fonctionner dans un terminal, de vérifier des erreurs de configuration, ou de chercher des dépendances manquantes pour compiler un programme. Vous pourrez vous sentir frustré au début, mais au bout d'un moment vous gagnerez assez d'expérience, et au fur et à mesure que vous comprendrez le fonctionnement interne de Linux, vous deviendrez plus confiant."
 
 #. Tag: title
 #, no-c-format
 msgid "Reminder!"
-msgstr ""
+msgstr "Rappel !"
 
 #. Tag: para
 #, no-c-format
-msgid "You have to be the superuser in order to install an application (see <xref linkend=\"sect-Startup_Guide-Introduction-Root_Password\" />)."
-msgstr ""
+msgid ""
+"You have to be the superuser in order to install an application (see <xref "
+"linkend=\"sect-Startup_Guide-Introduction-Root_Password\" />)."
+msgstr "Vous devez être le super‑utilisateur pour installer une application (voir <xref linkend=\"sect-Startup_Guide-Introduction-Root_Password\" />)."
 
 #. Tag: title
 #, no-c-format
 msgid "Gslapt"
-msgstr ""
+msgstr "Gslapt"
 
 #. Tag: para
 #, no-c-format
-msgid "Gslapt is the GUI version of slapt-get (see <xref linkend=\"sect-Startup_Guide-Package_Management-slapt_get\" />). It allows one to search Slackware/Salix mirrors and third party sources for packages. Before use you should first click on the <guibutton> Update</guibutton> button to ensure that the latest updates from the software repositories are known to Gslapt. The search field is there for you to search for a particular package. You can highlight with your left click and choose to install/uninstall/reinstall packages with a right click. Gslapt detects dependencies and will install all the dependency files for a package automatically. Installation/uninstallation/reinstallation will take place once you click on the <guibutton>Execute</guibutton> button. You can blacklist packages by adding their names to the blacklist found in <guimenuitem>Preferences</guimenuitem> under <guimenuitem>Edit</guimenuitem>."
-msgstr ""
+msgid ""
+"Gslapt is the GUI version of slapt-get (see <xref linkend=\"sect-"
+"Startup_Guide-Package_Management-slapt_get\" />). It allows one to search "
+"Slackware/Salix mirrors and third party sources for packages. Before use you"
+" should first click on the <guibutton> Update</guibutton> button to ensure "
+"that the latest updates from the software repositories are known to Gslapt. "
+"The search field is there for you to search for a particular package. You "
+"can highlight with your left click and choose to install/uninstall/reinstall"
+" packages with a right click. Gslapt detects dependencies and will install "
+"all the dependency files for a package automatically. "
+"Installation/uninstallation/reinstallation will take place once you click on"
+" the <guibutton>Execute</guibutton> button. You can blacklist packages by "
+"adding their names to the blacklist found in "
+"<guimenuitem>Preferences</guimenuitem> under "
+"<guimenuitem>Edit</guimenuitem>."
+msgstr "Gslapt est la version graphique de slapt-get (voir <xref linkend=\"sect-Startup_Guide-Package_Management-slapt_get\" />). Ça permet de chercher des paquets dans les miroirs de Slackware/Salix et dans des sources externes. Cependant avant de l'utiliser il convient de cliquer sur le bouton <guibutton>Actualiser</guibutton> pour s'assurer que les dernières mise à jour des dépôts logiciels soient connues de Gslapt. Le champs Recherche va vous aider à trouver un paquet particulier. Vous pouvez les mettre en surbrillance avec un clic gauche et choisir d'installer/supprimer/réinstaller des paquets avec le clic droit. Gslapt détectera les dépendances et les installera automatiquement. L'installation/la suppression/la réinstallation prendra effet au clic sur le bouton <guibutton>Exécuter</guibutton>. Vous pouvez mettre des paquets sur une liste d'exclusion que vous trouverez dans le menu <guimenuitem>Préférences</guimenuitem> sous <guimenuitem>Édition</guimenuitem>."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Gslapt"
-msgstr ""
+msgstr "Copie d'écran de Gslapt"
 
 #. Tag: title
 #, no-c-format
 msgid "slapt-get"
-msgstr ""
+msgstr "slapt-get"
 
 #. Tag: para
 #, no-c-format
-msgid "<ulink url=\"http://software.jaos.org/git/slapt-get/plain/FAQ.html\">slapt-get</ulink> is a command line tool for Slackware package management. It allows one to search Slackware/Salix mirrors and third party sources for packages, compare them with installed packages, install new packages, or upgrade all installed packages."
-msgstr ""
+msgid ""
+"<ulink url=\"http://software.jaos.org/git/slapt-get/plain/FAQ.html\">slapt-"
+"get</ulink> is a command line tool for Slackware package management. It "
+"allows one to search Slackware/Salix mirrors and third party sources for "
+"packages, compare them with installed packages, install new packages, or "
+"upgrade all installed packages."
+msgstr "<ulink url=\"http://software.jaos.org/git/slapt-get/plain/FAQ.html\">slapt-get</ulink> est un outil en ligne de commande destiné à la gestion des paquets Slackware. Il autorise, sur les mirroirs de Slackware/Salix et autre mirroirs tiers, la recherche de paquets, il les compare avec les paquets installés, il installe de nouveaux paquets, ou peut mettre à jour l'ensemble des paquets installés."
 
 #. Tag: para
 #, no-c-format
-msgid "To use the application, open a Terminal window and issue the command <userinput>slapt-get -u</userinput> first to update the package database on your computer. Then <userinput>slapt-get -l</userinput> to list all the available packages, <userinput>slapt-get –search [package name]</userinput>; to search for a package, and <userinput>slapt-get -i [package name]</userinput> to install a package. For more command line instructions, please refer to <userinput>slapt-get –-help</userinput>."
-msgstr ""
+msgid ""
+"To use the application, open a Terminal window and issue the command "
+"<userinput>slapt-get -u</userinput> first to update the package database on "
+"your computer. Then <userinput>slapt-get -l</userinput> to list all the "
+"available packages, <userinput>slapt-get –search [package name]</userinput>;"
+" to search for a package, and <userinput>slapt-get -i [package "
+"name]</userinput> to install a package. For more command line instructions, "
+"please refer to <userinput>slapt-get –-help</userinput>."
+msgstr "Pour utiliser l'application, ouvrez un terminal et lancez tout d'abord la commande <userinput>slapt-get -u</userinput> pour mettre à jour votre base de donnée locale. Ensuite, <userinput>slapt-get -l</userinput> pour lister tous les paquets disponibles, <userinput>slapt-get –-search [nom du paquet]</userinput> pour rechercher un paquet, et <userinput>slapt-get -i [nom du paquet]</userinput> pour installer un paquet. Pour des instructions supplémentaires, veuillez vous référer à <userinput>slapt-get –-help</userinput>."
 
 #. Tag: para
 #, no-c-format
-msgid "Here is a little exercise for you. Try installing <emphasis role=\"bold\">w3m</emphasis> which is a terminal based web browser, by using slapt-get."
-msgstr ""
+msgid ""
+"Here is a little exercise for you. Try installing <emphasis "
+"role=\"bold\">w3m</emphasis> which is a terminal based web browser, by using"
+" slapt-get."
+msgstr "Voici un petit exercice pour vous. En utilisant slapt-get, essayez d'installer <emphasis role=\"bold\">w3m</emphasis> qui est un navigateur internet en mode texte."
 
 #. Tag: title
 #, no-c-format
 msgid "Sourcery"
-msgstr ""
+msgstr "Sourcery"
 
 #. Tag: para
 #, no-c-format
-msgid "Sourcery is a new graphical frontend to slapt-src (see <xref linkend=\"sect-Startup_Guide-Package_Management-slapt_src\" />), a utility to build and install packages from source using SlackBuilds and/or SLKBUILDs. Before use, you should first click on the <guibutton>Update</guibutton> button on the tool bar to ensure that the latest updates from the software repositories are known to Sourcery. The search field is there for you to search for a particular package, and installations, uninstallations or reinstallations of selected packages are done with right clicks on their status boxes."
-msgstr ""
+msgid ""
+"Sourcery is a new graphical frontend to slapt-src (see <xref linkend=\"sect-"
+"Startup_Guide-Package_Management-slapt_src\" />), a utility to build and "
+"install packages from source using SlackBuilds and/or SLKBUILDs. Before use,"
+" you should first click on the <guibutton>Update</guibutton> button on the "
+"tool bar to ensure that the latest updates from the software repositories "
+"are known to Sourcery. The search field is there for you to search for a "
+"particular package, and installations, uninstallations or reinstallations of"
+" selected packages are done with right clicks on their status boxes."
+msgstr "Sourcery est un nouvel outil graphique facilitant l'utilisation de slapt-src (voir <xref linkend=\"sect-Startup_Guide-Package_Management-slapt_src\" />), un utilitaire permettant de compiler et d'installer des paquets à partir des sources en utilisant des SlackBuilds et/ou des SLKBUILDs. Avant la toute première utilisation vous devriez cliquer sur le bouton <guibutton>Mis à jour</guibutton> au niveau de la barre d'outil pour faire en sorte que les dernières mises à jour se trouvant sur les dépôts de logiciels soient prises en compte par Sourcery. Le champ de recherche est là pour vous permettre de chercher après un paquet en particulier, et installation, désinstallation, réinstallation des paquets sélectionnés se réalisent à l'aide du clic droit au niveau de leur boîte de status."
 
 #. Tag: para
 #, no-c-format
-msgid "Installation/uninstallation/reinstallation will take place once you click on the <guibutton>Execute</guibutton> button."
-msgstr ""
+msgid ""
+"Installation/uninstallation/reinstallation will take place once you click on"
+" the <guibutton>Execute</guibutton> button."
+msgstr "Installation/désinstallation/réinstallation se réaliseront une fois que vous aurez cliqué sur le bouton <guibutton>Executer</guibutton>"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Sourcery"
-msgstr ""
+msgstr "Copie d'écran de Sourcery"
 
 #. Tag: title
 #, no-c-format
 msgid "slapt-src"
-msgstr ""
+msgstr "slapt-src"
 
 #. Tag: para
 #, no-c-format
-msgid "slapt-src is a command line tool that makes the process of downloading and building software packages from slackbuilds.org simple and easy. Slackbuilds.org keeps a large collection of build scripts for extra packages that are still not available from the official Salix / Slackware repositories. Thousands of extra packages are now available to users through this tool."
-msgstr ""
+msgid ""
+"slapt-src is a command line tool that makes the process of downloading and "
+"building software packages from slackbuilds.org simple and easy. "
+"Slackbuilds.org keeps a large collection of build scripts for extra packages"
+" that are still not available from the official Salix / Slackware "
+"repositories. Thousands of extra packages are now available to users through"
+" this tool."
+msgstr "slapt-src est un outil en ligne de commande qui permet aux processus de téléchargement des sources et de compilation des logiciels à partir de slackbuilds.org d'être simples et faciles. Slackbuilds.org maintient une grande collection de scripts de compilation de logiciels tiers qui ne sont pas disponibles à partir des dépôts officiels de Salix/Slackware. Des milliers de logiciels sont désormais disponibles aux utilisateurs par le biais de cet outil."
 
 #. Tag: para
 #, no-c-format
-msgid "To use the application, type in “slapt-src -u” first to update on your computer the list of build scripts available from Slackbuild.org. “slapt-src -l” shows you a list of available packages, and as in slapt-get, “slapt-src -i [package name]” will install a package. For more command line instructions, please refer to “slapt-src –help”."
-msgstr ""
+msgid ""
+"To use the application, type in “slapt-src -u” first to update on your "
+"computer the list of build scripts available from Slackbuild.org. “slapt-src"
+" -l” shows you a list of available packages, and as in slapt-get, “slapt-src"
+" -i [package name]” will install a package. For more command line "
+"instructions, please refer to “slapt-src –help”."
+msgstr "Pour utiliser l'application, lancez tout d'abord “slapt-src -u” pour mettre à jour sur votre ordinateur la liste des scripts disponibles depuis slackbuilds.org. “slapt-src -l” vous montre la liste des paquets disponibles, et comme avec slapt-get, “slapt-src -i [nom du paquet]” installera le paquet. Pour plus d'informations à propos des options de la ligne de commande, veuillez s'il vous plait vous référer à “slapt-src –help”."
 
 #. Tag: para
 #, no-c-format
-msgid "Another small exercise for you! Skype is a commonly used software to make voice calls over the Internet. It is not available from the common Salix / Slackware repository, but its build script is available from Slackbuilds.org. Try installing “skype” by using slapt-src. (If you do not wish to install it, you may just want to build the package. Note that the skype is 32-bit only, so if you are running a 64-bit system, please try out some other application)."
-msgstr ""
+msgid ""
+"Another small exercise for you! Skype is a commonly used software to make "
+"voice calls over the Internet. It is not available from the common Salix / "
+"Slackware repository, but its build script is available from "
+"Slackbuilds.org. Try installing “skype” by using slapt-src. (If you do not "
+"wish to install it, you may just want to build the package. Note that the "
+"skype is 32-bit only, so if you are running a 64-bit system, please try out "
+"some other application)."
+msgstr "Un autre exercice pour vous ! Skype est un logiciel communément utilisé pour passer des apples vocaux par le biais d'internet. Il n'est pas disponible à partir des dépôts communs de Salix / Slackware mais son script d'installation est sur slackbuilds.org. Essayez d'installer “skype” en utilisant slapt-src. (Si vous ne souhaitez pas l'installer, vous pouvez juste vouloir le compiler. Noter que Skype est une application ne fonctionnant que sur un système 32 bits, donc, si vous utilisez un système 64 bits, essayez s'il vous plait avec une autre application)."
 
 #. Tag: title
 #, no-c-format
 msgid "spkg"
-msgstr ""
+msgstr "spkg"
 
 #. Tag: para
 #, no-c-format
-msgid "An alternative way to install a package (which for Salix and many other slackware based distribution ends with the .tgz, .tlz or .txz extension) is to use the command line input “spkg -i [exact name of a package]”. This is a handy way of installing a package if you have just created your own package or if you have downloaded it from the Internet. Note that the name of the package must be exact to the last extension (as in xxxxx-i486-tt.txz)."
-msgstr ""
+msgid ""
+"An alternative way to install a package (which for Salix and many other "
+"slackware based distribution ends with the .tgz, .tlz or .txz extension) is "
+"to use the command line input “spkg -i [exact name of a package]”. This is a"
+" handy way of installing a package if you have just created your own package"
+" or if you have downloaded it from the Internet. Note that the name of the "
+"package must be exact to the last extension (as in xxxxx-i486-tt.txz)."
+msgstr "Une méthode alternative pour installer un paquet (qui pour Salix et d'autres distributions basées sur Slackware se termine par l'extension .tgz, .tlz ou .txz.) est d'utiliser la ligne de commande “spkg -i [nom exact du paquet]”. Il s'agit d'un moyen pratique pour installer un paquet que vous venez juste de créer ou de télécharger depuis Internet. Notez que le nom du paquet doit être exact jusqu'à la dernière lettre (comme pour xxxxx-i486-tt.txz)."
 
 #. Tag: para
 #, no-c-format
-msgid "Removing a package is somewhat similar. You can remove a package by issuing “spkg -d [software name]”, e.g. “spkg -d skype”."
-msgstr ""
+msgid ""
+"Removing a package is somewhat similar. You can remove a package by issuing "
+"“spkg -d [software name]”, e.g. “spkg -d skype”."
+msgstr "Désinstaller un paquet est quelque peu similaire. Vous pouvez désinstaller un paquet en tapant “spkg -d [nom du paquet]”, par exemple “spkg -d skype”"
 
 #. Tag: title
 #, no-c-format
 msgid "Making a Package from a Source File with SLKBUILD"
-msgstr ""
+msgstr "Fabriquer un paquet à partir d'un fichier Source avec SLKBUILD"
 
 #. Tag: para
 #, no-c-format
-msgid "Installing a software from a source file is in most cases not difficult. You can compile a lot of software generally with the following commands."
-msgstr ""
+msgid ""
+"Installing a software from a source file is in most cases not difficult. You"
+" can compile a lot of software generally with the following commands."
+msgstr "Installer un logiciel à partir des sources n'est pas difficile dans la plupart des cas. Vous pouvez généralement compiler de nombreux logiciels avec les commandes suivantes."
 
 #. Tag: para
 #, no-c-format
 msgid "unpack a source file, move inside the folder"
-msgstr ""
+msgstr "Décompressez le fichier source, déplacez vous à l'intérieur du dossier"
 
 #. Tag: para
 #, no-c-format
 msgid "type in “./configure” on the terminal"
-msgstr ""
+msgstr "saisissez la commande “./configure” dans votre terminal"
 
 #. Tag: para
 #, no-c-format
 msgid "type in “make”"
-msgstr ""
+msgstr "saisissez la commande “make”"
 
 #. Tag: para
 #, no-c-format
 msgid "type in “su”"
-msgstr ""
+msgstr "saisissez la commande “su”"
 
 #. Tag: para
 #, no-c-format
 msgid "type your root password"
-msgstr ""
+msgstr "tapez votre mot de passe super-utilisateur"
 
 #. Tag: para
 #, no-c-format
 msgid "type in “make install”"
-msgstr ""
+msgstr "saisissez la commande “make install”"
 
 #. Tag: para
 #, no-c-format
-msgid "(Make sure to read accompanying files such as “README”, “INSTALL” and so on for installation instructions before compiling. These files may list dependency packages which you need to install prior to the configuration. ./configure --help or ./configure --help=short output should also help you with some configuration options)."
-msgstr ""
+msgid ""
+"(Make sure to read accompanying files such as “README”, “INSTALL” and so on "
+"for installation instructions before compiling. These files may list "
+"dependency packages which you need to install prior to the configuration. "
+"./configure --help or ./configure --help=short output should also help you "
+"with some configuration options)."
+msgstr "(Assurez vous de lire les fichiers accompagnant les sources tels que “README”, “INSTALL” et autres pour obtenir des recommandations nécessaires avant la compilation. Ces fichiers peuvent lister les dépendances requises nécessitant d'être installées avant de lancer la configuration de compilation. Le résultat de la commande ./configure --help ou ./configure --help=short peut aussi vous aider en vous détaillant les différentes options de compilation)."
 
 #. Tag: para
 #, no-c-format
-msgid "Although you should manage to install the software after the final command, it is essentially untracked and neither Gslapt nor slapt-get can see that the software is installed. A better way is to create a Salix package using SLKBUILD, which is a build script you can prepare before issuing “slkbuild -X” to create a Salix compatible package. For more on SLKBULD, please consult <ulink url=\"http://www.salixos.org/wiki/index.php/Building_packages_with_slkbuild\">SLKBUILD</ulink>."
-msgstr ""
+msgid ""
+"Although you should manage to install the software after the final command, "
+"it is essentially untracked and neither Gslapt nor slapt-get can see that "
+"the software is installed. A better way is to create a Salix package using "
+"SLKBUILD, which is a build script you can prepare before issuing “slkbuild "
+"-X” to create a Salix compatible package. For more on SLKBULD, please "
+"consult <ulink "
+"url=\"http://www.salixos.org/wiki/index.php/Building_packages_with_slkbuild\">SLKBUILD</ulink>."
+msgstr "Bien que vous devriez réussir à installer le logiciel après la dernière commande, il est important de signaler que ce logiciel n'est pas répertorié dans votre système et que ni Gslapt ou slapt-get n'a vu qu'il était installé. Une façon plus efficace est de créer un paquet Salix en utilisant SLKBUILD qui est un script de compilation que vous éditez avant de lancer la commande “slkbuild -X” pour créer un paquet compatible Salix. Pour plus d'informations sur SLKBUILD, veuillez s'il vous plait vous consulter <ulink url=\"http://www.salixos.org/wiki/index.php/Building_packages_with_slkbuild\">SLKBUILD</ulink>."
 
 #. Tag: title
 #, no-c-format
 msgid "Salix Packages, that are different from Slackware"
-msgstr ""
+msgstr "Paquets Salix différents de ceux de Slackware"
 
 #. Tag: para
 #, no-c-format
-msgid "Although the vast majority of packages found in the Salix repositories are complementary to the Slackware repositories, you will find that some packages are present both in the Salix repositories and in the Slackware repositories. These packages have been rebuilt for Salix OS for a number of good reasons, and a list of the packages as well as brief explanations as to why are found in <ulink url=\"http://www.salixos.org/wiki/index.php/Packages,_that_are_different_from_Slackware\">this wiki entry</ulink>."
-msgstr ""
+msgid ""
+"Although the vast majority of packages found in the Salix repositories are "
+"complementary to the Slackware repositories, you will find that some "
+"packages are present both in the Salix repositories and in the Slackware "
+"repositories. These packages have been rebuilt for Salix OS for a number of "
+"good reasons, and a list of the packages as well as brief explanations as to"
+" why are found in <ulink "
+"url=\"http://www.salixos.org/wiki/index.php/Packages,_that_are_different_from_Slackware\">this"
+" wiki entry</ulink>."
+msgstr "Bien que la vaste majorité des paquets se trouvant sur les répertoires de Salix sont complémentaires avec ceux issus des répertoires de Slackware, vous trouverez quelques paquets présents sur les deux répertoires. Ces paquets ont été reconstruits pour Salix OS pour un certain nombre de bonnes raisons, une liste de paquets ainsi qu'une brêve explication peut être consultée sur <ulink url=\"http://www.salixos.org/wiki/index.php/Packages,_that_are_different_from_Slackware\">cette article du wiki.</ulink>."
 
 #. Tag: title
 #, no-c-format
 msgid "Upgrading Salix OS to a Newer Version"
-msgstr ""
+msgstr "Mettre à jour Salix OS vers une nouvelle version"
 
 #. Tag: para
 #, no-c-format
-msgid "If you wish to upgrade an older version of Salix OS on your machine to the latest, please refer to the following link for upgrading your Salix OS."
-msgstr ""
+msgid ""
+"If you wish to upgrade an older version of Salix OS on your machine to the "
+"latest, please refer to the following link for upgrading your Salix OS."
+msgstr "Si vous souhaitez mettre à niveau une ancienne version de Salix vers la dernière, veuillez s'il vous plait vous référez au lien suivant."
 
 #. Tag: para
 #, no-c-format
-msgid "<ulink url=\"http://www.salixos.org/wiki/index.php/How_to_upgrade_Salix_13.0_to_13.1\">Salix 13.0 to 13.1</ulink>"
-msgstr ""
+msgid ""
+"<ulink "
+"url=\"http://www.salixos.org/wiki/index.php/How_to_upgrade_Salix_13.0_to_13.1\">Salix"
+" 13.0 to 13.1</ulink>"
+msgstr "<ulink url=\"http://www.salixos.org/wiki/index.php/How_to_upgrade_Salix_13.0_to_13.1\">Salix 13.0 to 13.1</ulink>"
 
 #. Tag: para
 #, no-c-format
-msgid "<ulink url=\"http://www.salixos.org/wiki/index.php/How_to_upgrade_Salix_13.1_to_13.37\">Salix 13.1 to 13.37</ulink>"
-msgstr ""
+msgid ""
+"<ulink "
+"url=\"http://www.salixos.org/wiki/index.php/How_to_upgrade_Salix_13.1_to_13.37\">Salix"
+" 13.1 to 13.37</ulink>"
+msgstr "<ulink url=\"http://www.salixos.org/wiki/index.php/How_to_upgrade_Salix_13.1_to_13.37\">Salix 13.1 to 13.37</ulink>"
 
 #. Tag: title
 #, no-c-format
 msgid "Configuring Your Salix"
-msgstr ""
+msgstr "Configurer Votre Salix"
 
 #. Tag: title
 #, no-c-format
 msgid "Setting up the Internet"
-msgstr ""
+msgstr "Mise en place d'Internet"
 
 #. Tag: para
 #, no-c-format
-msgid "Network connections are managed by Wicd in Salix. It is an open source wired and wireless network manager for Linux which aims to provide a simple interface to connect to networks with a wide variety of settings."
-msgstr ""
+msgid ""
+"Network connections are managed by Wicd in Salix. It is an open source wired"
+" and wireless network manager for Linux which aims to provide a simple "
+"interface to connect to networks with a wide variety of settings."
+msgstr "Les connexions réseaux sont gérées par Wicd dans Salix. C'est un gestionnaire libre de réseaux filaires ou non pour Linux qui vise à fournir une interface simple pour se connecter aux réseaux avec une grande variété d'options."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Wicd"
-msgstr ""
+msgstr "Capture d'écran de Wicd"
 
 #. Tag: para
 #, no-c-format
-msgid "It will connect to wired (Ethernet only, no PPPoE/DSL support yet) and wireless networks."
-msgstr ""
+msgid ""
+"It will connect to wired (Ethernet only, no PPPoE/DSL support yet) and "
+"wireless networks."
+msgstr "Il vous connectera aux réseaux filaires (Ethernet uniquement, pas de support PPPoE/DSL pour l'instant) et aux réseaux sans fils."
 
 #. Tag: para
 #, no-c-format
-msgid "Note that wicd and wireless must be activated in the startup services (see <xref linkend=\"sect-Startup_Guide-Salix_Tools-Startup_Services\" />) in order to make wireless networks visible on Wicd."
-msgstr ""
+msgid ""
+"Note that wicd and wireless must be activated in the startup services (see "
+"<xref linkend=\"sect-Startup_Guide-Salix_Tools-Startup_Services\" />) in "
+"order to make wireless networks visible on Wicd."
+msgstr "Notez que les services Wicd et Wireless doivent être activés au démarrage du système (voir <xref linkend=\"sect-Startup_Guide-Salix_Tools-Startup_Services\" />) pour permettre à Wicd de repérer les réseaux sans fils."
 
 #. Tag: title
 #, no-c-format
 msgid "Setting up a Printer"
-msgstr ""
+msgstr "Mise en place d'une imprimante"
 
 #. Tag: para
 #, no-c-format
-msgid "After writing a document, transferring photos from your camera, or creating your own images with GIMP, you would probably like to print them out with your printer. To do this, you need to have a printer already installed on your system. “Manage Printing”, which is found under “System” in the main application menu, handles the installation and general management of your printers. (Ensure that “CUPS” is enabled in the startup services (see <xref linkend=\"sect-Startup_Guide-Salix_Tools-Startup_Services\" />), or Manage Printing will not start properly)."
-msgstr ""
+msgid ""
+"After writing a document, transferring photos from your camera, or creating "
+"your own images with GIMP, you would probably like to print them out with "
+"your printer. To do this, you need to have a printer already installed on "
+"your system. “Manage Printing”, which is found under “System” in the main "
+"application menu, handles the installation and general management of your "
+"printers. (Ensure that “CUPS” is enabled in the startup services (see <xref "
+"linkend=\"sect-Startup_Guide-Salix_Tools-Startup_Services\" />), or Manage "
+"Printing will not start properly)."
+msgstr "Après avoir écrit un document, importé des photos depuis votre appareil photo ou créé vos propres images avec GIMP, vous souhaiterez probablement les imprimer avec votre imprimante. Pour réaliser ceci, vous devez déjà avoir une imprimante d'installée sur votre système. “Gestion des imprimantes”, qui se trouve sous “Système” dans le menu d'applications, prend en charge l'installation et la gestion générale de vos imprimantes. (Faites en sorte que le service “CUPS” soit actif au démarrage du système (voir <xref linkend=\"sect-Startup_Guide-Salix_Tools-Startup_Services\" />), sinon “Gestion des imprimantes” ne fonctionnera pas correctement)."
 
 #. Tag: para
 #, no-c-format
-msgid "If you are buying a new printer, it is recommended to check the availability of Linux drivers beforehand from the <ulink url=\"http://www.linuxfoundation.org/collaborate/workgroups/openprinting/database/databaseintro\">Open Printing database</ulink> (or search on the Internet). Some companies offer printer drivers for Linux, but this is less common than desired, and often involves a lengthy installation process. For most Linux friendly printers, you have to install drivers such as gutenprint and HPIJS, both of which are available from the repositories."
-msgstr ""
+msgid ""
+"If you are buying a new printer, it is recommended to check the availability"
+" of Linux drivers beforehand from the <ulink "
+"url=\"http://www.linuxfoundation.org/collaborate/workgroups/openprinting/database/databaseintro\">Open"
+" Printing database</ulink> (or search on the Internet). Some companies offer"
+" printer drivers for Linux, but this is less common than desired, and often "
+"involves a lengthy installation process. For most Linux friendly printers, "
+"you have to install drivers such as gutenprint and HPIJS, both of which are "
+"available from the repositories."
+msgstr "Si vous achetez une nouvelle imprimante, il est recommandé de vérifier préalablement la disponibilité de drivers Linux à partir de <ulink url=\"http://www.linuxfoundation.org/collaborate/workgroups/openprinting/database/databaseintro\">la base de donnée libre</ulink> (ou à partir d'un moteur de recherche sur internet). Quelques compagnies mettent à disposition des drivers Linux, mais ceci est moins commun que désiré, et souvent oblige à une installation complexe. Pour la plupart des imprimantes compatibles Linux, vous n'avez qu'à installer des drivers tels que gutenprint et HPIJS, qui sont tous les deux disponibles sur les répertoires."
 
 #. Tag: para
 #, no-c-format
 msgid "Select “Add Printers and Classes”"
-msgstr ""
+msgstr "Sélectionnez “Ajout d'imprimantes et de classes”"
 
 #. Tag: para
 #, no-c-format
 msgid "Under “Printers”, select “Add Printer”"
-msgstr ""
+msgstr "Sous “Imprimantes”, selectionnez “Ajout d'imprimante”"
 
 #. Tag: para
 #, no-c-format
 msgid "Enter “root” as a username and your superuser password"
-msgstr ""
+msgstr "Entrez “root” comme nom d'utilisateur et renseignez votre mot de passe super-utilisateur"
 
 #. Tag: para
 #, no-c-format
-msgid "Select your printer description and choose if you would like to share the printer"
-msgstr ""
+msgid ""
+"Select your printer description and choose if you would like to share the "
+"printer"
+msgstr "Sélectionnez votre imprimante et choisissez si vous souhaitez la partager"
 
 #. Tag: para
 #, no-c-format
-msgid "Select the correct driver from the list (Model) – see an example below. This is the important part. Or if you have a <ulink url=\"http://en.wikipedia.org/wiki/PostScript_Printer_Description\">PPD</ulink> file instead, you can load it here."
-msgstr ""
+msgid ""
+"Select the correct driver from the list (Model) – see an example below. This"
+" is the important part. Or if you have a <ulink "
+"url=\"http://en.wikipedia.org/wiki/PostScript_Printer_Description\">PPD</ulink>"
+" file instead, you can load it here."
+msgstr "Sélectionnez le driver adéquat à partir de la liste (modèle) - voir exemple ci-dessous. C'est la partie importante. Ou si à la place vous avez <ulink url=\"http://en.wikipedia.org/wiki/PostScript_Printer_Description\">un fichier PPD</ulink>, vous pouvez le charger ici."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Printer Configuration"
-msgstr ""
+msgstr "Capture d'écran de la configuration de l'imprimante"
 
 #. Tag: para
 #, no-c-format
-msgid "Select Add Printer, and finish the process by configuring details of the printer."
-msgstr ""
+msgid ""
+"Select Add Printer, and finish the process by configuring details of the "
+"printer."
+msgstr "Sélectionnez “Ajout imprimante”, et complétez le processus en renseignant les détails de votre imprimante."
 
 #. Tag: para
 #, no-c-format
 msgid "Now the printer should be usable on your computer"
-msgstr ""
+msgstr "A présent, votre imprimante devrait être utilisable sur votre système"
 
 #. Tag: para
 #, no-c-format
-msgid "For setting up a network printer, please consult the Salix <ulink url=\"http://www.salixos.org/wiki/index.php/How_to_share_a_printer_via_CUPS\">wiki</ulink>."
-msgstr ""
+msgid ""
+"For setting up a network printer, please consult the Salix <ulink "
+"url=\"http://www.salixos.org/wiki/index.php/How_to_share_a_printer_via_CUPS\">wiki</ulink>."
+msgstr "Pour mettre en place une imprimante réseau, veuillez s'il vous plait consulter le <ulink url=\"http://www.salixos.org/wiki/index.php/How_to_share_a_printer_via_CUPS\">wiki</ulink> de Salix."
 
 #. Tag: title
 #, no-c-format
 msgid "Salix Codecs Installer"
-msgstr ""
+msgstr "Installateur de codecs Salix"
 
 #. Tag: para
 #, no-c-format
-msgid "Salix only includes, by default, software that are legally free to use in any country, and that means that proprietary media formats are not configured “out of the box”. Most commercial DVDs are encrypted, and that means that you need to install certain codecs to view them. This is legally permitted in most countries but not all. Please check and obtain legal advice if you are unsure whether a particular legal restriction applies to a media format and/or packages you wish to use in your country."
-msgstr ""
+msgid ""
+"Salix only includes, by default, software that are legally free to use in "
+"any country, and that means that proprietary media formats are not "
+"configured “out of the box”. Most commercial DVDs are encrypted, and that "
+"means that you need to install certain codecs to view them. This is legally "
+"permitted in most countries but not all. Please check and obtain legal "
+"advice if you are unsure whether a particular legal restriction applies to a"
+" media format and/or packages you wish to use in your country."
+msgstr "Salix inclut, par défaut, seulement des logiciels qui peuvent etre utilisés de manière légale dans tous pays; cela signifie que les formats multimédia du type propriétaire ne sont pas configurés ''out of the box''. La plupart des DVDs commercials sont cryptés et donc vous nécessitez d'installer les respectif codecs afin de pouvoir les voir. Ceci est permis de la loi dans la plupart des pays mai pas en tous. Si vous n'êtes pas sûrs si ceci est votre cas, vueillez préliminairement obtenir un avis légal pour vérifier si des restrictions de loi s'appliquent au format multimédia et/ou aux paquets que vous entendez utiliser dans votre pays."
 
 #. Tag: para
 #, no-c-format
-msgid "Salix codecs installer can be found under “Multimedia” in the main application menu, and conveniently install those codecs to enhance your viewing experiences."
-msgstr ""
+msgid ""
+"Salix codecs installer can be found under “Multimedia” in the main "
+"application menu, and conveniently install those codecs to enhance your "
+"viewing experiences."
+msgstr "L'Installateur de codecs Salix est placé dans la section ''Multimedia'' du menu principal des logiciels de manière d'installer les codecs nécessaires à améliorer votre expérience visuelle."
 
 #. Tag: para
 #, no-c-format
-msgid "For more information on what is actually installed, please see <ulink url=\"http://www.salixos.org/wiki/index.php/What_gets_installed_with_the_%22Install_multimedia_codecs%22_application?\">here</ulink>."
-msgstr ""
+msgid ""
+"For more information on what is actually installed, please see <ulink "
+"url=\"http://www.salixos.org/wiki/index.php/What_gets_installed_with_the_%22Install_multimedia_codecs%22_application?\">here</ulink>."
+msgstr "Pour obtenir plus d'information sur la dotation multimedià qui va être installée, voir <ulink url=\"http://www.salixos.org/wiki/index.php/What_gets_installed_with_the_%22Install_multimedia_codecs%22_application?\">ici</ulink>."
 
 #. Tag: title
 #, no-c-format
 msgid "Salix Tools"
-msgstr ""
+msgstr "Outils Salix"
 
 #. Tag: title
 #, no-c-format
 msgid "What are the Salix Tools?"
-msgstr ""
+msgstr "Que sont les Outils Salix?"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of System Menu"
-msgstr ""
+msgstr "Copie d'écran du Menu de Système"
 
 #. Tag: para
 #, no-c-format
-msgid "Salix tools are a collection of utilities that are designed to manage every aspect of Salix configuration easily. You can find these tools under the System section of the application menu. Of course, system management in Salix OS can also be done the usual (<ulink url=\"http://www.slackbook.org/html/book.html\">manual</ulink>) Slackware way."
-msgstr ""
+msgid ""
+"Salix tools are a collection of utilities that are designed to manage every "
+"aspect of Salix configuration easily. You can find these tools under the "
+"System section of the application menu. Of course, system management in "
+"Salix OS can also be done the usual (<ulink "
+"url=\"http://www.slackbook.org/html/book.html\">manual</ulink>) Slackware "
+"way."
+msgstr "Les Outils Salix sont une collection d'utilités conçues pour gérer facilement tous les aspects de la configuration de Salix. Vous pouvez trouver ces outils dans la section Système du menu des applications. Naturellement, la gestion du système en Salix OS peut être faite aussi au façon l (<ulink url=\"http://www.slackbook.org/html/book.html\">manual</ulink>) Slackware."
 
 #. Tag: para
 #, no-c-format
-msgid "Please note that most Salix tools (except Lilo Setup) have an ncurses counterpart which can be used in a non-graphical environment (<ulink url=\"http://www.bilbos-stekkie.com/slack_init/en/init.html#SLACK-RUNLEVELS\">runlevel 3</ulink>)."
-msgstr ""
+msgid ""
+"Please note that most Salix tools (except Lilo Setup) have an ncurses "
+"counterpart which can be used in a non-graphical environment (<ulink "
+"url=\"http://www.bilbos-stekkie.com/slack_init/en/init.html#SLACK-"
+"RUNLEVELS\">runlevel 3</ulink>)."
+msgstr "Veuillez noter que la majorité des outils  Salix  (sauf Lilo Setup) a aussi un homologue ncurses qui peut être utilisé dans un environnement non-graphique (<ulink url=\"http://www.bilbos-stekkie.com/slack_init/en/init.html#SLACK-RUNLEVELS\">runlevel 3</ulink>)."
 
 #. Tag: title
 #, no-c-format
 msgid "ALSA Sound Card"
-msgstr ""
+msgstr "ALSA Sound Card"
 
 #. Tag: para
 #, no-c-format
-msgid "ALSA Sound Card manages the system sound card configuration. It will display available sound cards in your system and let you select the card you want to use in preference. This is particularly useful when you have multiple sound cards in your system, and you would like to assign a sound card for your system other than the one automatically picked during installation/start-up."
-msgstr ""
+msgid ""
+"ALSA Sound Card manages the system sound card configuration. It will display"
+" available sound cards in your system and let you select the card you want "
+"to use in preference. This is particularly useful when you have multiple "
+"sound cards in your system, and you would like to assign a sound card for "
+"your system other than the one automatically picked during installation"
+"/start-up."
+msgstr "ALSA Sound Card gère la configuration de la fiche Audio du système. Cette utilité va montrer les fhiches audio disponibile et vous permettra de choisir la fiche de défaut. Ceci est particulièrement utile lorsque vous avez plusieures fiches disponibiles dans le système et vous désirez utiliser une fiche différente de celle qui est saisie de manière automatique à l'installation/démarrage du système. "
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Alsa configuration utility"
-msgstr ""
+msgstr "Copie d'écran de l'utilité de configuration ALSA"
 
 #. Tag: title
 #, no-c-format
 msgid "Rebuild Icon Cache"
-msgstr ""
+msgstr "Rebuild Icon Cache"
 
 #. Tag: para
 #, no-c-format
-msgid "As the name indicates, Rebuild Icon Cache reconnects some icons that may have become lost after updating your system / installing some new program, and makes them appear again in the application menu."
-msgstr ""
+msgid ""
+"As the name indicates, Rebuild Icon Cache reconnects some icons that may "
+"have become lost after updating your system / installing some new program, "
+"and makes them appear again in the application menu."
+msgstr "La fonction de l'utilité est suggerée par le nom. Rebuild Icon Cache récupère les icônes qui ont disparues pendant la mise à jour ou l'installation d'un nuoveau logiciel et les fait apparâitre è nouveau dans le menu des applications. "
 
 #. Tag: title
 #, no-c-format
 msgid "Hostnames"
-msgstr ""
+msgstr "Hostnames"
 
 #. Tag: para
 #, no-c-format
-msgid "Hostnames manages the host names used by your computer. This tool facilitates defining / overviewing host names used while setting up your machine as a server."
-msgstr ""
+msgid ""
+"Hostnames manages the host names used by your computer. This tool "
+"facilitates defining / overviewing host names used while setting up your "
+"machine as a server."
+msgstr "Hostnames gère les noms d'hôtes utilisés par votre ordinateur. Cet outils facilite la definition/revue des noms d'hôtes lorsque la machine est preparée en fonction de serveur."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Hostname utility"
-msgstr ""
+msgstr "Copie d'écran de l'utilité Hostname"
 
 #. Tag: title
 #, no-c-format
 msgid "Dotnew"
-msgstr ""
+msgstr "Dotnew"
 
 #. Tag: para
 #, no-c-format
-msgid "Dotnew manages the system configuration upgrades used by Slackware. It will display a possible course of action for each new configuration file found in the system."
-msgstr ""
+msgid ""
+"Dotnew manages the system configuration upgrades used by Slackware. It will "
+"display a possible course of action for each new configuration file found in"
+" the system."
+msgstr "Dotnew gère les améliorements de la configuration du système qui sont utilisés en Slackware. L'utilité montre les options disponibles pour chaque fichier de configuration présent dans le système."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Dotnew setting utility"
-msgstr ""
+msgstr "Copie d'écran de l'utilité de configuration Dotnew"
 
 #. Tag: para
 #, no-c-format
 msgid "To execute this utility in runlevel 3, simply type dotnew."
-msgstr ""
+msgstr "Pour executer cette utilité au runlevel3, tapez dotnew."
 
 #. Tag: title
 #, no-c-format
 msgid "Keyboard Layout"
-msgstr ""
+msgstr "Disposition du clavier"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Keyboard Setup utility"
-msgstr ""
+msgstr "Copie d'écran de l'utilité Preparation du Clavier"
 
 #. Tag: para
 #, no-c-format
-msgid "This utility will configure the keyboard disposition being used both in the graphical and non-graphical environments. Modifications are applied instantly."
-msgstr ""
+msgid ""
+"This utility will configure the keyboard disposition being used both in the "
+"graphical and non-graphical environments. Modifications are applied "
+"instantly."
+msgstr "Cette utilité va configurer la disposition du clavier utilisée soit dans les envoronnements graphique, soit non graphiques. Toutes modifications s'appliquent immédiatement."
 
 #. Tag: para
 #, no-c-format
-msgid "Note that if you would like to activate Ibus (see <xref linkend=\"sect-Startup_Guide-Selected_Applications_found_in_Salix-Ibus\" />) during the start up, you can do so by ticking the optional box."
-msgstr ""
+msgid ""
+"Note that if you would like to activate Ibus (see <xref linkend=\"sect-"
+"Startup_Guide-Selected_Applications_found_in_Salix-Ibus\" />) during the "
+"start up, you can do so by ticking the optional box."
+msgstr "Veuillez noter que si vous voulez activer Ibus (see <xref linkend=\"sect-Startup_Guide-Selected_Applications_found_in_Salix-Ibus\" />) pendant le démarrage, il suffit de cocher le box approprié."
 
 #. Tag: para
 #, no-c-format
 msgid "To execute this utility in runlevel 3, simply type keyboardsetup."
-msgstr ""
+msgstr "Pour executer cette utilité au runlevel3, tapez keyboardsetup."
 
 #. Tag: title
 #, no-c-format
 msgid "Lilo Setup"
-msgstr ""
+msgstr "Lilo Setup"
 
 #. Tag: para
 #, no-c-format
 msgid "Lilo Setup will install a new LILO bootloader on your computer."
-msgstr ""
+msgstr "Lilo Setup installera un nouveau chargeur de démarrage LILO sur votre ordinateur"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of LiloSetup utility"
-msgstr ""
+msgstr "Copie d'écran de l'utilitaire LiloSetup"
 
 #. Tag: para
 #, no-c-format
-msgid "A bootloader is required to load the main operating system of a computer and will initially display a boot menu if several operating systems are available on the same computer."
-msgstr ""
+msgid ""
+"A bootloader is required to load the main operating system of a computer and"
+" will initially display a boot menu if several operating systems are "
+"available on the same computer."
+msgstr "Un chargeur de démarrage est nécessaire pour charger le système d'exploitation d'un ordinateur et affiche en général un menu de démarrage si plusieurs systèmes d'exploitation sont disponibles sur le même ordinateur."
 
 #. Tag: para
 #, no-c-format
-msgid "It is necessary to (re)configure the bootloader each time you install a new operating system on your computer."
-msgstr ""
+msgid ""
+"It is necessary to (re)configure the bootloader each time you install a new "
+"operating system on your computer."
+msgstr "Il est nécessaire de (re)configurer le chargeur de démarrage à chaque nouvelle installation d'un système d'exploitation sur votre ordinateur."
 
 #. Tag: para
 #, no-c-format
-msgid "Lilo Setup can also be useful in the process of a disaster recovery, in which case you may have to launch it from a Live CD if you have lost all other means to boot into your system."
-msgstr ""
+msgid ""
+"Lilo Setup can also be useful in the process of a disaster recovery, in "
+"which case you may have to launch it from a Live CD if you have lost all "
+"other means to boot into your system."
+msgstr "Lilo Setup peut également être utile en cas de processus de restauration sévère, auquel cas vous devrez le lancer depuis un Live CD si vous avez perdu tout autre moyen de démarrer votre système."
 
 #. Tag: title
 #, no-c-format
 msgid "Startup Services"
-msgstr ""
+msgstr "Services du système"
 
 #. Tag: para
 #, no-c-format
-msgid "Here you will be able to select the services that should or shouldn't be activated in the background when your system starts."
-msgstr ""
+msgid ""
+"Here you will be able to select the services that should or shouldn't be "
+"activated in the background when your system starts."
+msgstr "Vous serez en mesure de sélectionner ici les services qui doivent ou ne doivent pas être activés en tâche de fond quand votre système démarre."
 
 #. Tag: para
 #, no-c-format
-msgid "All your modifications will be applied instantly if you press on the OK button and will not necessitate a reboot."
-msgstr ""
+msgid ""
+"All your modifications will be applied instantly if you press on the OK "
+"button and will not necessitate a reboot."
+msgstr "Toute modification sera appliquée immédiatement sur clic sur le bouton Ok et aucun redémarrage n'est nécessaire."
 
 #. Tag: para
 #, no-c-format
 msgid "To execute this utility in runlevel 3, simply type servicesetup."
-msgstr ""
+msgstr "Pour exécuter cet utilitaire en runlevel 3, taper simplement servicesetup."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Services Setting utility"
-msgstr ""
+msgstr "Copie d'écran de l'utilitaire Services du système"
 
 #. Tag: title
 #, no-c-format
 msgid "System Language"
-msgstr ""
+msgstr "Langue système"
 
 #. Tag: para
 #, no-c-format
 msgid "This utility will configure the language of your system."
-msgstr ""
+msgstr "Cet utilitaire permet de configurer la langue utilisée par le système."
 
 #. Tag: para
 #, no-c-format
 msgid "To execute it in runlevel 3, simply type localesetup."
-msgstr ""
+msgstr "Pour l'exécuter en runlevel 3, taper simplement localesetup."
 
 #. Tag: title
 #, no-c-format
 msgid "System Clock"
-msgstr ""
+msgstr "Horloge système"
 
 #. Tag: para
 #, no-c-format
 msgid "This utility will configure your computer clock."
-msgstr ""
+msgstr "Cet utilitaire permet de configurer l'heure et la date de votre ordinateur."
 
 #. Tag: para
 #, no-c-format
 msgid "To execute it in runlevel 3, simply type clocksetup."
-msgstr ""
+msgstr "Pour l'exécuter en runlevel 3, taper simplement clocksetup."
 
 #. Tag: title
 #, no-c-format
 msgid "Users Profile"
-msgstr ""
+msgstr "Gestion des utilisateurs et groupes"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of User Management utility"
-msgstr ""
+msgstr "Copie d'écran de la gestion des utilisateurs et groupes"
 
 #. Tag: para
 #, no-c-format
-msgid "In Unix/Linux, all users and groups of users are given certain <ulink url=\"http://en.wikibooks.org/wiki/UNIX_Computing_Security/Access_authorization\">permissions and access rights</ulink> to some part of the system in order to control their ability to access and change it."
-msgstr ""
+msgid ""
+"In Unix/Linux, all users and groups of users are given certain <ulink "
+"url=\"http://en.wikibooks.org/wiki/UNIX_Computing_Security/Access_authorization\">permissions"
+" and access rights</ulink> to some part of the system in order to control "
+"their ability to access and change it."
+msgstr "Sous Unix/Linux, tous les utilisateurs et les groupes d'utilisateurs ont certaines <ulink url=\"http://fr.wikipedia.org/wiki/Permissions_Unix\">permissions et droits d'accès</ulink> à certaines parties du système afin de contrôler leur possibilité d'accès ou de modification."
 
 #. Tag: para
 #, no-c-format
-msgid "This utility manages the creation, deletion and properties of all the system users and groups of users."
-msgstr ""
+msgid ""
+"This utility manages the creation, deletion and properties of all the system"
+" users and groups of users."
+msgstr "Cet utilitaire permet la création, la suppression et modification des propriétés de tous les utilisateurs et groupes du système."
 
 #. Tag: para
 #, no-c-format
 msgid "To execute it in runlevel 3, simply type usersetup."
-msgstr ""
+msgstr "Pour l'exécuter en runlevel 3, taper simplement usersetup."
 
 #. Tag: title
 #, no-c-format
 msgid "Salix-Update-Notifier"
-msgstr ""
+msgstr "Notifieur de mises à jour pour Salix"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Salix update notifier"
-msgstr ""
+msgstr "Copie d'écran du notifieur de mises à jour pour Salix"
 
 #. Tag: para
 #, no-c-format
-msgid "Salix update notifier is a tool that periodically checks for available package updates and informs the user about them with the display of a non-intrusive tray icon, which can be used to launch the upgrade process with Gslapt."
-msgstr ""
+msgid ""
+"Salix update notifier is a tool that periodically checks for available "
+"package updates and informs the user about them with the display of a non-"
+"intrusive tray icon, which can be used to launch the upgrade process with "
+"Gslapt."
+msgstr "le notifieur de mises à jour pour Salix est un outil qui vérifie périodiquement la disponibilité de mises à jour de paquets et en informe l'utilisateur avec l'affichage d'une icône non‑intrusive dans la barre de notification, qui peut être utilisée pour lancer le processus de mises à jour avec Gslapt."
 
 #. Tag: title
 #, no-c-format
 msgid "Salix Live Tools"
-msgstr ""
+msgstr "Outils Salix Live"
 
 #. Tag: title
 #, no-c-format
 msgid "What are the Live Tools?"
-msgstr ""
+msgstr "Que sont les outils Salix Live ?"
 
 #. Tag: para
 #, no-c-format
-msgid "Salix Live comes with all the default software included in Salix OS (see <xref linkend=\"appe-Startup_Guide-List_of_Applications\" />)."
-msgstr ""
+msgid ""
+"Salix Live comes with all the default software included in Salix OS (see "
+"<xref linkend=\"appe-Startup_Guide-List_of_Applications\" />)."
+msgstr "Salix Live est disponible avec tous les logiciels par défaut inclus dans Salix OS (voir <xref linkend=\"appe-Startup_Guide-List_of_Applications\" />)."
 
 #. Tag: para
 #, no-c-format
-msgid "However, due to its Live nature it also includes some extra utilities which are either needed or simply very useful in a Live session."
-msgstr ""
+msgid ""
+"However, due to its Live nature it also includes some extra utilities which "
+"are either needed or simply very useful in a Live session."
+msgstr "Cependant, dû à sa nature Live, sont également inclus d'autres utilitaires qui sont nécessaires ou simplement utiles dans une session Live."
 
 #. Tag: para
 #, no-c-format
-msgid "Some of the Live Tools are graphical utilities that can be accessed directly on the desktop while some Live Tools, reserved for advanced users, can only be executed from the command line (<ulink url=\"http://en.wikipedia.org/wiki/Command-line_interface\">CLI</ulink>)."
-msgstr ""
+msgid ""
+"Some of the Live Tools are graphical utilities that can be accessed directly"
+" on the desktop while some Live Tools, reserved for advanced users, can only"
+" be executed from the command line (<ulink "
+"url=\"http://en.wikipedia.org/wiki/Command-line_interface\">CLI</ulink>)."
+msgstr "Certains des outils Live sont des outils graphiques qui peuvent être directement accédés depuis le bureau, alors que d'autres outils sont réservés pour les utilisateurs expérimentés et ne peuvent être exécutés que depuis la ligne de commande (<ulink url=\"http://fr.wikipedia.org/wiki/Interface_en_ligne_de_commande\">CLI</ulink>)."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Live Tools Icons on the desktop"
-msgstr ""
+msgstr "Copie d'écran des icônes des outils Live présents sur le bureau"
 
 #. Tag: title
 #, no-c-format
 msgid "The Persistence Wizard"
-msgstr ""
+msgstr "L'assistant de persistance"
 
 #. Tag: para
 #, no-c-format
-msgid "Even if run from a CD/DVD, Salix Live gives you the possibility to save any of your work or modification performed while in a Live session."
-msgstr ""
+msgid ""
+"Even if run from a CD/DVD, Salix Live gives you the possibility to save any "
+"of your work or modification performed while in a Live session."
+msgstr "Même si exécuté depuis un CD/DVD, Salix Live vous permet de sauvegarder votre travail ou modifications effectués lors d'une session Live."
 
 #. Tag: para
 #, no-c-format
-msgid "To do this however, you must first create a special \"persistence file\" on your hard drive, which will have a predecided fixed-size and will be formatted as a Linux file system."
-msgstr ""
+msgid ""
+"To do this however, you must first create a special \"persistence file\" on "
+"your hard drive, which will have a predecided fixed-size and will be "
+"formatted as a Linux file system."
+msgstr "Pour ce faire, il faut cependant d'abord créer sur votre disque dur un fichier spécial de « persistance », qui aura une taille pré-définie et qui sera formaté comme un système de fichiers Linux."
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Salix Live Persistence Wizard"
-msgstr ""
+msgstr "Copie d'écran de l'assistant de persistance de Salix Live"
 
 #. Tag: para
 #, no-c-format
-msgid "Important! Once this file has been created, it is necessary to reboot the Live CD. From then on, Salix Live will begin to monitor any changes you perform and will record them in the new persistent file."
-msgstr ""
+msgid ""
+"Important! Once this file has been created, it is necessary to reboot the "
+"Live CD. From then on, Salix Live will begin to monitor any changes you "
+"perform and will record them in the new persistent file."
+msgstr "Important ! Une fois ce fichier créé, il est nécessaire de redémarrer le Live. Ensuite, Salive Live surveillera chacune des modifications que vous réaliserez et les enregistrera dans le nouveau fichier de persistance."
 
 #. Tag: para
 #, no-c-format
-msgid "To remove any changes and come back to the default settings, simply delete the persistent file (slxsave.xfs) from the <ulink url=\"http://www.linfo.org/mount_point.html\">mount point</ulink> it was initially created on."
-msgstr ""
+msgid ""
+"To remove any changes and come back to the default settings, simply delete "
+"the persistent file (slxsave.xfs) from the <ulink "
+"url=\"http://www.linfo.org/mount_point.html\">mount point</ulink> it was "
+"initially created on."
+msgstr "Pour supprimer tout changement et revenir à la configuration par défaut, il suffit de simplement supprimer le fichier de persistance (slxsave.xfs) du <ulink url=\"http://fr.wikipedia.org/wiki/Point_de_montage\">point de montage</ulink> où il a été créé initialement."
 
 #. Tag: title
 #, no-c-format
 msgid "Gparted"
-msgstr ""
+msgstr "Gparted"
 
 #. Tag: para
 #, no-c-format
-msgid "Gparted is included in Salix Live to assist you in managing your partitions if it is necessary for you to do so before performing the installation of Salix OS (see <xref linkend=\"sect-Startup_Guide-Preparing_Salix_Installation-Partition_Management\" />)."
-msgstr ""
+msgid ""
+"Gparted is included in Salix Live to assist you in managing your partitions "
+"if it is necessary for you to do so before performing the installation of "
+"Salix OS (see <xref linkend=\"sect-Startup_Guide-"
+"Preparing_Salix_Installation-Partition_Management\" />)."
+msgstr "Gparted est inclus dans Salix Live pour vous aidez à gérer vos partitions si vous en avez besoin avant de réaliser l'installation de Salix OS (voir <xref linkend=\"sect-Startup_Guide-Preparing_Salix_Installation-Partition_Management\" />)."
 
 #. Tag: title
 #, no-c-format
 msgid "Salix Live Installer"
-msgstr ""
+msgstr "Installateur Salix Live"
 
 #. Tag: para
 #, no-c-format
-msgid "Salix Live Installer will enable you to install Salix OS from the comfort of Salix Live graphical environment (see <xref linkend=\"sect-Startup_Guide-Starting_Up_Salix_OS-Installing_from_a_Live_CD_USB\" />)."
-msgstr ""
+msgid ""
+"Salix Live Installer will enable you to install Salix OS from the comfort of"
+" Salix Live graphical environment (see <xref linkend=\"sect-Startup_Guide-"
+"Starting_Up_Salix_OS-Installing_from_a_Live_CD_USB\" />)."
+msgstr "L'installateur Salix Live vous permet d'installer Salix OS avec le confort de l'environnement graphique de Salix Live (voir <xref linkend=\"sect-Startup_Guide-Starting_Up_Salix_OS-Installing_from_a_Live_CD_USB\" />)."
 
 #. Tag: title
 #, no-c-format
 msgid "LiveClone"
-msgstr ""
+msgstr "LiveClone"
 
 #. Tag: phrase
 #, no-c-format
 msgid "Screenshot of Salix LiveClone"
-msgstr ""
+msgstr "Copie d'écran de Salix LiveClone"
 
 #. Tag: para
 #, no-c-format
-msgid "LiveClone generates a Live CD/DVD iso image (which you can burn as an image on a CD/DVD with a CD/DVD burner) or a Live USB key. This means that it creates your customized live environment which will be based either on your SalixLive or your running system. In the case of a Live USB Key generation, you will be offered to make your USB key with “persistence” (see <xref linkend=\"sect-Startup_Guide-Salix_Live_Tools-The_Persistence_Wizard\" />)."
-msgstr ""
+msgid ""
+"LiveClone generates a Live CD/DVD iso image (which you can burn as an image "
+"on a CD/DVD with a CD/DVD burner) or a Live USB key. This means that it "
+"creates your customized live environment which will be based either on your "
+"SalixLive or your running system. In the case of a Live USB Key generation, "
+"you will be offered to make your USB key with “persistence” (see <xref "
+"linkend=\"sect-Startup_Guide-Salix_Live_Tools-The_Persistence_Wizard\" />)."
+msgstr "LiveClone construit une image ISO d'un CD/DVD Live (que vous pouvez graver sur un CD/DVD avec un graveur) ou un clé USB Live. C'est à dire que ça crée une environnement Live personnalisé basé soit sur votre Salix Live ou sur votre système actuel. Dans le cas de la génération d'une clé USB Live, vous aurez la possibilité de créer une clé USB avec « persistance » (voir <xref linkend=\"sect-Startup_Guide-Salix_Live_Tools-The_Persistence_Wizard\" />)."
 
 #. Tag: title
 #, no-c-format
 msgid "SaLT Scripts"
-msgstr ""
+msgstr "SaLT Scripts"
 
 #. Tag: para
 #, no-c-format
-msgid "Salix Live is build with a set of homegrown scripts called SaLT (from Salix Live Templates)."
-msgstr ""
+msgid ""
+"Salix Live is build with a set of homegrown scripts called SaLT (from Salix "
+"Live Templates)."
+msgstr "Salix Live est construit avec un ensemble de scripts maisons appelés SaLT (de Salix Live Tools)."
 
 #. Tag: para
 #, no-c-format
-msgid "While for the most part, these scripts need no user interaction, some can be executed, for instance to facilitate the creation of a Salix Live USB Flash Disk. They will also enable an advanced user to fully customize and re-master Salix Live to better suit his or her own needs."
-msgstr ""
+msgid ""
+"While for the most part, these scripts need no user interaction, some can be"
+" executed, for instance to facilitate the creation of a Salix Live USB Flash"
+" Disk. They will also enable an advanced user to fully customize and re-"
+"master Salix Live to better suit his or her own needs."
+msgstr "Bien que pour la plupart, ces script n'ont besoin d'aucune interaction, certains peut être exécutés pour, par exemple, faciliter la création d'une clé USB Live. Ils permettront également à un utilisateur expérimenté de complètement personnaliser et ré‑éditer un Salix Live afin de mieux coller à ses besoins."

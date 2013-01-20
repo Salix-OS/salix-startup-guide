@@ -1,34 +1,42 @@
-#
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
+# Translators:
+# Péter Polonkai <polesz@nedudu.hu>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: 0\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-11-08T17:18:00\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: None\n"
-"Language: \n"
+"Project-Id-Version: Salix documentation\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-06-09 15:23+0000\n"
+"Last-Translator: Péter Polonkai <polesz@nedudu.hu>\n"
+"Language-Team: Hungarian (http://www.transifex.com/projects/p/salix_documentation/language/hu/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: application/x-publican; charset=UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Tag: title
 #, no-c-format
 msgid "Startup Guide"
-msgstr ""
+msgstr "Kezdő lépések"
 
 #. Tag: subtitle
 #, no-c-format
 msgid "Getting familiar with your new operating System"
-msgstr ""
+msgstr "Ismerkedés az új operációs rendszerrel"
 
 #. Tag: productname
 #, no-c-format
 msgid "SalixOS"
-msgstr ""
+msgstr "SalixOS"
 
 #. Tag: para
 #, no-c-format
-msgid "The purpose of this manual is to enable you to take full advantage of the many functionalities of Salix OS. While particular attention has been given to help newcomers quickly get familiar with common computer tasks, more advanced material is also available for intermediate users who want to learn more about the inner workings of their operating system, its administration and its customisation."
-msgstr ""
+msgid ""
+"The purpose of this manual is to enable you to take full advantage of the "
+"many functionalities of Salix OS. While particular attention has been given "
+"to help newcomers quickly get familiar with common computer tasks, more "
+"advanced material is also available for intermediate users who want to learn"
+" more about the inner workings of their operating system, its administration"
+" and its customisation."
+msgstr "E kézikönyv célja, hogy lehetővé tegye, hogy teljes mértékben kihasználják a Salix OS valamennyi funkcióját. Különös figyelmet fordítottunk arra, hogy segítsünk, miközben újonnan érkezett felhasználók hamar megismerkedjenek a  közös számítógépes feladatokkal, és fejlettebb anyag is rendelkezésre áll a középhaladó felhasználók részére, akik szeretnének többet megtudni az operációs rendszer belső működéséről, az adminisztrációról és a testre szabhatóságról."

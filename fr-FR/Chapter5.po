@@ -1,19 +1,20 @@
 # AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 # Translators:
 #   <akuna@free.fr>, 2011.
+#   <julienl81@hotmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Salix documentation\n"
-"POT-Creation-Date: 2011-11-22T18:04:45\n"
-"PO-Revision-Date: 2011-11-17 23:31+0000\n"
-"Last-Translator: Akuna <akuna@free.fr>\n"
-"Language-Team: French (http://www.transifex.net/projects/p/salix/team/fr/)\n"
-"Language: fr\n"
+"POT-Creation-Date: 2012-02-03T19:56:06\n"
+"PO-Revision-Date: 2012-12-25 18:22+0000\n"
+"Last-Translator: julienl <julienl81@hotmail.com>\n"
+"Language-Team: French (http://www.transifex.com/projects/p/salix_documentation/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. Tag: title
 #, no-c-format
@@ -27,8 +28,10 @@ msgstr "Options de démarrage avancées"
 
 #. Tag: para
 #, no-c-format
-msgid "By selecting 'Change boot options' on the Salix Live Boot menu, you will be offered a choice of supplementary boot options"
-msgstr "En sélectionnant \"Modifier les options de démarrage\" dans le menu de démarrage de Salix Live, il vous sera proposé un choix d'options de démarrage supplémentaires"
+msgid ""
+"By selecting 'Change boot options' on the Salix Live Boot menu, you will be "
+"offered a choice of supplementary boot options"
+msgstr "En sélectionnant “Modifier les options de démarrage” dans le menu de démarrage de Salix Live, il vous sera proposé un choix d'options de démarrage supplémentaires"
 
 #. Tag: phrase
 #, no-c-format
@@ -37,8 +40,10 @@ msgstr "Instructions situées sous le menu de démarrage de Salix Live"
 
 #. Tag: para
 #, no-c-format
-msgid "The instructions below the Salix Live Boot menu will give you access to Salix Live 'manual' advanced Boot options."
-msgstr "Les instructions situées sous le menu de démarrage de Salix Live vous donne accès aux options «manuelles» avancées du démarrage de Salix."
+msgid ""
+"The instructions below the Salix Live Boot menu will give you access to "
+"Salix Live 'manual' advanced Boot options."
+msgstr "Les instructions situées sous le menu de démarrage de Salix Live vous donneront accès aux options “manuelles” avancées du démarrage de Salix."
 
 #. Tag: phrase
 #, no-c-format
@@ -47,8 +52,10 @@ msgstr "Options de démarrage supplémentaires"
 
 #. Tag: para
 #, no-c-format
-msgid "Pressing “c” gives you access to the Grub shell. Type help to view all available commands."
-msgstr "Appuyer sur la touche \"c\" pour avoir accès au shell GRUB. Taper \"help\" pour afficher toutes les commandes disponibles."
+msgid ""
+"Pressing “c” gives you access to the Grub shell. Type help to view all "
+"available commands."
+msgstr "L'appuie sur la touche « c » vous donne accès au shell GRUB. Tapez « help » pour afficher toutes les commandes disponibles."
 
 #. Tag: phrase
 #, no-c-format
@@ -62,8 +69,12 @@ msgstr "Paramètres d'amorçage"
 
 #. Tag: para
 #, no-c-format
-msgid "Pressing 'e' while 'Start Salix Live' is selected opens up the following display, enabling you to modify some of the booting options, for example, in order to enter a boot parameter. For instance, “nomodeset” for those who use older graphic cards and have problem booting up properly."
-msgstr "L'appui sur la touche 'e' lorsque 'Démarrer Salix Live' est sélectionné ouvre l'affichage suivant, vous permettant de modifier certaines des options de démarrage, par exemple, pour saisir un paramètre de démarrage. Ceux qui utilisent d'anciennes cartes graphiques et qui rencontrent des problèmes pour démarrer correctement voudront sans doute saisir \"nomodeset\"."
+msgid ""
+"Pressing 'e' while 'Start Salix Live' is selected opens up the following "
+"display, enabling you to modify some of the booting options, for example, in"
+" order to enter a boot parameter. For instance, “nomodeset” for those who "
+"use older graphic cards and have problem booting up properly."
+msgstr "L'appui sur la touche “e” lorsque “Démarrer Salix Live” est sélectionné ouvre l'affichage suivant, vous permettant de modifier certaines des options de démarrage, par exemple, pour saisir un paramètre de démarrage. Ceux qui utilisent d'anciennes cartes graphiques et qui rencontrent des problèmes pour démarrer correctement voudront sans doute saisir « nomodeset »."
 
 #. Tag: phrase
 #, no-c-format
@@ -72,335 +83,370 @@ msgstr "Modification des options de menu par défaut de Salix"
 
 #. Tag: para
 #, no-c-format
-msgid "Booting parameters or cheatcodes, are used to manipulate the booting process of Linux. To enter a cheatcode, you simply have to add it to the 'linux' line above (after changes=slxsave.xfs), ensuring a blank space separates it from the previous boot parameter."
-msgstr ""
+msgid ""
+"Booting parameters or cheatcodes, are used to manipulate the booting process"
+" of Linux. To enter a cheatcode, you simply have to add it to the 'linux' "
+"line above (after changes=slxsave.xfs), ensuring a blank space separates it "
+"from the previous boot parameter."
+msgstr "Les paramètres et codes de démarrage sont utilisés pour influencer le processus de démarrage de Linux. Pour entrer a code, vous devez simplement l'introduire dans la ligne “Linux” au-dessus (après « changes=slxsave.xfs »), tout en s’assurant qu'un espace blanc le sépare du précédent paramètre de démarrage."
 
 #. Tag: title
 #, no-c-format
 msgid "Useful Boot Parameters"
-msgstr ""
+msgstr "Paramètres de démarrage utiles"
 
 #. Tag: para
 #, no-c-format
 msgid "To load in console only without executing Xorg (runlevel 3)"
-msgstr ""
+msgstr "Pour démarrer en console uniquement, sans exécuter Xorg (niveau d’exécution 3)"
 
 #. Tag: para
 #, no-c-format
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #. Tag: para
 #, no-c-format
 msgid "To load Salix Live from a different location than the boot device:"
-msgstr ""
+msgstr "Pour démarrer Salix Live à partir d’un emplacement différent du périphérique de démarrage :"
 
 #. Tag: para
 #, no-c-format
 msgid "from=/dev/device/salixlive-version.iso"
-msgstr ""
+msgstr "from=/dev/device/salixlive-version.iso"
 
 #. Tag: para
 #, no-c-format
 msgid "from=path/to/salixlive-version.iso"
-msgstr ""
+msgstr "from=path/to/salixlive-version.iso"
 
 #. Tag: para
 #, no-c-format
 msgid "from=path/to/exploded/salixlive-version.iso"
-msgstr ""
+msgstr "from=path/to/exploded/salixlive-version.iso"
 
 #. Tag: para
 #, no-c-format
 msgid "To set root's password to \"somepass\", or ask for a new password:"
-msgstr ""
+msgstr "Pour définir le mot de passe de root (administrateur) à « somepass », ou pour demander un nouveau mot de passe :"
 
 #. Tag: para
 #, no-c-format
 msgid "passwd=somepass"
-msgstr ""
+msgstr "passwd=somepass"
 
 #. Tag: para
 #, no-c-format
 msgid "passwd=ask"
-msgstr ""
+msgstr "passwd=ask"
 
 #. Tag: para
 #, no-c-format
 msgid "To load optional modules from /optional/ directory on the CD:"
-msgstr ""
+msgstr "Pour charger des modules optionnels à partir du répertoire /optional/ du CD :"
 
 #. Tag: para
 #, no-c-format
 msgid "load=module"
-msgstr ""
+msgstr "load=module"
 
 #. Tag: para
 #, no-c-format
-msgid "(You can use the full module name (module.lzm) or you can skip the extension.)"
-msgstr ""
+msgid ""
+"(You can use the full module name (module.lzm) or you can skip the "
+"extension.)"
+msgstr "(Vous pouvez utiliser le nom complet du module (module.lzm) ou vous pouvez omettre l'extension.)"
 
 #. Tag: para
 #, no-c-format
 msgid "To safeguard all changes made in a Salix Live session:"
-msgstr ""
+msgstr "Pour sauvegarder tous les changements effectués dans la session Salix Live :"
 
 #. Tag: para
 #, no-c-format
 msgid "changes=file"
-msgstr ""
+msgstr "changes=file"
 
 #. Tag: para
 #, no-c-format
 msgid "changes=/dev/device"
-msgstr ""
+msgstr "changes=/dev/device"
 
 #. Tag: para
 #, no-c-format
 msgid "changes=/dev/device/file"
-msgstr ""
+msgstr "changes=/dev/device/file"
 
 #. Tag: para
 #, no-c-format
 msgid "changes=/path/"
-msgstr ""
+msgstr "changes=/path/"
 
 #. Tag: para
 #, no-c-format
 msgid "changes=/path/file"
-msgstr ""
+msgstr "changes=/path/file"
 
 #. Tag: para
 #, no-c-format
 msgid "changes=/dev/device/path/"
-msgstr ""
+msgstr "changes=/dev/device/path/"
 
 #. Tag: para
 #, no-c-format
-msgid "(This cheatcode is already included in Salix Live boot menu and the Persistence Wizard can assist you in creating a persistent file that will be automatically managed by Salix Live.)"
-msgstr ""
+msgid ""
+"(This cheatcode is already included in Salix Live boot menu and the "
+"Persistence Wizard can assist you in creating a persistent file that will be"
+" automatically managed by Salix Live.)"
+msgstr "(Ce code est déjà inclus dans le menu de démarrage de Salix Live et le Persistence Wizard peut vous aider à créer un fichier persistent qui sera automatiquement géré par Salix Live.)"
 
 #. Tag: para
 #, no-c-format
 msgid "To enable debug mode:"
-msgstr ""
+msgstr "Pour activer le mode « debug » :"
 
 #. Tag: para
 #, no-c-format
 msgid "debug"
-msgstr ""
+msgstr "debug"
 
 #. Tag: para
 #, no-c-format
-msgid "(Starts bash several times during boot. Press Ctrl+D to resume booting)"
-msgstr ""
+msgid ""
+"(Starts bash several times during boot. Press Ctrl+D to resume booting)"
+msgstr "(Lance bash plusieurs fois durant le démarrage. Appuyez sur Ctrl+D pour poursuivre le démarrage)"
 
 #. Tag: title
 #, no-c-format
 msgid "Personalising a Module"
-msgstr ""
+msgstr "Personnaliser un module"
 
 #. Tag: title
 #, no-c-format
 msgid "Creating a module"
-msgstr ""
+msgstr "Créer un module"
 
 #. Tag: para
 #, no-c-format
 msgid "1. Create a working directory"
-msgstr "1. Create a working directory"
+msgstr "1. Créer un répertoire de travail :"
 
 #. Tag: para
 #, no-c-format
 msgid "mkdir -p /mnt/hdxx/directory1"
-msgstr ""
+msgstr "mkdir -p /mnt/hdxx/directory1"
 
 #. Tag: para
 #, no-c-format
 msgid "2. Install all software packages using this directory as root:"
-msgstr "2. Install all software packages using this directory as root:"
+msgstr "2. Installer tous les paquets logiciels en utilisant ce répertoire comme racine :"
 
 #. Tag: para
 #, no-c-format
 msgid "installpkg --root=/mnt/hdxx/directory1 packagea-x.x.x.txz"
-msgstr ""
+msgstr "installpkg --root=/mnt/hdxx/directory1 packagea-x.x.x.txz"
 
 #. Tag: para
 #, no-c-format
 msgid "installpkg –-root=/mnt/hdxx/directory1 packageb-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directory1 packageb-x.x.x.txz"
 
 #. Tag: para
 #, no-c-format
 msgid "installpkg –-root=/mnt/hdxx/directory1 packagec-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directory1 packagec-x.x.x.txz"
 
 #. Tag: para
 #, no-c-format
 msgid "etc."
-msgstr ""
+msgstr "etc."
 
 #. Tag: para
 #, no-c-format
 msgid "3. Remove all unneeded files:"
-msgstr "3. Remove all unneeded files:"
+msgstr "3. Supprimer tous les fichiers superflus :"
 
 #. Tag: para
 #, no-c-format
 msgid "rm -rf /mnt/hdxx/directory1/usr/doc/*"
-msgstr ""
+msgstr "rm -rf /mnt/hdxx/directory1/usr/doc/*"
 
 #. Tag: para
 #, no-c-format
 msgid "4. Make any modifications you want:"
-msgstr "4. Make any modifications you want:"
+msgstr "4. Effectuer toutes les modifications désirées :"
 
 #. Tag: para
 #, no-c-format
 msgid "echo \"whatever\" &gt; /mnt/hdxx/directory1/foo/bar"
-msgstr ""
+msgstr "echo \"whatever\" &gt; /mnt/hdxx/directory1/foo/bar"
 
 #. Tag: para
 #, no-c-format
 msgid "5. Build the module:"
-msgstr "5. Build the module:"
+msgstr "5. Construire le module :"
 
 #. Tag: para
 #, no-c-format
 msgid "cd /mnt/hdxx/"
-msgstr ""
+msgstr "cd /mnt/hdxx/"
 
 #. Tag: para
 #, no-c-format
 msgid "dir2lzm directory1 module1.lzm"
-msgstr ""
+msgstr "dir2lzm directory1 module1.lzm"
 
 #. Tag: title
 #, no-c-format
 msgid "Customizing a module"
-msgstr ""
+msgstr "Personnaliser un module"
 
 #. Tag: para
 #, no-c-format
-msgid "You can fully customize the content of a module by removing or adding applications and by deleting, editing or adding new files inside it."
-msgstr ""
+msgid ""
+"You can fully customize the content of a module by removing or adding "
+"applications and by deleting, editing or adding new files inside it."
+msgstr "Vous pouvez personnaliser complètement le contenu d'un module en supprimant ou en ajoutant des applications, et en supprimant, éditant ou ajoutant de nouveaux fichiers à l'intérieur de celui-ci."
 
 #. Tag: para
 #, no-c-format
 msgid "1. Create a working directory:"
-msgstr "1. Create a working directory:"
+msgstr "1. Créer un répertoire de travail :"
 
 #. Tag: para
 #, no-c-format
 msgid "mkdir -p /mnt/hdxx/directoryx"
-msgstr ""
+msgstr "mkdir -p /mnt/hdxx/directoryx"
 
 #. Tag: para
 #, no-c-format
-msgid "2. Open up the module you want to customize under the working directory:"
-msgstr "2. Open up the module you want to customize under the working directory:"
+msgid ""
+"2. Open up the module you want to customize under the working directory:"
+msgstr "2. Ouvrir le module que vous désirez personnaliser dans le répertoire de travail :"
 
 #. Tag: para
 #, no-c-format
 msgid "lzm2dir /mnt/hdc/salixlive/base/modulex.lzm /mnt/hdxx/directoryx"
-msgstr ""
+msgstr "lzm2dir /mnt/hdc/salixlive/base/modulex.lzm /mnt/hdxx/directoryx"
 
 #. Tag: para
 #, no-c-format
-msgid "(TIP: You can check that the module contains the unwanted packages by listing the /mnt/hdxx/directoryx/var/log/packages/ directory.)"
-msgstr ""
+msgid ""
+"(TIP: You can check that the module contains the unwanted packages by "
+"listing the /mnt/hdxx/directoryx/var/log/packages/ directory.)"
+msgstr "(ASTUCE : vous pouvez vérifier que le module contient les paquets non désirés en listant le contenu du répertoire /mnt/hdxx/directoryx/var/log/packages/.)"
 
 #. Tag: para
 #, no-c-format
 msgid "3. Remove the packages from the working directory:"
-msgstr "3. Remove the packages from the working directory:"
+msgstr "3. Supprimer les paquets du répertoire de travail :"
 
 #. Tag: para
 #, no-c-format
 msgid "ROOT=/mnt/hdxx/directoryx removepkg packagex"
-msgstr ""
+msgstr "ROOT=/mnt/hdxx/directoryx removepkg packagex"
 
 #. Tag: para
 #, no-c-format
 msgid "ROOT=/mnt/hdxx/directoryx removepkg packagey"
-msgstr ""
+msgstr "ROOT=/mnt/hdxx/directoryx removepkg packagey"
 
 #. Tag: para
 #, no-c-format
 msgid "ROOT=/mnt/hdxx/directoryx removepkg packagez"
-msgstr ""
+msgstr "ROOT=/mnt/hdxx/directoryx removepkg packagez"
 
 #. Tag: para
 #, no-c-format
 msgid "4. Install new packages to the working directory:"
-msgstr "4. Install new packages to the working directory:"
+msgstr "4. Installer des nouveaux paquets dans le répertoire de travail :"
 
 #. Tag: para
 #, no-c-format
 msgid "installpkg –-root=/mnt/hdxx/directoryx package1-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directoryx package1-x.x.x.txz"
 
 #. Tag: para
 #, no-c-format
 msgid "installpkg –-root=/mnt/hdxx/directoryx package2-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directoryx package2-x.x.x.txz"
 
 #. Tag: para
 #, no-c-format
 msgid "installpkg –-root=/mnt/hdxx/directoryx package3-x.x.x.txz"
-msgstr ""
+msgstr "installpkg –-root=/mnt/hdxx/directoryx package3-x.x.x.txz"
 
 #. Tag: para
 #, no-c-format
 msgid "5. Rebuild the module:"
-msgstr "5. Rebuild the module:"
+msgstr "5. Reconstruire le module :"
 
 #. Tag: para
 #, no-c-format
 msgid "dir2lzm directoryx modulex.lzm"
-msgstr ""
+msgstr "dir2lzm directoryx modulex.lzm"
 
 #. Tag: para
 #, no-c-format
-msgid "6. Replace the original module with your new module, rebuild the ISO image and reburn the CD."
-msgstr "6. Replace the original module with your new module, rebuild the ISO image and reburn the CD."
+msgid ""
+"6. Replace the original module with your new module, rebuild the ISO image "
+"and reburn the CD."
+msgstr "6. Remplacer le module original par votre nouveau module, reconstruire l'image ISO et graver le CD une nouvelle fois."
 
 #. Tag: title
 #, no-c-format
 msgid "Which module contains application XXX?"
-msgstr ""
+msgstr "Quel module contient l'application XXX ?"
 
 #. Tag: para
 #, no-c-format
-msgid "By browsing /mnt/live/memory/images/xxx.lzm/, you can view the contents of each module, therefore you'll find which module holds a given package in /mnt/live/memory/images/xxx.lzm/var/log/packages/"
-msgstr ""
+msgid ""
+"By browsing /mnt/live/memory/images/xxx.lzm/, you can view the contents of "
+"each module, therefore you'll find which module holds a given package in "
+"/mnt/live/memory/images/xxx.lzm/var/log/packages/"
+msgstr "En explorant /mnt/live/memory/images/xxx.lzm/, vous pouvez voir le contenu de chaque module, donc vous pourrez trouver quel module contient un paquet donné dans /mnt/live/memory/images/xxx.lzm/var/log/packages/"
 
 #. Tag: title
 #, no-c-format
 msgid "Adding files to Salix Live"
-msgstr ""
+msgstr "Ajouter des fichiers à Salix Live"
 
 #. Tag: para
 #, no-c-format
-msgid "Sometimes all you want to do is add a couple files to Salix Live, for example specific configuration files. In that case it is not necessary to create or modify a module."
-msgstr ""
+msgid ""
+"Sometimes all you want to do is add a couple files to Salix Live, for "
+"example specific configuration files. In that case it is not necessary to "
+"create or modify a module."
+msgstr "De temps en temps, vous souhaitez simplement ajouter quelques fichiers à Salix Live, par exemple, des fichiers de configuration particuliers. Dans ce cas, il n’est pas nécessaire de créer ou modifier un module."
 
 #. Tag: para
 #, no-c-format
-msgid "Salix Live CD holds a /salixlive/rootcopy/ directory. The content of this directory is copied to the root filesystem each time you boot, preserving all directories."
-msgstr ""
+msgid ""
+"Salix Live CD holds a /salixlive/rootcopy/ directory. The content of this "
+"directory is copied to the root filesystem each time you boot, preserving "
+"all directories."
+msgstr "Le CD Salix Live contient un répertoire /salixlive/rootcopy/. Le contenu de ce répertoire est copié dans le système de fichiers à chaque démarrage, préservant tous les répertoires."
 
 #. Tag: para
 #, no-c-format
-msgid "So, for example, if you wish to just use your own xorg.conf file, create etc/X11/ directories inside of /salixlive/rootcopy and store your xorg.conf in it. Note that you need to recreate the full directory hierarchy for the patches to work as desired."
-msgstr ""
+msgid ""
+"So, for example, if you wish to just use your own xorg.conf file, create "
+"etc/X11/ directories inside of /salixlive/rootcopy and store your xorg.conf "
+"in it. Note that you need to recreate the full directory hierarchy for the "
+"patches to work as desired."
+msgstr "Donc, par exemple, si vous souhaitez simplement utiliser votre propre fichier xorg.conf, créez les répertoires etc/X11/ à l'intérieur de /salixlive/rootcopy et placez-y votre xorg.conf. "
 
 #. Tag: title
 #, no-c-format
 msgid "Modify Salix Live ISO"
-msgstr ""
+msgstr "Modifier l'ISO Salix Live"
 
 #. Tag: para
 #, no-c-format
-msgid "To remaster Salix Live, you could simply use the program Isomaster. You must open an ISO file of Salix Live (for example the one you downloaded) and then add to and/or remove from the modules situated in /salixlive/base, /salixlive/modules or /salixlive/optional. Once you are done, save the modified ISO to your hard drive and use Brasero to burn it on a CD-ROM."
-msgstr ""
+msgid ""
+"To remaster Salix Live, you could simply use the program Isomaster. You must"
+" open an ISO file of Salix Live (for example the one you downloaded) and "
+"then add to and/or remove from the modules situated in /salixlive/base, "
+"/salixlive/modules or /salixlive/optional. Once you are done, save the "
+"modified ISO to your hard drive and use Brasero to burn it on a CD-ROM."
+msgstr "Pour remastériser Salix Live , vous pouvez simplement utiliser le programme Isomaster. Vous devez ouvrir un fichier ISO de Salix Live (par exemple, celui que vous avez téléchargé) puis ajoutez et/ou supprimez à partir des modules situés dans /salixlive/base, /salixlive/modules ou /salixlive/optional. Une fois fait, sauvegardez l'ISO modifié sur votre disque dur et utilisez Brasero afin de le graver sur un CD-ROM."
