@@ -2,36 +2,43 @@
 file_filter = <lang>/Chapter6.po
 source_file = pot/Chapter6.pot
 source_lang = en
+type = PO
 
 [salix_documentation.chapter5]
 file_filter = <lang>/Chapter5.po
 source_file = pot/Chapter5.pot
 source_lang = en
+type = PO
 
 [salix_documentation.chapter4]
 file_filter = <lang>/Chapter4.po
 source_file = pot/Chapter4.pot
 source_lang = en
+type = PO
 
 [salix_documentation.chapter3]
 file_filter = <lang>/Chapter3.po
 source_file = pot/Chapter3.pot
 source_lang = en
+type = PO
 
 [salix_documentation.chapter2]
 file_filter = <lang>/Chapter2.po
 source_file = pot/Chapter2.pot
 source_lang = en
+type = PO
 
 [salix_documentation.chapter1]
 file_filter = <lang>/Chapter1.po
 source_file = pot/Chapter1.pot
 source_lang = en
+type = PO
 
 [salix_documentation.appendix]
 file_filter = <lang>/Appendix.po
 source_file = pot/Appendix.pot
 source_lang = en
+type = PO
 
 [salix_documentation.preface]
 file_filter = <lang>/Preface.po
@@ -42,23 +49,27 @@ source_lang = en
 file_filter = <lang>/Author_Group.po
 source_file = pot/Author_Group.pot
 source_lang = en
+type = PO
 
 [salix_documentation.book_info]
 file_filter = <lang>/Book_Info.po
 source_file = pot/Book_Info.pot
 source_lang = en
+type = PO
 
 [salix_documentation.startup_guide]
 file_filter = <lang>/Startup_Guide.po
 source_file = pot/Startup_Guide.pot
 source_lang = en
+type = PO
 
 [salix_documentation.revision_history]
 file_filter = <lang>/Revision_History.po
 source_file = pot/Revision_History.pot
 source_lang = en
+type = PO
 
 [main]
-host = https://www.transifex.net
-lang_map = aln:aln-AL, ar:ar-SA, as:as-IN, bal:bal-PK, bg:bg-BG, bn:bn-BD, bn_IN:bn-IN, bs:bs-BA, ca:ca-ES, cs:cs-CZ, da:da-DK, de_CH:de-CH, de:de-DE, el:el-GR, en_GB:en-GB, es:es-ES, et:et-EE, fa:fa-IR, fi:fi-FI, fr:fr-FR, gu:gu-IN, he:he-IL, hi:hi-IN, hr:hr-HR, hu:hu-HU, id:id-ID, is:is-IS, it:it-IT, ja:ja-JP, kn:kn-IN, ko:ko-KR, lt:lt-LT, lv:lv-LV, mai:mai-IN, ml:ml-IN, mr:mr-IN, ms:ms-MY, nb:nb-NO, nds:nds-DE, nl:nl-NL, nn:nn-NO, or:or-IN, pa:pa-IN, pl:pl-PL, pt_BR:pt-BR, pt:pt-PT, ro:ro-RO, ru:ru-RU, si:si-LK, sk:sk-SK, sl:sl-SI, sq:sq-AL, sr:sr-RS, sr@latin:sr-Latn-RS, sv:sv-SE, ta:ta-IN, te:te-IN, tr:tr-TR, uk:uk-UA, ur:ur-PK, vi:vi-VN, zh_CN:zh-CN, zh_HK:zh-HK, zh_TW:zh-TW
+host = https://www.transifex.com
+lang_map = aln:aln-AL, ar:ar-SA, as:as-IN, bal:bal-PK, bg:bg-BG, bn:bn-BD, bn_IN:bn-IN, bs:bs-BA, ca:ca-ES, cs:cs-CZ, da:da-DK, de_CH:de-CH, de:de-DE, el:el-GR, en_GB:en-GB, es:es-ES, es_AR:es-AR, et:et-EE, fa:fa-IR, fi:fi-FI, fr:fr-FR, gu:gu-IN, he:he-IL, hi:hi-IN, hr:hr-HR, hu:hu-HU, id:id-ID, is:is-IS, it:it-IT, ja:ja-JP, kn:kn-IN, ko:ko-KR, lt:lt-LT, lv:lv-LV, mai:mai-IN, ml:ml-IN, mr:mr-IN, ms:ms-MY, nb:nb-NO, nds:nds-DE, nl:nl-NL, nn:nn-NO, or:or-IN, pa:pa-IN, pl:pl-PL, pt_BR:pt-BR, pt_PT:pt-PT, ro:ro-RO, ru:ru-RU, si:si-LK, sk:sk-SK, sl:sl-SI, sq:sq-AL, sr:sr-RS, sr@latin:sr-Latn-RS, sv:sv-SE, ta:ta-IN, te:te-IN, tr:tr-TR, uk:uk-UA, ur:ur-PK, vi:vi-VN, zh_CN:zh-CN, zh_HK:zh-HK, zh_TW:zh-TW
 
